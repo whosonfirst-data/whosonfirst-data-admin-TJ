@@ -1,0 +1,72 @@
+{
+  "id": 1293107579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.66529,37.95352,69.66529,37.95352",
+    "geom:latitude":37.95352,
+    "geom:longitude":69.66529,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cholsartez",
+    "gn:country_code":"TJ",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222012,
+    "gn:latitude":37.95352,
+    "gn:longitude":69.66529,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Cholsartez",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chol",
+        "Cholsartez",
+        "\u0427\u043e\u043b\u0441\u0430\u0440\u0442\u0435\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091918261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222012
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"f5f2c0c51d2e67df6b89ab072213ee51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918261,
+            "locality_id":1293107579,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1293107579,
+    "wof:lastmodified":1537706353,
+    "wof:name":"Cholsartez",
+    "wof:parent_id":1091918261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.66529,
+    37.95352000000001,
+    69.66529,
+    37.95352000000001
+],
+  "geometry": {"coordinates":[69.66529,37.95352000000001],"type":"Point"}
+}

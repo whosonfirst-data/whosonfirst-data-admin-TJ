@@ -1,0 +1,71 @@
+{
+  "id": 1310417651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.5186,40.21438,69.5186,40.21438",
+    "geom:latitude":40.21438,
+    "geom:longitude":69.5186,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dehmoi",
+    "gn:country_code":"TJ",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275266,
+    "gn:latitude":40.21438,
+    "gn:longitude":69.5186,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Dehmo\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dehmo\u00ed",
+        "\u0414\u0435\u04b3\u043c\u043e\u04e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091917591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275266
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"caf29ab93533c651fbdd5880063a71d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917591,
+            "locality_id":1310417651,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1310417651,
+    "wof:lastmodified":1537706409,
+    "wof:name":"Dehmoi",
+    "wof:parent_id":1091917591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.5186,
+    40.21438,
+    69.5186,
+    40.21438
+],
+  "geometry": {"coordinates":[69.51860000000001,40.21438],"type":"Point"}
+}

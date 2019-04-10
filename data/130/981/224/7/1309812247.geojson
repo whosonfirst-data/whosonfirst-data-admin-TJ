@@ -1,0 +1,74 @@
+{
+  "id": 1309812247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.12492,37.5572,68.12492,37.5572",
+    "geom:latitude":37.5572,
+    "geom:longitude":68.12492,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Soltik",
+    "gn:country_code":"TJ",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220667,
+    "gn:latitude":37.5572,
+    "gn:longitude":68.12492,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Soltik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bash-Charbak",
+        "Bash-Cherbak",
+        "Saltik",
+        "Soltik",
+        "\u0421\u043e\u043b\u0442\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220667
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"388a46d6876360299e7ecec8874f8658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916975,
+            "locality_id":1309812247,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1309812247,
+    "wof:lastmodified":1537706308,
+    "wof:name":"Soltik",
+    "wof:parent_id":1091916975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.12491999999999,
+    37.5572,
+    68.12491999999999,
+    37.5572
+],
+  "geometry": {"coordinates":[68.12491999999999,37.5572],"type":"Point"}
+}

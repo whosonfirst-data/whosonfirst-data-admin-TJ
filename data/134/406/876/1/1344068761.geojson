@@ -1,0 +1,78 @@
+{
+  "id": 1344068761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.56958,39.97538,70.56958,39.97538",
+    "geom:latitude":39.97538,
+    "geom:longitude":70.56958,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chorkuh",
+    "gn:country_code":"TJ",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222687,
+    "gn:latitude":39.97538,
+    "gn:longitude":70.56958,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Chork\u016dh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Chork\u016dh"
+    ],
+    "name:tgk_x_variant":[
+        "\u0427\u043e\u0440\u043a\u04ef\u04b3"
+    ],
+    "name:und_x_variant":[
+        "Charku",
+        "Chorku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222687,
+        "wk:page":"Chorku%2C_Tajikistan"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"a61810de1b58f8416e9756620749910f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916841,
+            "locality_id":1344068761,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1344068761,
+    "wof:lastmodified":1537706364,
+    "wof:name":"Chorkuh",
+    "wof:parent_id":1091916841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.56958,
+    39.97538,
+    70.56958,
+    39.97538
+],
+  "geometry": {"coordinates":[70.56958,39.97538],"type":"Point"}
+}

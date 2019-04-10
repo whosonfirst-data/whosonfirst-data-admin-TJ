@@ -1,0 +1,61 @@
+{
+  "id": 1209118821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.83367,38.01418,68.83367,38.01418",
+    "geom:latitude":38.01418,
+    "geom:longitude":68.83367,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lenin Yuly",
+    "gn:country_code":"TJ",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346161,
+    "gn:latitude":38.01418,
+    "gn:longitude":68.83367,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Lenin Yuly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346161
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"12201f3268b94418b28c81cf5bbd78cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209118821
+        }
+    ],
+    "wof:id":1209118821,
+    "wof:lastmodified":1536297168,
+    "wof:name":"Lenin Yuly",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.83367,
+    38.01418,
+    68.83367,
+    38.01418
+],
+  "geometry": {"coordinates":[68.83367,38.01418],"type":"Point"}
+}

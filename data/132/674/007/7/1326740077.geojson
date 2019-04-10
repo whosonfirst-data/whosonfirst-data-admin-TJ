@@ -1,0 +1,71 @@
+{
+  "id": 1326740077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.35134,37.72559,74.35134,37.72559",
+    "geom:latitude":37.72559,
+    "geom:longitude":74.35134,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cheshtebe",
+    "gn:country_code":"TJ",
+    "gn:dem":3988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1464251,
+    "gn:latitude":37.72559,
+    "gn:longitude":74.35134,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Cheshtebe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0427\u0435\u0448\u0442\u0435\u0431\u0435",
+        "Cheshteppa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1464251
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"d7ce2e11d31234baeee2706f4a0959e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917339,
+            "locality_id":1326740077,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1326740077,
+    "wof:lastmodified":1537706382,
+    "wof:name":"Cheshtebe",
+    "wof:parent_id":1091917339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.35134000000002,
+    37.72559,
+    74.35134000000002,
+    37.72559
+],
+  "geometry": {"coordinates":[74.35134000000002,37.72559],"type":"Point"}
+}

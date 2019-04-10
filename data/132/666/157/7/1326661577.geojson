@@ -1,0 +1,71 @@
+{
+  "id": 1326661577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.36667,38.68333,71.36667,38.68333",
+    "geom:latitude":38.68333,
+    "geom:longitude":71.36667,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Borshi",
+    "gn:country_code":"TJ",
+    "gn:dem":2796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222109,
+    "gn:latitude":38.68333,
+    "gn:longitude":71.36667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Borshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borshit",
+        "Borshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091917993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222109
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"3924991d69b17ea3d1b087d6f6c43ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917993,
+            "locality_id":1326661577,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1326661577,
+    "wof:lastmodified":1537706356,
+    "wof:name":"Borshi",
+    "wof:parent_id":1091917993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.36667,
+    38.68333,
+    71.36667,
+    38.68333
+],
+  "geometry": {"coordinates":[71.36667,38.68333],"type":"Point"}
+}

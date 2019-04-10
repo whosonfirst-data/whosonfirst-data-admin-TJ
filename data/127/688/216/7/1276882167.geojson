@@ -1,0 +1,67 @@
+{
+  "id": 1276882167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.62676,37.80153,69.62676,37.80153",
+    "geom:latitude":37.80153,
+    "geom:longitude":69.62676,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mitin-Tugay",
+    "gn:country_code":"TJ",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475978,
+    "gn:latitude":37.80153,
+    "gn:longitude":69.62676,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mitin-Tugay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091918261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475978
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"911e44cd181b66ba1b1284ddceed7433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918261,
+            "locality_id":1276882167,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1276882167,
+    "wof:lastmodified":1537036393,
+    "wof:name":"Mitin-Tugay",
+    "wof:parent_id":1091918261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.62676,
+    37.80153,
+    69.62676,
+    37.80153
+],
+  "geometry": {"coordinates":[69.62676,37.80153],"type":"Point"}
+}

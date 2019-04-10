@@ -1,0 +1,69 @@
+{
+  "id": 1209618395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.52103,37.65955,69.52103,37.65955",
+    "geom:latitude":37.65955,
+    "geom:longitude":69.52103,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Anjikron",
+    "gn:country_code":"TJ",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475954,
+    "gn:latitude":37.65955,
+    "gn:longitude":69.52103,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Anjikron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Anjirkhon"
+    ],
+    "name:und_x_variant":[
+        "Andzhirkon",
+        "Anjikron",
+        "\u0410\u043f\u04b7\u0438\u043a\u0440\u043e\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475954
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"9461704e1e6014c73a229967f5a81d46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209618395
+        }
+    ],
+    "wof:id":1209618395,
+    "wof:lastmodified":1537706396,
+    "wof:name":"Anjikron",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.52103000000001,
+    37.65955,
+    69.52103000000001,
+    37.65955
+],
+  "geometry": {"coordinates":[69.52103000000001,37.65955],"type":"Point"}
+}

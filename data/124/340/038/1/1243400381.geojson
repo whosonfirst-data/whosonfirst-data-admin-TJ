@@ -1,0 +1,67 @@
+{
+  "id": 1243400381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.6278,38.64832,68.6278,38.64832",
+    "geom:latitude":38.64832,
+    "geom:longitude":68.6278,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Dzhirginak",
+    "gn:country_code":"TJ",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221800,
+    "gn:latitude":38.64832,
+    "gn:longitude":68.6278,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dzhirginak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221800
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"fe76cb1ba17201c6499a68f40db71f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918215,
+            "locality_id":1243400381,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1243400381,
+    "wof:lastmodified":1536870861,
+    "wof:name":"Dzhirginak",
+    "wof:parent_id":1091918215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.6278,
+    38.64832,
+    68.6278,
+    38.64832
+],
+  "geometry": {"coordinates":[68.62779999999999,38.64832],"type":"Point"}
+}

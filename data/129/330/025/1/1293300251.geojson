@@ -1,0 +1,72 @@
+{
+  "id": 1293300251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.191,39.38648,68.191,39.38648",
+    "geom:latitude":39.38648,
+    "geom:longitude":68.191,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Revad",
+    "gn:country_code":"TJ",
+    "gn:dem":1627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220707,
+    "gn:latitude":39.38648,
+    "gn:longitude":68.191,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Revad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rivat",
+        "Revad",
+        "\u0420\u0435\u0432\u0430\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220707
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"0fb355f95b8b765689a46fa903f193c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916317,
+            "locality_id":1293300251,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1293300251,
+    "wof:lastmodified":1537706310,
+    "wof:name":"Revad",
+    "wof:parent_id":1091916317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.191,
+    39.38648,
+    68.191,
+    39.38648
+],
+  "geometry": {"coordinates":[68.191,39.38648],"type":"Point"}
+}

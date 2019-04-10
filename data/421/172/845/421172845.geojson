@@ -1,0 +1,106 @@
+{
+  "id": 421172845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.61331,36.72484,71.61331,36.72484",
+    "geom:latitude":36.72484,
+    "geom:longitude":71.61331,
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:est_x_preferred":[
+        "I\u0161ko\u0161im"
+    ],
+    "name:fra_x_preferred":[
+        "Ishkashim"
+    ],
+    "name:hun_x_preferred":[
+        "Iskosim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0448\u043a\u0430\u0448\u0438\u043c"
+    ],
+    "name:tgk_x_preferred":[
+        "\u04b6\u0430\u043c\u043e\u0430\u0442\u0438 \u0418\u0448\u043a\u043e\u0448\u0438\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0448\u043a\u0430\u0448\u0438\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Ishk\u0101sh\u012bm Post"
+    ],
+    "name:uzb_x_preferred":[
+        "Ishkashim"
+    ],
+    "qs:gn_country":"TJ",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":1221614,
+    "qs:gn_pop":26000,
+    "qs:name":"Ishkashim",
+    "qs:name_adm0":"Tajikistan",
+    "qs:name_adm1":"Kuhistoni Badakhshon",
+    "qs:photos":64,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":64,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":479406,
+    "qs:woe_adm0":23424961,
+    "qs:woe_id":2212160,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":171,
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091916859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221614,
+        "gp:id":2212160,
+        "qs:id":479406,
+        "wd:id":"Q913494",
+        "wk:page":"Ishkoshim, Tajikistan"
+    },
+    "wof:country":"TJ",
+    "wof:created":1459008956,
+    "wof:geomhash":"f8a44c730ae8b1cae594a0d4386c8832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916859,
+            "locality_id":421172845,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":421172845,
+    "wof:lastmodified":1527716300,
+    "wof:name":"Ishkashim",
+    "wof:parent_id":1091916859,
+    "wof:placetype":"locality",
+    "wof:population":26000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.61331,
+    36.72484,
+    71.61331,
+    36.72484
+],
+  "geometry": {"coordinates":[71.61331,36.72484],"type":"Point"}
+}

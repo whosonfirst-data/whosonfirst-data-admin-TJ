@@ -1,0 +1,67 @@
+{
+  "id": 1243186319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.19569,37.69568,72.19569,37.69568",
+    "geom:latitude":37.69568,
+    "geom:longitude":72.19569,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ak-Mamad",
+    "gn:country_code":"TJ",
+    "gn:dem":3008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222335,
+    "gn:latitude":37.69568,
+    "gn:longitude":72.19569,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ak-Mamad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222335
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"abbf512b03a620bc3e785be310260778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917883,
+            "locality_id":1243186319,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1243186319,
+    "wof:lastmodified":1536683439,
+    "wof:name":"Ak-Mamad",
+    "wof:parent_id":1091917883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.19569,
+    37.69568,
+    72.19569,
+    37.69568
+],
+  "geometry": {"coordinates":[72.19569,37.69568],"type":"Point"}
+}

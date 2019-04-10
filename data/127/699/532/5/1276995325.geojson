@@ -1,0 +1,72 @@
+{
+  "id": 1276995325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.62376,37.03445,72.62376,37.03445",
+    "geom:latitude":37.03445,
+    "geom:longitude":72.62376,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zong",
+    "gn:country_code":"TJ",
+    "gn:dem":2835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220023,
+    "gn:latitude":37.03445,
+    "gn:longitude":72.62376,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Zong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zung",
+        "Zong",
+        "\u0417\u043e\u043d\u0433"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091916859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220023
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"5562230ec588ec8051d65190d539dbab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916859,
+            "locality_id":1276995325,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1276995325,
+    "wof:lastmodified":1537706288,
+    "wof:name":"Zong",
+    "wof:parent_id":1091916859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.62376,
+    37.03445,
+    72.62376,
+    37.03445
+],
+  "geometry": {"coordinates":[72.62376,37.03445],"type":"Point"}
+}

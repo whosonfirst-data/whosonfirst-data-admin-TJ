@@ -1,0 +1,67 @@
+{
+  "id": 1242686445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.81667,38.01667,68.81667,38.01667",
+    "geom:latitude":38.01667,
+    "geom:longitude":68.81667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Molotovabad",
+    "gn:country_code":"TJ",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220992,
+    "gn:latitude":38.01667,
+    "gn:longitude":68.81667,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Molotovabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091918301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220992
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"b8680b7fab801c60d68e9da15580a5cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918301,
+            "locality_id":1242686445,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1242686445,
+    "wof:lastmodified":1536907193,
+    "wof:name":"Molotovabad",
+    "wof:parent_id":1091918301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.81667,
+    38.01667,
+    68.81667,
+    38.01667
+],
+  "geometry": {"coordinates":[68.81667,38.01667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309724743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.84366,38.33091,68.84366,38.33091",
+    "geom:latitude":38.33091,
+    "geom:longitude":68.84366,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Almyshabad",
+    "gn:country_code":"TJ",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222290,
+    "gn:latitude":38.33091,
+    "gn:longitude":68.84366,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Almyshabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Almysh",
+        "Almyshabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222290
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"6d490eaeab2eb34f68e9dd002c7cd480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918381,
+            "locality_id":1309724743,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1309724743,
+    "wof:lastmodified":1537706362,
+    "wof:name":"Almyshabad",
+    "wof:parent_id":1091918381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.84366,
+    38.33091,
+    68.84366,
+    38.33091
+],
+  "geometry": {"coordinates":[68.84366,38.33091],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292914915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.97965,39.71093,68.97965,39.71093",
+    "geom:latitude":39.71093,
+    "geom:longitude":68.97965,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sarymsakly",
+    "gn:country_code":"TJ",
+    "gn:dem":1619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220622,
+    "gn:latitude":39.71093,
+    "gn:longitude":68.97965,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sarymsakly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220622
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"24dadf642313232460f71baab382b80a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916615,
+            "locality_id":1292914915,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1292914915,
+    "wof:lastmodified":1536616066,
+    "wof:name":"Sarymsakly",
+    "wof:parent_id":1091916615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.97965,
+    39.71093,
+    68.97965,
+    39.71093
+],
+  "geometry": {"coordinates":[68.97965000000001,39.71093],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293002589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.60629,40.15011,70.60629,40.15011",
+    "geom:latitude":40.15011,
+    "geom:longitude":70.60629,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Birinchi May",
+    "gn:country_code":"TJ",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10646837,
+    "gn:latitude":40.15011,
+    "gn:longitude":70.60629,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Birinchi May",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Birinchi May"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10646837
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"660bb1e41f8909321712644913413ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916841,
+            "locality_id":1293002589,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1293002589,
+    "wof:lastmodified":1537706416,
+    "wof:name":"Birinchi May",
+    "wof:parent_id":1091916841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.60629,
+    40.15011,
+    70.60629,
+    40.15011
+],
+  "geometry": {"coordinates":[70.60629,40.15011],"type":"Point"}
+}

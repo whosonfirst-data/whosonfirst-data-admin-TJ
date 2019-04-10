@@ -1,0 +1,67 @@
+{
+  "id": 1209619177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.93596,38.41092,71.93596,38.41092",
+    "geom:latitude":38.41092,
+    "geom:longitude":71.93596,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Barnavad",
+    "gn:country_code":"TJ",
+    "gn:dem":2617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222182,
+    "gn:latitude":38.41092,
+    "gn:longitude":71.93596,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Barnavad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barnavadzh",
+        "Barnovadz",
+        "Barnavad",
+        "\u0411\u0430\u0440\u043d\u0430\u0432\u0430\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222182
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"7d7f249bc50c9d4dedafb913a11b61a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209619177
+        }
+    ],
+    "wof:id":1209619177,
+    "wof:lastmodified":1537706359,
+    "wof:name":"Barnavad",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.93596,
+    38.41092,
+    71.93596,
+    38.41092
+],
+  "geometry": {"coordinates":[71.93595999999999,38.41092],"type":"Point"}
+}

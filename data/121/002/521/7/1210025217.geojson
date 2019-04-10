@@ -1,0 +1,74 @@
+{
+  "id": 1210025217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.55975,37.41763,68.55975,37.41763",
+    "geom:latitude":37.41763,
+    "geom:longitude":68.55975,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yakkadin",
+    "gn:country_code":"TJ",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221626,
+    "gn:latitude":37.41763,
+    "gn:longitude":68.55975,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Yakkadin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Yakkadin"
+    ],
+    "name:und_x_variant":[
+        "Imeni Voroshilova",
+        "\u042f\u043a\u043a\u0430\u0434\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221626
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"419ed27aed437237887006e78151f79d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917079,
+            "locality_id":1210025217,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1210025217,
+    "wof:lastmodified":1537706339,
+    "wof:name":"Yakkadin",
+    "wof:parent_id":1091917079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.55975,
+    37.41763,
+    68.55975,
+    37.41763
+],
+  "geometry": {"coordinates":[68.55974999999999,37.41763],"type":"Point"}
+}

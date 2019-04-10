@@ -1,0 +1,74 @@
+{
+  "id": 1310503421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.27826,40.64609,70.27826,40.64609",
+    "geom:latitude":40.64609,
+    "geom:longitude":70.27826,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dahana",
+    "gn:country_code":"TJ",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514907,
+    "gn:latitude":40.64609,
+    "gn:longitude":70.27826,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Dahana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daane",
+        "Dakhana",
+        "Dahana",
+        "\u0414\u0430\u04b3\u0430\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514907,
+        "wk:page":"Dakhana"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"4f38379b51bc343479595ef13b31b657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916363,
+            "locality_id":1310503421,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1310503421,
+    "wof:lastmodified":1537706403,
+    "wof:name":"Dahana",
+    "wof:parent_id":1091916363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.27826,
+    40.64609,
+    70.27826,
+    40.64609
+],
+  "geometry": {"coordinates":[70.27826,40.64609],"type":"Point"}
+}

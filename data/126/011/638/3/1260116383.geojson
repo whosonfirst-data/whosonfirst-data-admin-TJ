@@ -1,0 +1,71 @@
+{
+  "id": 1260116383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.44789,38.40589,68.44789,38.40589",
+    "geom:latitude":38.40589,
+    "geom:longitude":68.44789,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Churk-Kishlak",
+    "gn:country_code":"TJ",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221989,
+    "gn:latitude":38.40589,
+    "gn:longitude":68.44789,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Churk-Kishlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chur-Kishlak",
+        "Churk-Kishlak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091916749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221989
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"32fd603db0485497790f366e20f88e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916749,
+            "locality_id":1260116383,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1260116383,
+    "wof:lastmodified":1537706352,
+    "wof:name":"Churk-Kishlak",
+    "wof:parent_id":1091916749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.44789,
+    38.40589,
+    68.44789,
+    38.40589
+],
+  "geometry": {"coordinates":[68.44789,38.40589],"type":"Point"}
+}

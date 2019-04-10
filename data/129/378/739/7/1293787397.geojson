@@ -1,0 +1,67 @@
+{
+  "id": 1293787397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.57711,37.45773,68.57711,37.45773",
+    "geom:latitude":37.45773,
+    "geom:longitude":68.57711,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Besharyk",
+    "gn:country_code":"TJ",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1479670,
+    "gn:latitude":37.45773,
+    "gn:longitude":68.57711,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Besharyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1479670
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"568413201cd5840c4bc257f9171450ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917079,
+            "locality_id":1293787397,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1293787397,
+    "wof:lastmodified":1536850634,
+    "wof:name":"Besharyk",
+    "wof:parent_id":1091917079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.57711,
+    37.45773,
+    68.57711,
+    37.45773
+],
+  "geometry": {"coordinates":[68.57711,37.45773],"type":"Point"}
+}

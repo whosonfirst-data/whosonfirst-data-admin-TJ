@@ -1,0 +1,80 @@
+{
+  "id": 1326539645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.44178,38.18711,71.44178,38.18711",
+    "geom:latitude":38.18711,
+    "geom:longitude":71.44178,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Motravn",
+    "gn:country_code":"TJ",
+    "gn:dem":1677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221027,
+    "gn:latitude":38.18711,
+    "gn:longitude":71.44178,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Motravn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Motrav"
+    ],
+    "name:tgk_x_variant":[
+        "\u041c\u043e\u0442\u0440\u0430\u0432"
+    ],
+    "name:und_x_variant":[
+        "Matraun",
+        "Matravn",
+        "Motravn",
+        "Motravi",
+        "\u041c\u043e\u0442\u0440\u0430\u0432\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091918175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221027
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"ac6fb8fef59b384ba3ff51c3db890181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918175,
+            "locality_id":1326539645,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1326539645,
+    "wof:lastmodified":1537706322,
+    "wof:name":"Motravn",
+    "wof:parent_id":1091918175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.44178000000002,
+    38.18711,
+    71.44178000000002,
+    38.18711
+],
+  "geometry": {"coordinates":[71.44178000000002,38.18711],"type":"Point"}
+}

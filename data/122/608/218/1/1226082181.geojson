@@ -1,0 +1,71 @@
+{
+  "id": 1226082181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.43973,38.74958,69.43973,38.74958",
+    "geom:latitude":38.74958,
+    "geom:longitude":69.43973,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Tavish-Bolo",
+    "gn:country_code":"TJ",
+    "gn:dem":1712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346375,
+    "gn:latitude":38.74958,
+    "gn:longitude":69.43973,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tavish-Bolo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tavishi-Bolo",
+        "Tavish-Bolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091917077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346375
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"a3fa48f4826b1456c195a9e180306718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917077,
+            "locality_id":1226082181,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1226082181,
+    "wof:lastmodified":1537706379,
+    "wof:name":"Tavish-Bolo",
+    "wof:parent_id":1091917077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.43973000000001,
+    38.74958,
+    69.43973000000001,
+    38.74958
+],
+  "geometry": {"coordinates":[69.43973000000001,38.74958],"type":"Point"}
+}

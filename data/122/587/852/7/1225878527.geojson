@@ -1,0 +1,71 @@
+{
+  "id": 1225878527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.7586,38.66166,68.7586,38.66166",
+    "geom:latitude":38.66166,
+    "geom:longitude":68.7586,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Chorbog",
+    "gn:country_code":"TJ",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222008,
+    "gn:latitude":38.66166,
+    "gn:longitude":68.7586,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Chorbog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chorbag",
+        "Chorbog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222008
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"0b9b59eaffaebe019638fcfacc1452da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918215,
+            "locality_id":1225878527,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1225878527,
+    "wof:lastmodified":1537706353,
+    "wof:name":"Chorbog",
+    "wof:parent_id":1091918215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.7586,
+    38.66166,
+    68.7586,
+    38.66166
+],
+  "geometry": {"coordinates":[68.7586,38.66166],"type":"Point"}
+}

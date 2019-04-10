@@ -1,0 +1,77 @@
+{
+  "id": 1326547713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.83244,38.0024,71.83244,38.0024",
+    "geom:latitude":38.0024,
+    "geom:longitude":71.83244,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Khijez",
+    "gn:country_code":"TJ",
+    "gn:dem":2120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221368,
+    "gn:latitude":38.0024,
+    "gn:longitude":71.83244,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Khijez",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Khijez"
+    ],
+    "name:tgk_x_variant":[
+        "\u0425\u0438\u04b7\u0435\u044d"
+    ],
+    "name:und_x_variant":[
+        "Khidzhis",
+        "Khijis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221368
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"a3521d9de2d16209eba1bdeb527c7245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917707,
+            "locality_id":1326547713,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1326547713,
+    "wof:lastmodified":1537706332,
+    "wof:name":"Khijez",
+    "wof:parent_id":1091917707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.83244,
+    38.0024,
+    71.83244,
+    38.0024
+],
+  "geometry": {"coordinates":[71.83244000000001,38.0024],"type":"Point"}
+}

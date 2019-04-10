@@ -1,0 +1,71 @@
+{
+  "id": 1310418839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.54006,37.47063,68.54006,37.47063",
+    "geom:latitude":37.47063,
+    "geom:longitude":68.54006,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kalinin",
+    "gn:country_code":"TJ",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475297,
+    "gn:latitude":37.47063,
+    "gn:longitude":68.54006,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Kalinin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uchastok Imeni Kalinina",
+        "Kalinin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475297
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"1535530ec9e44c0baca369e735449e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917079,
+            "locality_id":1310418839,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1310418839,
+    "wof:lastmodified":1537706386,
+    "wof:name":"Kalinin",
+    "wof:parent_id":1091917079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.54006,
+    37.47063,
+    68.54006,
+    37.47063
+],
+  "geometry": {"coordinates":[68.54006,37.47063],"type":"Point"}
+}

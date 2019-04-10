@@ -1,0 +1,71 @@
+{
+  "id": 1259687101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.55,37.56667,68.55,37.56667",
+    "geom:latitude":37.56667,
+    "geom:longitude":68.55,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bash-Gunash",
+    "gn:country_code":"TJ",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222176,
+    "gn:latitude":37.56667,
+    "gn:longitude":68.55,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bash-Gunash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bash-Rukash",
+        "Bash-Gunash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222176
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"07d4ec8ff38236ef2ed1c2555c412612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917079,
+            "locality_id":1259687101,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1259687101,
+    "wof:lastmodified":1537706359,
+    "wof:name":"Bash-Gunash",
+    "wof:parent_id":1091917079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.55,
+    37.56667,
+    68.55,
+    37.56667
+],
+  "geometry": {"coordinates":[68.55,37.56667],"type":"Point"}
+}

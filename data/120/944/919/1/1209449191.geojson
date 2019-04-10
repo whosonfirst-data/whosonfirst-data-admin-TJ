@@ -1,0 +1,61 @@
+{
+  "id": 1209449191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.75,38.66667,68.75,38.66667",
+    "geom:latitude":38.66667,
+    "geom:longitude":68.75,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Sary-Assiabak",
+    "gn:country_code":"TJ",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220634,
+    "gn:latitude":38.66667,
+    "gn:longitude":68.75,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Sary-Assiabak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220634
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"c120650ac2c5a246ee999daae36ceb13",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209449191
+        }
+    ],
+    "wof:id":1209449191,
+    "wof:lastmodified":1536286724,
+    "wof:name":"Sary-Assiabak",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.75,
+    38.66667,
+    68.75,
+    38.66667
+],
+  "geometry": {"coordinates":[68.75,38.66667],"type":"Point"}
+}

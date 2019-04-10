@@ -1,0 +1,68 @@
+{
+  "id": 1310537949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.83003,39.04265,68.83003,39.04265",
+    "geom:latitude":39.04265,
+    "geom:longitude":68.83003,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Kalon",
+    "gn:country_code":"TJ",
+    "gn:dem":1990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346329,
+    "gn:latitude":39.04265,
+    "gn:longitude":68.83003,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kalon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346329,
+        "wk:page":"Kalon"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"4b7a1710b6236ab1eda1ad508673a05e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916317,
+            "locality_id":1310537949,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1310537949,
+    "wof:lastmodified":1537574430,
+    "wof:name":"Kalon",
+    "wof:parent_id":1091916317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.83003000000001,
+    39.04265,
+    68.83003000000001,
+    39.04265
+],
+  "geometry": {"coordinates":[68.83003000000001,39.04265],"type":"Point"}
+}

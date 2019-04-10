@@ -1,0 +1,67 @@
+{
+  "id": 1344060311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.71676,38.29973,69.71676,38.29973",
+    "geom:latitude":38.29973,
+    "geom:longitude":69.71676,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Beshtentak",
+    "gn:country_code":"TJ",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346243,
+    "gn:latitude":38.29973,
+    "gn:longitude":69.71676,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Beshtentak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346243
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"61ca13651f98d4ef3ae3a0f657c5660d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916813,
+            "locality_id":1344060311,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1344060311,
+    "wof:lastmodified":1536874788,
+    "wof:name":"Beshtentak",
+    "wof:parent_id":1091916813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.71676,
+    38.29973,
+    69.71676,
+    38.29973
+],
+  "geometry": {"coordinates":[69.71675999999999,38.29973],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226756479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.23203,37.12756,68.23203,37.12756",
+    "geom:latitude":37.12756,
+    "geom:longitude":68.23203,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Teshiktosh",
+    "gn:country_code":"TJ",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220340,
+    "gn:latitude":37.12756,
+    "gn:longitude":68.23203,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Teshiktosh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Teshiktosh"
+    ],
+    "name:und_x_variant":[
+        "Teshik-Tash",
+        "\u0422\u0435\u0448\u0438\u043a\u0442\u043e\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220340
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"a49197034ed6780162906320dde1f488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916897,
+            "locality_id":1226756479,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1226756479,
+    "wof:lastmodified":1537706297,
+    "wof:name":"Teshiktosh",
+    "wof:parent_id":1091916897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.23203000000001,
+    37.12756,
+    68.23203000000001,
+    37.12756
+],
+  "geometry": {"coordinates":[68.23203000000001,37.12756],"type":"Point"}
+}

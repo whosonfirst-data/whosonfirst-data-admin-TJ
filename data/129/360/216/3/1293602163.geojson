@@ -1,0 +1,67 @@
+{
+  "id": 1293602163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.83039,38.29605,68.83039,38.29605",
+    "geom:latitude":38.29605,
+    "geom:longitude":68.83039,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kurdyk-Say",
+    "gn:country_code":"TJ",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221164,
+    "gn:latitude":38.29605,
+    "gn:longitude":68.83039,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kurdyk-Say",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091918301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221164
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"a1e808c2b1e743be3e7091cf464342b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918301,
+            "locality_id":1293602163,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1293602163,
+    "wof:lastmodified":1536619619,
+    "wof:name":"Kurdyk-Say",
+    "wof:parent_id":1091918301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.83039000000001,
+    38.29605,
+    68.83039000000001,
+    38.29605
+],
+  "geometry": {"coordinates":[68.83039000000001,38.29605],"type":"Point"}
+}

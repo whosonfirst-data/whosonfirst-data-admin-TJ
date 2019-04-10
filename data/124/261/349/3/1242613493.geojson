@@ -1,0 +1,71 @@
+{
+  "id": 1242613493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.94124,38.81486,69.94124,38.81486",
+    "geom:latitude":38.81486,
+    "geom:longitude":69.94124,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Ayni-Khojayni",
+    "gn:country_code":"TJ",
+    "gn:dem":1523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346528,
+    "gn:latitude":38.81486,
+    "gn:longitude":69.94124,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ayn\u00ed-Khojayn\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ayni-Khodzhaayni",
+        "Ayn\u00ed-Khojayn\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091916539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346528
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"c016a62c9ed65638c6404cc947958461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916539,
+            "locality_id":1242613493,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1242613493,
+    "wof:lastmodified":1537706381,
+    "wof:name":"Ayni-Khojayni",
+    "wof:parent_id":1091916539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.94124000000001,
+    38.81486,
+    69.94124000000001,
+    38.81486
+],
+  "geometry": {"coordinates":[69.94124000000001,38.81486],"type":"Point"}
+}

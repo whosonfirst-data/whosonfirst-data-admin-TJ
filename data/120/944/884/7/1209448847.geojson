@@ -1,0 +1,68 @@
+{
+  "id": 1209448847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.33181,38.6856,68.33181,38.6856",
+    "geom:latitude":38.6856,
+    "geom:longitude":68.33181,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Shurkhok",
+    "gn:country_code":"TJ",
+    "gn:dem":1427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220483,
+    "gn:latitude":38.6856,
+    "gn:longitude":68.33181,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Shurkhok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shurkhak",
+        "Shurkhok"
+    ],
+    "name:uzb_x_preferred":[
+        "Sho\u2018rxok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220483
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"41c756802cf6d04e1b2e6b48985ddc15",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209448847
+        }
+    ],
+    "wof:id":1209448847,
+    "wof:lastmodified":1537706302,
+    "wof:name":"Shurkhok",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.33181,
+    38.6856,
+    68.33181,
+    38.6856
+],
+  "geometry": {"coordinates":[68.33181,38.6856],"type":"Point"}
+}

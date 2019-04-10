@@ -1,0 +1,77 @@
+{
+  "id": 1193023573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.36484,40.53749,70.36484,40.53749",
+    "geom:latitude":40.53749,
+    "geom:longitude":70.36484,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ravot",
+    "gn:country_code":"TJ",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514835,
+    "gn:latitude":40.53749,
+    "gn:longitude":70.36484,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ravot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Robat",
+        "Rabat",
+        "Ravat",
+        "Ravot",
+        "\u0420\u0430\u0432\u043e\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Rabot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514835
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"f1d972d4fb767e777903430c3dd85e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916363,
+            "locality_id":1193023573,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1193023573,
+    "wof:lastmodified":1537706399,
+    "wof:name":"Ravot",
+    "wof:parent_id":1091916363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.36484,
+    40.53749000000001,
+    70.36484,
+    40.53749000000001
+],
+  "geometry": {"coordinates":[70.36484,40.53749000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226144689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.88333,40.15,68.88333,40.15",
+    "geom:latitude":40.15,
+    "geom:longitude":68.88333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Login",
+    "gn:country_code":"TJ",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513262,
+    "gn:latitude":40.15,
+    "gn:longitude":68.88333,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Login",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lyagin"
+    ],
+    "name:uzb_x_preferred":[
+        "Login"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091918339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513262
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"eac09f2f6689cbab1dfc0823e90a9ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918339,
+            "locality_id":1226144689,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1226144689,
+    "wof:lastmodified":1537706398,
+    "wof:name":"Login",
+    "wof:parent_id":1091918339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.88333,
+    40.15,
+    68.88333,
+    40.15
+],
+  "geometry": {"coordinates":[68.88333,40.15],"type":"Point"}
+}

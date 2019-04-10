@@ -1,0 +1,67 @@
+{
+  "id": 1259983061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.96439,38.13588,68.96439,38.13588",
+    "geom:latitude":38.13588,
+    "geom:longitude":68.96439,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rudaki",
+    "gn:country_code":"TJ",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1333685,
+    "gn:latitude":38.13588,
+    "gn:longitude":68.96439,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"R\u016ddak\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091918301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1333685
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"cf587a9dadf8985424c7c5352c152126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918301,
+            "locality_id":1259983061,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1259983061,
+    "wof:lastmodified":1536634418,
+    "wof:name":"Rudaki",
+    "wof:parent_id":1091918301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.96439000000001,
+    38.13588,
+    68.96439000000001,
+    38.13588
+],
+  "geometry": {"coordinates":[68.96439000000001,38.13588],"type":"Point"}
+}

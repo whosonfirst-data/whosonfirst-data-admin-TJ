@@ -1,0 +1,71 @@
+{
+  "id": 1259519493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.8945,38.59054,68.8945,38.59054",
+    "geom:latitude":38.59054,
+    "geom:longitude":68.8945,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Teppaisamarkandi",
+    "gn:country_code":"TJ",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220348,
+    "gn:latitude":38.59054,
+    "gn:longitude":68.8945,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Teppaisamarkandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tepa-Samarkand",
+        "Teppaisamarkandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220348
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"25f14e314bb9670f388ec33398fbd012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918381,
+            "locality_id":1259519493,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1259519493,
+    "wof:lastmodified":1537706297,
+    "wof:name":"Teppaisamarkandi",
+    "wof:parent_id":1091918381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.8945,
+    38.59054,
+    68.8945,
+    38.59054
+],
+  "geometry": {"coordinates":[68.89449999999999,38.59054],"type":"Point"}
+}

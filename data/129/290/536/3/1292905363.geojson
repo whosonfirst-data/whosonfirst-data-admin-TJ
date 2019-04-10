@@ -1,0 +1,72 @@
+{
+  "id": 1292905363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.83571,39.17068,67.83571,39.17068",
+    "geom:latitude":39.17068,
+    "geom:longitude":67.83571,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Padrud",
+    "gn:country_code":"TJ",
+    "gn:dem":1839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220846,
+    "gn:latitude":39.17068,
+    "gn:longitude":67.83571,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Padrud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Padrut",
+        "Padrud",
+        "\u041f\u0430\u0434\u0440\u0443\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091917507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220846
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"cae25d34edfb52d34543fa9bd8d5fa6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917507,
+            "locality_id":1292905363,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1292905363,
+    "wof:lastmodified":1537706315,
+    "wof:name":"Padrud",
+    "wof:parent_id":1091917507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.83570999999999,
+    39.17068,
+    67.83570999999999,
+    39.17068
+],
+  "geometry": {"coordinates":[67.83570999999999,39.17068],"type":"Point"}
+}

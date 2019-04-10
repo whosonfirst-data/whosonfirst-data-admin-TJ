@@ -1,0 +1,74 @@
+{
+  "id": 1276665157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.25904,40.72156,70.25904,40.72156",
+    "geom:latitude":40.72156,
+    "geom:longitude":70.25904,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bobodarkhon",
+    "gn:country_code":"TJ",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514917,
+    "gn:latitude":40.72156,
+    "gn:longitude":70.25904,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Bobodarkhon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baba-i-Darkhan",
+        "Boboidorkhon",
+        "Bobodarkhon",
+        "\u0411\u043e\u0431\u043e\u0434\u0430\u0440\u0445\u043e\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514917,
+        "wk:page":"Boboidorkhon"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"cbae4d4e70e4b4d830596a2ca6d9abaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916363,
+            "locality_id":1276665157,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1276665157,
+    "wof:lastmodified":1537706404,
+    "wof:name":"Bobodarkhon",
+    "wof:parent_id":1091916363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.25904,
+    40.72156,
+    70.25904,
+    40.72156
+],
+  "geometry": {"coordinates":[70.25904,40.72156],"type":"Point"}
+}

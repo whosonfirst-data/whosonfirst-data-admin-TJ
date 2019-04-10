@@ -1,0 +1,70 @@
+{
+  "id": 1242787427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.80654,37.65717,71.80654,37.65717",
+    "geom:latitude":37.65717,
+    "geom:longitude":71.80654,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mun",
+    "gn:country_code":"TJ",
+    "gn:dem":2600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8426945,
+    "gn:latitude":37.65717,
+    "gn:longitude":71.80654,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Mun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u041c\u0443\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8426945
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"f69e58dca6d78b799adf3ce5f5483fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917707,
+            "locality_id":1242787427,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1242787427,
+    "wof:lastmodified":1537706414,
+    "wof:name":"Mun",
+    "wof:parent_id":1091917707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.80654,
+    37.65717,
+    71.80654,
+    37.65717
+],
+  "geometry": {"coordinates":[71.80654,37.65717],"type":"Point"}
+}

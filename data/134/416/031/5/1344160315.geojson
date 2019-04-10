@@ -1,0 +1,71 @@
+{
+  "id": 1344160315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.95183,37.76927,69.95183,37.76927",
+    "geom:latitude":37.76927,
+    "geom:longitude":69.95183,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Korgaron",
+    "gn:country_code":"TJ",
+    "gn:dem":1686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221459,
+    "gn:latitude":37.76927,
+    "gn:longitude":69.95183,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Korgaron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kargaron",
+        "Korgaron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221459
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"860b17dc4fd3b0a7d227b76c14fa4e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917913,
+            "locality_id":1344160315,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1344160315,
+    "wof:lastmodified":1537706335,
+    "wof:name":"Korgaron",
+    "wof:parent_id":1091917913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.95183,
+    37.76927,
+    69.95183,
+    37.76927
+],
+  "geometry": {"coordinates":[69.95183,37.76927],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293294605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.10826,39.3325,68.10826,39.3325",
+    "geom:latitude":39.3325,
+    "geom:longitude":68.10826,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Artuch",
+    "gn:country_code":"TJ",
+    "gn:dem":1848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222247,
+    "gn:latitude":39.3325,
+    "gn:longitude":68.10826,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Artuch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0410\u0440\u0442\u0443\u0447"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091917507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222247,
+        "wk:page":"Artuch"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"367f72e32f29c2db448dcd3762801686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917507,
+            "locality_id":1293294605,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1293294605,
+    "wof:lastmodified":1537706361,
+    "wof:name":"Artuch",
+    "wof:parent_id":1091917507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.10826,
+    39.3325,
+    68.10826,
+    39.3325
+],
+  "geometry": {"coordinates":[68.10826,39.3325],"type":"Point"}
+}

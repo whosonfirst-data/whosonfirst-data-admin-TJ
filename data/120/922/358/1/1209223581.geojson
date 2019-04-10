@@ -1,0 +1,74 @@
+{
+  "id": 1209223581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.57721,37.19443,68.57721,37.19443",
+    "geom:latitude":37.19443,
+    "geom:longitude":68.57721,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Panji Poyon",
+    "gn:country_code":"TJ",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220910,
+    "gn:latitude":37.19443,
+    "gn:longitude":68.57721,
+    "gn:modification_date":"2013-09-06",
+    "gn:name":"Panji Poyon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Panji Poyon"
+    ],
+    "name:und_x_variant":[
+        "Kizyl-Kala",
+        "Nizhniy Pyandzh",
+        "Nizhni Pyandzh",
+        "Nizhniy Pandzh",
+        "Nizhniy Pyandza",
+        "Qizil Qala",
+        "\u041f\u0430\u043d\u04b7\u0438 \u041f\u043e\u0451\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220910,
+        "wk:page":"Panji_Poyon"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"90444e258e15527b9a8925eef238409a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209223581
+        }
+    ],
+    "wof:id":1209223581,
+    "wof:lastmodified":1537706317,
+    "wof:name":"Panji Poyon",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.57721,
+    37.19443,
+    68.57721,
+    37.19443
+],
+  "geometry": {"coordinates":[68.57720999999999,37.19443],"type":"Point"}
+}

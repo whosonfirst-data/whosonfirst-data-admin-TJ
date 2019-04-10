@@ -1,0 +1,70 @@
+{
+  "id": 1226147111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.73578,37.49899,71.73578,37.49899",
+    "geom:latitude":37.49899,
+    "geom:longitude":71.73578,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Barde",
+    "gn:country_code":"TJ",
+    "gn:dem":2932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8426948,
+    "gn:latitude":37.49899,
+    "gn:longitude":71.73578,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Barde",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0411\u0430\u0440\u0434\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8426948
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"33cbe8e84ba53f0364e33e50189273a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917883,
+            "locality_id":1226147111,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1226147111,
+    "wof:lastmodified":1537706414,
+    "wof:name":"Barde",
+    "wof:parent_id":1091917883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.73578,
+    37.49899,
+    71.73578,
+    37.49899
+],
+  "geometry": {"coordinates":[71.73578000000001,37.49899],"type":"Point"}
+}

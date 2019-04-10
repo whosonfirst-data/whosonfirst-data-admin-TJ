@@ -1,0 +1,61 @@
+{
+  "id": 1209327407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.36445,38.59472,70.36445,38.59472",
+    "geom:latitude":38.59472,
+    "geom:longitude":70.36445,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tal'bar",
+    "gn:country_code":"TJ",
+    "gn:dem":2096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220399,
+    "gn:latitude":38.59472,
+    "gn:longitude":70.36445,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tal\u2019bar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220399
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"9bfe077600dd7ab8f78ea15234d3cd2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209327407
+        }
+    ],
+    "wof:id":1209327407,
+    "wof:lastmodified":1536290487,
+    "wof:name":"Tal'bar",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.36445,
+    38.59472,
+    70.36445,
+    38.59472
+],
+  "geometry": {"coordinates":[70.36445000000001,38.59472],"type":"Point"}
+}

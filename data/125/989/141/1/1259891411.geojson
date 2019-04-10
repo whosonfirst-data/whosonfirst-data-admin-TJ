@@ -1,0 +1,70 @@
+{
+  "id": 1259891411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.29673,40.16759,69.29673,40.16759",
+    "geom:latitude":40.16759,
+    "geom:longitude":69.29673,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mehnatobod",
+    "gn:country_code":"TJ",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273969,
+    "gn:latitude":40.16759,
+    "gn:longitude":69.29673,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Mehnatobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u041c\u0435\u04b3\u043d\u0430\u0442\u043e\u0431\u043e\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091917381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273969
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"0f936e3dd227cff3b38d1f7bfefd81d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917381,
+            "locality_id":1259891411,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1259891411,
+    "wof:lastmodified":1537706407,
+    "wof:name":"Mehnatobod",
+    "wof:parent_id":1091917381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.29673000000001,
+    40.16759,
+    69.29673000000001,
+    40.16759
+],
+  "geometry": {"coordinates":[69.29673000000001,40.16759],"type":"Point"}
+}

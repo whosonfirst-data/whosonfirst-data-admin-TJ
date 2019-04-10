@@ -1,0 +1,67 @@
+{
+  "id": 1276586283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.11968,38.48995,68.11968,38.48995",
+    "geom:latitude":38.48995,
+    "geom:longitude":68.11968,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Kuzibacha",
+    "gn:country_code":"TJ",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346041,
+    "gn:latitude":38.48995,
+    "gn:longitude":68.11968,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kuzibacha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346041
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"568afb5b199a949602c180656836b86f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918055,
+            "locality_id":1276586283,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1276586283,
+    "wof:lastmodified":1536938115,
+    "wof:name":"Kuzibacha",
+    "wof:parent_id":1091918055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.11968,
+    38.48995,
+    68.11968,
+    38.48995
+],
+  "geometry": {"coordinates":[68.11968,38.48995],"type":"Point"}
+}

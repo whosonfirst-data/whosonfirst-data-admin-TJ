@@ -1,0 +1,74 @@
+{
+  "id": 1326832135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.12966,39.96238,69.12966,39.96238",
+    "geom:latitude":39.96238,
+    "geom:longitude":69.12966,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ghonchi",
+    "gn:country_code":"TJ",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1221758,
+    "gn:latitude":39.96238,
+    "gn:longitude":69.12966,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ghonch\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Granchi",
+        "Ganchi",
+        "Ghonch\u00ed",
+        "\u0492\u043e\u043d\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221758,
+        "wk:page":"Ghonchi"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"142025b55dbcbd7bdf95f63c4e7b75b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916615,
+            "locality_id":1326832135,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1326832135,
+    "wof:lastmodified":1537706343,
+    "wof:name":"Ghonchi",
+    "wof:parent_id":1091916615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.12966,
+    39.96238,
+    69.12966,
+    39.96238
+],
+  "geometry": {"coordinates":[69.12966,39.96238],"type":"Point"}
+}

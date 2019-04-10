@@ -1,0 +1,76 @@
+{
+  "id": 1326744377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.78008,37.30636,71.78008,37.30636",
+    "geom:latitude":37.30636,
+    "geom:longitude":71.78008,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Baroj",
+    "gn:country_code":"TJ",
+    "gn:dem":2786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222188,
+    "gn:latitude":37.30636,
+    "gn:longitude":71.78008,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Baroj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Baroj"
+    ],
+    "name:tgk_x_variant":[
+        "\u0411\u0430\u0440\u043e\u04b7"
+    ],
+    "name:und_x_variant":[
+        "Baradzh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222188
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"137d8b36924c7264bb29e2c3d3f50558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917883,
+            "locality_id":1326744377,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1326744377,
+    "wof:lastmodified":1537706360,
+    "wof:name":"Baroj",
+    "wof:parent_id":1091917883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.78008,
+    37.30636,
+    71.78008,
+    37.30636
+],
+  "geometry": {"coordinates":[71.78008,37.30636],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276588469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.30417,38.78314,70.30417,38.78314",
+    "geom:latitude":38.78314,
+    "geom:longitude":70.30417,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Childara",
+    "gn:country_code":"TJ",
+    "gn:dem":1484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222031,
+    "gn:latitude":38.78314,
+    "gn:longitude":70.30417,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Childara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chil\u2019dora",
+        "Childara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091917993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222031,
+        "wk:page":"Childara"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"98f8d8052f834f83cb318807bec6ab96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917993,
+            "locality_id":1276588469,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1276588469,
+    "wof:lastmodified":1537706353,
+    "wof:name":"Childara",
+    "wof:parent_id":1091917993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.30417,
+    38.78314,
+    70.30417,
+    38.78314
+],
+  "geometry": {"coordinates":[70.30417,38.78314],"type":"Point"}
+}

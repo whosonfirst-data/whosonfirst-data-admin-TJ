@@ -1,0 +1,67 @@
+{
+  "id": 1277111533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.79453,38.39219,68.79453,38.39219",
+    "geom:latitude":38.39219,
+    "geom:longitude":68.79453,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Ak-Bulak",
+    "gn:country_code":"TJ",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222356,
+    "gn:latitude":38.39219,
+    "gn:longitude":68.79453,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ak-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222356
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"2c18cb7b2d00d9a28c2dc0e58a8e5ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918381,
+            "locality_id":1277111533,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1277111533,
+    "wof:lastmodified":1536726501,
+    "wof:name":"Ak-Bulak",
+    "wof:parent_id":1091918381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.79453000000001,
+    38.39219,
+    68.79453000000001,
+    38.39219
+],
+  "geometry": {"coordinates":[68.79453000000001,38.39219],"type":"Point"}
+}

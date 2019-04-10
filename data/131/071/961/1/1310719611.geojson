@@ -1,0 +1,73 @@
+{
+  "id": 1310719611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.57052,38.27278,71.57052,38.27278",
+    "geom:latitude":38.27278,
+    "geom:longitude":71.57052,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jamag",
+    "gn:country_code":"TJ",
+    "gn:dem":1993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221851,
+    "gn:latitude":38.27278,
+    "gn:longitude":71.57052,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Jamag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zhamag",
+        "Dzhamak",
+        "Jamak",
+        "Jamag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091918175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221851
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"d41b4f58725e95e90cc098d9f14fcbaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918175,
+            "locality_id":1310719611,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1310719611,
+    "wof:lastmodified":1537706347,
+    "wof:name":"Jamag",
+    "wof:parent_id":1091918175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.57052,
+    38.27278,
+    71.57052,
+    38.27278
+],
+  "geometry": {"coordinates":[71.57052,38.27278],"type":"Point"}
+}

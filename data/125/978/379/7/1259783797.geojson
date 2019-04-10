@@ -1,0 +1,70 @@
+{
+  "id": 1259783797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.84464,38.54912,68.84464,38.54912",
+    "geom:latitude":38.54912,
+    "geom:longitude":68.84464,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mirzobek",
+    "gn:country_code":"TJ",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235723,
+    "gn:latitude":38.54912,
+    "gn:longitude":68.84464,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mirzobek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u041c\u0438\u0440\u0437\u043e\u044c\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235723
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"eab04e3bbd9356972ba840d820363b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918381,
+            "locality_id":1259783797,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1259783797,
+    "wof:lastmodified":1537706406,
+    "wof:name":"Mirzobek",
+    "wof:parent_id":1091918381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.84464,
+    38.54912,
+    68.84464,
+    38.54912
+],
+  "geometry": {"coordinates":[68.84464,38.54912],"type":"Point"}
+}

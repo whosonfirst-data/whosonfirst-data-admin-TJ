@@ -1,0 +1,73 @@
+{
+  "id": 1276450361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.83428,39.37001,68.83428,39.37001",
+    "geom:latitude":39.37001,
+    "geom:longitude":68.83428,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Fatmovut",
+    "gn:country_code":"TJ",
+    "gn:dem":1621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221781,
+    "gn:latitude":39.37001,
+    "gn:longitude":68.83428,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Fatmovut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fal\u2019maut",
+        "Fatmovut",
+        "\u0424\u0430\u0442\u043c\u043e\u0432\u0443\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221781,
+        "wk:page":"Fatmovut"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"cb78eabe8ceb344661f714c41b8a8bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916317,
+            "locality_id":1276450361,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1276450361,
+    "wof:lastmodified":1537706344,
+    "wof:name":"Fatmovut",
+    "wof:parent_id":1091916317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.83428,
+    39.37001,
+    68.83428,
+    39.37001
+],
+  "geometry": {"coordinates":[68.83428000000001,39.37001],"type":"Point"}
+}

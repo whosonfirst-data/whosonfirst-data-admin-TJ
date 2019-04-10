@@ -1,0 +1,73 @@
+{
+  "id": 1293689857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.20717,38.03293,69.20717,38.03293",
+    "geom:latitude":38.03293,
+    "geom:longitude":69.20717,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Guyunchi",
+    "gn:country_code":"TJ",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346047,
+    "gn:latitude":38.03293,
+    "gn:longitude":69.20717,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Guyunch\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Guyunch\u00ed"
+    ],
+    "name:und_x_variant":[
+        "\u0413\u0443\u044e\u043d\u0447\u04e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346047
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"3cacdfd4cfd090211f035db9e62627c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916489,
+            "locality_id":1293689857,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1293689857,
+    "wof:lastmodified":1537706367,
+    "wof:name":"Guyunchi",
+    "wof:parent_id":1091916489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.20716999999999,
+    38.03293,
+    69.20716999999999,
+    38.03293
+],
+  "geometry": {"coordinates":[69.20716999999999,38.03293],"type":"Point"}
+}

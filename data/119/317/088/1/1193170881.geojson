@@ -1,0 +1,71 @@
+{
+  "id": 1193170881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.67198,38.69389,69.67198,38.69389",
+    "geom:latitude":38.69389,
+    "geom:longitude":69.67198,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Chormagz",
+    "gn:country_code":"TJ",
+    "gn:dem":1820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222004,
+    "gn:latitude":38.69389,
+    "gn:longitude":69.67198,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Chormagz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Charmogz",
+        "Chormagz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091916587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222004
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"2ba5243d09d493797fff7b04b90f0aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916587,
+            "locality_id":1193170881,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1193170881,
+    "wof:lastmodified":1537706353,
+    "wof:name":"Chormagz",
+    "wof:parent_id":1091916587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.67198,
+    38.69389,
+    69.67198,
+    38.69389
+],
+  "geometry": {"coordinates":[69.67198,38.69389],"type":"Point"}
+}

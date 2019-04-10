@@ -1,0 +1,75 @@
+{
+  "id": 1343564167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.67331,37.97087,69.67331,37.97087",
+    "geom:latitude":37.97087,
+    "geom:longitude":69.67331,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Khojasartez",
+    "gn:country_code":"TJ",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220635,
+    "gn:latitude":37.97087,
+    "gn:longitude":69.67331,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Khojasartez",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Khojasartez"
+    ],
+    "name:und_x_variant":[
+        "Sartis",
+        "Khodzhasartez",
+        "\u0425\u043e\u04b7\u0430\u0441\u0430\u0440\u0442\u0435\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091918261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220635
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"c4cfcffb3b81e8fa57a7c2d8b97c2626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918261,
+            "locality_id":1343564167,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1343564167,
+    "wof:lastmodified":1537706307,
+    "wof:name":"Khojasartez",
+    "wof:parent_id":1091918261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.67331,
+    37.97087,
+    69.67331,
+    37.97087
+],
+  "geometry": {"coordinates":[69.67331,37.97087],"type":"Point"}
+}

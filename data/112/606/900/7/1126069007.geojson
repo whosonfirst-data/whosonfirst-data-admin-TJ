@@ -1,0 +1,110 @@
+{
+  "id": 1126069007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.77807,38.61859,68.77807,38.61859",
+    "geom:latitude":38.61859,
+    "geom:longitude":68.77807,
+    "gn:gn_country":"TJ",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":38.61859,
+    "gn:longitude":68.77807,
+    "iso:country":"TJ",
+    "lbl:latitude":38.61859,
+    "lbl:longitude":68.77807,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Ragunskiy"
+    ],
+    "name:unk_x_variant":[
+        "Mishkora",
+        "Ragunskiy"
+    ],
+    "qs_pg:aaroncc":"TJ",
+    "qs_pg:gn_country":"TJ",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":1334097,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ragunskiy",
+    "qs_pg:name_adm0":"Tajikistan",
+    "qs_pg:name_adm1":"Karategin",
+    "qs_pg:photos":78,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":78,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":984036,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424961,
+    "qs_pg:woe_id":2212807,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424961,
+    "woe:name_adm0":"Tajikistan",
+    "woe:name_adm1":"Karategin",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85678907,
+        102191569,
+        85632513,
+        890430645,
+        85678917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1334097,
+        "gp:id":2212807,
+        "qs:id":984036,
+        "qs_pg:id":984036
+    },
+    "wof:country":"TJ",
+    "wof:created":1497309485,
+    "wof:geomhash":"c806dcd09a8ecb02aa8176d365bc15a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":890430645,
+            "locality_id":-1,
+            "neighbourhood_id":1126069007,
+            "region_id":85678907
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":890430645,
+            "locality_id":-1,
+            "neighbourhood_id":1126069007,
+            "region_id":85678917
+        }
+    ],
+    "wof:id":1126069007,
+    "wof:lastmodified":1534379465,
+    "wof:name":"Ragunskiy",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85903721
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.77807,
+    38.61859,
+    68.77807,
+    38.61859
+],
+  "geometry": {"coordinates":[68.77807,38.61859],"type":"Point"}
+}

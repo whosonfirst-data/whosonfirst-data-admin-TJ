@@ -1,0 +1,71 @@
+{
+  "id": 1193148573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.11043,39.31914,68.11043,39.31914",
+    "geom:latitude":39.31914,
+    "geom:longitude":68.11043,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yakkakhona",
+    "gn:country_code":"TJ",
+    "gn:dem":1785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346353,
+    "gn:latitude":39.31914,
+    "gn:longitude":68.11043,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Yakkakhona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u042f\u043a\u043a\u0430\u0445\u043e\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091917507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346353,
+        "wk:page":"Yakkakhona"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"f7e8db43c2c361bdbb7b3b252f8ca638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917507,
+            "locality_id":1193148573,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1193148573,
+    "wof:lastmodified":1537706378,
+    "wof:name":"Yakkakhona",
+    "wof:parent_id":1091917507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.11043000000001,
+    39.31914,
+    68.11043000000001,
+    39.31914
+],
+  "geometry": {"coordinates":[68.11043000000001,39.31914],"type":"Point"}
+}

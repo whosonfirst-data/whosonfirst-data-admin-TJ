@@ -1,0 +1,71 @@
+{
+  "id": 1260015403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.41657,38.56028,68.41657,38.56028",
+    "geom:latitude":38.56028,
+    "geom:longitude":68.41657,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Chuzii-Bolo",
+    "gn:country_code":"TJ",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221985,
+    "gn:latitude":38.56028,
+    "gn:longitude":68.41657,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Chuzii-Bolo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chuzy",
+        "Chuzii-Bolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091917789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221985
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"be473b7ea680484e01db5267b4f4fa3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917789,
+            "locality_id":1260015403,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1260015403,
+    "wof:lastmodified":1537706352,
+    "wof:name":"Chuzii-Bolo",
+    "wof:parent_id":1091917789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.41657,
+    38.56028,
+    68.41657,
+    38.56028
+],
+  "geometry": {"coordinates":[68.41656999999999,38.56028],"type":"Point"}
+}

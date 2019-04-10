@@ -1,0 +1,73 @@
+{
+  "id": 1276559633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.50044,40.65039,69.50044,40.65039",
+    "geom:latitude":40.65039,
+    "geom:longitude":69.50044,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Cholota",
+    "gn:country_code":"TJ",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514911,
+    "gn:latitude":40.65039,
+    "gn:longitude":69.50044,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Cholota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chalata",
+        "Cholota",
+        "\u0427\u043e\u043b\u043e\u0442\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091917221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514911,
+        "wk:page":"Chalata"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"4642d3a0abae507b7b1390daaa66d126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917221,
+            "locality_id":1276559633,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1276559633,
+    "wof:lastmodified":1537706403,
+    "wof:name":"Cholota",
+    "wof:parent_id":1091917221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.50044,
+    40.65039,
+    69.50044,
+    40.65039
+],
+  "geometry": {"coordinates":[69.50044,40.65039],"type":"Point"}
+}

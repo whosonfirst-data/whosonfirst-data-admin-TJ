@@ -1,0 +1,70 @@
+{
+  "id": 1276766691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.74334,38.75804,70.74334,38.75804",
+    "geom:latitude":38.75804,
+    "geom:longitude":70.74334,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chursoni Bolo",
+    "gn:country_code":"TJ",
+    "gn:dem":2423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8322845,
+    "gn:latitude":38.75804,
+    "gn:longitude":70.74334,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Chursoni Bolo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0427\u0443\u0440\u0441\u043e\u043d\u0438 \u0411\u043e\u043b\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091917993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8322845
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"e18633117f528a0250b638a27e5bb4f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917993,
+            "locality_id":1276766691,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1276766691,
+    "wof:lastmodified":1537706412,
+    "wof:name":"Chursoni Bolo",
+    "wof:parent_id":1091917993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.74334,
+    38.75804,
+    70.74334,
+    38.75804
+],
+  "geometry": {"coordinates":[70.74334,38.75804],"type":"Point"}
+}

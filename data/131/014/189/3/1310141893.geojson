@@ -1,0 +1,67 @@
+{
+  "id": 1310141893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.53137,39.30433,71.53137,39.30433",
+    "geom:latitude":39.30433,
+    "geom:longitude":71.53137,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Dzhailgan",
+    "gn:country_code":"TJ",
+    "gn:dem":2024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221824,
+    "gn:latitude":39.30433,
+    "gn:longitude":71.53137,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dzhailgan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091916939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221824
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"2f937cd2a27b401cfec2da84b7d6cafa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916939,
+            "locality_id":1310141893,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1310141893,
+    "wof:lastmodified":1536944484,
+    "wof:name":"Dzhailgan",
+    "wof:parent_id":1091916939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.53137,
+    39.30433,
+    71.53137,
+    39.30433
+],
+  "geometry": {"coordinates":[71.53137,39.30433],"type":"Point"}
+}

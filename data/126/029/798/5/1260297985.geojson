@@ -1,0 +1,74 @@
+{
+  "id": 1260297985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.99598,37.95425,69.99598,37.95425",
+    "geom:latitude":37.95425,
+    "geom:longitude":69.99598,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Shahribarbar",
+    "gn:country_code":"TJ",
+    "gn:dem":1769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475614,
+    "gn:latitude":37.95425,
+    "gn:longitude":69.99598,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Shahribarbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Shahribarbar"
+    ],
+    "name:und_x_variant":[
+        "Shakhribarbar",
+        "\u0428\u0430\u04b3\u0440\u0438\u0431\u0430\u0440\u0431\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475614
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"67c9cc1ed593a3c69389aade01b5508f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917295,
+            "locality_id":1260297985,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1260297985,
+    "wof:lastmodified":1537706389,
+    "wof:name":"Shahribarbar",
+    "wof:parent_id":1091917295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.99598,
+    37.95425,
+    69.99598,
+    37.95425
+],
+  "geometry": {"coordinates":[69.99598,37.95425],"type":"Point"}
+}

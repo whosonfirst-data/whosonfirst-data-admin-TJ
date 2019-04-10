@@ -1,0 +1,67 @@
+{
+  "id": 1343598389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.83236,38.83542,69.83236,38.83542",
+    "geom:latitude":38.83542,
+    "geom:longitude":69.83236,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Khasandara",
+    "gn:country_code":"TJ",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346544,
+    "gn:latitude":38.83542,
+    "gn:longitude":69.83236,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Khasandara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091916539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346544
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"28b80e3d04b07816c8336cc25edba0d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916539,
+            "locality_id":1343598389,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1343598389,
+    "wof:lastmodified":1537042711,
+    "wof:name":"Khasandara",
+    "wof:parent_id":1091916539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.83236,
+    38.83542,
+    69.83236,
+    38.83542
+],
+  "geometry": {"coordinates":[69.83235999999999,38.83542],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276886705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.70074,38.29783,68.70074,38.29783",
+    "geom:latitude":38.29783,
+    "geom:longitude":68.70074,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Qaromandi",
+    "gn:country_code":"TJ",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221487,
+    "gn:latitude":38.29783,
+    "gn:longitude":68.70074,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Qaromand\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karamandi",
+        "Karamandy",
+        "Qaramandy",
+        "Qaromand\u00ed",
+        "\u049a\u0430\u0440\u043e\u043c\u0430\u043d\u0434\u04e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221487
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"0eee2ece798c50517c6806d7e16305aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918381,
+            "locality_id":1276886705,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1276886705,
+    "wof:lastmodified":1537706335,
+    "wof:name":"Qaromandi",
+    "wof:parent_id":1091918381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.70074,
+    38.29783,
+    68.70074,
+    38.29783
+],
+  "geometry": {"coordinates":[68.70074,38.29783],"type":"Point"}
+}

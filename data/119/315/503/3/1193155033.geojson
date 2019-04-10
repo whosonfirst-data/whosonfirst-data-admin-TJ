@@ -1,0 +1,67 @@
+{
+  "id": 1193155033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.7,37.28333,68.7,37.28333",
+    "geom:latitude":37.28333,
+    "geom:longitude":68.7,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pionersk",
+    "gn:country_code":"TJ",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220786,
+    "gn:latitude":37.28333,
+    "gn:longitude":68.7,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Pionersk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220786
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"062db5b6b047231bb1f168edba877fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917135,
+            "locality_id":1193155033,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1193155033,
+    "wof:lastmodified":1536374155,
+    "wof:name":"Pionersk",
+    "wof:parent_id":1091917135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.7,
+    37.28333,
+    68.7,
+    37.28333
+],
+  "geometry": {"coordinates":[68.7,37.28333],"type":"Point"}
+}

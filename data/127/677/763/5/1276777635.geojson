@@ -1,0 +1,67 @@
+{
+  "id": 1276777635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.81049,38.57805,71.81049,38.57805",
+    "geom:latitude":38.57805,
+    "geom:longitude":71.81049,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gumas",
+    "gn:country_code":"TJ",
+    "gn:dem":2128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346484,
+    "gn:latitude":38.57805,
+    "gn:longitude":71.81049,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Gumas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091918175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346484
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"935519a661f7d8c22c2e399cd9573183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918175,
+            "locality_id":1276777635,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1276777635,
+    "wof:lastmodified":1536680460,
+    "wof:name":"Gumas",
+    "wof:parent_id":1091918175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.81049,
+    38.57805,
+    71.81049,
+    38.57805
+],
+  "geometry": {"coordinates":[71.81049,38.57805],"type":"Point"}
+}

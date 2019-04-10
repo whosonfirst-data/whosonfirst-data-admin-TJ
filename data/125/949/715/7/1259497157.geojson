@@ -1,0 +1,71 @@
+{
+  "id": 1259497157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.04227,38.11706,72.04227,38.11706",
+    "geom:latitude":38.11706,
+    "geom:longitude":72.04227,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chadigiv",
+    "gn:country_code":"TJ",
+    "gn:dem":2305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222073,
+    "gn:latitude":38.11706,
+    "gn:longitude":72.04227,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Chadigiv",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0427\u0430\u0434\u0438\u0433\u0435\u0432",
+        "Chadegiv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222073
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"9688852cd1da2147e77de3654b343ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917707,
+            "locality_id":1259497157,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1259497157,
+    "wof:lastmodified":1537706355,
+    "wof:name":"Chadigiv",
+    "wof:parent_id":1091917707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.04227,
+    38.11706,
+    72.04227,
+    38.11706
+],
+  "geometry": {"coordinates":[72.04227,38.11706],"type":"Point"}
+}

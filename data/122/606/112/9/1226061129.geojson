@@ -1,0 +1,67 @@
+{
+  "id": 1226061129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.60116,39.14284,71.60116,39.14284",
+    "geom:latitude":39.14284,
+    "geom:longitude":71.60116,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Devsiar",
+    "gn:country_code":"TJ",
+    "gn:dem":2122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221910,
+    "gn:latitude":39.14284,
+    "gn:longitude":71.60116,
+    "gn:modification_date":"2015-03-23",
+    "gn:name":"Devsiar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091916939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221910
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"b038d52007078d278025b217c55db090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916939,
+            "locality_id":1226061129,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1226061129,
+    "wof:lastmodified":1536703271,
+    "wof:name":"Devsiar",
+    "wof:parent_id":1091916939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.60116,
+    39.14284,
+    71.60116,
+    39.14284
+],
+  "geometry": {"coordinates":[71.60115999999999,39.14284],"type":"Point"}
+}

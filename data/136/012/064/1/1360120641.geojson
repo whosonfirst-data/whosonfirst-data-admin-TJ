@@ -1,0 +1,76 @@
+{
+  "id": 1360120641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.31898,38.02229,68.31898,38.02229",
+    "geom:latitude":38.02229,
+    "geom:longitude":68.31898,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Khojabulbulon",
+    "gn:country_code":"TJ",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221353,
+    "gn:latitude":38.02229,
+    "gn:longitude":68.31898,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Khojabulbulon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khodzha-Bul\u2019-Bulak",
+        "Khodzha-Bulak",
+        "Khodzhabul\u2019bulon",
+        "Khojabulbulon"
+    ],
+    "name:uzb_x_preferred":[
+        "Xo\u2018jabulbulon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221353
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"e7f52d1c6758668f86865e5ad9543040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918381,
+            "locality_id":1360120641,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1360120641,
+    "wof:lastmodified":1537706332,
+    "wof:name":"Khojabulbulon",
+    "wof:parent_id":1091918381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.31898000000001,
+    38.02229000000001,
+    68.31898000000001,
+    38.02229000000001
+],
+  "geometry": {"coordinates":[68.31898000000001,38.02229000000001],"type":"Point"}
+}

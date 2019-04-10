@@ -1,0 +1,66 @@
+{
+  "id": 1326831859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.57303,40.99745,70.57303,40.99745",
+    "geom:latitude":40.99745,
+    "geom:longitude":70.57303,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sarvaksoy",
+    "gn:country_code":"TJ",
+    "gn:dem":1474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7567762,
+    "gn:latitude":40.99745,
+    "gn:longitude":70.57303,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sarvaksoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sarvaksoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7567762
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"bddb2ed3d4928366dcb93a1721cc0cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1326831859,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326831859,
+    "wof:lastmodified":1537706404,
+    "wof:name":"Sarvaksoy",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.57303,
+    40.99745,
+    70.57303,
+    40.99745
+],
+  "geometry": {"coordinates":[70.57303,40.99745],"type":"Point"}
+}

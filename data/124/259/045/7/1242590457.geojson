@@ -1,0 +1,71 @@
+{
+  "id": 1242590457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.27378,38.38243,69.27378,38.38243",
+    "geom:latitude":38.38243,
+    "geom:longitude":69.27378,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Qibil",
+    "gn:country_code":"TJ",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346251,
+    "gn:latitude":38.38243,
+    "gn:longitude":69.27378,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Qibil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u049a\u0438\u0431\u0438\u043b",
+        "Kibil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091917421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346251
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"b0d3f39be054dbc9353feb7db223d938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917421,
+            "locality_id":1242590457,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1242590457,
+    "wof:lastmodified":1537706376,
+    "wof:name":"Qibil",
+    "wof:parent_id":1091917421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.27378,
+    38.38243,
+    69.27378,
+    38.38243
+],
+  "geometry": {"coordinates":[69.27378,38.38243],"type":"Point"}
+}

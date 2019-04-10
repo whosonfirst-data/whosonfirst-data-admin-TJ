@@ -1,0 +1,79 @@
+{
+  "id": 1343962207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.73494,37.92189,71.73494,37.92189",
+    "geom:latitude":37.92189,
+    "geom:longitude":71.73494,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ruddevlokh",
+    "gn:country_code":"TJ",
+    "gn:dem":2617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220710,
+    "gn:latitude":37.92189,
+    "gn:longitude":71.73494,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ruddevlokh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Devlokh"
+    ],
+    "name:tgk_x_variant":[
+        "\u0414\u0435\u0432\u043b\u043e\u0445"
+    ],
+    "name:und_x_variant":[
+        "Devlekh",
+        "Rid-Devlekh",
+        "Ruddevlokh",
+        "\u0420\u0438\u0434\u0434\u0435\u0432\u043b\u043e\u0445"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220710
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"d3b513b81cae2a8eb3d8366aeef45cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917707,
+            "locality_id":1343962207,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1343962207,
+    "wof:lastmodified":1537706310,
+    "wof:name":"Ruddevlokh",
+    "wof:parent_id":1091917707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.73494000000002,
+    37.92189000000001,
+    71.73494000000002,
+    37.92189000000001
+],
+  "geometry": {"coordinates":[71.73494000000002,37.92189000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209723083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.3847,40.79849,70.3847,40.79849",
+    "geom:latitude":40.79849,
+    "geom:longitude":70.3847,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shivar",
+    "gn:country_code":"TJ",
+    "gn:dem":1684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7567765,
+    "gn:latitude":40.79849,
+    "gn:longitude":70.3847,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Shivar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shivar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7567765
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"2f3e9264524c1c1fec3eb76df9558c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916363,
+            "locality_id":1209723083,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1209723083,
+    "wof:lastmodified":1537706405,
+    "wof:name":"Shivar",
+    "wof:parent_id":1091916363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.3847,
+    40.79849,
+    70.3847,
+    40.79849
+],
+  "geometry": {"coordinates":[70.3847,40.79849],"type":"Point"}
+}

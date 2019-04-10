@@ -1,0 +1,77 @@
+{
+  "id": 1310714635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.25831,37.89509,68.25831,37.89509",
+    "geom:latitude":37.89509,
+    "geom:longitude":68.25831,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Shurtuqay",
+    "gn:country_code":"TJ",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337554,
+    "gn:latitude":37.89509,
+    "gn:longitude":68.25831,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Sh\u016drt\u016dqay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Sh\u016drt\u016dqay"
+    ],
+    "name:und_x_variant":[
+        "\u0428\u04ef\u0440\u0442\u04ef\u049b\u0430\u0439",
+        "Shortugay"
+    ],
+    "name:uzb_x_preferred":[
+        "Sho\u2018rto\u2018qay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337554
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"37e8f2d67ccefd54a325e9df78c83e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918381,
+            "locality_id":1310714635,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1310714635,
+    "wof:lastmodified":1537706412,
+    "wof:name":"Shurtuqay",
+    "wof:parent_id":1091918381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.25831,
+    37.89509,
+    68.25831,
+    37.89509
+],
+  "geometry": {"coordinates":[68.25830999999999,37.89509],"type":"Point"}
+}

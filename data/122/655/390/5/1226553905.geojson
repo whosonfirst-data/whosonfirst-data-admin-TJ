@@ -1,0 +1,72 @@
+{
+  "id": 1226553905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.23333,38.56667,74.23333,38.56667",
+    "geom:latitude":38.56667,
+    "geom:longitude":74.23333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tuz-Buzaygyr",
+    "gn:country_code":"TJ",
+    "gn:dem":4392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220285,
+    "gn:latitude":38.56667,
+    "gn:longitude":74.23333,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tuz-Buzaygyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuz-buzayg\u00f6r",
+        "Tuz-Buzayyeyr",
+        "Tuz-Buzaygyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220285
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"f4c2294a89f6c96d9eddd1db623126d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917339,
+            "locality_id":1226553905,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1226553905,
+    "wof:lastmodified":1537706295,
+    "wof:name":"Tuz-Buzaygyr",
+    "wof:parent_id":1091917339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.23333000000002,
+    38.56667,
+    74.23333000000002,
+    38.56667
+],
+  "geometry": {"coordinates":[74.23333000000002,38.56667],"type":"Point"}
+}

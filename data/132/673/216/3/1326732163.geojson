@@ -1,0 +1,73 @@
+{
+  "id": 1326732163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.51183,39.41831,68.51183,39.41831",
+    "geom:latitude":39.41831,
+    "geom:longitude":68.51183,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Khushikat",
+    "gn:country_code":"TJ",
+    "gn:dem":1383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221363,
+    "gn:latitude":39.41831,
+    "gn:longitude":68.51183,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Khushikat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khishkat",
+        "Khushikat",
+        "\u0425\u0443\u0448\u0438\u043a\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221363,
+        "wk:page":"Khushikat"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"8826f3d929027ecd785f2995e5a5e279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916317,
+            "locality_id":1326732163,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1326732163,
+    "wof:lastmodified":1537706332,
+    "wof:name":"Khushikat",
+    "wof:parent_id":1091916317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.51183,
+    39.41831,
+    68.51183,
+    39.41831
+],
+  "geometry": {"coordinates":[68.51183,39.41831],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243376585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.70867,37.32589,68.70867,37.32589",
+    "geom:latitude":37.32589,
+    "geom:longitude":68.70867,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Oktyabr",
+    "gn:country_code":"TJ",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475311,
+    "gn:latitude":37.32589,
+    "gn:longitude":68.70867,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Oktyabr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Oktyabrskiy"
+    ],
+    "name:und_x_variant":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475311
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"30dfbe146ac96a617e23b0aa6813f653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917135,
+            "locality_id":1243376585,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1243376585,
+    "wof:lastmodified":1537706386,
+    "wof:name":"Oktyabr",
+    "wof:parent_id":1091917135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.70867,
+    37.32589,
+    68.70867,
+    37.32589
+],
+  "geometry": {"coordinates":[68.70867,37.32589],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209113645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.58443,40.18811,70.58443,40.18811",
+    "geom:latitude":40.18811,
+    "geom:longitude":70.58443,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Baland",
+    "gn:country_code":"TJ",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514922,
+    "gn:latitude":40.18811,
+    "gn:longitude":70.58443,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Baland",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0411\u0430\u043b\u0430\u043d\u0434",
+        "Arab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514922
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"2b885f331a5ef4e84f7a322c46a26853",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209113645
+        }
+    ],
+    "wof:id":1209113645,
+    "wof:lastmodified":1537706404,
+    "wof:name":"Baland",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.58443,
+    40.18811,
+    70.58443,
+    40.18811
+],
+  "geometry": {"coordinates":[70.58443,40.18811],"type":"Point"}
+}

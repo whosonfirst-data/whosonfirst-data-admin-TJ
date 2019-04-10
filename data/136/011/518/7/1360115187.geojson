@@ -1,0 +1,71 @@
+{
+  "id": 1360115187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.40694,38.43867,68.40694,38.43867",
+    "geom:latitude":38.43867,
+    "geom:longitude":68.40694,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Durmonbuloq",
+    "gn:country_code":"TJ",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346029,
+    "gn:latitude":38.43867,
+    "gn:longitude":68.40694,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Durmonbuloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Durmanbulok",
+        "Durmonbuloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091916749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346029
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"83bfdd90332b0a41deec48de4685f85c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916749,
+            "locality_id":1360115187,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1360115187,
+    "wof:lastmodified":1537706366,
+    "wof:name":"Durmonbuloq",
+    "wof:parent_id":1091916749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.40694,
+    38.43867,
+    68.40694,
+    38.43867
+],
+  "geometry": {"coordinates":[68.40694000000001,38.43867],"type":"Point"}
+}

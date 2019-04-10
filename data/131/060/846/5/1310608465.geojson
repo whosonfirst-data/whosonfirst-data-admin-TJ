@@ -1,0 +1,80 @@
+{
+  "id": 1310608465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.6311,40.05204,70.6311,40.05204",
+    "geom:latitude":40.05204,
+    "geom:longitude":70.6311,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dostuk",
+    "gn:country_code":"TJ",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277150,
+    "gn:latitude":40.05204,
+    "gn:longitude":70.6311,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Dostuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0414\u043e\u0441\u0442\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690427,
+        85632513,
+        85678913,
+        1091916841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277150
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"83cdd5f817ee14584874c879fb3b57bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690427,
+            "locality_id":1310608465,
+            "region_id":85672995
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916841,
+            "locality_id":1310608465,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1310608465,
+    "wof:lastmodified":1537706411,
+    "wof:name":"Dostuk",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.6311,
+    40.05204000000001,
+    70.6311,
+    40.05204000000001
+],
+  "geometry": {"coordinates":[70.6311,40.05204000000001],"type":"Point"}
+}

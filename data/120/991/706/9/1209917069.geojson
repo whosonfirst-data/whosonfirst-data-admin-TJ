@@ -1,0 +1,74 @@
+{
+  "id": 1209917069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.55122,37.81104,69.55122,37.81104",
+    "geom:latitude":37.81104,
+    "geom:longitude":69.55122,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Fayzobod",
+    "gn:country_code":"TJ",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475974,
+    "gn:latitude":37.81104,
+    "gn:longitude":69.55122,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Fayzobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Fayzobod"
+    ],
+    "name:und_x_variant":[
+        "Fayzabad",
+        "\u0424\u0430\u0439\u0437\u043e\u0431\u043e\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091918261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475974
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"dd01c4e3717a8a2f3895c17d98723200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918261,
+            "locality_id":1209917069,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1209917069,
+    "wof:lastmodified":1537706397,
+    "wof:name":"Fayzobod",
+    "wof:parent_id":1091918261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.55122,
+    37.81104000000001,
+    69.55122,
+    37.81104000000001
+],
+  "geometry": {"coordinates":[69.55122,37.81104000000001],"type":"Point"}
+}

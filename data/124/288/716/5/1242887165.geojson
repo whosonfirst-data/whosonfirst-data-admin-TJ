@@ -1,0 +1,73 @@
+{
+  "id": 1242887165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.64151,37.4201,68.64151,37.4201",
+    "geom:latitude":37.4201,
+    "geom:longitude":68.64151,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Askari Surkh",
+    "gn:country_code":"TJ",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475262,
+    "gn:latitude":37.4201,
+    "gn:longitude":68.64151,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Askari Surkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Askari Surkh"
+    ],
+    "name:und_x_variant":[
+        "\u0410\u0441\u043a\u0430\u0440\u0438 \u0421\u0443\u0440\u0445"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475262
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"43c01e5209a10a236c58e7d0326f7116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917079,
+            "locality_id":1242887165,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1242887165,
+    "wof:lastmodified":1537706384,
+    "wof:name":"Askari Surkh",
+    "wof:parent_id":1091917079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.64151,
+    37.4201,
+    68.64151,
+    37.4201
+],
+  "geometry": {"coordinates":[68.64151,37.4201],"type":"Point"}
+}

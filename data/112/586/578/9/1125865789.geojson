@@ -1,0 +1,112 @@
+{
+  "id": 1125865789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.87081,38.78257,69.87081,38.78257",
+    "geom:latitude":38.78257,
+    "geom:longitude":69.87081,
+    "gn:gn_country":"TJ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7731,
+    "gn:population":7731,
+    "iso:country":"TJ",
+    "lbl:latitude":38.78257,
+    "lbl:longitude":69.87081,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0433\u0443\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Roghun"
+    ],
+    "name:eng_x_preferred":[
+        "Roghun"
+    ],
+    "name:may_x_preferred":[
+        "Roghun"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0627\u063a\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Rogun"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0433\u0443\u043d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0420\u043e\u0493\u0443\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0433\u0443\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Ragun"
+    ],
+    "name:vep_x_preferred":[
+        "Rogun"
+    ],
+    "qs_pg:aaroncc":"TJ",
+    "qs_pg:gn_country":"TJ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1220701,
+    "qs_pg:gn_pop":7731,
+    "qs_pg:name":"Roghun",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":130977,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091916539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220701,
+        "qs_pg:id":130977,
+        "wd:id":"Q2565349"
+    },
+    "wof:country":"TJ",
+    "wof:created":1497294033,
+    "wof:geomhash":"59f84567759aa2332c1d898c14ad62b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916539,
+            "locality_id":1125865789,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1125865789,
+    "wof:lastmodified":1514506559,
+    "wof:name":"Roghun",
+    "wof:parent_id":1091916539,
+    "wof:placetype":"locality",
+    "wof:population":7731,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.87081,
+    38.78257,
+    69.87081,
+    38.78257
+],
+  "geometry": {"coordinates":[69.87081000000001,38.78257],"type":"Point"}
+}

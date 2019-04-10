@@ -1,0 +1,71 @@
+{
+  "id": 1277111639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.96933,38.55009,68.96933,38.55009",
+    "geom:latitude":38.55009,
+    "geom:longitude":68.96933,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Kamongaroni-Bolo",
+    "gn:country_code":"TJ",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221255,
+    "gn:latitude":38.55009,
+    "gn:longitude":68.96933,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kamongaroni-Bolo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Komangoran",
+        "Kamongaroni-Bolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091917077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221255
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"fd3f6b6b2eceb83881d718c17976ae1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917077,
+            "locality_id":1277111639,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1277111639,
+    "wof:lastmodified":1537706329,
+    "wof:name":"Kamongaroni-Bolo",
+    "wof:parent_id":1091917077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.96933,
+    38.55009,
+    68.96933,
+    38.55009
+],
+  "geometry": {"coordinates":[68.96933,38.55009],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360094673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.53013,37.64355,71.53013,37.64355",
+    "geom:latitude":37.64355,
+    "geom:longitude":71.53013,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Diryomj",
+    "gn:country_code":"TJ",
+    "gn:dem":2056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8426954,
+    "gn:latitude":37.64355,
+    "gn:longitude":71.53013,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Diryomj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0414\u0438\u0440\u0451\u043c\u04b7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8426954
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"47c1fb23f386b4e0523ac83a130d0856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917883,
+            "locality_id":1360094673,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1360094673,
+    "wof:lastmodified":1537706414,
+    "wof:name":"Diryomj",
+    "wof:parent_id":1091917883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.53013,
+    37.64355,
+    71.53013,
+    37.64355
+],
+  "geometry": {"coordinates":[71.53013,37.64355],"type":"Point"}
+}

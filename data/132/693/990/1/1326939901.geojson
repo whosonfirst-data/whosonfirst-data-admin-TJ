@@ -1,0 +1,70 @@
+{
+  "id": 1326939901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.55066,36.83853,71.55066,36.83853",
+    "geom:latitude":36.83853,
+    "geom:longitude":71.55066,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sumdzhin",
+    "gn:country_code":"TJ",
+    "gn:dem":2484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8342751,
+    "gn:latitude":36.83853,
+    "gn:longitude":71.55066,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Sumdzhin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0421\u0443\u043c\u0434\u0436\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091916859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8342751
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"fbf2f6aedec00c5af8522e77ada5d14f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916859,
+            "locality_id":1326939901,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1326939901,
+    "wof:lastmodified":1537706412,
+    "wof:name":"Sumdzhin",
+    "wof:parent_id":1091916859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.55066,
+    36.83853,
+    71.55066,
+    36.83853
+],
+  "geometry": {"coordinates":[71.55065999999999,36.83853],"type":"Point"}
+}

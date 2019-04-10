@@ -1,0 +1,68 @@
+{
+  "id": 1344258607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.46667,40.01667,69.46667,40.01667",
+    "geom:latitude":40.01667,
+    "geom:longitude":69.46667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ak-Tyube",
+    "gn:country_code":"TJ",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514926,
+    "gn:latitude":40.01667,
+    "gn:longitude":69.46667,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ak-Tyube",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091917591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514926,
+        "wk:page":"Ak-Tyube"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"7155a873e6dbf70d6d07b77f6737610a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917591,
+            "locality_id":1344258607,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1344258607,
+    "wof:lastmodified":1537574433,
+    "wof:name":"Ak-Tyube",
+    "wof:parent_id":1091917591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.46667,
+    40.01667,
+    69.46667,
+    40.01667
+],
+  "geometry": {"coordinates":[69.46666999999999,40.01667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326542867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.69869,37.98216,68.69869,37.98216",
+    "geom:latitude":37.98216,
+    "geom:longitude":68.69869,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Uyali",
+    "gn:country_code":"TJ",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220234,
+    "gn:latitude":37.98216,
+    "gn:longitude":68.69869,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Uyal\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uyyaly",
+        "Uyaly",
+        "Uyal\u00ed",
+        "\u0423\u044f\u043b\u04e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220234
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"1df9a7394f75a732bcde9f0a469ed387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916455,
+            "locality_id":1326542867,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1326542867,
+    "wof:lastmodified":1537706294,
+    "wof:name":"Uyali",
+    "wof:parent_id":1091916455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.69869,
+    37.98216,
+    68.69869,
+    37.98216
+],
+  "geometry": {"coordinates":[68.69869,37.98216],"type":"Point"}
+}

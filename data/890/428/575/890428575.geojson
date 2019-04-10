@@ -1,0 +1,76 @@
+{
+  "id": 890428575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.09947,39.15487,69.09947,39.15487",
+    "geom:latitude":39.15487,
+    "geom:longitude":69.09947,
+    "gn:country":"TJ",
+    "gn:fcode":"PPL",
+    "gn:pop":55,
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Qul"
+    ],
+    "name:eng_x_preferred":[
+        "Qul"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30fc\u30eb"
+    ],
+    "qs:name":"Q\u016fl",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8133595,
+        "gp:id":2213365,
+        "qs:id":758681,
+        "wd:id":"Q7272750"
+    },
+    "wof:country":"TJ",
+    "wof:created":1469051759,
+    "wof:geomhash":"c28c4ab99bc6049d16d01b86dc2c5647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916317,
+            "locality_id":890428575,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":890428575,
+    "wof:lastmodified":1514506559,
+    "wof:name":"Q\u016fl",
+    "wof:parent_id":1091916317,
+    "wof:placetype":"locality",
+    "wof:population":55,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.09947,
+    39.15487,
+    69.09947,
+    39.15487
+],
+  "geometry": {"coordinates":[69.09947,39.15487],"type":"Point"}
+}

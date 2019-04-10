@@ -1,0 +1,77 @@
+{
+  "id": 1226356221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.71226,37.34869,71.71226,37.34869",
+    "geom:latitude":37.34869,
+    "geom:longitude":71.71226,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Medenshor",
+    "gn:country_code":"TJ",
+    "gn:dem":2731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221014,
+    "gn:latitude":37.34869,
+    "gn:longitude":71.71226,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Medenshor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Medenshor"
+    ],
+    "name:tgk_x_variant":[
+        "\u041c\u0435\u0434\u0435\u043d\u0448\u043e\u0440"
+    ],
+    "name:und_x_variant":[
+        "Medensharv",
+        "Medenshar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221014
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"027ed87152fab2561ac9de9a51fa9629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917883,
+            "locality_id":1226356221,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1226356221,
+    "wof:lastmodified":1537706321,
+    "wof:name":"Medenshor",
+    "wof:parent_id":1091917883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.71226,
+    37.34869000000001,
+    71.71226,
+    37.34869000000001
+],
+  "geometry": {"coordinates":[71.71226,37.34869000000001],"type":"Point"}
+}

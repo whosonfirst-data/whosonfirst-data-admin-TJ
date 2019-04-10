@@ -1,0 +1,74 @@
+{
+  "id": 1226351093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.8512,37.69211,69.8512,37.69211",
+    "geom:latitude":37.69211,
+    "geom:longitude":69.8512,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mishkoron",
+    "gn:country_code":"TJ",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475734,
+    "gn:latitude":37.69211,
+    "gn:longitude":69.8512,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Mishkoron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Mishkoron"
+    ],
+    "name:und_x_variant":[
+        "Marish-Karon",
+        "\u041c\u0438\u0448\u043a\u043e\u0440\u043e\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475734
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"43ac3438aa7daa831ce08a549afb644f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917249,
+            "locality_id":1226351093,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1226351093,
+    "wof:lastmodified":1537706390,
+    "wof:name":"Mishkoron",
+    "wof:parent_id":1091917249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.8512,
+    37.69211,
+    69.8512,
+    37.69211
+],
+  "geometry": {"coordinates":[69.85120000000001,37.69211],"type":"Point"}
+}

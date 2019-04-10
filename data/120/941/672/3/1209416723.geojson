@@ -1,0 +1,64 @@
+{
+  "id": 1209416723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.45078,40.32818,70.45078,40.32818",
+    "geom:latitude":40.32818,
+    "geom:longitude":70.45078,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qizilnur",
+    "gn:country_code":"TJ",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277133,
+    "gn:latitude":40.32818,
+    "gn:longitude":70.45078,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"Qizilnur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u049a\u0438\u0437\u0438\u043b\u043d\u0443\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277133
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"db9bbdd647062e4fa87581df90d8cb2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209416723
+        }
+    ],
+    "wof:id":1209416723,
+    "wof:lastmodified":1537706411,
+    "wof:name":"Qizilnur",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.45078000000002,
+    40.32818,
+    70.45078000000002,
+    40.32818
+],
+  "geometry": {"coordinates":[70.45078000000002,40.32818],"type":"Point"}
+}

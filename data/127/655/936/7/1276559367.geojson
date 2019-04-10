@@ -1,0 +1,74 @@
+{
+  "id": 1276559367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.09275,40.19218,69.09275,40.19218",
+    "geom:latitude":40.19218,
+    "geom:longitude":69.09275,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Jomi",
+    "gn:country_code":"TJ",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273882,
+    "gn:latitude":40.19218,
+    "gn:longitude":69.09275,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Jom\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jom\u00ed",
+        "\u04b6\u041e\u043c\u04e3"
+    ],
+    "name:uzb_x_preferred":[
+        "Jami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091918339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273882
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"c6579c91965fb0fc757f32effead782f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918339,
+            "locality_id":1276559367,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1276559367,
+    "wof:lastmodified":1537706406,
+    "wof:name":"Jomi",
+    "wof:parent_id":1091918339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.09275,
+    40.19218,
+    69.09275,
+    40.19218
+],
+  "geometry": {"coordinates":[69.09275,40.19218],"type":"Point"}
+}

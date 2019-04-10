@@ -1,0 +1,71 @@
+{
+  "id": 1225981069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.30912,38.52916,69.30912,38.52916",
+    "geom:latitude":38.52916,
+    "geom:longitude":69.30912,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Jonvarsuz",
+    "gn:country_code":"TJ",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346308,
+    "gn:latitude":38.52916,
+    "gn:longitude":69.30912,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Jonvars\u016dz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhonvarsuz",
+        "Jonvars\u016dz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091916587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346308
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"cb148c5b42290ec8640c3cc9b2650710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916587,
+            "locality_id":1225981069,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1225981069,
+    "wof:lastmodified":1537706378,
+    "wof:name":"Jonvarsuz",
+    "wof:parent_id":1091916587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.30912,
+    38.52916,
+    69.30912,
+    38.52916
+],
+  "geometry": {"coordinates":[69.30911999999999,38.52916],"type":"Point"}
+}

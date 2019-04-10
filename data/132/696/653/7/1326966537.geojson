@@ -1,0 +1,67 @@
+{
+  "id": 1326966537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.57528,38.50422,68.57528,38.50422",
+    "geom:latitude":38.50422,
+    "geom:longitude":68.57528,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Kombinat Slepykh",
+    "gn:country_code":"TJ",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1333992,
+    "gn:latitude":38.50422,
+    "gn:longitude":68.57528,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kombinat Slepykh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091916749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1333992
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"653d6c7cf20e66977d88219ea1de90fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916749,
+            "locality_id":1326966537,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1326966537,
+    "wof:lastmodified":1536854202,
+    "wof:name":"Kombinat Slepykh",
+    "wof:parent_id":1091916749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.57528,
+    38.50422,
+    68.57528,
+    38.50422
+],
+  "geometry": {"coordinates":[68.57528000000001,38.50422],"type":"Point"}
+}

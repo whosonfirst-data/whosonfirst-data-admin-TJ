@@ -1,0 +1,71 @@
+{
+  "id": 1293698301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.5004,40.71654,69.5004,40.71654",
+    "geom:latitude":40.71654,
+    "geom:longitude":69.5004,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Quchkarli",
+    "gn:country_code":"TJ",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275347,
+    "gn:latitude":40.71654,
+    "gn:longitude":69.5004,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Q\u016dchkarli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Q\u016dchkarli",
+        "\u049a\u04ef\u0447\u043a\u0430\u0440\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091917221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275347
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"2e6e4e744598fae2868e979103936b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917221,
+            "locality_id":1293698301,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1293698301,
+    "wof:lastmodified":1537706409,
+    "wof:name":"Quchkarli",
+    "wof:parent_id":1091917221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.5004,
+    40.71654,
+    69.5004,
+    40.71654
+],
+  "geometry": {"coordinates":[69.5004,40.71654],"type":"Point"}
+}

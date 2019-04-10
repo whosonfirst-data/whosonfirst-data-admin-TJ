@@ -1,0 +1,72 @@
+{
+  "id": 1209917415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.20226,37.43494,69.20226,37.43494",
+    "geom:latitude":37.43494,
+    "geom:longitude":69.20226,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Beshquduq",
+    "gn:country_code":"TJ",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222141,
+    "gn:latitude":37.43494,
+    "gn:longitude":69.20226,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Beshquduq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Besh-Kuduk",
+        "Beshquduq",
+        "\u0411\u0435\u0448\u049b\u0443\u0434\u0443\u049b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222141
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"d5575fb56a6e723d30176a540741a189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917463,
+            "locality_id":1209917415,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1209917415,
+    "wof:lastmodified":1537706358,
+    "wof:name":"Beshquduq",
+    "wof:parent_id":1091917463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.20226,
+    37.43494000000001,
+    69.20226,
+    37.43494000000001
+],
+  "geometry": {"coordinates":[69.20226,37.43494000000001],"type":"Point"}
+}

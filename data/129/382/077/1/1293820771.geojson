@@ -1,0 +1,71 @@
+{
+  "id": 1293820771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.27802,38.41605,68.27802,38.41605",
+    "geom:latitude":38.41605,
+    "geom:longitude":68.27802,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Kuchkan",
+    "gn:country_code":"TJ",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221226,
+    "gn:latitude":38.41605,
+    "gn:longitude":68.27802,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kuchkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuchkan-Bulak",
+        "Kuchkan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221226
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"e4cde7868d38429b02a13cf48873d6ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918055,
+            "locality_id":1293820771,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1293820771,
+    "wof:lastmodified":1537706328,
+    "wof:name":"Kuchkan",
+    "wof:parent_id":1091918055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.27802,
+    38.41605,
+    68.27802,
+    38.41605
+],
+  "geometry": {"coordinates":[68.27802,38.41605],"type":"Point"}
+}

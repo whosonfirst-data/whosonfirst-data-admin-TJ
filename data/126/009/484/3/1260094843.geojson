@@ -1,0 +1,67 @@
+{
+  "id": 1260094843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.81667,37.66667,69.81667,37.66667",
+    "geom:latitude":37.66667,
+    "geom:longitude":69.81667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khodzha-Isan",
+    "gn:country_code":"TJ",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221349,
+    "gn:latitude":37.66667,
+    "gn:longitude":69.81667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Khodzha-Isan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221349
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"d168f667b727c7ab65f61017e102ac6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917249,
+            "locality_id":1260094843,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1260094843,
+    "wof:lastmodified":1536971266,
+    "wof:name":"Khodzha-Isan",
+    "wof:parent_id":1091917249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.81667,
+    37.66667,
+    69.81667,
+    37.66667
+],
+  "geometry": {"coordinates":[69.81667,37.66667],"type":"Point"}
+}

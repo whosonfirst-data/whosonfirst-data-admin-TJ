@@ -1,0 +1,74 @@
+{
+  "id": 1226755067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.53807,40.60788,70.53807,40.60788",
+    "geom:latitude":40.60788,
+    "geom:longitude":70.53807,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Urmontol",
+    "gn:country_code":"TJ",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277169,
+    "gn:latitude":40.60788,
+    "gn:longitude":70.53807,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"\u016crmontol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u016crmontol",
+        "\u04ee\u0440\u043c\u043e\u043d\u0442\u043e\u043b"
+    ],
+    "name:uzb_x_preferred":[
+        "O\u2018rmontol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277169
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"ac2b8bb3a507717f148b3a425ce99653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916363,
+            "locality_id":1226755067,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1226755067,
+    "wof:lastmodified":1537706411,
+    "wof:name":"Urmontol",
+    "wof:parent_id":1091916363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.53806999999998,
+    40.60788,
+    70.53806999999998,
+    40.60788
+],
+  "geometry": {"coordinates":[70.53806999999998,40.60788],"type":"Point"}
+}

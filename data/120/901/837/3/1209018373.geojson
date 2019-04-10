@@ -1,0 +1,66 @@
+{
+  "id": 1209018373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.92363,38.6316,71.92363,38.6316",
+    "geom:latitude":38.6316,
+    "geom:longitude":71.92363,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sumgad",
+    "gn:country_code":"TJ",
+    "gn:dem":2280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220431,
+    "gn:latitude":38.6316,
+    "gn:longitude":71.92363,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sumgad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sungad",
+        "Sungat",
+        "Sumgad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220431
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"c94d08251cfed7049c1b54b84ab55634",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209018373
+        }
+    ],
+    "wof:id":1209018373,
+    "wof:lastmodified":1537706300,
+    "wof:name":"Sumgad",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.92363,
+    38.6316,
+    71.92363,
+    38.6316
+],
+  "geometry": {"coordinates":[71.92363,38.6316],"type":"Point"}
+}

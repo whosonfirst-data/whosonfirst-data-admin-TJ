@@ -1,0 +1,67 @@
+{
+  "id": 1243009003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.66774,38.68327,68.66774,38.68327",
+    "geom:latitude":38.68327,
+    "geom:longitude":68.66774,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Kisatorosh",
+    "gn:country_code":"TJ",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221295,
+    "gn:latitude":38.68327,
+    "gn:longitude":68.66774,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kisatorosh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221295
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"c9917fcc8ceae906d31089b3136e190c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918215,
+            "locality_id":1243009003,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1243009003,
+    "wof:lastmodified":1536939898,
+    "wof:name":"Kisatorosh",
+    "wof:parent_id":1091918215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.66774000000001,
+    38.68327,
+    68.66774000000001,
+    38.68327
+],
+  "geometry": {"coordinates":[68.66774000000001,38.68327],"type":"Point"}
+}

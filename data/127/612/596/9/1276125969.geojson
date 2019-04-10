@@ -1,0 +1,70 @@
+{
+  "id": 1276125969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.46985,40.63257,70.46985,40.63257",
+    "geom:latitude":40.63257,
+    "geom:longitude":70.46985,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gulshan",
+    "gn:country_code":"TJ",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277129,
+    "gn:latitude":40.63257,
+    "gn:longitude":70.46985,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Gulshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0413\u0443\u043b\u0448\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277129
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"0c5c422d3b6568ad58e827bd5bf42337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916363,
+            "locality_id":1276125969,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1276125969,
+    "wof:lastmodified":1537706411,
+    "wof:name":"Gulshan",
+    "wof:parent_id":1091916363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.46985,
+    40.63257,
+    70.46985,
+    40.63257
+],
+  "geometry": {"coordinates":[70.46984999999999,40.63257],"type":"Point"}
+}

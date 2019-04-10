@@ -1,0 +1,80 @@
+{
+  "id": 1326541583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.87664,40.17855,69.87664,40.17855",
+    "geom:latitude":40.17855,
+    "geom:longitude":69.87664,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ariqi Duyum",
+    "gn:country_code":"TJ",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275527,
+    "gn:latitude":40.17855,
+    "gn:longitude":69.87664,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ariqi Duyum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0410\u0440\u0438\u049b\u0438 \u0414\u0443\u044e\u043c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690385,
+        85632513,
+        85678913,
+        1091916787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275527
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"12a95a99955a6082178f9bb1a3f67e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690385,
+            "locality_id":1326541583,
+            "region_id":85672995
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916787,
+            "locality_id":1326541583,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1326541583,
+    "wof:lastmodified":1537706410,
+    "wof:name":"Ariqi Duyum",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.87664000000001,
+    40.17855,
+    69.87664000000001,
+    40.17855
+],
+  "geometry": {"coordinates":[69.87664000000001,40.17855],"type":"Point"}
+}

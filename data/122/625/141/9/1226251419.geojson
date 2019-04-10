@@ -1,0 +1,77 @@
+{
+  "id": 1226251419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.96064,37.62679,69.96064,37.62679",
+    "geom:latitude":37.62679,
+    "geom:longitude":69.96064,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Razvaliny Khodzhadzhumar",
+    "gn:country_code":"TJ",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1221352,
+    "gn:latitude":37.62679,
+    "gn:longitude":69.96064,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Razvaliny Khodzhadzhumar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tgk_x_preferred":[
+        "Kharoba Khojaj\u016dybar"
+    ],
+    "name:tgk_x_variant":[
+        "\u0425\u0430\u0440\u043e\u0431\u0430 \u0425\u043e\u04b7\u0430\u04b7\u04ef\u0439\u0431\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Khodzha-Dzhuan",
+        "Razvaliny Khodzhadzhumar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221352
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"716ad2427a86077736c598f778c9ba56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917249,
+            "locality_id":1226251419,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1226251419,
+    "wof:lastmodified":1537706331,
+    "wof:name":"Razvaliny Khodzhadzhumar",
+    "wof:parent_id":1091917249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.96064,
+    37.62679,
+    69.96064,
+    37.62679
+],
+  "geometry": {"coordinates":[69.96064,37.62679],"type":"Point"}
+}

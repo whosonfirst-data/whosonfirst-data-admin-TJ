@@ -1,0 +1,67 @@
+{
+  "id": 1226452295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.23984,37.10607,69.23984,37.10607",
+    "geom:latitude":37.10607,
+    "geom:longitude":69.23984,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khalkayar",
+    "gn:country_code":"TJ",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221405,
+    "gn:latitude":37.10607,
+    "gn:longitude":69.23984,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Khalkayar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221405
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"3e06e13d01fe2377f6fd7375ec23f022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917547,
+            "locality_id":1226452295,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1226452295,
+    "wof:lastmodified":1536634657,
+    "wof:name":"Khalkayar",
+    "wof:parent_id":1091917547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.23984,
+    37.10607,
+    69.23984,
+    37.10607
+],
+  "geometry": {"coordinates":[69.23984,37.10607],"type":"Point"}
+}

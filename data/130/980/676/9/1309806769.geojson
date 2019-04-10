@@ -1,0 +1,79 @@
+{
+  "id": 1309806769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.84046,38.01808,69.84046,38.01808",
+    "geom:latitude":38.01808,
+    "geom:longitude":69.84046,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Jorbogh",
+    "gn:country_code":"TJ",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346083,
+    "gn:latitude":38.01808,
+    "gn:longitude":69.84046,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Jorbogh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "\u0427\u043e\u0440\u0431\u043e\u0433"
+    ],
+    "name:tgk_x_variant":[
+        "Chorbog"
+    ],
+    "name:und_x_variant":[
+        "Chorbog",
+        "Jorbog",
+        "Jorbogh",
+        "\u04b6\u043e\u0440\u0431\u043e\u0493"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346083
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"a2afc0922c24871531c64ee60fc9509c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917109,
+            "locality_id":1309806769,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1309806769,
+    "wof:lastmodified":1537706369,
+    "wof:name":"Jorbogh",
+    "wof:parent_id":1091917109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.84046,
+    38.01808,
+    69.84046,
+    38.01808
+],
+  "geometry": {"coordinates":[69.84045999999999,38.01808],"type":"Point"}
+}

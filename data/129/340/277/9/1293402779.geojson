@@ -1,0 +1,67 @@
+{
+  "id": 1293402779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.50389,38.21194,69.50389,38.21194",
+    "geom:latitude":38.21194,
+    "geom:longitude":69.50389,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Falkhabad",
+    "gn:country_code":"TJ",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346064,
+    "gn:latitude":38.21194,
+    "gn:longitude":69.50389,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Falkhabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346064
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"85c3672927666fb97f5aabd65b66abd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916409,
+            "locality_id":1293402779,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1293402779,
+    "wof:lastmodified":1536909380,
+    "wof:name":"Falkhabad",
+    "wof:parent_id":1091916409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.50389,
+    38.21194000000001,
+    69.50389,
+    38.21194000000001
+],
+  "geometry": {"coordinates":[69.50389,38.21194000000001],"type":"Point"}
+}

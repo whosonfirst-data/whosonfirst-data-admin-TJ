@@ -1,0 +1,72 @@
+{
+  "id": 1226246717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.73333,37.66667,73.73333,37.66667",
+    "geom:latitude":37.66667,
+    "geom:longitude":73.73333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Uchqul",
+    "gn:country_code":"TJ",
+    "gn:dem":4145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220274,
+    "gn:latitude":37.66667,
+    "gn:longitude":73.73333,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Uchq\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uchq\u016dl",
+        "\u0423\u0447\u049b\u04ef\u043b",
+        "Uchkul\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220274
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"5a16b31886418c63268baa271dc4235f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917339,
+            "locality_id":1226246717,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1226246717,
+    "wof:lastmodified":1537706295,
+    "wof:name":"Uchqul",
+    "wof:parent_id":1091917339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.73333000000002,
+    37.66667,
+    73.73333000000002,
+    37.66667
+],
+  "geometry": {"coordinates":[73.73333000000002,37.66667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276156961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.23333,38.56667,68.23333,38.56667",
+    "geom:latitude":38.56667,
+    "geom:longitude":68.23333,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Buzuk",
+    "gn:country_code":"TJ",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222077,
+    "gn:latitude":38.56667,
+    "gn:longitude":68.23333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Buzuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222077
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"2e8e5f704656c76651375d9ada751460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918055,
+            "locality_id":1276156961,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1276156961,
+    "wof:lastmodified":1537014423,
+    "wof:name":"Buzuk",
+    "wof:parent_id":1091918055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.23333000000001,
+    38.56667,
+    68.23333000000001,
+    38.56667
+],
+  "geometry": {"coordinates":[68.23333000000001,38.56667],"type":"Point"}
+}

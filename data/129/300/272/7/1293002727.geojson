@@ -1,0 +1,71 @@
+{
+  "id": 1293002727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.46619,40.49921,69.46619,40.49921",
+    "geom:latitude":40.49921,
+    "geom:longitude":69.46619,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qurghon",
+    "gn:country_code":"TJ",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275313,
+    "gn:latitude":40.49921,
+    "gn:longitude":69.46619,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Q\u016drghon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Q\u016drghon",
+        "\u049a\u04ef\u0440\u0493\u043e\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275313
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"75a912ddd3a265743ee5f9ae21f69e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916787,
+            "locality_id":1293002727,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1293002727,
+    "wof:lastmodified":1537706409,
+    "wof:name":"Qurghon",
+    "wof:parent_id":1091916787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.46619,
+    40.49921,
+    69.46619,
+    40.49921
+],
+  "geometry": {"coordinates":[69.46619,40.49921],"type":"Point"}
+}

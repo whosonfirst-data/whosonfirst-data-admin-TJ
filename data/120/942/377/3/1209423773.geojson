@@ -1,0 +1,65 @@
+{
+  "id": 1209423773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.83424,37.66416,68.83424,37.66416",
+    "geom:latitude":37.66416,
+    "geom:longitude":68.83424,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Internatsional",
+    "gn:country_code":"TJ",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220772,
+    "gn:latitude":37.66416,
+    "gn:longitude":68.83424,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Internatsional",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0418\u043d\u0442\u0435\u0440\u043d\u0430\u0442\u0441\u0438\u043e\u043d\u0430\u043b",
+        "Pos\u00eblok Nomer Chetv\u00ebrtyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220772
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"4dc36c9c69b4423f75a924cc680a337a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209423773
+        }
+    ],
+    "wof:id":1209423773,
+    "wof:lastmodified":1537706312,
+    "wof:name":"Internatsional",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.83424000000001,
+    37.66416,
+    68.83424000000001,
+    37.66416
+],
+  "geometry": {"coordinates":[68.83424000000001,37.66416],"type":"Point"}
+}

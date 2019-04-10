@@ -1,0 +1,144 @@
+{
+  "id": 890433669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.55124,38.52504,68.55124,38.52504",
+    "geom:latitude":38.52504,
+    "geom:longitude":68.55124,
+    "gn:country":"TJ",
+    "gn:fcode":"PPL",
+    "gn:pop":23978,
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u0635\u0627\u0631"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0438\u0441\u0430\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Hisor"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e0c\u85a9\u723e"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062d\u06cc\u0633\u0627\u0631\u060c \u062a\u0627\u062c\u06cc\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Hisor"
+    ],
+    "name:eng_x_preferred":[
+        "Hisor"
+    ],
+    "name:est_x_preferred":[
+        "Hisor"
+    ],
+    "name:fin_x_preferred":[
+        "Hisor"
+    ],
+    "name:fre_x_preferred":[
+        "Hisor"
+    ],
+    "name:ger_x_preferred":[
+        "Hissor"
+    ],
+    "name:ita_x_preferred":[
+        "Hisor"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ae\u30c3\u30b5\u30fc\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ud788\uc18c\ub974"
+    ],
+    "name:lit_x_preferred":[
+        "Gisaras"
+    ],
+    "name:per_x_preferred":[
+        "\u062d\u0635\u0627\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Hisar"
+    ],
+    "name:pus_x_preferred":[
+        "\u062d\u0635\u0627\u0631\u060c \u062a\u0627\u062c\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u0441\u0441\u0430\u0440"
+    ],
+    "name:tgk_x_preferred":[
+        "\u04b2\u0438\u0441\u043e\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u0441\u0430\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Staryy Gissar"
+    ],
+    "name:urd_x_preferred":[
+        "\u062d\u0635\u0627\u0631\u060c \u062a\u0627\u062c\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10f0\u10d8\u10e1\u10d0\u10e0\u10d8"
+    ],
+    "qs:name":"Hisor",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:elevation":802.0,
+    "wd:latitude":"38.526388888",
+    "wd:longitude":"68.538055555",
+    "wd:wordcount":296,
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091916749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221714,
+        "gp:id":2212129,
+        "qs:id":130991,
+        "wd:id":"Q655771",
+        "wk:page":"Hisor"
+    },
+    "wof:country":"TJ",
+    "wof:created":1469051989,
+    "wof:geomhash":"fd421e1afd100019395e666bc98d67e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916749,
+            "locality_id":890433669,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":890433669,
+    "wof:lastmodified":1553816396,
+    "wof:name":"Hisor",
+    "wof:parent_id":1091916749,
+    "wof:placetype":"locality",
+    "wof:population":23978,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.55124,
+    38.52504,
+    68.55124,
+    38.52504
+],
+  "geometry": {"coordinates":[68.55124000000001,38.52504],"type":"Point"}
+}

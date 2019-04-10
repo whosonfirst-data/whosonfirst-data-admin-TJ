@@ -1,0 +1,67 @@
+{
+  "id": 1344260193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.20704,38.47171,70.20704,38.47171",
+    "geom:latitude":38.47171,
+    "geom:longitude":70.20704,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sirko",
+    "gn:country_code":"TJ",
+    "gn:dem":1713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346408,
+    "gn:latitude":38.47171,
+    "gn:longitude":70.20704,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sirko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346408
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"14a83f97d6e589132f7e1c0942b357ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916813,
+            "locality_id":1344260193,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1344260193,
+    "wof:lastmodified":1537081363,
+    "wof:name":"Sirko",
+    "wof:parent_id":1091916813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.20704,
+    38.47171,
+    70.20704,
+    38.47171
+],
+  "geometry": {"coordinates":[70.20704000000001,38.47171],"type":"Point"}
+}

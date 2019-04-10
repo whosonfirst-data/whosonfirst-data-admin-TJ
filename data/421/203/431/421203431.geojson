@@ -1,0 +1,112 @@
+{
+  "id": 421203431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.50163,40.16713,69.50163,40.16713",
+    "geom:latitude":40.16713,
+    "geom:longitude":69.50163,
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440\u0441\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Proletarsk"
+    ],
+    "name:eng_x_preferred":[
+        "Proletarsk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u067e\u0631\u0648\u0644\u062a\u0627\u0631\u0633\u06a9"
+    ],
+    "name:ind_x_preferred":[
+        "Proletarsk"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u067e\u0631\u0648\u0644\u062a\u0627\u0631\u0633\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Proletar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440\u0441\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Jabbor Rasulov"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0631\u0648\u0644\u062a\u0627\u0631\u0633\u06a9\u060c \u062a\u0627\u062c\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "qs:gn_country":"TJ",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":1514839,
+    "qs:gn_pop":16441,
+    "qs:name":"Proletarsk",
+    "qs:name_adm0":"Tajikistan",
+    "qs:name_adm1":"Leninobod",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":66554,
+    "qs:woe_adm0":23424961,
+    "qs:woe_id":28752636,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":106,
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091917591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514839,
+        "gp:id":28752636,
+        "qs:id":66554,
+        "wd:id":"Q4122081",
+        "wk:page":"Proletarsk, Tajikistan"
+    },
+    "wof:country":"TJ",
+    "wof:created":1459010151,
+    "wof:geomhash":"e5a025540cc2cfc7280b8ec5622a31ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917591,
+            "locality_id":421203431,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":421203431,
+    "wof:lastmodified":1527716193,
+    "wof:name":"Proletarsk",
+    "wof:parent_id":1091917591,
+    "wof:placetype":"locality",
+    "wof:population":16441,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.50163,
+    40.16713,
+    69.50163,
+    40.16713
+],
+  "geometry": {"coordinates":[69.50163000000001,40.16713],"type":"Point"}
+}

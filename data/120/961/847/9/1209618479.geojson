@@ -1,0 +1,76 @@
+{
+  "id": 1209618479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.16909,37.93161,70.16909,37.93161",
+    "geom:latitude":37.93161,
+    "geom:longitude":70.16909,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kisht",
+    "gn:country_code":"TJ",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221122,
+    "gn:latitude":37.93161,
+    "gn:longitude":70.16909,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Kisht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kishti-Poy\u00ebn"
+    ],
+    "name:tgk_x_preferred":[
+        "Kishti Poyon"
+    ],
+    "name:tgk_x_variant":[
+        "\u041a\u0438\u0448\u0442\u0438 \u041f\u043e\u0451\u043d",
+        "Kisht"
+    ],
+    "name:und_x_variant":[
+        "Kyshtipoy\u00ebn",
+        "Kisht-Poyon",
+        "\u041a\u0438\u0448\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221122
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"5636fac9c950d7c60be337e05fb0830c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209618479
+        }
+    ],
+    "wof:id":1209618479,
+    "wof:lastmodified":1537706325,
+    "wof:name":"Kisht",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.16909,
+    37.93161,
+    70.16909,
+    37.93161
+],
+  "geometry": {"coordinates":[70.16909,37.93161],"type":"Point"}
+}

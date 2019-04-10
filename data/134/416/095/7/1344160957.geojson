@@ -1,0 +1,75 @@
+{
+  "id": 1344160957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.40847,38.31695,72.40847,38.31695",
+    "geom:latitude":38.31695,
+    "geom:longitude":72.40847,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Savnob",
+    "gn:country_code":"TJ",
+    "gn:dem":2665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220601,
+    "gn:latitude":38.31695,
+    "gn:longitude":72.40847,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Savnob",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saunob",
+        "Tashkurgen",
+        "Tashkurghan",
+        "Tash-Kurgan",
+        "Savnob",
+        "\u0421\u0430\u0432\u043d\u043e\u0431"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220601
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"c19806806814fda5ba076bb8e7bdf2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917707,
+            "locality_id":1344160957,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1344160957,
+    "wof:lastmodified":1537706306,
+    "wof:name":"Savnob",
+    "wof:parent_id":1091917707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.40847,
+    38.31695,
+    72.40847,
+    38.31695
+],
+  "geometry": {"coordinates":[72.40846999999999,38.31695],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293797967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.8,38.55,70.8,38.55",
+    "geom:latitude":38.55,
+    "geom:longitude":70.8,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ugor",
+    "gn:country_code":"TJ",
+    "gn:dem":1980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220268,
+    "gn:latitude":38.55,
+    "gn:longitude":70.8,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ugor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220268
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"c6d615e393eccfee2b9bb2a6cfd24fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917021,
+            "locality_id":1293797967,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1293797967,
+    "wof:lastmodified":1536835428,
+    "wof:name":"Ugor",
+    "wof:parent_id":1091917021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.8,
+    38.55,
+    70.8,
+    38.55
+],
+  "geometry": {"coordinates":[70.8,38.55],"type":"Point"}
+}

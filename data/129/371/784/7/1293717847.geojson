@@ -1,0 +1,67 @@
+{
+  "id": 1293717847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.2267,38.58529,68.2267,38.58529",
+    "geom:latitude":38.58529,
+    "geom:longitude":68.2267,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Asbob",
+    "gn:country_code":"TJ",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222236,
+    "gn:latitude":38.58529,
+    "gn:longitude":68.2267,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Asbob",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222236
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"30558b68fbae9cbbffac030fae29f222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918055,
+            "locality_id":1293717847,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1293717847,
+    "wof:lastmodified":1536952606,
+    "wof:name":"Asbob",
+    "wof:parent_id":1091918055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.2267,
+    38.58529,
+    68.2267,
+    38.58529
+],
+  "geometry": {"coordinates":[68.22669999999999,38.58529],"type":"Point"}
+}

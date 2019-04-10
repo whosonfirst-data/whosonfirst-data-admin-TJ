@@ -1,0 +1,67 @@
+{
+  "id": 1226548483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.66005,37.38707,68.66005,37.38707",
+    "geom:latitude":37.38707,
+    "geom:longitude":68.66005,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kyzyl-Tadzhikistan",
+    "gn:country_code":"TJ",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475300,
+    "gn:latitude":37.38707,
+    "gn:longitude":68.66005,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kyzyl-Tadzhikistan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475300
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"dc3f3cd4f402022b3291b83ace69fca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917079,
+            "locality_id":1226548483,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1226548483,
+    "wof:lastmodified":1536993172,
+    "wof:name":"Kyzyl-Tadzhikistan",
+    "wof:parent_id":1091917079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.66005,
+    37.38707,
+    68.66005,
+    37.38707
+],
+  "geometry": {"coordinates":[68.66005,37.38707],"type":"Point"}
+}

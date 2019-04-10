@@ -1,0 +1,70 @@
+{
+  "id": 1309719487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.27477,39.33576,69.27477,39.33576",
+    "geom:latitude":39.33576,
+    "geom:longitude":69.27477,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ghuzn",
+    "gn:country_code":"TJ",
+    "gn:dem":2256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275225,
+    "gn:latitude":39.33576,
+    "gn:longitude":69.27477,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ghuzn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0492\u0443\u0437\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091917081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275225
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"0772f2cba536ad31b153300f651f184b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917081,
+            "locality_id":1309719487,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1309719487,
+    "wof:lastmodified":1537706408,
+    "wof:name":"Ghuzn",
+    "wof:parent_id":1091917081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.27476999999999,
+    39.33576,
+    69.27476999999999,
+    39.33576
+],
+  "geometry": {"coordinates":[69.27476999999999,39.33576],"type":"Point"}
+}

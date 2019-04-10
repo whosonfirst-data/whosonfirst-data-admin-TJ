@@ -1,0 +1,73 @@
+{
+  "id": 1276874159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.59596,40.82183,70.59596,40.82183",
+    "geom:latitude":40.82183,
+    "geom:longitude":70.59596,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ashti Bolo",
+    "gn:country_code":"TJ",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7567783,
+    "gn:latitude":40.82183,
+    "gn:longitude":70.59596,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ashti Bolo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ashti-Bolo"
+    ],
+    "name:und_x_variant":[
+        "\u0410\u0448\u0442\u0438 \u0411\u043e\u043b\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7567783
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"1d29e9677c55d3c55f4c9eff5390440e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916363,
+            "locality_id":1276874159,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1276874159,
+    "wof:lastmodified":1537706405,
+    "wof:name":"Ashti Bolo",
+    "wof:parent_id":1091916363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.59595999999998,
+    40.82183,
+    70.59595999999998,
+    40.82183
+],
+  "geometry": {"coordinates":[70.59595999999998,40.82183],"type":"Point"}
+}

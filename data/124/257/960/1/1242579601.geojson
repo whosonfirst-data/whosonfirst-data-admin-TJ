@@ -1,0 +1,70 @@
+{
+  "id": 1242579601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.63574,39.53655,67.63574,39.53655",
+    "geom:latitude":39.53655,
+    "geom:longitude":67.63574,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shingak",
+    "gn:country_code":"TJ",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220524,
+    "gn:latitude":39.53655,
+    "gn:longitude":67.63574,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Shingak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0428\u0438\u043d\u0433\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091917507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220524
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"77e56d29203cf96cf805cba89392e172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917507,
+            "locality_id":1242579601,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1242579601,
+    "wof:lastmodified":1537706303,
+    "wof:name":"Shingak",
+    "wof:parent_id":1091917507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.63574,
+    39.53655,
+    67.63574,
+    39.53655
+],
+  "geometry": {"coordinates":[67.63574,39.53655],"type":"Point"}
+}

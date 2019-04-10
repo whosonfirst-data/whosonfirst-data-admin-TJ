@@ -1,0 +1,79 @@
+{
+  "id": 1243182193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.77863,38.52995,68.77863,38.52995",
+    "geom:latitude":38.52995,
+    "geom:longitude":68.77863,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dvadtsat' Vtorogo Parts''yezd",
+    "gn:country_code":"TJ",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1334093,
+    "gn:latitude":38.52995,
+    "gn:longitude":68.77863,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Dvadtsat\u2019 Vtorogo Parts\u2019\u2019yezd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "22 (Dvadtsat\u2019 Vtorogo) Parts\u2019\u2019yezd",
+        "Dvadtsat\u2019 Vtorogo Parts\u2019\u2019yezd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        890430645,
+        85678917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1334093
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"1da9aeebf2eb63127e512ea818b64de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":890430645,
+            "locality_id":1243182193,
+            "region_id":85678907
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":890430645,
+            "locality_id":1243182193,
+            "region_id":85678917
+        }
+    ],
+    "wof:id":1243182193,
+    "wof:lastmodified":1537706365,
+    "wof:name":"Dvadtsat' Vtorogo Parts''yezd",
+    "wof:parent_id":890430645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.77863,
+    38.52995,
+    68.77863,
+    38.52995
+],
+  "geometry": {"coordinates":[68.77863000000001,38.52995],"type":"Point"}
+}

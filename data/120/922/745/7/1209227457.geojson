@@ -1,0 +1,69 @@
+{
+  "id": 1209227457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.05967,37.31162,69.05967,37.31162",
+    "geom:latitude":37.31162,
+    "geom:longitude":69.05967,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kuynatemez",
+    "gn:country_code":"TJ",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221132,
+    "gn:latitude":37.31162,
+    "gn:longitude":69.05967,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"K\u016dynatemez",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuyu-Temez",
+        "Kuyu-Temez",
+        "Kuyutemiz",
+        "K\u016ditemez",
+        "K\u016dynatemez",
+        "\u041a\u04ef\u0439\u043d\u0430\u0442\u0435\u043c\u0435\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221132
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"abfee94f4fce0daf6170aa43fff233b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209227457
+        }
+    ],
+    "wof:id":1209227457,
+    "wof:lastmodified":1537706326,
+    "wof:name":"Kuynatemez",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.05967,
+    37.31162,
+    69.05967,
+    37.31162
+],
+  "geometry": {"coordinates":[69.05967,37.31162],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276555387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.23012,39.18718,69.23012,39.18718",
+    "geom:latitude":39.18718,
+    "geom:longitude":69.23012,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qirionte",
+    "gn:country_code":"TJ",
+    "gn:dem":2829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275223,
+    "gn:latitude":39.18718,
+    "gn:longitude":69.23012,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Qirionte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u049a\u0438\u0440\u0438\u043e\u043d\u0442\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091917081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275223
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"4666cf4c8f7b9d0425055ece85f27521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917081,
+            "locality_id":1276555387,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1276555387,
+    "wof:lastmodified":1537706408,
+    "wof:name":"Qirionte",
+    "wof:parent_id":1091917081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.23012,
+    39.18718,
+    69.23012,
+    39.18718
+],
+  "geometry": {"coordinates":[69.23012,39.18718],"type":"Point"}
+}

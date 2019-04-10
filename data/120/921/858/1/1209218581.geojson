@@ -1,0 +1,70 @@
+{
+  "id": 1209218581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.5156,37.58103,71.5156,37.58103",
+    "geom:latitude":37.58103,
+    "geom:longitude":71.5156,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Buved",
+    "gn:country_code":"TJ",
+    "gn:dem":2139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222083,
+    "gn:latitude":37.58103,
+    "gn:longitude":71.5156,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Buved",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Buved"
+    ],
+    "name:tgk_x_variant":[
+        "\u0411\u0443\u0432\u0435\u0434"
+    ],
+    "name:und_x_variant":[
+        "Porshnev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222083
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"d179f1ed0aa6cb824c396958c3878199",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209218581
+        }
+    ],
+    "wof:id":1209218581,
+    "wof:lastmodified":1537706355,
+    "wof:name":"Buved",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.5156,
+    37.58103,
+    71.5156,
+    37.58103
+],
+  "geometry": {"coordinates":[71.51560000000001,37.58103],"type":"Point"}
+}

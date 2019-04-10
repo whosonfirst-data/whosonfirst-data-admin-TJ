@@ -1,0 +1,73 @@
+{
+  "id": 1327138381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07184,38.5327,71.07184,38.5327",
+    "geom:latitude":38.5327,
+    "geom:longitude":71.07184,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ubagan",
+    "gn:country_code":"TJ",
+    "gn:dem":1971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220278,
+    "gn:latitude":38.5327,
+    "gn:longitude":71.07184,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ubagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ubagyn",
+        "Ubagn",
+        "Ubagan",
+        "\u0423\u0431\u0430\u0433\u0430\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091917993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220278
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"124289e6952c9ba04821039c88a62f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917993,
+            "locality_id":1327138381,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1327138381,
+    "wof:lastmodified":1537706295,
+    "wof:name":"Ubagan",
+    "wof:parent_id":1091917993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07184000000002,
+    38.5327,
+    71.07184000000002,
+    38.5327
+],
+  "geometry": {"coordinates":[71.07184000000002,38.5327],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1210034027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.54901,37.74412,71.54901,37.74412",
+    "geom:latitude":37.74412,
+    "geom:longitude":71.54901,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Choshtgandez",
+    "gn:country_code":"TJ",
+    "gn:dem":2042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8426955,
+    "gn:latitude":37.74412,
+    "gn:longitude":71.54901,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Choshtgandez",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0427\u043e\u0448\u0442\u0433\u0430\u043d\u0434\u0435\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8426955
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"58f35fb5c6c9f94cc06158e9eb693dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917707,
+            "locality_id":1210034027,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1210034027,
+    "wof:lastmodified":1537706414,
+    "wof:name":"Choshtgandez",
+    "wof:parent_id":1091917707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.54901,
+    37.74412,
+    71.54901,
+    37.74412
+],
+  "geometry": {"coordinates":[71.54901,37.74412],"type":"Point"}
+}

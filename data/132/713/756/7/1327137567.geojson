@@ -1,0 +1,71 @@
+{
+  "id": 1327137567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.79161,38.0455,68.79161,38.0455",
+    "geom:latitude":38.0455,
+    "geom:longitude":68.79161,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Buston",
+    "gn:country_code":"TJ",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346163,
+    "gn:latitude":38.0455,
+    "gn:longitude":68.79161,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"B\u016dston",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u016dston",
+        "\u0411\u045e\u0441\u0442\u043e\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346163
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"db8a4870959e5c0955dd156319fb963e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916455,
+            "locality_id":1327137567,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1327137567,
+    "wof:lastmodified":1537706371,
+    "wof:name":"Buston",
+    "wof:parent_id":1091916455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.79160999999999,
+    38.0455,
+    68.79160999999999,
+    38.0455
+],
+  "geometry": {"coordinates":[68.79160999999999,38.0455],"type":"Point"}
+}

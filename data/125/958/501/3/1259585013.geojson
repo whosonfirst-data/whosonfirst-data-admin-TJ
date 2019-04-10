@@ -1,0 +1,75 @@
+{
+  "id": 1259585013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.71249,39.27722,67.71249,39.27722",
+    "geom:latitude":39.27722,
+    "geom:longitude":67.71249,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ghezani-Poyon",
+    "gn:country_code":"TJ",
+    "gn:dem":1548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221718,
+    "gn:latitude":39.27722,
+    "gn:longitude":67.71249,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ghezani-Poyon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gizan-Poyen",
+        "Gizan-Pasn",
+        "Gezani-Poy\u00ebn",
+        "Ghezani-Poyon",
+        "\u0492\u0435\u0437\u0430\u043d\u0438-\u041f\u043e\u0451\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091917507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221718,
+        "wk:page":"Gezani-Poyen"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"a6ecc1f4084a4fb4f2236c72b1d20e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917507,
+            "locality_id":1259585013,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1259585013,
+    "wof:lastmodified":1537706342,
+    "wof:name":"Ghezani-Poyon",
+    "wof:parent_id":1091917507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.71249,
+    39.27722,
+    67.71249,
+    39.27722
+],
+  "geometry": {"coordinates":[67.71249,39.27722],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 890441317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.74659,40.15709,68.74659,40.15709",
+    "geom:latitude":40.15709,
+    "geom:longitude":68.74659,
+    "gn:country":"TJ",
+    "gn:fcode":"PPL",
+    "gn:pop":8220,
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "\u041f\u0430\u0445\u0442\u0430\u043a\u043e\u0440\u043e\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Paxtakoron"
+    ],
+    "qs:name":"Pakhtakoron",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091918339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514844,
+        "qs:id":276597
+    },
+    "wof:country":"TJ",
+    "wof:created":1469052318,
+    "wof:geomhash":"937b25c899320071f64927d7beb5b538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918339,
+            "locality_id":890441317,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":890441317,
+    "wof:lastmodified":1505343581,
+    "wof:name":"Pakhtakoron",
+    "wof:parent_id":1091918339,
+    "wof:placetype":"locality",
+    "wof:population":8220,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.74659,
+    40.15709,
+    68.74659,
+    40.15709
+],
+  "geometry": {"coordinates":[68.74659,40.15709],"type":"Point"}
+}

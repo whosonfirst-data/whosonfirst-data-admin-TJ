@@ -1,0 +1,65 @@
+{
+  "id": 1209227379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.53548,37.4577,68.53548,37.4577",
+    "geom:latitude":37.4577,
+    "geom:longitude":68.53548,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zhdanov",
+    "gn:country_code":"TJ",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475285,
+    "gn:latitude":37.4577,
+    "gn:longitude":68.53548,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Zhdanov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uchastok Zhdanov",
+        "Zhdanov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475285
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"447e244610bfb605dce911a6f51f7f99",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209227379
+        }
+    ],
+    "wof:id":1209227379,
+    "wof:lastmodified":1537706385,
+    "wof:name":"Zhdanov",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.53548,
+    37.4577,
+    68.53548,
+    37.4577
+],
+  "geometry": {"coordinates":[68.53548000000001,37.4577],"type":"Point"}
+}

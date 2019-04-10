@@ -1,0 +1,67 @@
+{
+  "id": 1343775799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.4211,38.33782,71.4211,38.33782",
+    "geom:latitude":38.33782,
+    "geom:longitude":71.4211,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rog",
+    "gn:country_code":"TJ",
+    "gn:dem":1741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346156,
+    "gn:latitude":38.33782,
+    "gn:longitude":71.4211,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Rog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091918175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346156
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"add61c321e63f5540ba4c8bfbbdaaedb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918175,
+            "locality_id":1343775799,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1343775799,
+    "wof:lastmodified":1536789183,
+    "wof:name":"Rog",
+    "wof:parent_id":1091918175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.4211,
+    38.33782,
+    71.4211,
+    38.33782
+],
+  "geometry": {"coordinates":[71.4211,38.33782],"type":"Point"}
+}

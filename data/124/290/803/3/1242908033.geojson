@@ -1,0 +1,67 @@
+{
+  "id": 1242908033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.7033,38.72785,68.7033,38.72785",
+    "geom:latitude":38.72785,
+    "geom:longitude":68.7033,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Alkhuch",
+    "gn:country_code":"TJ",
+    "gn:dem":1436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222298,
+    "gn:latitude":38.72785,
+    "gn:longitude":68.7033,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Alkhuch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222298
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"f0fd748eb50f0fffb55f6f5ac8b87d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918215,
+            "locality_id":1242908033,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1242908033,
+    "wof:lastmodified":1537081586,
+    "wof:name":"Alkhuch",
+    "wof:parent_id":1091918215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.7033,
+    38.72785,
+    68.7033,
+    38.72785
+],
+  "geometry": {"coordinates":[68.7033,38.72785],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276991067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.61667,37.41667,68.61667,37.41667",
+    "geom:latitude":37.41667,
+    "geom:longitude":68.61667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Engel's",
+    "gn:country_code":"TJ",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221785,
+    "gn:latitude":37.41667,
+    "gn:longitude":68.61667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Engel's",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221785
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"f415067470a88e58e2251f1af9d04e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917079,
+            "locality_id":1276991067,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1276991067,
+    "wof:lastmodified":1536891661,
+    "wof:name":"Engel's",
+    "wof:parent_id":1091917079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.61667,
+    37.41667,
+    68.61667,
+    37.41667
+],
+  "geometry": {"coordinates":[68.61667,37.41667],"type":"Point"}
+}

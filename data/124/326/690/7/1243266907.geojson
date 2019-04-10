@@ -1,0 +1,67 @@
+{
+  "id": 1243266907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.00547,37.30559,68.00547,37.30559",
+    "geom:latitude":37.30559,
+    "geom:longitude":68.00547,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Staryy Tulkhar",
+    "gn:country_code":"TJ",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475543,
+    "gn:latitude":37.30559,
+    "gn:longitude":68.00547,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Staryy Tulkhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475543
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"8ac1330b3dde6e3eb20893d24cec9a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917765,
+            "locality_id":1243266907,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1243266907,
+    "wof:lastmodified":1537061582,
+    "wof:name":"Staryy Tulkhar",
+    "wof:parent_id":1091917765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.00546999999999,
+    37.30559,
+    68.00546999999999,
+    37.30559
+],
+  "geometry": {"coordinates":[68.00546999999999,37.30559],"type":"Point"}
+}

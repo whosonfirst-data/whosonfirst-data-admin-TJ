@@ -1,0 +1,71 @@
+{
+  "id": 1293893489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.56942,38.4827,69.56942,38.4827",
+    "geom:latitude":38.4827,
+    "geom:longitude":69.56942,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Turghuling",
+    "gn:country_code":"TJ",
+    "gn:dem":1089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346262,
+    "gn:latitude":38.4827,
+    "gn:longitude":69.56942,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Turghuling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0422\u0443\u0440\u0493\u0443\u043b\u0438\u043d\u0433",
+        "Turgoling"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091916587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346262
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"464114d19faf588675ece23548fc5ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916587,
+            "locality_id":1293893489,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1293893489,
+    "wof:lastmodified":1537706376,
+    "wof:name":"Turghuling",
+    "wof:parent_id":1091916587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.56942,
+    38.4827,
+    69.56942,
+    38.4827
+],
+  "geometry": {"coordinates":[69.56941999999999,38.4827],"type":"Point"}
+}

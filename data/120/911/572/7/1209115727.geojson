@@ -1,0 +1,67 @@
+{
+  "id": 1209115727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.79534,37.64177,71.79534,37.64177",
+    "geom:latitude":37.64177,
+    "geom:longitude":71.79534,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rivak",
+    "gn:country_code":"TJ",
+    "gn:dem":2521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220709,
+    "gn:latitude":37.64177,
+    "gn:longitude":71.79534,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Rivak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Rivak"
+    ],
+    "name:tgk_x_variant":[
+        "\u0420\u0438\u0432\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220709
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"9be92352b456889ef2ada6b388884f33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209115727
+        }
+    ],
+    "wof:id":1209115727,
+    "wof:lastmodified":1537706310,
+    "wof:name":"Rivak",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.79534,
+    37.64177,
+    71.79534,
+    37.64177
+],
+  "geometry": {"coordinates":[71.79534,37.64177],"type":"Point"}
+}

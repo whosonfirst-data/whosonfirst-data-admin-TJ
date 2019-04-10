@@ -1,0 +1,67 @@
+{
+  "id": 1360288857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.78653,38.25521,68.78653,38.25521",
+    "geom:latitude":38.25521,
+    "geom:longitude":68.78653,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tyuyachiabad",
+    "gn:country_code":"TJ",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220282,
+    "gn:latitude":38.25521,
+    "gn:longitude":68.78653,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Tyuyachiabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091918301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220282
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"ea3480c2605c18437a257f752d129278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918301,
+            "locality_id":1360288857,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1360288857,
+    "wof:lastmodified":1536651474,
+    "wof:name":"Tyuyachiabad",
+    "wof:parent_id":1091918301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.78653,
+    38.25521,
+    68.78653,
+    38.25521
+],
+  "geometry": {"coordinates":[68.78653,38.25521],"type":"Point"}
+}

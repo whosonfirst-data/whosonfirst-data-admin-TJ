@@ -1,0 +1,70 @@
+{
+  "id": 1310703823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.82341,40.14969,68.82341,40.14969",
+    "geom:latitude":40.14969,
+    "geom:longitude":68.82341,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qipchoq",
+    "gn:country_code":"TJ",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241625,
+    "gn:latitude":40.14969,
+    "gn:longitude":68.82341,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Qipchoq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:uzb_x_preferred":[
+        "Qipchoq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091918339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241625
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"3d4a3b4756095229023d6882071cc788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918339,
+            "locality_id":1310703823,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1310703823,
+    "wof:lastmodified":1537706416,
+    "wof:name":"Qipchoq",
+    "wof:parent_id":1091918339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.82341,
+    40.14969,
+    68.82341,
+    40.14969
+],
+  "geometry": {"coordinates":[68.82341,40.14969],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209227385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.09295,37.10748,68.09295,37.10748",
+    "geom:latitude":37.10748,
+    "geom:longitude":68.09295,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hoshadi",
+    "gn:country_code":"TJ",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221327,
+    "gn:latitude":37.10748,
+    "gn:longitude":68.09295,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Hoshad\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Khoshady"
+    ],
+    "name:und_x_variant":[
+        "Khoshadi",
+        "Hoshad\u00ed",
+        "\u04b2\u043e\u0448\u0430\u0434\u04e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221327
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"8f43742e6d252555fa576705d976e0a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209227385
+        }
+    ],
+    "wof:id":1209227385,
+    "wof:lastmodified":1537706331,
+    "wof:name":"Hoshadi",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.09295,
+    37.10748,
+    68.09295,
+    37.10748
+],
+  "geometry": {"coordinates":[68.09295,37.10748],"type":"Point"}
+}

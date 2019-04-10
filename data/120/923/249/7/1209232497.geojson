@@ -1,0 +1,77 @@
+{
+  "id": 1209232497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.78902,38.45373,70.78902,38.45373",
+    "geom:latitude":38.45373,
+    "geom:longitude":70.78902,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qalaikhumb",
+    "gn:country_code":"TJ",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1221559,
+    "gn:latitude":38.45373,
+    "gn:longitude":70.78902,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Qalaikhumb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Qalaikhum"
+    ],
+    "name:tgk_x_variant":[
+        "\u049a\u0430\u043b\u0430\u0438\u0445\u0443\u043c"
+    ],
+    "name:und_x_variant":[
+        "Kala Khumb",
+        "Qala-i-Khum",
+        "Kala-I-Khamb",
+        "Kalaikhum",
+        "Kalai Khumb",
+        "Qalaikhumb",
+        "\u049a\u0430\u043b\u0430\u0438\u0445\u0443\u043c\u0431"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221559,
+        "wk:page":"Qal%27ai_Khumb"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"7c6ed7e0b53ea4107e034bd7465c79e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209232497
+        }
+    ],
+    "wof:id":1209232497,
+    "wof:lastmodified":1537706337,
+    "wof:name":"Qalaikhumb",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.78902,
+    38.45373,
+    70.78902,
+    38.45373
+],
+  "geometry": {"coordinates":[70.78901999999999,38.45373],"type":"Point"}
+}

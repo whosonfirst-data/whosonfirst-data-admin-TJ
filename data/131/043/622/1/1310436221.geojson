@@ -1,0 +1,67 @@
+{
+  "id": 1310436221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.46667,39.2,70.46667,39.2",
+    "geom:latitude":39.2,
+    "geom:longitude":70.46667,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Dashti-Khirsan",
+    "gn:country_code":"TJ",
+    "gn:dem":2359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221934,
+    "gn:latitude":39.2,
+    "gn:longitude":70.46667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dashti-Khirsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091916659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221934
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"19fcccc66ccb3bc7a9bed4721b7f30a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916659,
+            "locality_id":1310436221,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1310436221,
+    "wof:lastmodified":1537016300,
+    "wof:name":"Dashti-Khirsan",
+    "wof:parent_id":1091916659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.46667,
+    39.2,
+    70.46667,
+    39.2
+],
+  "geometry": {"coordinates":[70.46666999999999,39.2],"type":"Point"}
+}

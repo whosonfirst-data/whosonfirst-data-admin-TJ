@@ -1,0 +1,73 @@
+{
+  "id": 1242686575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.6563,37.37949,68.6563,37.37949",
+    "geom:latitude":37.37949,
+    "geom:longitude":68.6563,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pakhtakor",
+    "gn:country_code":"TJ",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475270,
+    "gn:latitude":37.37949,
+    "gn:longitude":68.6563,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Pakhtakor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Pakhtakor"
+    ],
+    "name:und_x_variant":[
+        "\u041f\u0430\u0445\u0442\u0430\u043a\u043e\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475270
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"f3805ff7bff4fac289e8b68a39f5355e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917079,
+            "locality_id":1242686575,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1242686575,
+    "wof:lastmodified":1537706385,
+    "wof:name":"Pakhtakor",
+    "wof:parent_id":1091917079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.6563,
+    37.37949,
+    68.6563,
+    37.37949
+],
+  "geometry": {"coordinates":[68.6563,37.37949],"type":"Point"}
+}

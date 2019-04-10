@@ -1,0 +1,79 @@
+{
+  "id": 421196597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.631347,40.287905,69.631347,40.287905",
+    "geom:latitude":40.287905,
+    "geom:longitude":69.631347,
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:hye_x_preferred":[
+        "\u053c\u0565\u0576\u056b\u0576\u0561\u0562\u0561\u0564"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Leninabad",
+    "qs:name_adm0":"Tajikistan",
+    "qs:name_adm1":"Leninobod",
+    "qs:photos":128,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":128,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1209405,
+    "qs:woe_adm0":23424961,
+    "qs:woe_id":2213354,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":14,
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2213354,
+        "qs:id":1209405
+    },
+    "wof:country":"TJ",
+    "wof:created":1459009886,
+    "wof:geomhash":"caeeb335ffd46fdea61660f70b9efdcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916787,
+            "locality_id":421196597,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":421196597,
+    "wof:lastmodified":1527716365,
+    "wof:name":"Leninabad",
+    "wof:parent_id":1091916787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.631347,
+    40.287905,
+    69.631347,
+    40.287905
+],
+  "geometry": {"coordinates":[69.63134700000001,40.287905],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276886651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.67055,37.37782,68.67055,37.37782",
+    "geom:latitude":37.37782,
+    "geom:longitude":68.67055,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Uchastok Imeni Tel'mana",
+    "gn:country_code":"TJ",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220349,
+    "gn:latitude":37.37782,
+    "gn:longitude":68.67055,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Uchastok Imeni Tel\u2019mana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Uchastok Imeni Tel\u2019mana"
+    ],
+    "name:und_x_variant":[
+        "Imeni Tel\u2019mana",
+        "Tel\u2019manovskiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220349
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"e0b851ad3ded07d4cf7222885fc81a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917079,
+            "locality_id":1276886651,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1276886651,
+    "wof:lastmodified":1537706297,
+    "wof:name":"Uchastok Imeni Tel'mana",
+    "wof:parent_id":1091917079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.67055,
+    37.37782,
+    68.67055,
+    37.37782
+],
+  "geometry": {"coordinates":[68.67055000000001,37.37782],"type":"Point"}
+}

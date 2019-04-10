@@ -1,0 +1,73 @@
+{
+  "id": 1243366913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.56774,37.42291,68.56774,37.42291",
+    "geom:latitude":37.42291,
+    "geom:longitude":68.56774,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Maksim Gor'kiy",
+    "gn:country_code":"TJ",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475286,
+    "gn:latitude":37.42291,
+    "gn:longitude":68.56774,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Maksim Gor\u2019kiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Maksim Gor\u2019kiy"
+    ],
+    "name:und_x_variant":[
+        "Uchastok Imeni Maksima Gor\u2019kogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475286
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"2f73539d29aea38508f6aeb0ca0a3524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917079,
+            "locality_id":1243366913,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1243366913,
+    "wof:lastmodified":1537706385,
+    "wof:name":"Maksim Gor'kiy",
+    "wof:parent_id":1091917079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.56774,
+    37.42291,
+    68.56774,
+    37.42291
+],
+  "geometry": {"coordinates":[68.56774,37.42291],"type":"Point"}
+}

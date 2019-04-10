@@ -1,0 +1,75 @@
+{
+  "id": 1309817909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.20144,38.1243,72.20144,38.1243",
+    "geom:latitude":38.1243,
+    "geom:longitude":72.20144,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chadud",
+    "gn:country_code":"TJ",
+    "gn:dem":2370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222072,
+    "gn:latitude":38.1243,
+    "gn:longitude":72.20144,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Chadud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarez",
+        "Chadut",
+        "Chadun",
+        "Chaduk",
+        "Chadud",
+        "\u0427\u0430\u0434y\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222072
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"4a48bf795d6749a5f31885ad56fb17e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917707,
+            "locality_id":1309817909,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1309817909,
+    "wof:lastmodified":1537706355,
+    "wof:name":"Chadud",
+    "wof:parent_id":1091917707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.20144,
+    38.1243,
+    72.20144,
+    38.1243
+],
+  "geometry": {"coordinates":[72.20144000000001,38.1243],"type":"Point"}
+}

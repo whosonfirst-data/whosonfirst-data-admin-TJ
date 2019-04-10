@@ -1,0 +1,67 @@
+{
+  "id": 1343292835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.13692,38.44588,68.13692,38.44588",
+    "geom:latitude":38.44588,
+    "geom:longitude":68.13692,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Chukur",
+    "gn:country_code":"TJ",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221993,
+    "gn:latitude":38.44588,
+    "gn:longitude":68.13692,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Chukur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221993
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"b3cb93960ac000986a5c1bafb499d149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918055,
+            "locality_id":1343292835,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1343292835,
+    "wof:lastmodified":1536987452,
+    "wof:name":"Chukur",
+    "wof:parent_id":1091918055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.13691999999999,
+    38.44588,
+    68.13691999999999,
+    38.44588
+],
+  "geometry": {"coordinates":[68.13691999999999,38.44588],"type":"Point"}
+}

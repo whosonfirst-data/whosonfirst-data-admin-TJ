@@ -1,0 +1,67 @@
+{
+  "id": 1226278915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.27032,38.51866,69.27032,38.51866",
+    "geom:latitude":38.51866,
+    "geom:longitude":69.27032,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Kabkrez",
+    "gn:country_code":"TJ",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346265,
+    "gn:latitude":38.51866,
+    "gn:longitude":69.27032,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kabkrez",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091916587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346265
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"7fe50f97f8db0fc639029c64d3cd2339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916587,
+            "locality_id":1226278915,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1226278915,
+    "wof:lastmodified":1536885268,
+    "wof:name":"Kabkrez",
+    "wof:parent_id":1091916587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.27032,
+    38.51866,
+    69.27032,
+    38.51866
+],
+  "geometry": {"coordinates":[69.27032,38.51866],"type":"Point"}
+}

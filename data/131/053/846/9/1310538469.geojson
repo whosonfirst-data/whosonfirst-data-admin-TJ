@@ -1,0 +1,72 @@
+{
+  "id": 1310538469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.5297,38.5798,68.5297,38.5798",
+    "geom:latitude":38.5798,
+    "geom:longitude":68.5297,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Guriyot",
+    "gn:country_code":"TJ",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221666,
+    "gn:latitude":38.5798,
+    "gn:longitude":68.5297,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Guriyot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gur\u2019yat",
+        "Guriy\u00ebt",
+        "Guriyot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091916749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221666
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"f38b2c1f0f03b4c31915c664c30127dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916749,
+            "locality_id":1310538469,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1310538469,
+    "wof:lastmodified":1537706341,
+    "wof:name":"Guriyot",
+    "wof:parent_id":1091916749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.5297,
+    38.5798,
+    68.5297,
+    38.5798
+],
+  "geometry": {"coordinates":[68.52970000000001,38.5798],"type":"Point"}
+}

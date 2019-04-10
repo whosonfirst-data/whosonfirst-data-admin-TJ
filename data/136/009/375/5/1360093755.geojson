@@ -1,0 +1,70 @@
+{
+  "id": 1360093755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.861,38.14202,68.861,38.14202",
+    "geom:latitude":38.14202,
+    "geom:longitude":68.861,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sharsharasoy",
+    "gn:country_code":"TJ",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346173,
+    "gn:latitude":38.14202,
+    "gn:longitude":68.861,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Sharsharasoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0428\u0430\u0440\u0448\u0430\u0440\u0430\u0441\u043e\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091918301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346173
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"5bda20536f02a8cf4c7ac49eddcde944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918301,
+            "locality_id":1360093755,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1360093755,
+    "wof:lastmodified":1537706372,
+    "wof:name":"Sharsharasoy",
+    "wof:parent_id":1091918301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.861,
+    38.14202,
+    68.861,
+    38.14202
+],
+  "geometry": {"coordinates":[68.861,38.14202],"type":"Point"}
+}

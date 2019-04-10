@@ -1,0 +1,157 @@
+{
+  "id": 421181499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.96674,38.17023,73.96674,38.17023",
+    "geom:latitude":38.17023,
+    "geom:longitude":73.96674,
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u7a46\u5c14\u52a0\u5e03"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0645\u0648\u0631\u063a\u0627\u0628\u060c \u062a\u0627\u062c\u06cc\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:deu_x_preferred":[
+        "Murghob"
+    ],
+    "name:dut_x_preferred":[
+        "Murghab"
+    ],
+    "name:eng_x_preferred":[
+        "Murghab"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u063a\u0627\u0628"
+    ],
+    "name:fas_x_variant":[
+        "Murgh\u0101b"
+    ],
+    "name:fin_x_preferred":[
+        "Murghab"
+    ],
+    "name:fra_x_preferred":[
+        "Murghab"
+    ],
+    "name:fre_x_preferred":[
+        "Murghab"
+    ],
+    "name:ger_x_preferred":[
+        "Murgab"
+    ],
+    "name:ita_x_preferred":[
+        "Murghab"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30eb\u30ac\u30d6"
+    ],
+    "name:kor_x_preferred":[
+        "\ubb34\ub974\uace0\ud504"
+    ],
+    "name:lit_x_preferred":[
+        "Murgabas"
+    ],
+    "name:nld_x_preferred":[
+        "Murghab"
+    ],
+    "name:nno_x_preferred":[
+        "Murgab"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0631\u063a\u0627\u0628"
+    ],
+    "name:pol_x_preferred":[
+        "Murgob"
+    ],
+    "name:ron_x_preferred":[
+        "Murghob"
+    ],
+    "name:rum_x_preferred":[
+        "Murghob"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0440\u0433\u0430\u0431"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041c\u0443\u0440\u0493\u043e\u0431"
+    ],
+    "name:unk_x_variant":[
+        "Pam\u012brski Post"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u5c14\u52a0\u5e03"
+    ],
+    "qs:gn_country":"TJ",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":1220962,
+    "qs:gn_pop":10815,
+    "qs:name":"Murgab",
+    "qs:name_adm0":"Tajikistan",
+    "qs:name_adm1":"Kuhistoni Badakhshon",
+    "qs:photos":302,
+    "qs:photos_1k":61,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":302,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":493383,
+    "qs:woe_adm0":23424961,
+    "qs:woe_id":2213358,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":460,
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220962,
+        "gp:id":2213358,
+        "qs:id":493383,
+        "wd:id":"Q1018209",
+        "wk:page":"Murghab, Tajikistan"
+    },
+    "wof:country":"TJ",
+    "wof:created":1459009298,
+    "wof:geomhash":"387ae8bec784b21bd6ec7acf995e7d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917339,
+            "locality_id":421181499,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":421181499,
+    "wof:lastmodified":1527716323,
+    "wof:name":"Murgab",
+    "wof:parent_id":1091917339,
+    "wof:placetype":"locality",
+    "wof:population":10815,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.96674,
+    38.17023,
+    73.96674,
+    38.17023
+],
+  "geometry": {"coordinates":[73.96674,38.17023],"type":"Point"}
+}

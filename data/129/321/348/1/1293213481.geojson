@@ -1,0 +1,70 @@
+{
+  "id": 1293213481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.77038,37.86527,68.77038,37.86527",
+    "geom:latitude":37.86527,
+    "geom:longitude":68.77038,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Budyoniy",
+    "gn:country_code":"TJ",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8477148,
+    "gn:latitude":37.86527,
+    "gn:longitude":68.77038,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Budyoniy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0411\u0443\u0434\u0451\u043d\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8477148
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"d5d20a5362069be10957851d5e0d4a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916455,
+            "locality_id":1293213481,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1293213481,
+    "wof:lastmodified":1537706415,
+    "wof:name":"Budyoniy",
+    "wof:parent_id":1091916455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.77038,
+    37.86527,
+    68.77038,
+    37.86527
+],
+  "geometry": {"coordinates":[68.77038,37.86527],"type":"Point"}
+}

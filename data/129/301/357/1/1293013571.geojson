@@ -1,0 +1,72 @@
+{
+  "id": 1293013571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.4337,38.0908,69.4337,38.0908",
+    "geom:latitude":38.0908,
+    "geom:longitude":69.4337,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tuyabuyun",
+    "gn:country_code":"TJ",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346106,
+    "gn:latitude":38.0908,
+    "gn:longitude":69.4337,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Tuyabuyun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tulbuyun",
+        "Tuyabuyun",
+        "\u0422\u0443\u044f\u0431\u0443\u044e\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346106
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"3eee59a6d2023a1a50d4ab720644fe1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916409,
+            "locality_id":1293013571,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1293013571,
+    "wof:lastmodified":1537706370,
+    "wof:name":"Tuyabuyun",
+    "wof:parent_id":1091916409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.4337,
+    38.0908,
+    69.4337,
+    38.0908
+],
+  "geometry": {"coordinates":[69.4337,38.0908],"type":"Point"}
+}

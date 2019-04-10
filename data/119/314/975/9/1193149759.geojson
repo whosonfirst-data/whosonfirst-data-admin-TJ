@@ -1,0 +1,75 @@
+{
+  "id": 1193149759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.2169,37.98879,69.2169,37.98879",
+    "geom:latitude":37.98879,
+    "geom:longitude":69.2169,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Beshchelak",
+    "gn:country_code":"TJ",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475850,
+    "gn:latitude":37.98879,
+    "gn:longitude":69.2169,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Beshchelak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Beshcheulok"
+    ],
+    "name:und_x_variant":[
+        "Beshcheulyak",
+        "Beshchelak",
+        "\u0411\u0435\u0448\u0447\u0435\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475850
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"b04c0301b24eb72b807d9104a2aa206b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916489,
+            "locality_id":1193149759,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1193149759,
+    "wof:lastmodified":1537706392,
+    "wof:name":"Beshchelak",
+    "wof:parent_id":1091916489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.2169,
+    37.98879,
+    69.2169,
+    37.98879
+],
+  "geometry": {"coordinates":[69.2169,37.98879],"type":"Point"}
+}

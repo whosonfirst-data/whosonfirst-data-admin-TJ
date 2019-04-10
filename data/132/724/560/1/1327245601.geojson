@@ -1,0 +1,72 @@
+{
+  "id": 1327245601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.65,37.85,73.65,37.85",
+    "geom:latitude":37.85,
+    "geom:longitude":73.65,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Chatyr-Tash",
+    "gn:country_code":"TJ",
+    "gn:dem":3991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222045,
+    "gn:latitude":37.85,
+    "gn:longitude":73.65,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Chatyr-Tash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Murzabek",
+        "Rabat Chatyr-Tash",
+        "Chatyr-Tash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222045
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"6d3286ef5c30279ab92d0e6ca3c21f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917339,
+            "locality_id":1327245601,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1327245601,
+    "wof:lastmodified":1537706354,
+    "wof:name":"Chatyr-Tash",
+    "wof:parent_id":1091917339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.65,
+    37.85,
+    73.65,
+    37.85
+],
+  "geometry": {"coordinates":[73.65000000000001,37.85],"type":"Point"}
+}

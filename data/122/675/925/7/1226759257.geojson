@@ -1,0 +1,75 @@
+{
+  "id": 1226759257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.26137,40.75782,70.26137,40.75782",
+    "geom:latitude":40.75782,
+    "geom:longitude":70.26137,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Pongoz",
+    "gn:country_code":"TJ",
+    "gn:dem":1416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514817,
+    "gn:latitude":40.75782,
+    "gn:longitude":70.26137,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Pongoz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pangas",
+        "Pangaz",
+        "Yukary-Pangaz",
+        "Pongoz",
+        "\u041f\u043e\u043d\u0433\u043e\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514817,
+        "wk:page":"Yukary-Pangaz"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"6adde450df20a7d4931cb9208b0366ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916363,
+            "locality_id":1226759257,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1226759257,
+    "wof:lastmodified":1537706398,
+    "wof:name":"Pongoz",
+    "wof:parent_id":1091916363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.26137,
+    40.75782,
+    70.26137,
+    40.75782
+],
+  "geometry": {"coordinates":[70.26137,40.75782],"type":"Point"}
+}

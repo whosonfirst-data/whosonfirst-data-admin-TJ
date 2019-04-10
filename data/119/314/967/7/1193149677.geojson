@@ -1,0 +1,71 @@
+{
+  "id": 1193149677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.62816,38.27382,68.62816,38.27382",
+    "geom:latitude":38.27382,
+    "geom:longitude":68.62816,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kharkhara",
+    "gn:country_code":"TJ",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346183,
+    "gn:latitude":38.27382,
+    "gn:longitude":68.62816,
+    "gn:modification_date":"2012-12-06",
+    "gn:name":"Kharkhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0425\u0430\u0440\u0445\u0430\u0440\u0430",
+        "Kharkharak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346183
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"ef04a0fd92ef07e990b8d9cf3c3d2e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918381,
+            "locality_id":1193149677,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1193149677,
+    "wof:lastmodified":1537706373,
+    "wof:name":"Kharkhara",
+    "wof:parent_id":1091918381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.62816,
+    38.27382,
+    68.62816,
+    38.27382
+],
+  "geometry": {"coordinates":[68.62815999999999,38.27382],"type":"Point"}
+}

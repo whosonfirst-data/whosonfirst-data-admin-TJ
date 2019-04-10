@@ -1,0 +1,69 @@
+{
+  "id": 890430427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.44668,37.56702,68.44668,37.56702",
+    "geom:latitude":37.56702,
+    "geom:longitude":68.44668,
+    "gn:country":"TJ",
+    "gn:fcode":"PPL",
+    "gn:pop":8474,
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "\u0492\u0430\u0440\u0430\u0432\u04ef\u0442\u04e3"
+    ],
+    "qs:name":"Gharav\u016dt\u00ed",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221748,
+        "gp:id":2212017,
+        "qs:id":130993
+    },
+    "wof:country":"TJ",
+    "wof:created":1469051852,
+    "wof:geomhash":"5e20b30dd60c266b7943bc7954d1d932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916897,
+            "locality_id":890430427,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":890430427,
+    "wof:lastmodified":1505343518,
+    "wof:name":"Gharav\u016dt\u00ed",
+    "wof:parent_id":1091916897,
+    "wof:placetype":"locality",
+    "wof:population":8474,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.44668,
+    37.56702,
+    68.44668,
+    37.56702
+],
+  "geometry": {"coordinates":[68.44668,37.56702],"type":"Point"}
+}

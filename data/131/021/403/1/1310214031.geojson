@@ -1,0 +1,67 @@
+{
+  "id": 1310214031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.22751,38.12857,70.22751,38.12857",
+    "geom:latitude":38.12857,
+    "geom:longitude":70.22751,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nishorak",
+    "gn:country_code":"TJ",
+    "gn:dem":1459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220914,
+    "gn:latitude":38.12857,
+    "gn:longitude":70.22751,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Nishorak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220914
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"746c3bfc2a79fd2b75dcbf4501c1a1b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917295,
+            "locality_id":1310214031,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1310214031,
+    "wof:lastmodified":1536838834,
+    "wof:name":"Nishorak",
+    "wof:parent_id":1091917295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.22751,
+    38.12857,
+    70.22751,
+    38.12857
+],
+  "geometry": {"coordinates":[70.22751,38.12857],"type":"Point"}
+}

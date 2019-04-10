@@ -1,0 +1,77 @@
+{
+  "id": 1326838931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.90661,37.93952,69.90661,37.93952",
+    "geom:latitude":37.93952,
+    "geom:longitude":69.90661,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Razvaliny Obichavrush",
+    "gn:country_code":"TJ",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1220881,
+    "gn:latitude":37.93952,
+    "gn:longitude":69.90661,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Razvaliny Obichavrush",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tgk_x_preferred":[
+        "Kharoba Obichavrush"
+    ],
+    "name:tgk_x_variant":[
+        "\u0425\u0430\u0440\u043e\u0431\u0430 \u041e\u0431\u0438\u0447\u0430\u0432\u0440\u0443\u0448"
+    ],
+    "name:und_x_variant":[
+        "Obinaurusha",
+        "Razvaliny Obichavrush"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220881
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"650002ae842fa0aa86fe6551c151c526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917913,
+            "locality_id":1326838931,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1326838931,
+    "wof:lastmodified":1537706316,
+    "wof:name":"Razvaliny Obichavrush",
+    "wof:parent_id":1091917913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.90661,
+    37.93952,
+    69.90661,
+    37.93952
+],
+  "geometry": {"coordinates":[69.90661,37.93952],"type":"Point"}
+}

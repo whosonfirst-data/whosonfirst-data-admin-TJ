@@ -1,0 +1,66 @@
+{
+  "id": 1209649857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.01027,38.65344,69.01027,38.65344",
+    "geom:latitude":38.65344,
+    "geom:longitude":69.01027,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Simiganj",
+    "gn:country_code":"TJ",
+    "gn:dem":1346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346318,
+    "gn:latitude":38.65344,
+    "gn:longitude":69.01027,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Simiganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Simiganch",
+        "Simiganj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346318,
+        "wk:page":"Simiganj"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"5bc45ebe6fcdb54335b1aa31215240ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209649857
+        }
+    ],
+    "wof:id":1209649857,
+    "wof:lastmodified":1537706378,
+    "wof:name":"Simiganj",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.01026999999999,
+    38.65344,
+    69.01026999999999,
+    38.65344
+],
+  "geometry": {"coordinates":[69.01026999999999,38.65344],"type":"Point"}
+}

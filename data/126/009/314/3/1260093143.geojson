@@ -1,0 +1,81 @@
+{
+  "id": 1260093143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.39083,37.9674,69.39083,37.9674",
+    "geom:latitude":37.9674,
+    "geom:longitude":69.39083,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bulyon",
+    "gn:country_code":"TJ",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475872,
+    "gn:latitude":37.9674,
+    "gn:longitude":69.39083,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Bulyon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bul\u2019on"
+    ],
+    "name:rus_x_variant":[
+        "Mundok-Poy\u00ebn"
+    ],
+    "name:tgk_x_preferred":[
+        "Bulyon"
+    ],
+    "name:und_x_variant":[
+        "\u0411\u0443\u043b\u0451\u043d",
+        "Mundon",
+        "Munda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475872
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"80b0a6531a9b70ce31a713676e57b108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916489,
+            "locality_id":1260093143,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1260093143,
+    "wof:lastmodified":1537706393,
+    "wof:name":"Bulyon",
+    "wof:parent_id":1091916489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.39083000000001,
+    37.9674,
+    69.39083000000001,
+    37.9674
+],
+  "geometry": {"coordinates":[69.39083000000001,37.9674],"type":"Point"}
+}

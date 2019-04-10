@@ -1,0 +1,78 @@
+{
+  "id": 890442437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.08333,39.2,69.08333,39.2",
+    "geom:latitude":39.2,
+    "geom:longitude":69.08333,
+    "gn:country":"TJ",
+    "gn:fcode":"PPL",
+    "gn:pop":21,
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Nomitkon"
+    ],
+    "name:eng_x_preferred":[
+        "Nomitkon"
+    ],
+    "name:unk_x_variant":[
+        "Naumitkan"
+    ],
+    "qs:name":"Nomitkon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091917081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220904,
+        "gp:id":2213365,
+        "qs:id":555428,
+        "wd:id":"Q7048634",
+        "wk:page":"Nomitkon"
+    },
+    "wof:country":"TJ",
+    "wof:created":1469052363,
+    "wof:geomhash":"b9dab13b81c75b332a489d0e1f0a3443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917081,
+            "locality_id":890442437,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":890442437,
+    "wof:lastmodified":1527792853,
+    "wof:name":"Nomitkon",
+    "wof:parent_id":1091917081,
+    "wof:placetype":"locality",
+    "wof:population":21,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.08333,
+    39.2,
+    69.08333,
+    39.2
+],
+  "geometry": {"coordinates":[69.08333,39.2],"type":"Point"}
+}

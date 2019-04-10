@@ -1,0 +1,67 @@
+{
+  "id": 1259911273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.55746,38.43542,68.55746,38.43542",
+    "geom:latitude":38.43542,
+    "geom:longitude":68.55746,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Bulbulchashma",
+    "gn:country_code":"TJ",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346648,
+    "gn:latitude":38.43542,
+    "gn:longitude":68.55746,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bulbulchashma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091916749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346648
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"74c25bddf9db9055e8c4b91a7b3e6f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916749,
+            "locality_id":1259911273,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1259911273,
+    "wof:lastmodified":1536739056,
+    "wof:name":"Bulbulchashma",
+    "wof:parent_id":1091916749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.55745999999999,
+    38.43542,
+    68.55745999999999,
+    38.43542
+],
+  "geometry": {"coordinates":[68.55745999999999,38.43542],"type":"Point"}
+}

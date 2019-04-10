@@ -1,0 +1,73 @@
+{
+  "id": 1243175267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.0765,37.29058,69.0765,37.29058",
+    "geom:latitude":37.29058,
+    "geom:longitude":69.0765,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yuqori Temez",
+    "gn:country_code":"TJ",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220089,
+    "gn:latitude":37.29058,
+    "gn:longitude":69.0765,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Yuqori Temez",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yukari-Temez",
+        "Yukoritemez",
+        "Yuqori Temez",
+        "\u042e\u049b\u043e\u0440\u0438 \u0422\u0435\u043c\u0435\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220089
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"bfe2c5f5dcf5ad56f645410386c53540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917547,
+            "locality_id":1243175267,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1243175267,
+    "wof:lastmodified":1537706289,
+    "wof:name":"Yuqori Temez",
+    "wof:parent_id":1091917547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.0765,
+    37.29058,
+    69.0765,
+    37.29058
+],
+  "geometry": {"coordinates":[69.0765,37.29058],"type":"Point"}
+}

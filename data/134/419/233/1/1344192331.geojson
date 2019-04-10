@@ -1,0 +1,72 @@
+{
+  "id": 1344192331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.64137,38.70174,69.64137,38.70174",
+    "geom:latitude":38.70174,
+    "geom:longitude":69.64137,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Qal'ai Nav",
+    "gn:country_code":"TJ",
+    "gn:dem":1650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221552,
+    "gn:latitude":38.70174,
+    "gn:longitude":69.64137,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Qal\u2019ai Nav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalaynav",
+        "Kalainav",
+        "Qal\u2019ai Nav"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091916587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221552
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"04e4a8004351a0e7157dd43819c44b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916587,
+            "locality_id":1344192331,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1344192331,
+    "wof:lastmodified":1537706337,
+    "wof:name":"Qal'ai Nav",
+    "wof:parent_id":1091916587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.64137,
+    38.70174,
+    69.64137,
+    38.70174
+],
+  "geometry": {"coordinates":[69.64136999999999,38.70174],"type":"Point"}
+}

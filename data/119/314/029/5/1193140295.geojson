@@ -1,0 +1,71 @@
+{
+  "id": 1193140295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.86599,37.90659,68.86599,37.90659",
+    "geom:latitude":37.90659,
+    "geom:longitude":68.86599,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chapaev",
+    "gn:country_code":"TJ",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221639,
+    "gn:latitude":37.90659,
+    "gn:longitude":68.86599,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Chapaev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0427\u0430\u043f\u0430\u0435\u0432",
+        "Imeni Chapayeva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221639
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"2c51edde86486813b0f0c58159f1c70c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916455,
+            "locality_id":1193140295,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1193140295,
+    "wof:lastmodified":1537706340,
+    "wof:name":"Chapaev",
+    "wof:parent_id":1091916455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.86599,
+    37.90659,
+    68.86599,
+    37.90659
+],
+  "geometry": {"coordinates":[68.86599,37.90659],"type":"Point"}
+}

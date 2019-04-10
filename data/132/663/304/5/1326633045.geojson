@@ -1,0 +1,74 @@
+{
+  "id": 1326633045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.18487,37.93965,69.18487,37.93965",
+    "geom:latitude":37.93965,
+    "geom:longitude":69.18487,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Torbuloq",
+    "gn:country_code":"TJ",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475849,
+    "gn:latitude":37.93965,
+    "gn:longitude":69.18487,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Torbuloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Torbuloq"
+    ],
+    "name:und_x_variant":[
+        "Torbulok",
+        "\u0422\u043e\u0440\u0431\u0443\u043b\u043e\u049b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475849
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"c4f1d3d03532eeaa1284881fca3abdf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916489,
+            "locality_id":1326633045,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1326633045,
+    "wof:lastmodified":1537706392,
+    "wof:name":"Torbuloq",
+    "wof:parent_id":1091916489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.18486999999999,
+    37.93965,
+    69.18486999999999,
+    37.93965
+],
+  "geometry": {"coordinates":[69.18486999999999,37.93965],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310042147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.95866,38.51937,68.95866,38.51937",
+    "geom:latitude":38.51937,
+    "geom:longitude":68.95866,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Surkh",
+    "gn:country_code":"TJ",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1334176,
+    "gn:latitude":38.51937,
+    "gn:longitude":68.95866,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Surkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091917077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1334176
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"2f93fa89d8139e7cfe6f63f4765ea984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917077,
+            "locality_id":1310042147,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1310042147,
+    "wof:lastmodified":1537084573,
+    "wof:name":"Surkh",
+    "wof:parent_id":1091917077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.95866,
+    38.51937,
+    68.95866,
+    38.51937
+],
+  "geometry": {"coordinates":[68.95865999999999,38.51937],"type":"Point"}
+}

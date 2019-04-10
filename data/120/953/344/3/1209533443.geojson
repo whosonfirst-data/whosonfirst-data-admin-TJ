@@ -1,0 +1,67 @@
+{
+  "id": 1209533443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.95382,37.71848,71.95382,37.71848",
+    "geom:latitude":37.71848,
+    "geom:longitude":71.95382,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Vuzh",
+    "gn:country_code":"TJ",
+    "gn:dem":2708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220170,
+    "gn:latitude":37.71848,
+    "gn:longitude":71.95382,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Vuzh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Voj",
+        "Vodzh",
+        "Vuzh",
+        "\u0412\u0443\u0436"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220170
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"9fd7bed7e484e034537c2723d50e8a6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209533443
+        }
+    ],
+    "wof:id":1209533443,
+    "wof:lastmodified":1537706292,
+    "wof:name":"Vuzh",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.95382,
+    37.71848,
+    71.95382,
+    37.71848
+],
+  "geometry": {"coordinates":[71.95381999999999,37.71848],"type":"Point"}
+}

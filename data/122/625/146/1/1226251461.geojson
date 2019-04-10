@@ -1,0 +1,77 @@
+{
+  "id": 1226251461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.18906,37.7604,70.18906,37.7604",
+    "geom:latitude":37.7604,
+    "geom:longitude":70.18906,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Yol",
+    "gn:country_code":"TJ",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221621,
+    "gn:latitude":37.7604,
+    "gn:longitude":70.18906,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Yol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Y\u00ebl"
+    ],
+    "name:tgk_x_preferred":[
+        "Yol"
+    ],
+    "name:und_x_variant":[
+        "Iol",
+        "\u0401\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221621
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"c092a0853f06db12353c2120ec6a4df6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917913,
+            "locality_id":1226251461,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1226251461,
+    "wof:lastmodified":1537706339,
+    "wof:name":"Yol",
+    "wof:parent_id":1091917913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.18906,
+    37.7604,
+    70.18906,
+    37.7604
+],
+  "geometry": {"coordinates":[70.18906,37.7604],"type":"Point"}
+}

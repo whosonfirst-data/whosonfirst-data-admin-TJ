@@ -1,0 +1,113 @@
+{
+  "id": 421183801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.55744,37.94487,71.55744,37.94487",
+    "geom:latitude":37.94487,
+    "geom:longitude":71.55744,
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ckb_x_preferred":[
+        "\u0695\u06c6\u0634\u0627\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Rushon"
+    ],
+    "name:eng_x_preferred":[
+        "Rushon"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0634\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Rushan"
+    ],
+    "name:fre_x_preferred":[
+        "Rushan"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0648\u0634\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0448\u0430\u043d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0420\u04ef\u0448\u043e\u043d"
+    ],
+    "name:tgk_x_variant":[
+        "R\u016dshon",
+        "\u04b6\u0430\u043c\u043e\u0430\u0442\u0438 \u0420\u04ef\u0448\u043e\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Kala-i-Warma"
+    ],
+    "qs:gn_country":"TJ",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":1220685,
+    "qs:gn_pop":0,
+    "qs:name":"Rushan",
+    "qs:name_adm0":"Tajikistan",
+    "qs:name_adm1":"Kuhistoni Badakhshon",
+    "qs:photos":37,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":37,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":984037,
+    "qs:woe_adm0":23424961,
+    "qs:woe_id":2212851,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220685,
+        "gp:id":2212851,
+        "qs:id":984037,
+        "wd:id":"Q3137279",
+        "wk:page":"Rushon"
+    },
+    "wof:country":"TJ",
+    "wof:created":1459009382,
+    "wof:geomhash":"a55b1c1141934f81d047f0aec9e438cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917707,
+            "locality_id":421183801,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":421183801,
+    "wof:lastmodified":1527717698,
+    "wof:name":"Rushan",
+    "wof:parent_id":1091917707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.55744,
+    37.94487,
+    71.55744,
+    37.94487
+],
+  "geometry": {"coordinates":[71.55744,37.94487],"type":"Point"}
+}

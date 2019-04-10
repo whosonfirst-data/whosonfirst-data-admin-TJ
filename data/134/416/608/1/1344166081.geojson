@@ -1,0 +1,70 @@
+{
+  "id": 1344166081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.17215,37.1781,69.17215,37.1781",
+    "geom:latitude":37.1781,
+    "geom:longitude":69.17215,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tugul",
+    "gn:country_code":"TJ",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220309,
+    "gn:latitude":37.1781,
+    "gn:longitude":69.17215,
+    "gn:modification_date":"2013-08-05",
+    "gn:name":"Tugul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0422\u0443\u0433\u0443\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220309
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"4252fd00f2fe4496d913908d95f81248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917547,
+            "locality_id":1344166081,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1344166081,
+    "wof:lastmodified":1537706296,
+    "wof:name":"Tugul",
+    "wof:parent_id":1091917547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.17215,
+    37.1781,
+    69.17215,
+    37.1781
+],
+  "geometry": {"coordinates":[69.17215,37.1781],"type":"Point"}
+}

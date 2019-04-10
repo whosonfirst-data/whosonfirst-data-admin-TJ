@@ -1,0 +1,78 @@
+{
+  "id": 1226657699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.70202,40.14343,70.70202,40.14343",
+    "geom:latitude":40.14343,
+    "geom:longitude":70.70202,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kulkent",
+    "gn:country_code":"TJ",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514873,
+    "gn:latitude":40.14343,
+    "gn:longitude":70.70202,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Kulkent",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kul\u2019kat",
+        "Kul\u2019ke",
+        "Kul\u2019kent",
+        "Kulkent",
+        "\u041a\u0443\u043b\u043a\u0435\u043d\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Ko\u2018lkent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514873,
+        "wk:page":"Kulkent"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"9a18f3a9fb5eac96d92373a24085efc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916841,
+            "locality_id":1226657699,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1226657699,
+    "wof:lastmodified":1537706401,
+    "wof:name":"Kulkent",
+    "wof:parent_id":1091916841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.70201999999998,
+    40.14343,
+    70.70201999999998,
+    40.14343
+],
+  "geometry": {"coordinates":[70.70201999999998,40.14343],"type":"Point"}
+}

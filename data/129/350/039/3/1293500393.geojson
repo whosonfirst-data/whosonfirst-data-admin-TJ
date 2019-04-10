@@ -1,0 +1,70 @@
+{
+  "id": 1293500393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.16557,37.24987,68.16557,37.24987",
+    "geom:latitude":37.24987,
+    "geom:longitude":68.16557,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kurot",
+    "gn:country_code":"TJ",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475531,
+    "gn:latitude":37.24987,
+    "gn:longitude":68.16557,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Kurot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u041a\u0443\u0440\u043e\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475531
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"2a4f0d4c807f86cc05a1b729daa0b81d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916975,
+            "locality_id":1293500393,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1293500393,
+    "wof:lastmodified":1537706387,
+    "wof:name":"Kurot",
+    "wof:parent_id":1091916975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.16557,
+    37.24987,
+    68.16557,
+    37.24987
+],
+  "geometry": {"coordinates":[68.16557,37.24987],"type":"Point"}
+}

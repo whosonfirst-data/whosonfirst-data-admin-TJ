@@ -1,0 +1,67 @@
+{
+  "id": 1209429267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.00187,36.79902,72.00187,36.79902",
+    "geom:latitude":36.79902,
+    "geom:longitude":72.00187,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dershay",
+    "gn:country_code":"TJ",
+    "gn:dem":2727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221945,
+    "gn:latitude":36.79902,
+    "gn:longitude":72.00187,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Dershay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darshai",
+        "Darshay",
+        "Dershay",
+        "\u0414\u0435\u0440\u0448\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221945
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"ab98fcc6ba9309dc3e2ea3195fafbdb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209429267
+        }
+    ],
+    "wof:id":1209429267,
+    "wof:lastmodified":1537706350,
+    "wof:name":"Dershay",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.00187,
+    36.79902,
+    72.00187,
+    36.79902
+],
+  "geometry": {"coordinates":[72.00187,36.79902],"type":"Point"}
+}

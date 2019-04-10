@@ -1,0 +1,70 @@
+{
+  "id": 1343564179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.98697,37.64378,68.98697,37.64378",
+    "geom:latitude":37.64378,
+    "geom:longitude":68.98697,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Toshrabot",
+    "gn:country_code":"TJ",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8549517,
+    "gn:latitude":37.64378,
+    "gn:longitude":68.98697,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Toshrabot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0422\u043e\u0448\u0440\u0430\u0431\u043e\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091918141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8549517
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"57a12e6ce9186bf55a437ecd8171c965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918141,
+            "locality_id":1343564179,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1343564179,
+    "wof:lastmodified":1537706415,
+    "wof:name":"Toshrabot",
+    "wof:parent_id":1091918141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.98697,
+    37.64378,
+    68.98697,
+    37.64378
+],
+  "geometry": {"coordinates":[68.98697,37.64378],"type":"Point"}
+}

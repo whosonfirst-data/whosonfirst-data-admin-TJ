@@ -1,0 +1,70 @@
+{
+  "id": 1226657561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.05678,39.78015,69.05678,39.78015",
+    "geom:latitude":39.78015,
+    "geom:longitude":69.05678,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Demnora",
+    "gn:country_code":"TJ",
+    "gn:dem":1400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274040,
+    "gn:latitude":39.78015,
+    "gn:longitude":69.05678,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Demnora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0414\u0435\u043c\u043d\u043e\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091918093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274040
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"69928fd99898d5a76899d6f489dd172a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918093,
+            "locality_id":1226657561,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1226657561,
+    "wof:lastmodified":1537706407,
+    "wof:name":"Demnora",
+    "wof:parent_id":1091918093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.05678,
+    39.78015,
+    69.05678,
+    39.78015
+],
+  "geometry": {"coordinates":[69.05678,39.78015],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242908497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.87964,38.8285,70.87964,38.8285",
+    "geom:latitude":38.8285,
+    "geom:longitude":70.87964,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Miyonadu",
+    "gn:country_code":"TJ",
+    "gn:dem":2007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220998,
+    "gn:latitude":38.8285,
+    "gn:longitude":70.87964,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Miyonadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mionadu",
+        "Miy\u00ebnadu",
+        "Miyonadu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091917993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220998
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"b77df20ae169ac9bab994b0b8434f15f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917993,
+            "locality_id":1242908497,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1242908497,
+    "wof:lastmodified":1537706321,
+    "wof:name":"Miyonadu",
+    "wof:parent_id":1091917993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.87964000000002,
+    38.8285,
+    70.87964000000002,
+    38.8285
+],
+  "geometry": {"coordinates":[70.87964000000002,38.8285],"type":"Point"}
+}

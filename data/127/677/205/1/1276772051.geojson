@@ -1,0 +1,72 @@
+{
+  "id": 1276772051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.59484,38.09153,69.59484,38.09153",
+    "geom:latitude":38.09153,
+    "geom:longitude":69.59484,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Shibonai",
+    "gn:country_code":"TJ",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346055,
+    "gn:latitude":38.09153,
+    "gn:longitude":69.59484,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Shibona\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shibona\u00ed",
+        "\u0428\u0438\u0431\u043e\u043d\u0430\u04e3",
+        "Shibonay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346055
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"40a8c0eb53f3b37091960e7c63ffd66b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916409,
+            "locality_id":1276772051,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1276772051,
+    "wof:lastmodified":1537706367,
+    "wof:name":"Shibonai",
+    "wof:parent_id":1091916409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.59484,
+    38.09153,
+    69.59484,
+    38.09153
+],
+  "geometry": {"coordinates":[69.59484,38.09153],"type":"Point"}
+}

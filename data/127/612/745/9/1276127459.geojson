@@ -1,0 +1,75 @@
+{
+  "id": 1276127459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.11963,37.5704,69.11963,37.5704",
+    "geom:latitude":37.5704,
+    "geom:longitude":69.11963,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tojikqishloq",
+    "gn:country_code":"TJ",
+    "gn:dem":1397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475777,
+    "gn:latitude":37.5704,
+    "gn:longitude":69.11963,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Tojikqishloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Tojikishlok"
+    ],
+    "name:und_x_variant":[
+        "Tadzhikishlak",
+        "Tojikqishloq",
+        "\u0422\u043e\u04b7\u0438\u043a\u049b\u0438\u0448\u043b\u043e\u049b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475777
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"b376db9e2b3bdb572d3ae2771e7802ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917463,
+            "locality_id":1276127459,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1276127459,
+    "wof:lastmodified":1537706391,
+    "wof:name":"Tojikqishloq",
+    "wof:parent_id":1091917463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.11963,
+    37.5704,
+    69.11963,
+    37.5704
+],
+  "geometry": {"coordinates":[69.11963,37.5704],"type":"Point"}
+}

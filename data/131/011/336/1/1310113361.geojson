@@ -1,0 +1,71 @@
+{
+  "id": 1310113361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.67943,40.585,69.67943,40.585",
+    "geom:latitude":40.585,
+    "geom:longitude":69.67943,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Taboshari Quhi",
+    "gn:country_code":"TJ",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275351,
+    "gn:latitude":40.585,
+    "gn:longitude":69.67943,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Taboshari Q\u016dh\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taboshari Q\u016dh\u00ed",
+        "\u0422\u0430\u0431\u043e\u0448\u0430\u0440\u0438 \u049a\u04ef\u04b3\u04e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275351
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"be10cb7b1b3449330028e1633894a92d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916787,
+            "locality_id":1310113361,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1310113361,
+    "wof:lastmodified":1537706409,
+    "wof:name":"Taboshari Quhi",
+    "wof:parent_id":1091916787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.67943000000001,
+    40.585,
+    69.67943000000001,
+    40.585
+],
+  "geometry": {"coordinates":[69.67943000000001,40.585],"type":"Point"}
+}

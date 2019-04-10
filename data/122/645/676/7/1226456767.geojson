@@ -1,0 +1,76 @@
+{
+  "id": 1226456767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.42546,38.3573,71.42546,38.3573",
+    "geom:latitude":38.3573,
+    "geom:longitude":71.42546,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Uskrogh",
+    "gn:country_code":"TJ",
+    "gn:dem":1792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220244,
+    "gn:latitude":38.3573,
+    "gn:longitude":71.42546,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Uskrogh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Uskrogh"
+    ],
+    "name:tgk_x_variant":[
+        "\u0423\u0441\u043a\u0440\u043e\u0493"
+    ],
+    "name:und_x_variant":[
+        "Uskro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091918175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220244
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"b5db6749c0624f130e59067c8f045f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918175,
+            "locality_id":1226456767,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1226456767,
+    "wof:lastmodified":1537706294,
+    "wof:name":"Uskrogh",
+    "wof:parent_id":1091918175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.42546,
+    38.3573,
+    71.42546,
+    38.3573
+],
+  "geometry": {"coordinates":[71.42546,38.3573],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276371323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.61914,38.53878,68.61914,38.53878",
+    "geom:latitude":38.53878,
+    "geom:longitude":68.61914,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Shuroby",
+    "gn:country_code":"TJ",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1334011,
+    "gn:latitude":38.53878,
+    "gn:longitude":68.61914,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sh\u016droby",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shurobi-Poy\u00ebn",
+        "Shurobi",
+        "Sh\u016droby"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1334011
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"123f0775c291110e78684a3a3406f94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918381,
+            "locality_id":1276371323,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1276371323,
+    "wof:lastmodified":1537706365,
+    "wof:name":"Shuroby",
+    "wof:parent_id":1091918381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.61914,
+    38.53878,
+    68.61914,
+    38.53878
+],
+  "geometry": {"coordinates":[68.61914,38.53878],"type":"Point"}
+}

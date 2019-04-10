@@ -1,0 +1,67 @@
+{
+  "id": 1259718041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.36216,38.74772,69.36216,38.74772",
+    "geom:latitude":38.74772,
+    "geom:longitude":69.36216,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Yafrak",
+    "gn:country_code":"TJ",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346553,
+    "gn:latitude":38.74772,
+    "gn:longitude":69.36216,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Yafrak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091917077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346553
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"1db4f4a3187ce42731e99cc7b843e499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917077,
+            "locality_id":1259718041,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1259718041,
+    "wof:lastmodified":1537016589,
+    "wof:name":"Yafrak",
+    "wof:parent_id":1091917077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.36216,
+    38.74772,
+    69.36216,
+    38.74772
+],
+  "geometry": {"coordinates":[69.36216,38.74772],"type":"Point"}
+}

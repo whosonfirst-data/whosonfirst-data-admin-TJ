@@ -1,0 +1,65 @@
+{
+  "id": 1209333013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.55,37.78333,69.55,37.78333",
+    "geom:latitude":37.78333,
+    "geom:longitude":69.55,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pingon",
+    "gn:cc2":"TJ",
+    "gn:country_code":"TJ",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220788,
+    "gn:latitude":37.78333,
+    "gn:longitude":69.55,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Pingon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pingan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220788
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"ba4eafd078519e46e4feed9cc510ba36",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209333013
+        }
+    ],
+    "wof:id":1209333013,
+    "wof:lastmodified":1537706313,
+    "wof:name":"Pingon",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.55,
+    37.78333,
+    69.55,
+    37.78333
+],
+  "geometry": {"coordinates":[69.55,37.78333],"type":"Point"}
+}

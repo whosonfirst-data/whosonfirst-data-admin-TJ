@@ -1,0 +1,64 @@
+{
+  "id": 1209422507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.60831,40.15936,69.60831,40.15936",
+    "geom:latitude":40.15936,
+    "geom:longitude":69.60831,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Navobod",
+    "gn:country_code":"TJ",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275418,
+    "gn:latitude":40.15936,
+    "gn:longitude":69.60831,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Navobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u041d\u0430\u0432\u043e\u0431\u043e\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275418
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"e33df8f085994e6ce4da7146f37e01b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209422507
+        }
+    ],
+    "wof:id":1209422507,
+    "wof:lastmodified":1537706410,
+    "wof:name":"Navobod",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.60831,
+    40.15936,
+    69.60831,
+    40.15936
+],
+  "geometry": {"coordinates":[69.60831,40.15936],"type":"Point"}
+}

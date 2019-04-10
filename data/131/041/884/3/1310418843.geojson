@@ -1,0 +1,73 @@
+{
+  "id": 1310418843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.62861,37.44795,68.62861,37.44795",
+    "geom:latitude":37.44795,
+    "geom:longitude":68.62861,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Udarnik",
+    "gn:country_code":"TJ",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475260,
+    "gn:latitude":37.44795,
+    "gn:longitude":68.62861,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Udarnik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Udarnik"
+    ],
+    "name:und_x_variant":[
+        "\u0423\u0434\u0430\u0440\u043d\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475260
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"ef0a7e11a7701cea424621556b0c211a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917079,
+            "locality_id":1310418843,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1310418843,
+    "wof:lastmodified":1537706384,
+    "wof:name":"Udarnik",
+    "wof:parent_id":1091917079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.62861,
+    37.44795,
+    68.62861,
+    37.44795
+],
+  "geometry": {"coordinates":[68.62860999999999,37.44795],"type":"Point"}
+}

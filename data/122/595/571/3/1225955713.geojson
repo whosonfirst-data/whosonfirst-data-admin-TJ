@@ -1,0 +1,71 @@
+{
+  "id": 1225955713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.4346,40.6609,69.4346,40.6609",
+    "geom:latitude":40.6609,
+    "geom:longitude":69.4346,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qushquduq",
+    "gn:country_code":"TJ",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275315,
+    "gn:latitude":40.6609,
+    "gn:longitude":69.4346,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Q\u016dshquduq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Q\u016dshquduq",
+        "\u049a\u04ef\u0448\u049b\u0443\u0434\u0443\u049b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091917221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275315
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"0f120b4bad15c6921a80c27e9923685f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917221,
+            "locality_id":1225955713,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1225955713,
+    "wof:lastmodified":1537706409,
+    "wof:name":"Qushquduq",
+    "wof:parent_id":1091917221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.4346,
+    40.6609,
+    69.4346,
+    40.6609
+],
+  "geometry": {"coordinates":[69.4346,40.6609],"type":"Point"}
+}

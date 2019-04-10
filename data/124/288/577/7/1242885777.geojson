@@ -1,0 +1,70 @@
+{
+  "id": 1242885777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.25891,40.19051,69.25891,40.19051",
+    "geom:latitude":40.19051,
+    "geom:longitude":69.25891,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Hashtyak",
+    "gn:country_code":"TJ",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273968,
+    "gn:latitude":40.19051,
+    "gn:longitude":69.25891,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Hashtyak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u04b2\u0430\u0448\u0442\u044f\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091917381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273968
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"682ec486824efe7abebb59e8d83764b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917381,
+            "locality_id":1242885777,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1242885777,
+    "wof:lastmodified":1537706407,
+    "wof:name":"Hashtyak",
+    "wof:parent_id":1091917381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.25891,
+    40.19051,
+    69.25891,
+    40.19051
+],
+  "geometry": {"coordinates":[69.25891,40.19051],"type":"Point"}
+}

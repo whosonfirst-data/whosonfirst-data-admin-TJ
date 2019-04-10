@@ -1,0 +1,71 @@
+{
+  "id": 1260011087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.54003,38.40051,68.54003,38.40051",
+    "geom:latitude":38.40051,
+    "geom:longitude":68.54003,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Lattaban",
+    "gn:country_code":"TJ",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346026,
+    "gn:latitude":38.40051,
+    "gn:longitude":68.54003,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lattaban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lattaband",
+        "Lattaban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091916749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346026
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"9fa29c7da81ea0651f5f967318b9f803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916749,
+            "locality_id":1260011087,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1260011087,
+    "wof:lastmodified":1537706366,
+    "wof:name":"Lattaban",
+    "wof:parent_id":1091916749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.54003,
+    38.40051,
+    68.54003,
+    38.40051
+],
+  "geometry": {"coordinates":[68.54003,38.40051],"type":"Point"}
+}

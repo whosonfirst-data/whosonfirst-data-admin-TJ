@@ -1,0 +1,72 @@
+{
+  "id": 1243457607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.18447,37.18636,68.18447,37.18636",
+    "geom:latitude":37.18636,
+    "geom:longitude":68.18447,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kurjalol",
+    "gn:country_code":"TJ",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475518,
+    "gn:latitude":37.18636,
+    "gn:longitude":68.18447,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"K\u016drjalol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurdzhalol",
+        "K\u016drjalol",
+        "\u041a\u04ef\u0440\u04b7\u0430\u043b\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475518
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"a9df8e417b50bafa04d0a059cb738aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916975,
+            "locality_id":1243457607,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1243457607,
+    "wof:lastmodified":1537706387,
+    "wof:name":"Kurjalol",
+    "wof:parent_id":1091916975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.18446999999999,
+    37.18636,
+    68.18446999999999,
+    37.18636
+],
+  "geometry": {"coordinates":[68.18446999999999,37.18636],"type":"Point"}
+}

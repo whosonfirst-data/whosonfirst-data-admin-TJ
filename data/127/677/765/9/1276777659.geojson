@@ -1,0 +1,70 @@
+{
+  "id": 1276777659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.85328,37.19524,71.85328,37.19524",
+    "geom:latitude":37.19524,
+    "geom:longitude":71.85328,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bidizi Bolo",
+    "gn:country_code":"TJ",
+    "gn:dem":2803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8411249,
+    "gn:latitude":37.19524,
+    "gn:longitude":71.85328,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Bidizi Bolo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0411\u0438\u0434\u0438\u0437\u0438 \u0411\u043e\u043b\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8411249
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"dfb8a0b24d7484ab184c5bcc1d99f3e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917661,
+            "locality_id":1276777659,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1276777659,
+    "wof:lastmodified":1537706413,
+    "wof:name":"Bidizi Bolo",
+    "wof:parent_id":1091917661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.85328,
+    37.19524000000001,
+    71.85328,
+    37.19524000000001
+],
+  "geometry": {"coordinates":[71.85328,37.19524000000001],"type":"Point"}
+}

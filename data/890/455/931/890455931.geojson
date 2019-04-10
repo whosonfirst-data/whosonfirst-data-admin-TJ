@@ -1,0 +1,68 @@
+{
+  "id": 890455931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.42749,40.99827,70.42749,40.99827",
+    "geom:latitude":40.99827,
+    "geom:longitude":70.42749,
+    "gn:country":"TJ",
+    "gn:fcode":"PPL",
+    "gn:pop":877,
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Naugarzan"
+    ],
+    "qs:name":"Navgarzan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514854,
+        "qs:id":556429
+    },
+    "wof:country":"TJ",
+    "wof:created":1469052986,
+    "wof:geomhash":"1d0cce5e2b2c10b6ec47a6a79b8cc537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916363,
+            "locality_id":890455931,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":890455931,
+    "wof:lastmodified":1505343666,
+    "wof:name":"Navgarzan",
+    "wof:parent_id":1091916363,
+    "wof:placetype":"locality",
+    "wof:population":877,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.42749,
+    40.99827,
+    70.42749,
+    40.99827
+],
+  "geometry": {"coordinates":[70.42749000000001,40.99827],"type":"Point"}
+}

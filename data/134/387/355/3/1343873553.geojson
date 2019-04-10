@@ -1,0 +1,66 @@
+{
+  "id": 1343873553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.05,38.46,70.05,38.46",
+    "geom:latitude":38.46,
+    "geom:longitude":70.05,
+    "gn:asciiname":"Nurobod",
+    "gn:country_code":"TJ",
+    "gn:dem":1956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7648541,
+    "gn:latitude":38.46,
+    "gn:longitude":70.05,
+    "gn:modification_date":"2011-02-02",
+    "gn:name":"Nurobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648541
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"b118ee074f02f7043dc3c7b32b3d8799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916813,
+            "locality_id":1343873553,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1343873553,
+    "wof:lastmodified":1536647216,
+    "wof:name":"Nurobod",
+    "wof:parent_id":1091916813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.05,
+    38.46,
+    70.05,
+    38.46
+],
+  "geometry": {"coordinates":[70.05,38.46],"type":"Point"}
+}

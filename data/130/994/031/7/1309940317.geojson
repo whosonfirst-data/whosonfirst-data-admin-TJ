@@ -1,0 +1,67 @@
+{
+  "id": 1309940317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.53384,38.76255,68.53384,38.76255",
+    "geom:latitude":38.76255,
+    "geom:longitude":68.53384,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Zachau",
+    "gn:country_code":"TJ",
+    "gn:dem":1885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220080,
+    "gn:latitude":38.76255,
+    "gn:longitude":68.53384,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Zachau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091917789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220080
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"892cedf6db8b3a615aad65961504baa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917789,
+            "locality_id":1309940317,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1309940317,
+    "wof:lastmodified":1536737281,
+    "wof:name":"Zachau",
+    "wof:parent_id":1091917789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.53384,
+    38.76255,
+    68.53384,
+    38.76255
+],
+  "geometry": {"coordinates":[68.53384,38.76255],"type":"Point"}
+}

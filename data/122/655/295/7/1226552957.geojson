@@ -1,0 +1,67 @@
+{
+  "id": 1226552957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.18896,37.51607,69.18896,37.51607",
+    "geom:latitude":37.51607,
+    "geom:longitude":69.18896,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ferma Pyataya Sovkhoza Dzhangara",
+    "gn:country_code":"TJ",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475794,
+    "gn:latitude":37.51607,
+    "gn:longitude":69.18896,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Ferma Pyataya Sovkhoza Dzhangara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475794
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"c11b7d99535f14c605ab01507c9f0099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917463,
+            "locality_id":1226552957,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1226552957,
+    "wof:lastmodified":1536986789,
+    "wof:name":"Ferma Pyataya Sovkhoza Dzhangara",
+    "wof:parent_id":1091917463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.18896,
+    37.51607,
+    69.18896,
+    37.51607
+],
+  "geometry": {"coordinates":[69.18895999999999,37.51607],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226279125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.95853,38.49847,68.95853,38.49847",
+    "geom:latitude":38.49847,
+    "geom:longitude":68.95853,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Tojikobod",
+    "gn:country_code":"TJ",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1334140,
+    "gn:latitude":38.49847,
+    "gn:longitude":68.95853,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tojikobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tadzhikabad",
+        "Tojikobod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091917077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1334140
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"bbb68774c45c3e8f93f98ba6fe58177b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917077,
+            "locality_id":1226279125,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1226279125,
+    "wof:lastmodified":1537706365,
+    "wof:name":"Tojikobod",
+    "wof:parent_id":1091917077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.95853000000001,
+    38.49847000000001,
+    68.95853000000001,
+    38.49847000000001
+],
+  "geometry": {"coordinates":[68.95853000000001,38.49847000000001],"type":"Point"}
+}

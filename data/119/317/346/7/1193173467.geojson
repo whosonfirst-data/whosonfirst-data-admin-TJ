@@ -1,0 +1,71 @@
+{
+  "id": 1193173467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.94572,38.65719,68.94572,38.65719",
+    "geom:latitude":38.65719,
+    "geom:longitude":68.94572,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Magmurud",
+    "gn:country_code":"TJ",
+    "gn:dem":1483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1334164,
+    "gn:latitude":38.65719,
+    "gn:longitude":68.94572,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Magmurud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marmurud",
+        "Magmurud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091917077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1334164
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"66a41d4e785c596b07316b7b6e040dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917077,
+            "locality_id":1193173467,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1193173467,
+    "wof:lastmodified":1537706365,
+    "wof:name":"Magmurud",
+    "wof:parent_id":1091917077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.94572,
+    38.65719,
+    68.94572,
+    38.65719
+],
+  "geometry": {"coordinates":[68.94571999999999,38.65719],"type":"Point"}
+}

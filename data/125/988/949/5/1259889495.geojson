@@ -1,0 +1,67 @@
+{
+  "id": 1259889495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.78944,37.21861,72.78944,37.21861",
+    "geom:latitude":37.21861,
+    "geom:longitude":72.78944,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rachiv",
+    "gn:country_code":"TJ",
+    "gn:dem":3613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220742,
+    "gn:latitude":37.21861,
+    "gn:longitude":72.78944,
+    "gn:modification_date":"2001-12-11",
+    "gn:name":"Rachiv",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091916859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220742
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"746e9185e3a99a99c9620981f0182d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916859,
+            "locality_id":1259889495,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1259889495,
+    "wof:lastmodified":1536770881,
+    "wof:name":"Rachiv",
+    "wof:parent_id":1091916859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.78944,
+    37.21861,
+    72.78944,
+    37.21861
+],
+  "geometry": {"coordinates":[72.78944,37.21861],"type":"Point"}
+}

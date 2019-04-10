@@ -1,0 +1,67 @@
+{
+  "id": 1327143217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.71925,37.31752,68.71925,37.31752",
+    "geom:latitude":37.31752,
+    "geom:longitude":68.71925,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Khlopkovyy",
+    "gn:country_code":"TJ",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475312,
+    "gn:latitude":37.31752,
+    "gn:longitude":68.71925,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Khlopkovyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475312
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"01583bd572c4d81af1830c33296702f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917135,
+            "locality_id":1327143217,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1327143217,
+    "wof:lastmodified":1537095053,
+    "wof:name":"Khlopkovyy",
+    "wof:parent_id":1091917135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.71925,
+    37.31752,
+    68.71925,
+    37.31752
+],
+  "geometry": {"coordinates":[68.71925,37.31752],"type":"Point"}
+}

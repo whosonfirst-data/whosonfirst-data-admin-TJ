@@ -1,0 +1,66 @@
+{
+  "id": 1209227745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.14669,38.31441,69.14669,38.31441",
+    "geom:latitude":38.31441,
+    "geom:longitude":69.14669,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ghofilobod",
+    "gn:country_code":"TJ",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346277,
+    "gn:latitude":38.31441,
+    "gn:longitude":69.14669,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Ghofilobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gofilabad",
+        "Ghofilobod",
+        "\u0492\u043e\u0444\u0438\u043b\u043e\u0431\u043e\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346277
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"3b28d7475b76e491c92c901dfcca9016",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209227745
+        }
+    ],
+    "wof:id":1209227745,
+    "wof:lastmodified":1537706377,
+    "wof:name":"Ghofilobod",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.14669,
+    38.31441,
+    69.14669,
+    38.31441
+],
+  "geometry": {"coordinates":[69.14669000000001,38.31441],"type":"Point"}
+}

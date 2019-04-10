@@ -1,0 +1,71 @@
+{
+  "id": 1226647797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.56367,40.75894,70.56367,40.75894",
+    "geom:latitude":40.75894,
+    "geom:longitude":70.56367,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Katta-Sarikamysh",
+    "gn:country_code":"TJ",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514884,
+    "gn:latitude":40.75894,
+    "gn:longitude":70.56367,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Katta-Sarikamysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kattasarqamish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091916363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514884,
+        "wk:page":"Katta-Sarikamysh"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"5f4f35bc1c5bc60ab48a46731fef1170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916363,
+            "locality_id":1226647797,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1226647797,
+    "wof:lastmodified":1537706401,
+    "wof:name":"Katta-Sarikamysh",
+    "wof:parent_id":1091916363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.56367,
+    40.75894,
+    70.56367,
+    40.75894
+],
+  "geometry": {"coordinates":[70.56367,40.75894],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276776167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.65692,38.2282,69.65692,38.2282",
+    "geom:latitude":38.2282,
+    "geom:longitude":69.65692,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bobokhonshaid",
+    "gn:country_code":"TJ",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346073,
+    "gn:latitude":38.2282,
+    "gn:longitude":69.65692,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Bobokhonshaid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346073
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"de013d61112a1677a5b9a45cf0e10ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916813,
+            "locality_id":1276776167,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1276776167,
+    "wof:lastmodified":1536682359,
+    "wof:name":"Bobokhonshaid",
+    "wof:parent_id":1091916813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.65692,
+    38.2282,
+    69.65692,
+    38.2282
+],
+  "geometry": {"coordinates":[69.65692,38.2282],"type":"Point"}
+}

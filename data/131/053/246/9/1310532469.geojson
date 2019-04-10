@@ -1,0 +1,67 @@
+{
+  "id": 1310532469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.25,38.71667,71.25,38.71667",
+    "geom:latitude":38.71667,
+    "geom:longitude":71.25,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Nisay",
+    "gn:country_code":"TJ",
+    "gn:dem":2773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220916,
+    "gn:latitude":38.71667,
+    "gn:longitude":71.25,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nisay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091917993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220916
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"8f2bd914e3620731f789e673b268dc3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917993,
+            "locality_id":1310532469,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1310532469,
+    "wof:lastmodified":1536877263,
+    "wof:name":"Nisay",
+    "wof:parent_id":1091917993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.25,
+    38.71667,
+    71.25,
+    38.71667
+],
+  "geometry": {"coordinates":[71.25,38.71667],"type":"Point"}
+}

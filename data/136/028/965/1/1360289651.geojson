@@ -1,0 +1,72 @@
+{
+  "id": 1360289651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.22179,36.94077,72.22179,36.94077",
+    "geom:latitude":36.94077,
+    "geom:longitude":72.22179,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ptul",
+    "gn:country_code":"TJ",
+    "gn:dem":2789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220751,
+    "gn:latitude":36.94077,
+    "gn:longitude":72.22179,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ptul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Putup",
+        "Ptul",
+        "\u041f\u0442\u0443\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091916859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220751
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"31bb7b4b4a89235974f53967c873e7cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916859,
+            "locality_id":1360289651,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1360289651,
+    "wof:lastmodified":1537706311,
+    "wof:name":"Ptul",
+    "wof:parent_id":1091916859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.22179,
+    36.94077,
+    72.22179,
+    36.94077
+],
+  "geometry": {"coordinates":[72.22179,36.94077],"type":"Point"}
+}

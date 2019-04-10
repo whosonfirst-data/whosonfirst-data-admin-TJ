@@ -1,0 +1,64 @@
+{
+  "id": 1209345581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.41667,37.98333,68.41667,37.98333",
+    "geom:latitude":37.98333,
+    "geom:longitude":68.41667,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Gyul'kha-Bulak",
+    "gn:country_code":"TJ",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221654,
+    "gn:latitude":37.98333,
+    "gn:longitude":68.41667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Gyul\u2019kha-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Gyul\u2019kha-Bulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221654
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"b8d8b46913a94ffa4a1f907a0823bae1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632513,
+            "locality_id":1209345581
+        }
+    ],
+    "wof:id":1209345581,
+    "wof:lastmodified":1537706340,
+    "wof:name":"Gyul'kha-Bulak",
+    "wof:parent_id":85632513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.41667,
+    37.98333,
+    68.41667,
+    37.98333
+],
+  "geometry": {"coordinates":[68.41667,37.98333],"type":"Point"}
+}

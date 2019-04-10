@@ -1,0 +1,67 @@
+{
+  "id": 1259493233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.51667,37.98333,69.51667,37.98333",
+    "geom:latitude":37.98333,
+    "geom:longitude":69.51667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dzhul'mabad",
+    "gn:country_code":"TJ",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221790,
+    "gn:latitude":37.98333,
+    "gn:longitude":69.51667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Dzhul'mabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221790
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"86ca5d6413bab3703667606312a043c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917957,
+            "locality_id":1259493233,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1259493233,
+    "wof:lastmodified":1536843630,
+    "wof:name":"Dzhul'mabad",
+    "wof:parent_id":1091917957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.51666999999999,
+    37.98333,
+    69.51666999999999,
+    37.98333
+],
+  "geometry": {"coordinates":[69.51666999999999,37.98333],"type":"Point"}
+}

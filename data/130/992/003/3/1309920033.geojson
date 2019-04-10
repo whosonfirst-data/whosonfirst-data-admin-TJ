@@ -1,0 +1,70 @@
+{
+  "id": 1309920033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.50551,37.30931,71.50551,37.30931",
+    "geom:latitude":37.30931,
+    "geom:longitude":71.50551,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Shichoghz",
+    "gn:country_code":"TJ",
+    "gn:dem":2180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8426950,
+    "gn:latitude":37.30931,
+    "gn:longitude":71.50551,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Shichoghz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0428\u0438\u0447\u043e\u0493\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8426950
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"85b55a15db9286ae77dca58bf8968bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917661,
+            "locality_id":1309920033,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1309920033,
+    "wof:lastmodified":1537706414,
+    "wof:name":"Shichoghz",
+    "wof:parent_id":1091917661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.50551,
+    37.30931,
+    71.50551,
+    37.30931
+],
+  "geometry": {"coordinates":[71.50551,37.30931],"type":"Point"}
+}

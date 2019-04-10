@@ -1,0 +1,73 @@
+{
+  "id": 1209917089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.09737,38.38269,69.09737,38.38269",
+    "geom:latitude":38.38269,
+    "geom:longitude":69.09737,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hasani",
+    "gn:country_code":"TJ",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346272,
+    "gn:latitude":38.38269,
+    "gn:longitude":69.09737,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Hasan\u00ed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khasani",
+        "Khasony",
+        "Hasan\u00ed",
+        "\u04b2\u0430\u0441\u0430\u043d\u04e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091917077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346272
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"b090a7ca1aa389992a787a92a043d323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917077,
+            "locality_id":1209917089,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1209917089,
+    "wof:lastmodified":1537706376,
+    "wof:name":"Hasani",
+    "wof:parent_id":1091917077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.09737,
+    38.38269,
+    69.09737,
+    38.38269
+],
+  "geometry": {"coordinates":[69.09737,38.38269],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327445239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.66858,38.63927,70.66858,38.63927",
+    "geom:latitude":38.63927,
+    "geom:longitude":70.66858,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sagirdasht",
+    "gn:country_code":"TJ",
+    "gn:dem":2503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220672,
+    "gn:latitude":38.63927,
+    "gn:longitude":70.66858,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sagirdasht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sary-Dasht",
+        "Sagirdasht",
+        "\u0421\u0430\u0433\u0438\u0440\u0434\u0430\u0448\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220672
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"f2c8309b01bd8e542d5806996e3fb3af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917021,
+            "locality_id":1327445239,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1327445239,
+    "wof:lastmodified":1537706308,
+    "wof:name":"Sagirdasht",
+    "wof:parent_id":1091917021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.66858,
+    38.63927,
+    70.66858,
+    38.63927
+],
+  "geometry": {"coordinates":[70.66858000000001,38.63927],"type":"Point"}
+}

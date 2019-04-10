@@ -1,0 +1,75 @@
+{
+  "id": 1310136865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.91299,38.85003,68.91299,38.85003",
+    "geom:latitude":38.85003,
+    "geom:longitude":68.91299,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Dekhamalik",
+    "gn:country_code":"TJ",
+    "gn:dem":1515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221925,
+    "gn:latitude":38.85003,
+    "gn:longitude":68.91299,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dekhamalik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dvamalik",
+        "Dehmalik",
+        "Diamalik",
+        "Deamalik",
+        "Dekhamalik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221925,
+        "wk:page":"Dehmalik"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"271b6923decff7d0aa287e0318d1306c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918215,
+            "locality_id":1310136865,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1310136865,
+    "wof:lastmodified":1537706350,
+    "wof:name":"Dekhamalik",
+    "wof:parent_id":1091918215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.91299000000001,
+    38.85003,
+    68.91299000000001,
+    38.85003
+],
+  "geometry": {"coordinates":[68.91299000000001,38.85003],"type":"Point"}
+}

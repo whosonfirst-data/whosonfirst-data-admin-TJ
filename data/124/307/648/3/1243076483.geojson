@@ -1,0 +1,79 @@
+{
+  "id": 1243076483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.07345,38.47422,70.07345,38.47422",
+    "geom:latitude":38.47422,
+    "geom:longitude":70.07345,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mazori Hazrati Sulmon",
+    "gn:country_code":"TJ",
+    "gn:dem":1861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220435,
+    "gn:latitude":38.47422,
+    "gn:longitude":70.07345,
+    "gn:modification_date":"2014-02-07",
+    "gn:name":"Mazori Hazrati Sulmon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sultanmazor",
+        "Mazorsulton",
+        "Sultonmazor",
+        "Mazori",
+        "Sultonmazar",
+        "Mazaryuru",
+        "Mazorsultan",
+        "Mazory",
+        "Mazori Hazrati Sulmon",
+        "\u041c\u0430\u0437\u043e\u0440\u0438 \u04b2\u0430\u0437\u0440\u0430\u0442\u0438 \u0421\u0443\u043b\u043c\u043e\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220435
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"834d2e7f68b4270cb078be02a57c0a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916813,
+            "locality_id":1243076483,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1243076483,
+    "wof:lastmodified":1537706300,
+    "wof:name":"Mazori Hazrati Sulmon",
+    "wof:parent_id":1091916813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.07345,
+    38.47422,
+    70.07345,
+    38.47422
+],
+  "geometry": {"coordinates":[70.07344999999999,38.47422],"type":"Point"}
+}

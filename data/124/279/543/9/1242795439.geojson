@@ -1,0 +1,76 @@
+{
+  "id": 1242795439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.87501,38.06329,71.87501,38.06329",
+    "geom:latitude":38.06329,
+    "geom:longitude":71.87501,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bartang",
+    "gn:country_code":"TJ",
+    "gn:dem":2175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222181,
+    "gn:latitude":38.06329,
+    "gn:longitude":71.87501,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bartang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Bartang"
+    ],
+    "name:tgk_x_variant":[
+        "\u0411\u0430\u0440\u0442\u0430\u043d\u0433"
+    ],
+    "name:und_x_variant":[
+        "Siponzh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222181
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"56dd682b80b50cdb84d05acb1f26cbe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917707,
+            "locality_id":1242795439,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1242795439,
+    "wof:lastmodified":1537706359,
+    "wof:name":"Bartang",
+    "wof:parent_id":1091917707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.87501,
+    38.06329,
+    71.87501,
+    38.06329
+],
+  "geometry": {"coordinates":[71.87501,38.06329],"type":"Point"}
+}

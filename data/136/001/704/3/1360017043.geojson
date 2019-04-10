@@ -1,0 +1,67 @@
+{
+  "id": 1360017043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.52978,38.52441,68.52978,38.52441",
+    "geom:latitude":38.52441,
+    "geom:longitude":68.52978,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Komsomol",
+    "gn:country_code":"TJ",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1334020,
+    "gn:latitude":38.52441,
+    "gn:longitude":68.52978,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Komsomol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091916749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1334020
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"2a257c07530c778a97b1cd0beded3990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916749,
+            "locality_id":1360017043,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1360017043,
+    "wof:lastmodified":1537042105,
+    "wof:name":"Komsomol",
+    "wof:parent_id":1091916749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.52978,
+    38.52441,
+    68.52978,
+    38.52441
+],
+  "geometry": {"coordinates":[68.52978,38.52441],"type":"Point"}
+}

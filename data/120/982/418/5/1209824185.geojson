@@ -1,0 +1,72 @@
+{
+  "id": 1209824185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.33813,38.13012,69.33813,38.13012",
+    "geom:latitude":38.13012,
+    "geom:longitude":69.33813,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tutkul",
+    "gn:country_code":"TJ",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346035,
+    "gn:latitude":38.13012,
+    "gn:longitude":69.33813,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Tutk\u016dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tutk\u016dl",
+        "\u0422\u0443\u0442\u043a\u04ef\u043b",
+        "Tutkul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091916489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346035
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"f75b38d2532d9c416737d68710fb456e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916489,
+            "locality_id":1209824185,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1209824185,
+    "wof:lastmodified":1537706366,
+    "wof:name":"Tutkul",
+    "wof:parent_id":1091916489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.33813,
+    38.13012,
+    69.33813,
+    38.13012
+],
+  "geometry": {"coordinates":[69.33813000000001,38.13012],"type":"Point"}
+}

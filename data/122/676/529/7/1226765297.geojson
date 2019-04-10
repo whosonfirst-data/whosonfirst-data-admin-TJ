@@ -1,0 +1,79 @@
+{
+  "id": 1226765297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.51303,38.18591,70.51303,38.18591",
+    "geom:latitude":38.18591,
+    "geom:longitude":70.51303,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Khostav",
+    "gn:country_code":"TJ",
+    "gn:dem":1098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1221322,
+    "gn:latitude":38.18591,
+    "gn:longitude":70.51303,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Khostav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Khostho"
+    ],
+    "name:tgk_x_variant":[
+        "\u0425\u043e\u0441\u0442\u04b3\u043e"
+    ],
+    "name:und_x_variant":[
+        "Khostov",
+        "Khostou",
+        "Khostav",
+        "\u0425\u043e\u0441\u0442\u0430\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678899,
+        1091917021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221322
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"1c262543aedfb0c81590a4deefd5a54c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917021,
+            "locality_id":1226765297,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":1226765297,
+    "wof:lastmodified":1537706330,
+    "wof:name":"Khostav",
+    "wof:parent_id":1091917021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.51303,
+    38.18591,
+    70.51303,
+    38.18591
+],
+  "geometry": {"coordinates":[70.51303,38.18591],"type":"Point"}
+}

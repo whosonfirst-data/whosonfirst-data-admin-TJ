@@ -1,0 +1,67 @@
+{
+  "id": 1242910201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.21463,38.57383,68.21463,38.57383",
+    "geom:latitude":38.57383,
+    "geom:longitude":68.21463,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Sulyukh",
+    "gn:country_code":"TJ",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220433,
+    "gn:latitude":38.57383,
+    "gn:longitude":68.21463,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Sulyukh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220433
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"c6f482190e663342f9ca214ea59b2974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918055,
+            "locality_id":1242910201,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1242910201,
+    "wof:lastmodified":1537078416,
+    "wof:name":"Sulyukh",
+    "wof:parent_id":1091918055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.21463,
+    38.57383,
+    68.21463,
+    38.57383
+],
+  "geometry": {"coordinates":[68.21463,38.57383],"type":"Point"}
+}

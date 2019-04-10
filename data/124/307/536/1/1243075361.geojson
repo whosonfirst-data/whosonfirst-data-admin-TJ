@@ -1,0 +1,72 @@
+{
+  "id": 1243075361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.03518,40.09401,69.03518,40.09401",
+    "geom:latitude":40.09401,
+    "geom:longitude":69.03518,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Uyas",
+    "gn:country_code":"TJ",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514824,
+    "gn:latitude":40.09401,
+    "gn:longitude":69.03518,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Uyas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uyaz",
+        "Uyas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678913,
+        1091918093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514824,
+        "wk:page":"Uyas"
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"676ded6ab3033a6501d0f5a8e2739722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918093,
+            "locality_id":1243075361,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":1243075361,
+    "wof:lastmodified":1537706398,
+    "wof:name":"Uyas",
+    "wof:parent_id":1091918093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.03518000000001,
+    40.09401,
+    69.03518000000001,
+    40.09401
+],
+  "geometry": {"coordinates":[69.03518000000001,40.09401],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344188139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.67024,38.36612,68.67024,38.36612",
+    "geom:latitude":38.36612,
+    "geom:longitude":68.67024,
+    "gn:admin1_code":"RR",
+    "gn:asciiname":"Taylenobad",
+    "gn:country_code":"TJ",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220355,
+    "gn:latitude":38.36612,
+    "gn:longitude":68.67024,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Taylenobad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taylanabad",
+        "Taylenobad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678907,
+        1091918381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220355
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"cdf0b7d9c32ef3bb71b66495e1ca107d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918381,
+            "locality_id":1344188139,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":1344188139,
+    "wof:lastmodified":1537706297,
+    "wof:name":"Taylenobad",
+    "wof:parent_id":1091918381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.67024,
+    38.36612,
+    68.67024,
+    38.36612
+],
+  "geometry": {"coordinates":[68.67024000000001,38.36612],"type":"Point"}
+}

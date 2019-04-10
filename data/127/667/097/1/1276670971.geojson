@@ -1,0 +1,78 @@
+{
+  "id": 1276670971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.08014,37.64489,70.08014,37.64489",
+    "geom:latitude":37.64489,
+    "geom:longitude":70.08014,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Razvaliny Bodoman",
+    "gn:country_code":"TJ",
+    "gn:dem":1748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1222123,
+    "gn:latitude":37.64489,
+    "gn:longitude":70.08014,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Razvaliny Bodoman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Dushanbe",
+    "iso:country":"TJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tgk_x_preferred":[
+        "\u0425\u0430\u0440\u043e\u0431\u0430 \u0411\u043e\u0434\u043e\u043c\u0430\u043a"
+    ],
+    "name:tgk_x_variant":[
+        "Kharoba Bodomak"
+    ],
+    "name:und_x_variant":[
+        "Bodomak",
+        "Razvaliny Bodomak",
+        "Razvaliny Bodoman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632513,
+        85678905,
+        1091917913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222123
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"8d58c62eff374de86cad5f81fc224dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917913,
+            "locality_id":1276670971,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":1276670971,
+    "wof:lastmodified":1537706357,
+    "wof:name":"Razvaliny Bodoman",
+    "wof:parent_id":1091917913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.08014,
+    37.64489,
+    70.08014,
+    37.64489
+],
+  "geometry": {"coordinates":[70.08014,37.64489],"type":"Point"}
+}

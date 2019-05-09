@@ -10,6 +10,12 @@
     "geom:latitude":40.100091,
     "geom:longitude":70.605083,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Isfara District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.121486,
     "lbl:longitude":70.578805,
     "meso:admin_1":"Sogd",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091916841,
-    "wof:lastmodified":1536615026,
+    "wof:lastmodified":1553717987,
     "wof:name":"Isfara",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":38.737192,
     "geom:longitude":71.100132,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Tavildara District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":38.700907,
     "lbl:longitude":71.356432,
     "meso:admin_1":"Tadzhikistan Territories",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091917993,
-    "wof:lastmodified":1536615029,
+    "wof:lastmodified":1553717990,
     "wof:name":"Tavildara",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

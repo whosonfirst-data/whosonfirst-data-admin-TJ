@@ -10,6 +10,12 @@
     "geom:latitude":38.174833,
     "geom:longitude":68.915483,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Yovon District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":38.17983,
     "lbl:longitude":68.912328,
     "meso:admin_1":"Khatlon",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091918301,
-    "wof:lastmodified":1536615029,
+    "wof:lastmodified":1553717990,
     "wof:name":"Yovon",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

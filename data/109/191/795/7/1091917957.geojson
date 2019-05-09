@@ -10,6 +10,12 @@
     "geom:latitude":37.92468,
     "geom:longitude":69.492402,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Temurmalik District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":37.93092,
     "lbl:longitude":69.495023,
     "meso:admin_1":"Khatlon",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091917957,
-    "wof:lastmodified":1536615029,
+    "wof:lastmodified":1553717989,
     "wof:name":"Temurmalik",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

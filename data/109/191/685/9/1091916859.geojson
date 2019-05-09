@@ -10,6 +10,12 @@
     "geom:latitude":36.930112,
     "geom:longitude":71.94121,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Ishkoshim District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.774874,
     "lbl:longitude":71.708975,
     "meso:admin_1":"Badakhshoni Kuni",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091916859,
-    "wof:lastmodified":1536615027,
+    "wof:lastmodified":1553717987,
     "wof:name":"Ishkoshim",
     "wof:parent_id":85678899,
     "wof:placetype":"county",

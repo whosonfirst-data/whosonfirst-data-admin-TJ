@@ -10,6 +10,12 @@
     "geom:latitude":39.642011,
     "geom:longitude":68.748532,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Shahriston District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":39.626454,
     "lbl:longitude":68.766108,
     "meso:admin_1":"Sogd",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091917837,
-    "wof:lastmodified":1536615029,
+    "wof:lastmodified":1553717989,
     "wof:name":"Shahriston",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

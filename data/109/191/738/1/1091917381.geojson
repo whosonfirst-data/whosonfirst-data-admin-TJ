@@ -10,6 +10,12 @@
     "geom:latitude":40.11022,
     "geom:longitude":69.319322,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Spitamen District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.119644,
     "lbl:longitude":69.292879,
     "meso:admin_1":"Sogd",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091917381,
-    "wof:lastmodified":1536615028,
+    "wof:lastmodified":1553717988,
     "wof:name":"Spitamen",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

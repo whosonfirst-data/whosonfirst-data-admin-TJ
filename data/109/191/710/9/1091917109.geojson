@@ -10,6 +10,12 @@
     "geom:latitude":37.901068,
     "geom:longitude":69.748263,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Kulob"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:latitude":37.895255,
     "lbl:longitude":69.748266,
     "meso:admin_1":"Khatlon",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091917109,
-    "wof:lastmodified":1536615027,
+    "wof:lastmodified":1555092050,
     "wof:name":"Kulob",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

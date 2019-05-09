@@ -10,6 +10,12 @@
     "geom:latitude":38.38236,
     "geom:longitude":69.956563,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Khovaling District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":38.407514,
     "lbl:longitude":69.927384,
     "meso:admin_1":"Khatlon",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091916813,
-    "wof:lastmodified":1536615026,
+    "wof:lastmodified":1553717987,
     "wof:name":"Khovaling",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

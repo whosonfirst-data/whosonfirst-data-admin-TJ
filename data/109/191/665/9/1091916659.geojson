@@ -10,6 +10,12 @@
     "geom:latitude":39.116218,
     "geom:longitude":70.229632,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Rasht District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":39.081523,
     "lbl:longitude":70.310235,
     "meso:admin_1":"Tadzhikistan Territories",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091916659,
-    "wof:lastmodified":1536615026,
+    "wof:lastmodified":1553717987,
     "wof:name":"Rasht",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

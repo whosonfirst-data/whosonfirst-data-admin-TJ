@@ -10,6 +10,12 @@
     "geom:latitude":37.760267,
     "geom:longitude":70.046777,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Shuroobod District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":37.753325,
     "lbl:longitude":70.06935,
     "meso:admin_1":"Khatlon",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091917913,
-    "wof:lastmodified":1536615029,
+    "wof:lastmodified":1553717990,
     "wof:name":"Shuroobod",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

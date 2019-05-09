@@ -10,6 +10,12 @@
     "geom:latitude":38.438987,
     "geom:longitude":70.675315,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Darvoz District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":38.574504,
     "lbl:longitude":70.71002,
     "meso:admin_1":"Badakhshoni Kuni",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091917021,
-    "wof:lastmodified":1536615027,
+    "wof:lastmodified":1553717988,
     "wof:name":"Darvoz",
     "wof:parent_id":85678899,
     "wof:placetype":"county",

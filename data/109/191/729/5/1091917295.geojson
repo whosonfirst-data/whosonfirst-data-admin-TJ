@@ -10,6 +10,12 @@
     "geom:latitude":38.087792,
     "geom:longitude":70.103367,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Mu'minobod District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":38.091379,
     "lbl:longitude":70.099518,
     "meso:admin_1":"Khatlon",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091917295,
-    "wof:lastmodified":1536615028,
+    "wof:lastmodified":1553717989,
     "wof:name":"Mu'minobod",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

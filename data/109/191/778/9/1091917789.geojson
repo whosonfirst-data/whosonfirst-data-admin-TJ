@@ -10,6 +10,12 @@
     "geom:latitude":38.739754,
     "geom:longitude":68.409218,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Shahrinav District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":38.738193,
     "lbl:longitude":68.445684,
     "meso:admin_1":"Tadzhikistan Territories",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091917789,
-    "wof:lastmodified":1536615029,
+    "wof:lastmodified":1553717989,
     "wof:name":"Shahrinav",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

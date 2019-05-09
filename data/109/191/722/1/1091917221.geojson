@@ -10,6 +10,12 @@
     "geom:latitude":40.58399,
     "geom:longitude":69.461772,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Mastchoh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.667808,
     "lbl:longitude":69.456869,
     "meso:admin_1":"Sogd",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091917221,
-    "wof:lastmodified":1536615027,
+    "wof:lastmodified":1553717988,
     "wof:name":"Mastchoh",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

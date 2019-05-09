@@ -10,6 +10,12 @@
     "geom:latitude":39.400693,
     "geom:longitude":69.764281,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Kuhistoni Mastchoh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":39.413713,
     "lbl:longitude":69.697435,
     "meso:admin_1":"Sogd",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091917081,
-    "wof:lastmodified":1536615027,
+    "wof:lastmodified":1553717989,
     "wof:name":"Kuhistoni Mastchoh",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

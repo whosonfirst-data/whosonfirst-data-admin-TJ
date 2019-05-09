@@ -10,6 +10,12 @@
     "geom:latitude":40.381434,
     "geom:longitude":69.752571,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Bobojon Ghafurov District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.381958,
     "lbl:longitude":69.744824,
     "meso:admin_1":"Sogd",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091916787,
-    "wof:lastmodified":1536615026,
+    "wof:lastmodified":1553717987,
     "wof:name":"Bobojon Ghafurov",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

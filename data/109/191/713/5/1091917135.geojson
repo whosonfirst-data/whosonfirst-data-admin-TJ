@@ -10,6 +10,12 @@
     "geom:latitude":37.25524,
     "geom:longitude":68.592578,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Qumsangir District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":37.270443,
     "lbl:longitude":68.565072,
     "meso:admin_1":"Khatlon",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091917135,
-    "wof:lastmodified":1536615027,
+    "wof:lastmodified":1553717988,
     "wof:name":"Qumsangir",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

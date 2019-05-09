@@ -10,6 +10,12 @@
     "geom:latitude":37.461423,
     "geom:longitude":68.372925,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Jilikul District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":37.475434,
     "lbl:longitude":68.361441,
     "meso:admin_1":"Khatlon",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091916897,
-    "wof:lastmodified":1536615027,
+    "wof:lastmodified":1553717987,
     "wof:name":"Jilikul",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

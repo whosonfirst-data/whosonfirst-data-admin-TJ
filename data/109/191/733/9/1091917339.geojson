@@ -10,6 +10,12 @@
     "geom:latitude":38.274414,
     "geom:longitude":73.508771,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Murghob District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":38.163316,
     "lbl:longitude":73.378189,
     "meso:admin_1":"Badakhshoni Kuni",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091917339,
-    "wof:lastmodified":1536615028,
+    "wof:lastmodified":1553717992,
     "wof:name":"Murghob",
     "wof:parent_id":85678899,
     "wof:placetype":"county",

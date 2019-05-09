@@ -10,6 +10,12 @@
     "geom:latitude":40.090805,
     "geom:longitude":69.480082,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Jabbor Rasulov District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.107457,
     "lbl:longitude":69.456282,
     "meso:admin_1":"Sogd",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091917591,
-    "wof:lastmodified":1536615028,
+    "wof:lastmodified":1553717989,
     "wof:name":"Jabbor Rasulov",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

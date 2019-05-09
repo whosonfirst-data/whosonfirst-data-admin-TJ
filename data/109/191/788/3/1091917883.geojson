@@ -10,6 +10,12 @@
     "geom:latitude":37.551119,
     "geom:longitude":72.130064,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Shughnon District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":37.515391,
     "lbl:longitude":72.033335,
     "meso:admin_1":"Badakhshoni Kuni",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091917883,
-    "wof:lastmodified":1536615029,
+    "wof:lastmodified":1553717990,
     "wof:name":"Shughnon",
     "wof:parent_id":85678899,
     "wof:placetype":"county",

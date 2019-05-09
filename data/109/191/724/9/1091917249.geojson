@@ -10,6 +10,12 @@
     "geom:latitude":37.636083,
     "geom:longitude":69.724709,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Mir Said Ali Hamadoni District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":37.672164,
     "lbl:longitude":69.755979,
     "meso:admin_1":"Khatlon",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091917249,
-    "wof:lastmodified":1536615028,
+    "wof:lastmodified":1553717989,
     "wof:name":"Mir Said Ali Hamadoni",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

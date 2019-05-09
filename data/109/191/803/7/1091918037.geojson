@@ -10,6 +10,12 @@
     "geom:latitude":39.169866,
     "geom:longitude":70.83617,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Tojikobod District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":39.229961,
     "lbl:longitude":70.805569,
     "meso:admin_1":"Tadzhikistan Territories",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091918037,
-    "wof:lastmodified":1536615029,
+    "wof:lastmodified":1553717990,
     "wof:name":"Tojikobod",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

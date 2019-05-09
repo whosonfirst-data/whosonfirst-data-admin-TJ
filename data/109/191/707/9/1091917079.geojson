@@ -10,6 +10,12 @@
     "geom:latitude":37.450035,
     "geom:longitude":68.725685,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Jaloliddini Rumi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":37.448124,
     "lbl:longitude":68.644906,
     "meso:admin_1":"Khatlon",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091917079,
-    "wof:lastmodified":1536615027,
+    "wof:lastmodified":1553717987,
     "wof:name":"Jaloliddini Rumi",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

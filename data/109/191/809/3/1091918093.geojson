@@ -10,6 +10,12 @@
     "geom:latitude":39.92079,
     "geom:longitude":68.987039,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Istaravshan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":39.978402,
     "lbl:longitude":68.971914,
     "meso:admin_1":"Sogd",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091918093,
-    "wof:lastmodified":1536615029,
+    "wof:lastmodified":1553717990,
     "wof:name":"Istaravshan",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

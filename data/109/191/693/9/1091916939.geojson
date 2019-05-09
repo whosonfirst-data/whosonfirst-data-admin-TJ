@@ -10,6 +10,12 @@
     "geom:latitude":39.20638,
     "geom:longitude":71.594325,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Jirgatol District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":39.211529,
     "lbl:longitude":71.584275,
     "meso:admin_1":"Tadzhikistan Territories",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091916939,
-    "wof:lastmodified":1536615027,
+    "wof:lastmodified":1553717987,
     "wof:name":"Jirgatol",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

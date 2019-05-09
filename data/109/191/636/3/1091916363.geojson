@@ -10,6 +10,12 @@
     "geom:latitude":40.679407,
     "geom:longitude":70.341739,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Asht District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.672673,
     "lbl:longitude":70.347342,
     "meso:admin_1":"Sogd",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091916363,
-    "wof:lastmodified":1536615026,
+    "wof:lastmodified":1553717986,
     "wof:name":"Asht",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

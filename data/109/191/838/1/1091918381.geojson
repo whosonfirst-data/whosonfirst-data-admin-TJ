@@ -10,6 +10,12 @@
     "geom:latitude":38.239155,
     "geom:longitude":68.572437,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Rudaki District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":38.393511,
     "lbl:longitude":68.732255,
     "meso:admin_1":"Tadzhikistan Territories",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091918381,
-    "wof:lastmodified":1536615030,
+    "wof:lastmodified":1553717991,
     "wof:name":"Rudaki",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

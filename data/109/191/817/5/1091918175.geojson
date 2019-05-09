@@ -10,6 +10,12 @@
     "geom:latitude":38.349008,
     "geom:longitude":71.789865,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Vanj District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":38.376621,
     "lbl:longitude":71.798217,
     "meso:admin_1":"Badakhshoni Kuni",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091918175,
-    "wof:lastmodified":1536615029,
+    "wof:lastmodified":1553717990,
     "wof:name":"Vanj",
     "wof:parent_id":85678899,
     "wof:placetype":"county",

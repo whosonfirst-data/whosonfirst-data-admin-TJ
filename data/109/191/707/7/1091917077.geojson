@@ -10,6 +10,12 @@
     "geom:latitude":38.792942,
     "geom:longitude":69.30433,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Vahdat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":38.819099,
     "lbl:longitude":69.304277,
     "meso:admin_1":"Tadzhikistan Territories",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091917077,
-    "wof:lastmodified":1536615027,
+    "wof:lastmodified":1553717987,
     "wof:name":"Vahdat",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

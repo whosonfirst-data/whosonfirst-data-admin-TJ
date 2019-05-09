@@ -10,6 +10,12 @@
     "geom:latitude":37.901213,
     "geom:longitude":68.820432,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Bokhtar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":37.867484,
     "lbl:longitude":68.844008,
     "meso:admin_1":"Khatlon",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091916455,
-    "wof:lastmodified":1536615026,
+    "wof:lastmodified":1553717986,
     "wof:name":"Bokhtar",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

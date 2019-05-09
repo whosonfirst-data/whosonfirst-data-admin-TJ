@@ -10,6 +10,12 @@
     "geom:latitude":37.187697,
     "geom:longitude":72.170936,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Roshtqal'a District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":37.058614,
     "lbl:longitude":71.946248,
     "meso:admin_1":"Badakhshoni Kuni",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091917661,
-    "wof:lastmodified":1536615028,
+    "wof:lastmodified":1553717989,
     "wof:name":"Roshtqal'a",
     "wof:parent_id":85678899,
     "wof:placetype":"county",

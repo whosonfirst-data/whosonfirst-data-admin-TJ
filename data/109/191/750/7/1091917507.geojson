@@ -10,6 +10,12 @@
     "geom:latitude":39.337708,
     "geom:longitude":67.80875,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Panjakent District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":39.343476,
     "lbl:longitude":67.84446,
     "meso:admin_1":"Sogd",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1091917507,
-    "wof:lastmodified":1536615028,
+    "wof:lastmodified":1553717989,
     "wof:name":"Panjakent",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

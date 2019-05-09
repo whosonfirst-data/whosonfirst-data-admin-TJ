@@ -10,6 +10,12 @@
     "geom:latitude":38.010857,
     "geom:longitude":68.576255,
     "iso:country":"TJ",
+    "label:eng_x_preferred_longname":[
+        "Khuroson District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":38.044538,
     "lbl:longitude":68.563774,
     "meso:admin_1":"Khatlon",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091916705,
-    "wof:lastmodified":1536615026,
+    "wof:lastmodified":1553717986,
     "wof:name":"Khuroson",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

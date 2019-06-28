@@ -18,20 +18,20 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043b\u0445\u043e\u0437\u0430\u0431\u0430\u0434"
     ],
-    "name:dut_x_preferred":[
-        "Kolkhozabad"
+    "name:deu_x_preferred":[
+        "Kolchosobod"
     ],
     "name:eng_x_preferred":[
         "Kolkhozobod"
     ],
-    "name:ger_x_preferred":[
-        "Kolchosobod"
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0644\u062e\u0627\u0632\u0622\u0628\u0627\u062f"
     ],
     "name:ita_x_preferred":[
         "Kolkhozobod"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0644\u062e\u0627\u0632\u0622\u0628\u0627\u062f"
+    "name:nld_x_preferred":[
+        "Kolkhozabad"
     ],
     "name:pus_x_preferred":[
         "\u062e\u0627\u0644\u062e\u0627\u0632 \u0627\u0628\u0627\u062f"
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":890433665,
-    "wof:lastmodified":1527792957,
+    "wof:lastmodified":1561759989,
     "wof:name":"Kolkhozobod",
     "wof:parent_id":1091918141,
     "wof:placetype":"locality",

@@ -165,9 +165,6 @@
     "name:cym_x_variant":[
         "Tajikistan"
     ],
-    "name:cze_x_preferred":[
-        "T\u00e1d\u017eikist\u00e1n"
-    ],
     "name:dan_x_preferred":[
         "Tadsjikistan"
     ],
@@ -626,9 +623,6 @@
     "name:rue_x_preferred":[
         "\u0422\u0430\u0434\u0436\u0456\u043a\u0456\u0441\u0442\u0430\u043d"
     ],
-    "name:rum_x_preferred":[
-        "Tadjikistan"
-    ],
     "name:run_x_preferred":[
         "Tajikisitani"
     ],
@@ -833,9 +827,6 @@
     "name:zho_x_preferred":[
         "\u5854\u5409\u514b\u65af\u5766"
     ],
-    "name:zho_x_variant":[
-        "\u5854\u5409\u514b\u65af\u5766"
-    ],
     "name:zho_yue_x_preferred":[
         "\u5854\u5409\u514b"
     ],
@@ -987,7 +978,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1544059181,
+    "wof:lastmodified":1561759966,
     "wof:name":"Tajikistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

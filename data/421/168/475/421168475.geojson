@@ -28,9 +28,6 @@
     "name:bam_x_preferred":[
         "Asht"
     ],
-    "name:baq_x_preferred":[
-        "Asht"
-    ],
     "name:bar_x_preferred":[
         "Asht"
     ],
@@ -43,16 +40,19 @@
     "name:cat_x_preferred":[
         "Asht"
     ],
+    "name:ces_x_preferred":[
+        "Asht"
+    ],
     "name:cos_x_preferred":[
         "Asht"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Asht"
     ],
     "name:dan_x_preferred":[
         "Asht"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Asht"
     ],
     "name:ell_x_preferred":[
@@ -67,25 +67,25 @@
     "name:est_x_preferred":[
         "Asht"
     ],
+    "name:eus_x_preferred":[
+        "Asht"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0634\u062a"
     ],
     "name:fin_x_preferred":[
         "Asht"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Asht"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Asht"
     ],
     "name:frp_x_preferred":[
         "Asht"
     ],
     "name:fur_x_preferred":[
-        "Asht"
-    ],
-    "name:ger_x_preferred":[
         "Asht"
     ],
     "name:gla_x_preferred":[
@@ -96,9 +96,6 @@
     ],
     "name:glg_x_preferred":[
         "Asht"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c3\u03c4"
     ],
     "name:gsw_x_preferred":[
         "Asht"
@@ -148,9 +145,6 @@
     "name:ltz_x_preferred":[
         "Asht"
     ],
-    "name:may_x_preferred":[
-        "Asht"
-    ],
     "name:min_x_preferred":[
         "Asht"
     ],
@@ -164,6 +158,9 @@
         "Asht"
     ],
     "name:nds_x_preferred":[
+        "Asht"
+    ],
+    "name:nld_x_preferred":[
         "Asht"
     ],
     "name:nno_x_preferred":[
@@ -184,9 +181,6 @@
     "name:pcd_x_preferred":[
         "Asht"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0634\u062a"
-    ],
     "name:pms_x_preferred":[
         "Asht"
     ],
@@ -205,7 +199,7 @@
     "name:roh_x_preferred":[
         "Asht"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Asht"
     ],
     "name:rus_x_preferred":[
@@ -217,7 +211,7 @@
     "name:sco_x_preferred":[
         "Asht"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Asht"
     ],
     "name:spa_x_preferred":[
@@ -254,9 +248,6 @@
         "Asht"
     ],
     "name:vol_x_preferred":[
-        "Asht"
-    ],
-    "name:wel_x_preferred":[
         "Asht"
     ],
     "name:wln_x_preferred":[
@@ -315,7 +306,7 @@
         }
     ],
     "wof:id":421168475,
-    "wof:lastmodified":1527716097,
+    "wof:lastmodified":1561759985,
     "wof:name":"Asht",
     "wof:parent_id":1091916363,
     "wof:placetype":"locality",

@@ -18,11 +18,8 @@
     "name:bul_x_preferred":[
         "\u041d\u0443\u0440\u0435\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u52aa\u96f7\u514b"
-    ],
-    "name:dut_x_preferred":[
-        "Nurak"
+    "name:deu_x_preferred":[
+        "Norak"
     ],
     "name:eng_x_preferred":[
         "Nurak"
@@ -33,14 +30,14 @@
     "name:est_x_preferred":[
         "Norak"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0631\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Norak"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nourek"
-    ],
-    "name:ger_x_preferred":[
-        "Norak"
     ],
     "name:ita_x_preferred":[
         "Norak"
@@ -51,8 +48,8 @@
     "name:lit_x_preferred":[
         "Nurekas"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u0631\u06a9"
+    "name:nld_x_preferred":[
+        "Nurak"
     ],
     "name:pol_x_preferred":[
         "Norak"
@@ -80,6 +77,9 @@
     ],
     "name:uzb_x_preferred":[
         "Norak"
+    ],
+    "name:zho_x_preferred":[
+        "\u52aa\u96f7\u514b"
     ],
     "qs:name":"Norak",
     "qs:photos_9r":0,
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":890421857,
-    "wof:lastmodified":1527782109,
+    "wof:lastmodified":1561759988,
     "wof:name":"Norak",
     "wof:parent_id":1091917421,
     "wof:placetype":"locality",

@@ -48,20 +48,20 @@
     "name:cat_x_preferred":[
         "Gorno-Badakhxan"
     ],
+    "name:ces_x_preferred":[
+        "Horsk\u00fd Badach\u0161\u00e1n"
+    ],
     "name:che_x_preferred":[
         "\u041b\u0430\u043c-\u0411\u0430\u0434\u0430\u0445\u0448\u0430\u043d\u0430\u043d \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0438 \u0440\u0435\u0433\u0438\u043e\u043d"
-    ],
-    "name:chi_x_preferred":[
-        "\u6208\u723e\u8afe\u2014\u5df4\u9054\u8d6b\u5c1a\u81ea\u6cbb\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Horsk\u00fd Badach\u0161\u00e1n"
     ],
     "name:dan_x_preferred":[
         "Gorno-Badakhshan Autonomous Province"
     ],
-    "name:dut_x_preferred":[
-        "Gorno-Badachsjan"
+    "name:deu_x_preferred":[
+        "Berg-Badachschan"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c5\u03c4\u03cc\u03bd\u03bf\u03bc\u03b7 \u03b5\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0393\u03ba\u03cc\u03c1\u03bd\u03bf-\u039c\u03c0\u03b1\u03bd\u03c4\u03b1\u03c7\u03c3\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Kuhistoni Badakhshon"
@@ -77,26 +77,20 @@
     "name:est_x_preferred":[
         "M\u00e4gi-Badah\u0161an"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0627\u06cc\u062a \u0645\u062e\u062a\u0627\u0631 \u06a9\u0648\u0647\u0633\u062a\u0627\u0646 \u0628\u062f\u062e\u0634\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Vuoristo-Badah\u0161anin autonominen alue"
     ],
     "name:fra_x_preferred":[
         "Haut-Badakhshan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Haut-Badakhchan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d7\u10d8\u10d0\u10dc\u10d8 \u10d1\u10d0\u10d3\u10d0\u10ee\u10e8\u10d0\u10dc\u10d8\u10e1 \u10d0\u10d5\u10e2\u10dd\u10dc\u10dd\u10db\u10d8\u10e3\u10e0\u10d8 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Berg-Badachschan"
     ],
     "name:glg_x_preferred":[
         "Provincia Aut\u00f3noma do Badaghx\u00e1n Monta\u00f1oso"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c5\u03c4\u03cc\u03bd\u03bf\u03bc\u03b7 \u03b5\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0393\u03ba\u03cc\u03c1\u03bd\u03bf-\u039c\u03c0\u03b1\u03bd\u03c4\u03b1\u03c7\u03c3\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acb\u0ab0\u0acd\u0aa8\u0acb-\u0aac\u0aa1\u0a96\u0ab6\u0aa8 \u0a94\u0a9f\u0acb\u0aa8\u0acb\u0aae\u0ab8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -122,6 +116,9 @@
     "name:kan_x_preferred":[
         "\u0c97\u0cca\u0cb0\u0ccd\u0ca8\u0cca-\u0cac\u0ca6\u0ccd\u0c96\u0ccd\u0cb6\u0cbe\u0ca8\u0ccd \u0cb8\u0ccd\u0cb5\u0cbe\u0caf\u0ca4\u0ccd\u0ca4 \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d7\u10d8\u10d0\u10dc\u10d8 \u10d1\u10d0\u10d3\u10d0\u10ee\u10e8\u10d0\u10dc\u10d8\u10e1 \u10d0\u10d5\u10e2\u10dd\u10dc\u10dd\u10db\u10d8\u10e3\u10e0\u10d8 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kir_x_preferred":[
         "\u0422\u043e\u043e\u043b\u0443\u0443-\u0411\u0430\u0434\u0430\u0445\u0448\u0430\u043d \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u0438\u044f\u043b\u0443\u0443 \u043e\u0431\u043b\u0443\u0441\u0443"
     ],
@@ -137,14 +134,14 @@
     "name:mar_x_preferred":[
         "\u0917\u094b\u0930\u094d\u0928\u094b-\u092c\u0926\u0916\u0936\u0928 \u0938\u094d\u0935\u093e\u092f\u0924\u094d\u0924 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gorno-Badakhshan Autonomous Province"
+    ],
+    "name:nld_x_preferred":[
+        "Gorno-Badachsjan"
     ],
     "name:nob_x_preferred":[
         "Kuhistoni Badakhshon autonome provins"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u0627\u06cc\u062a \u0645\u062e\u062a\u0627\u0631 \u06a9\u0648\u0647\u0633\u062a\u0627\u0646 \u0628\u062f\u062e\u0634\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u06a9\u0648\u06c1\u0633\u062a\u0627\u0646 \u0628\u062f\u062e\u0634\u0627\u0646 \u062e\u0648\u062f\u0645\u062e\u062a\u0627\u0631 \u0635\u0648\u0628\u06c1"
@@ -202,6 +199,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d2\u10d5\u10d0\u10da\u10d0\u10db\u10d8 \u10d1\u10d0\u10d3\u10d0\u10ee\u10e8\u10d0\u10dc\u10d8\u10e8 \u10d0\u10d5\u10e2\u10dd\u10dc\u10dd\u10db\u10d8\u10e3\u10e0\u10d8 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u723e\u8afe\u2014\u5df4\u9054\u8d6b\u5c1a\u81ea\u6cbb\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TJK",
@@ -328,7 +328,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1553550586,
+    "wof:lastmodified":1561759967,
     "wof:name":"Gorno-Badakhshan",
     "wof:parent_id":85632513,
     "wof:placetype":"region",

@@ -18,19 +18,19 @@
     "name:ara_x_preferred":[
         "\u063a\u0631\u0645"
     ],
+    "name:deu_x_preferred":[
+        "Garm"
+    ],
     "name:diq_x_preferred":[
         "\u011eerm"
-    ],
-    "name:dut_x_preferred":[
-        "Gharm"
     ],
     "name:eng_x_preferred":[
         "Gharm"
     ],
-    "name:fre_x_preferred":[
-        "Garm"
+    "name:fas_x_preferred":[
+        "\u063a\u0631\u0645"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Garm"
     ],
     "name:ita_x_preferred":[
@@ -45,16 +45,16 @@
     "name:lit_x_preferred":[
         "Garmas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gharm"
     ],
-    "name:per_x_preferred":[
-        "\u063a\u0631\u0645"
+    "name:nld_x_preferred":[
+        "Gharm"
     ],
     "name:pol_x_preferred":[
         "Garm"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Garm"
     ],
     "name:rus_x_preferred":[
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":890430425,
-    "wof:lastmodified":1527729735,
+    "wof:lastmodified":1561759988,
     "wof:name":"Rasht",
     "wof:parent_id":1091916659,
     "wof:placetype":"locality",

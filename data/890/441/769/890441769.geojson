@@ -18,17 +18,17 @@
     "name:bul_x_preferred":[
         "\u041e\u0431\u0438\u0433\u0430\u0440\u043c"
     ],
-    "name:dut_x_preferred":[
-        "Obigarm"
-    ],
     "name:eng_x_preferred":[
         "Obigarm"
     ],
-    "name:may_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0622\u0628\u200c\u06af\u0631\u0645"
+    ],
+    "name:msa_x_preferred":[
         "Obigarm"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0628\u200c\u06af\u0631\u0645"
+    "name:nld_x_preferred":[
+        "Obigarm"
     ],
     "name:pol_x_preferred":[
         "Obigarm"
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":890441769,
-    "wof:lastmodified":1527727231,
+    "wof:lastmodified":1561759987,
     "wof:name":"Obigarm",
     "wof:parent_id":1091917635,
     "wof:placetype":"locality",

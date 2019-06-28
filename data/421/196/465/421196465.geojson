@@ -19,9 +19,6 @@
     "name:deu_x_preferred":[
         "Schahritus"
     ],
-    "name:dut_x_preferred":[
-        "Shaartuz"
-    ],
     "name:eng_x_preferred":[
         "Shaartuz"
     ],
@@ -31,14 +28,14 @@
     "name:fas_x_preferred":[
         "\u062a\u0648\u0633"
     ],
-    "name:ger_x_preferred":[
-        "Schahritus"
+    "name:fas_x_variant":[
+        "\u0634\u0647\u0631 \u062a\u0648\u0633"
     ],
     "name:lit_x_preferred":[
         "\u0160artuzas"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631 \u062a\u0648\u0633"
+    "name:nld_x_preferred":[
+        "Shaartuz"
     ],
     "name:pol_x_preferred":[
         "Szahrtuz"
@@ -50,9 +47,6 @@
         "\u0634\u0647\u0631\u062a\u0648\u0633"
     ],
     "name:ron_x_preferred":[
-        "\u0218aartuz"
-    ],
-    "name:rum_x_preferred":[
         "\u0218aartuz"
     ],
     "name:rus_x_preferred":[
@@ -118,7 +112,7 @@
         }
     ],
     "wof:id":421196465,
-    "wof:lastmodified":1527716363,
+    "wof:lastmodified":1561759986,
     "wof:name":"Shaartuz",
     "wof:parent_id":1091916975,
     "wof:placetype":"locality",

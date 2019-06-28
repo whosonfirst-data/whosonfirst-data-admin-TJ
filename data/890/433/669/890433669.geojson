@@ -24,14 +24,11 @@
     "name:cat_x_preferred":[
         "Hisor"
     ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u85a9\u723e"
-    ],
     "name:ckb_x_preferred":[
         "\u062d\u06cc\u0633\u0627\u0631\u060c \u062a\u0627\u062c\u06cc\u06a9\u0633\u062a\u0627\u0646"
     ],
-    "name:dut_x_preferred":[
-        "Hisor"
+    "name:deu_x_preferred":[
+        "Hissor"
     ],
     "name:eng_x_preferred":[
         "Hisor"
@@ -39,14 +36,14 @@
     "name:est_x_preferred":[
         "Hisor"
     ],
+    "name:fas_x_preferred":[
+        "\u062d\u0635\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Hisor"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hisor"
-    ],
-    "name:ger_x_preferred":[
-        "Hissor"
     ],
     "name:ita_x_preferred":[
         "Hisor"
@@ -60,8 +57,8 @@
     "name:lit_x_preferred":[
         "Gisaras"
     ],
-    "name:per_x_preferred":[
-        "\u062d\u0635\u0627\u0631"
+    "name:nld_x_preferred":[
+        "Hisor"
     ],
     "name:pol_x_preferred":[
         "Hisar"
@@ -86,6 +83,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10f0\u10d8\u10e1\u10d0\u10e0\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u85a9\u723e"
     ],
     "qs:name":"Hisor",
     "qs:photos_9r":0,
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":890433669,
-    "wof:lastmodified":1553816396,
+    "wof:lastmodified":1561759988,
     "wof:name":"Hisor",
     "wof:parent_id":1091916749,
     "wof:placetype":"locality",

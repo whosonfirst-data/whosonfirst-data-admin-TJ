@@ -28,14 +28,11 @@
     "name:bul_x_preferred":[
         "\u0422\u0443\u0440\u0441\u0443\u043d\u0437\u0430\u0434\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u5716\u723e\u5b6b\u624e\u5fb7"
-    ],
     "name:dan_x_preferred":[
         "Tursunzoda"
     ],
-    "name:dut_x_preferred":[
-        "Tursunzoda"
+    "name:deu_x_preferred":[
+        "Tursunsoda"
     ],
     "name:eng_x_preferred":[
         "Tursunzoda"
@@ -43,14 +40,14 @@
     "name:est_x_preferred":[
         "Tursunzoda"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0633\u0648\u0646\u200c\u0632\u0627\u062f\u0647"
+    ],
     "name:fin_x_preferred":[
         "Tursunzoda"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tursunzoda"
-    ],
-    "name:ger_x_preferred":[
-        "Tursunsoda"
     ],
     "name:hun_x_preferred":[
         "Turszunzoda"
@@ -67,8 +64,8 @@
     "name:lit_x_preferred":[
         "Tursunzad\u0117"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0631\u0633\u0648\u0646\u200c\u0632\u0627\u062f\u0647"
+    "name:nld_x_preferred":[
+        "Tursunzoda"
     ],
     "name:pol_x_preferred":[
         "Tursunzoda"
@@ -76,7 +73,7 @@
     "name:pus_x_preferred":[
         "\u062a\u0648\u0631\u0633\u0648\u0646\u0632\u0627\u062f\u0647"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tursunzoda"
     ],
     "name:rus_x_preferred":[
@@ -105,6 +102,9 @@
     ],
     "name:vep_x_preferred":[
         "Tursunzade"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u723e\u5b6b\u624e\u5fb7"
     ],
     "qs_pg:aaroncc":"TJ",
     "qs_pg:gn_country":"TJ",
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":1125820277,
-    "wof:lastmodified":1553816553,
+    "wof:lastmodified":1561759989,
     "wof:name":"Tursunzoda",
     "wof:parent_id":1091918055,
     "wof:placetype":"locality",

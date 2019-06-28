@@ -22,17 +22,17 @@
     "name:bel_x_preferred":[
         "\u0420\u0430\u0433\u0443\u043d"
     ],
-    "name:dut_x_preferred":[
-        "Roghun"
-    ],
     "name:eng_x_preferred":[
         "Roghun"
     ],
-    "name:may_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u063a\u0648\u0646"
+    ],
+    "name:msa_x_preferred":[
         "Roghun"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0627\u063a\u0648\u0646"
+    "name:nld_x_preferred":[
+        "Roghun"
     ],
     "name:pol_x_preferred":[
         "Rogun"
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125865789,
-    "wof:lastmodified":1514506559,
+    "wof:lastmodified":1561759989,
     "wof:name":"Roghun",
     "wof:parent_id":1091916539,
     "wof:placetype":"locality",

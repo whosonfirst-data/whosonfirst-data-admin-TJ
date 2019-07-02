@@ -14,10 +14,10 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Kuybyshevsk"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Kuybyshevsk"
     ],
     "name:pol_x_preferred":[
@@ -178,7 +178,7 @@
         }
     ],
     "wof:id":421196459,
-    "wof:lastmodified":1527716368,
+    "wof:lastmodified":1561759986,
     "wof:name":"Kuybyshevskiy",
     "wof:parent_id":1091916455,
     "wof:placetype":"locality",

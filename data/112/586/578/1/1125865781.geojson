@@ -22,17 +22,14 @@
     "name:ckb_x_preferred":[
         "\u0634\u06d5\u06be\u0631\u06cc \u0646\u06d5\u0648"
     ],
-    "name:dut_x_preferred":[
-        "Shahrinav"
-    ],
     "name:eng_x_preferred":[
         "Shahrinav"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631 \u0646\u0648"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631 \u0646\u0648"
+    "name:nld_x_preferred":[
+        "Shahrinav"
     ],
     "name:unk_x_variant":[
         "Cheptura"
@@ -76,7 +73,7 @@
         }
     ],
     "wof:id":1125865781,
-    "wof:lastmodified":1553816583,
+    "wof:lastmodified":1561759989,
     "wof:name":"Shahrinav",
     "wof:parent_id":1091917789,
     "wof:placetype":"locality",

@@ -21,7 +21,7 @@
     "name:eng_x_preferred":[
         "Navobod"
     ],
-    "name:per_x_preferred":[
+    "name:fas_x_preferred":[
         "\u0646\u0648\u0622\u0628\u0627\u062f"
     ],
     "name:rus_x_preferred":[
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":890421859,
-    "wof:lastmodified":1553816393,
+    "wof:lastmodified":1561759988,
     "wof:name":"Novobod",
     "wof:parent_id":1091916659,
     "wof:placetype":"locality",

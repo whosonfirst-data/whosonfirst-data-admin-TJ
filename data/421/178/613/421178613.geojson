@@ -16,8 +16,8 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u0445\u0430\u0440"
     ],
-    "name:dut_x_preferred":[
-        "Farkhar"
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03c1\u03c7\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Farkhar"
@@ -27,9 +27,6 @@
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u062e\u0627\u0631"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03b1\u03c1\u03c7\u03ac\u03c1"
     ],
     "name:ita_x_preferred":[
         "Farkhor"
@@ -43,14 +40,11 @@
     "name:lit_x_preferred":[
         "Parcharas"
     ],
-    "name:may_x_preferred":[
-        "Farkhar"
-    ],
     "name:msa_x_preferred":[
         "Farkhar"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u062e\u0627\u0631"
+    "name:nld_x_preferred":[
+        "Farkhar"
     ],
     "name:pol_x_preferred":[
         "Farchor"
@@ -62,9 +56,6 @@
         "\u0641\u0631\u062e\u0627\u0631"
     ],
     "name:ron_x_preferred":[
-        "Farhor"
-    ],
-    "name:rum_x_preferred":[
         "Farhor"
     ],
     "name:rus_x_preferred":[
@@ -136,7 +127,7 @@
         }
     ],
     "wof:id":421178613,
-    "wof:lastmodified":1527717725,
+    "wof:lastmodified":1561759987,
     "wof:name":"Parkhar",
     "wof:parent_id":1091917463,
     "wof:placetype":"locality",

@@ -15,14 +15,14 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Qul"
-    ],
     "name:eng_x_preferred":[
         "Qul"
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30fc\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "Qul"
     ],
     "qs:name":"Q\u016fl",
     "qs:photos_9r":0,
@@ -55,7 +55,7 @@
         }
     ],
     "wof:id":890428575,
-    "wof:lastmodified":1514506559,
+    "wof:lastmodified":1561759988,
     "wof:name":"Q\u016fl",
     "wof:parent_id":1091916317,
     "wof:placetype":"locality",

@@ -33,6 +33,9 @@
     "name:unk_x_variant":[
         "Komsomolbad"
     ],
+    "name:urd_x_preferred":[
+        "\u062f\u0631\u0628\u0646\u062f"
+    ],
     "qs:name":"Darband",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890433663,
-    "wof:lastmodified":1561759988,
+    "wof:lastmodified":1563314783,
     "wof:name":"Darband",
     "wof:parent_id":1091916539,
     "wof:placetype":"locality",

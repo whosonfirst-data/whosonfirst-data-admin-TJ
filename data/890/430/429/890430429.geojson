@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0443\u0441\u0442\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "D\u016dst\u00ed"
+    ],
     "name:eng_x_preferred":[
         "Dusti"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:tgk_x_preferred":[
         "D\u016dsty"
+    ],
+    "name:tgk_x_variant":[
+        "\u0414\u04ef\u0441\u0442\u04e3"
     ],
     "name:unk_x_variant":[
         "Molotovabad"
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890430429,
-    "wof:lastmodified":1561759988,
+    "wof:lastmodified":1563314779,
     "wof:name":"D\u016dst\u00ed",
     "wof:parent_id":1091917135,
     "wof:placetype":"locality",

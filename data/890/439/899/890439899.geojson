@@ -31,6 +31,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u043b\u044f\u0431"
     ],
+    "name:ceb_x_preferred":[
+        "K\u016dlob"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0443\u043b\u044f\u0431"
     ],
@@ -72,6 +75,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0915\u0941\u0932\u092c"
+    ],
+    "name:hsb_x_preferred":[
+        "Kulob"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0582\u056c\u0575\u0561\u0562"
@@ -145,11 +151,17 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bc1\u0bb3\u0bcb\u0baa\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u04af\u043b\u0430\u0431"
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c41\u0c32\u0c4b\u0c2c\u0c4d"
     ],
     "name:tgk_x_preferred":[
         "K\u016dlob"
+    ],
+    "name:tgk_x_variant":[
+        "\u041a\u04ef\u043b\u043e\u0431"
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e39\u0e25\u0e47\u0e2d\u0e1a"
@@ -305,7 +317,7 @@
         }
     ],
     "wof:id":890439899,
-    "wof:lastmodified":1561759988,
+    "wof:lastmodified":1563314777,
     "wof:name":"K\u016dlob",
     "wof:parent_id":1091917109,
     "wof:placetype":"locality",

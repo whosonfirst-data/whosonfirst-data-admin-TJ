@@ -49,6 +49,9 @@
     "name:rus_x_preferred":[
         "\u0412\u0430\u0445\u0448"
     ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0430\u0445\u0448"
+    ],
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0445\u0448"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u062e\u0634\u060c \u062a\u0627\u062c\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0648\u062e\u0634"
     ],
     "qs:gn_country":"TJ",
     "qs:gn_fcode":"PPLA2",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421193267,
-    "wof:lastmodified":1561759985,
+    "wof:lastmodified":1563314757,
     "wof:name":"Vakhsh",
     "wof:parent_id":1091918141,
     "wof:placetype":"locality",

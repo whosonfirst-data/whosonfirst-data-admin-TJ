@@ -41,6 +41,9 @@
     "name:unk_x_variant":[
         "Kala-i-Warma"
     ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0634\u0627\u0646"
+    ],
     "qs:gn_country":"TJ",
     "qs:gn_fcode":"PPLA2",
     "qs:gn_id":1220685,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":421183801,
-    "wof:lastmodified":1561759987,
+    "wof:lastmodified":1563314771,
     "wof:name":"Rushan",
     "wof:parent_id":1091917707,
     "wof:placetype":"locality",

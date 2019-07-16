@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Murghob"
+    ],
     "name:ckb_x_preferred":[
         "\u0645\u0648\u0631\u063a\u0627\u0628\u060c \u062a\u0627\u062c\u06cc\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:ckb_x_variant":[
+        "\u0645\u0648\u0631\u063a\u0627\u0628"
     ],
     "name:deu_x_preferred":[
         "Murghob"
@@ -70,6 +76,9 @@
     "name:unk_x_variant":[
         "Pam\u012brski Post"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u0631\u063a\u0627\u0628"
+    ],
     "name:zho_x_preferred":[
         "\u7a46\u5c14\u52a0\u5e03"
     ],
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":421181499,
-    "wof:lastmodified":1561759986,
+    "wof:lastmodified":1563314764,
     "wof:name":"Murgab",
     "wof:parent_id":1091917339,
     "wof:placetype":"locality",

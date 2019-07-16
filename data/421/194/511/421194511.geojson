@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043d\u0441\u043e\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Konsoy"
+    ],
     "name:eng_x_preferred":[
         "Kaindisoy"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421194511,
-    "wof:lastmodified":1561759985,
+    "wof:lastmodified":1563314756,
     "wof:name":"Kansay",
     "wof:parent_id":1091916787,
     "wof:placetype":"locality",

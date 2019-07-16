@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041d\u0443\u0440\u0435\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Norak"
+    ],
     "name:deu_x_preferred":[
         "Norak"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:fra_x_preferred":[
         "Nourek"
+    ],
+    "name:hsb_x_preferred":[
+        "Norak"
     ],
     "name:ita_x_preferred":[
         "Norak"
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":890421857,
-    "wof:lastmodified":1561759988,
+    "wof:lastmodified":1563314780,
     "wof:name":"Norak",
     "wof:parent_id":1091917421,
     "wof:placetype":"locality",

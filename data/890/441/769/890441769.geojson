@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0431\u0438\u0433\u0430\u0440\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Obigarm"
+    ],
     "name:eng_x_preferred":[
         "Obigarm"
     ],
@@ -34,6 +37,9 @@
         "Obigarm"
     ],
     "name:rus_x_preferred":[
+        "\u041e\u0431\u0438\u0433\u0430\u0440\u043c"
+    ],
+    "name:tgk_x_preferred":[
         "\u041e\u0431\u0438\u0433\u0430\u0440\u043c"
     ],
     "qs:name":"Obigarm",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":890441769,
-    "wof:lastmodified":1561759987,
+    "wof:lastmodified":1563314776,
     "wof:name":"Obigarm",
     "wof:parent_id":1091917635,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043b\u0445\u043e\u0437\u0430\u0431\u0430\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "Kolkhozobod"
+    ],
     "name:deu_x_preferred":[
         "Kolchosobod"
     ],
@@ -33,11 +36,17 @@
     "name:nld_x_preferred":[
         "Kolkhozabad"
     ],
+    "name:pol_x_preferred":[
+        "Balch"
+    ],
     "name:pus_x_preferred":[
         "\u062e\u0627\u0644\u062e\u0627\u0632 \u0627\u0628\u0627\u062f"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u0445\u043e\u0437\u0430\u0431\u0430\u0434"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u043b\u0445"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u0445\u043e\u0437\u0430\u0431\u0430\u0434"
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":890433665,
-    "wof:lastmodified":1561759989,
+    "wof:lastmodified":1563314784,
     "wof:name":"Kolkhozobod",
     "wof:parent_id":1091918141,
     "wof:placetype":"locality",

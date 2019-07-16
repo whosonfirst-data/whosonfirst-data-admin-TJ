@@ -16,6 +16,9 @@
     "name:bel_x_preferred":[
         "\u0428\u0443\u0440\u0430\u0431"
     ],
+    "name:ceb_x_preferred":[
+        "Sh\u016drob"
+    ],
     "name:eng_x_preferred":[
         "Shurab"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421193269,
-    "wof:lastmodified":1561759985,
+    "wof:lastmodified":1563314757,
     "wof:name":"Shurab",
     "wof:parent_id":1091916841,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":5.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:abk_x_preferred":[
+        "\u0414\u0443\u0448\u0430\u043d\u0431\u0435"
+    ],
     "name:ace_x_preferred":[
         "Dushanbe"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0414\u04af\u0448\u04d9\u043d\u0431\u0435"
+    ],
+    "name:bcl_x_preferred":[
+        "Dushanbe"
     ],
     "name:bel_x_preferred":[
         "\u0414\u0443\u0448\u0430\u043d\u0431\u044d"
@@ -66,6 +72,9 @@
         "Duixanbe"
     ],
     "name:cdo_x_preferred":[
+        "Dushanbe"
+    ],
+    "name:ceb_x_preferred":[
         "Dushanbe"
     ],
     "name:ces_x_preferred":[
@@ -107,6 +116,9 @@
     "name:eus_x_preferred":[
         "Dushanbe"
     ],
+    "name:eus_x_variant":[
+        "Duxanbe"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0648\u0634\u0646\u0628\u0647"
     ],
@@ -130,6 +142,9 @@
     ],
     "name:glg_x_preferred":[
         "Dushanbe"
+    ],
+    "name:grn_x_preferred":[
+        "Dusambe"
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0ac1\u0ab6\u0a82\u0aac\u0ac7"
@@ -173,6 +188,9 @@
     "name:ilo_x_preferred":[
         "Dushanbe"
     ],
+    "name:ina_x_preferred":[
+        "Dushanbe"
+    ],
     "name:ind_x_preferred":[
         "Dushanbe"
     ],
@@ -181,6 +199,9 @@
     ],
     "name:ita_x_preferred":[
         "Du\u0161hanbe"
+    ],
+    "name:ita_x_variant":[
+        "Du\u0161anbe"
     ],
     "name:jav_x_preferred":[
         "Dushanbe"
@@ -221,6 +242,12 @@
     "name:lav_x_preferred":[
         "Du\u0161anbe"
     ],
+    "name:lfn_x_preferred":[
+        "Duxanbe"
+    ],
+    "name:lij_x_preferred":[
+        "Duxanb\u00e9"
+    ],
     "name:lit_x_preferred":[
         "Du\u0161anb\u0117"
     ],
@@ -254,6 +281,9 @@
     "name:msa_x_preferred":[
         "Dushanbe"
     ],
+    "name:myv_x_preferred":[
+        "\u0414\u0443\u0448\u0430\u043d\u0431\u0435"
+    ],
     "name:nah_x_preferred":[
         "Duxambe"
     ],
@@ -281,6 +311,9 @@
     "name:oci_x_preferred":[
         "Doshambe"
     ],
+    "name:olo_x_preferred":[
+        "Du\u0161anbe"
+    ],
     "name:oss_x_preferred":[
         "\u0414\u0443\u0448\u0430\u043d\u0431\u0435"
     ],
@@ -301,6 +334,9 @@
     ],
     "name:por_x_preferred":[
         "Dushanbe"
+    ],
+    "name:por_x_variant":[
+        "Duchambe"
     ],
     "name:pus_x_preferred":[
         "\u062f\u0648\u0634\u0646\u0628\u0647"
@@ -334,6 +370,9 @@
     ],
     "name:spa_x_preferred":[
         "Dushanbe"
+    ],
+    "name:spa_x_variant":[
+        "Dusamb\u00e9"
     ],
     "name:sqi_x_preferred":[
         "Dushanbe"
@@ -400,6 +439,9 @@
     ],
     "name:war_x_preferred":[
         "Dushanbe"
+    ],
+    "name:wuu_x_preferred":[
+        "\u675c\u5c1a\u522b"
     ],
     "name:xmf_x_preferred":[
         "\u10d3\u10e3\u10e8\u10d0\u10dc\u10d1\u10d4"
@@ -576,7 +618,7 @@
         }
     ],
     "wof:id":421187321,
-    "wof:lastmodified":1561759986,
+    "wof:lastmodified":1563314762,
     "wof:name":"Dushanbe",
     "wof:parent_id":890430645,
     "wof:placetype":"locality",

@@ -21,6 +21,12 @@
     "name:bul_x_preferred":[
         "\u0412\u043e\u0440\u0443\u043a\u0445"
     ],
+    "name:ceb_x_preferred":[
+        "Vorukh"
+    ],
+    "name:deu_x_preferred":[
+        "Woruch"
+    ],
     "name:eng_x_preferred":[
         "Vorukh"
     ],
@@ -35,6 +41,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30f4\u30a9\u30eb\u30d5"
+    ],
+    "name:lit_x_preferred":[
+        "Voruchas"
     ],
     "name:msa_x_preferred":[
         "Vorukh"
@@ -62,6 +71,9 @@
     ],
     "name:unk_x_variant":[
         "Varukh"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0631\u0648\u062e"
     ],
     "name:zho_x_preferred":[
         "\u6c83\u9b6f\u514b"
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":890420413,
-    "wof:lastmodified":1561759988,
+    "wof:lastmodified":1563314781,
     "wof:name":"Vorukh",
     "wof:parent_id":1091916841,
     "wof:placetype":"locality",

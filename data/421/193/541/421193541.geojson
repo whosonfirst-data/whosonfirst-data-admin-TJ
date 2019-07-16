@@ -22,10 +22,16 @@
     "name:aze_x_preferred":[
         "\u0130sf\u0259rah"
     ],
+    "name:bel_x_preferred":[
+        "\u0406\u0441\u0444\u0430\u0440\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u0418\u0441\u0444\u0430\u0440\u0430"
     ],
     "name:cat_x_preferred":[
+        "Isfara"
+    ],
+    "name:ceb_x_preferred":[
         "Isfara"
     ],
     "name:deu_x_preferred":[
@@ -44,6 +50,9 @@
         "Isfara"
     ],
     "name:fra_x_preferred":[
+        "Isfara"
+    ],
+    "name:hsb_x_preferred":[
         "Isfara"
     ],
     "name:ind_x_preferred":[
@@ -66,6 +75,9 @@
     ],
     "name:nld_x_preferred":[
         "Isfara"
+    ],
+    "name:oss_x_preferred":[
+        "\u0418\u0441\u0444\u0430\u0440\u0430"
     ],
     "name:pol_x_preferred":[
         "Isfara"
@@ -172,7 +184,7 @@
         }
     ],
     "wof:id":421193541,
-    "wof:lastmodified":1561759985,
+    "wof:lastmodified":1563314758,
     "wof:name":"Isfara",
     "wof:parent_id":1091916841,
     "wof:placetype":"locality",

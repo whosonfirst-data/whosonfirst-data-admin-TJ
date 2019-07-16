@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Istarawshan"
     ],
+    "name:ceb_x_preferred":[
+        "Istaravshan"
+    ],
     "name:ces_x_preferred":[
         "Istarav\u0161an"
     ],
@@ -71,6 +74,9 @@
     "name:hin_x_preferred":[
         "\u0907\u0938\u094d\u0924\u0930\u090a\u0936\u093e\u0928"
     ],
+    "name:hsb_x_preferred":[
+        "Istaraw\u0161an"
+    ],
     "name:ind_x_preferred":[
         "Istarawshan"
     ],
@@ -88,6 +94,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc774\uc2a4\ud2b8\ub77c\ube0c\uc0e8"
+    ],
+    "name:kor_x_variant":[
+        "\uc774\uc2a4\ud2b8\ub78d\uc0e8"
     ],
     "name:lav_x_preferred":[
         "Istarav\u0161ana"
@@ -306,7 +315,7 @@
         }
     ],
     "wof:id":421201123,
-    "wof:lastmodified":1561759987,
+    "wof:lastmodified":1563314770,
     "wof:name":"\u016croteppa",
     "wof:parent_id":1091918093,
     "wof:placetype":"locality",

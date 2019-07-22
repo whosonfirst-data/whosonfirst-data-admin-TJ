@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440\u0441\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Proletar"
+    ],
     "name:eng_x_preferred":[
         "Proletarsk"
     ],
@@ -34,11 +37,17 @@
     "name:rus_x_preferred":[
         "\u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440\u0441\u043a"
     ],
+    "name:tgk_x_preferred":[
+        "\u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440"
+    ],
     "name:unk_x_variant":[
         "Jabbor Rasulov"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0631\u0648\u0644\u062a\u0627\u0631\u0633\u06a9\u060c \u062a\u0627\u062c\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u067e\u0631\u0648\u0644\u062a\u0627\u0631\u0633\u06a9"
     ],
     "qs:gn_country":"TJ",
     "qs:gn_fcode":"PPLA2",
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":421203431,
-    "wof:lastmodified":1561759986,
+    "wof:lastmodified":1563314759,
     "wof:name":"Proletarsk",
     "wof:parent_id":1091917591,
     "wof:placetype":"locality",

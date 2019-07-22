@@ -30,6 +30,9 @@
     "name:rus_x_preferred":[
         "\u0411\u0443\u0441\u0442\u043e\u043d\u043a\u0430\u043b\u0430"
     ],
+    "name:tgk_x_preferred":[
+        "\u0411\u04ef\u0441\u0442\u043e\u043d\u049b\u0430\u043b\u044a\u0430"
+    ],
     "name:unk_x_variant":[
         "Bustonkala"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890430431,
-    "wof:lastmodified":1561759988,
+    "wof:lastmodified":1563314778,
     "wof:name":"B\u016dstonqal\u2019a",
     "wof:parent_id":1091916455,
     "wof:placetype":"locality",

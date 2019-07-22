@@ -27,22 +27,134 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0627\u062a \u0627\u0644\u062a\u0628\u0639\u064a\u0629 \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a"
+    ],
+    "name:bel_x_preferred":[
+        "\u0440\u0430\u0451\u043d\u044b \u0440\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430\u043d\u0441\u043a\u0430\u0433\u0430 \u043f\u0430\u0434\u043f\u0430\u0440\u0430\u0434\u043a\u0430\u0432\u0430\u043d\u043d\u044f \u0422\u0430\u0434\u0436\u044b\u043a\u0456\u0441\u0442\u0430\u043d\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09c7\u09b2\u09be \u0985\u09ab \u09b0\u09bf\u09aa\u09be\u09ac\u09b2\u09bf\u0995\u09be\u09a8 \u09b8\u09be\u0985\u09b0\u09cd\u09a1\u09bf\u09a8\u09c7\u09b6\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "Region of Republican Subordination"
+    ],
+    "name:ces_x_preferred":[
+        "Centr\u00e1ln\u011b spravovan\u00e1 oblast"
+    ],
+    "name:dan_x_preferred":[
+        "Karotegin"
+    ],
+    "name:deu_x_preferred":[
+        "Nohijahoi tobei dschumhurij"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b5\u03c2 \u03c4\u03b7\u03c2 \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u03a5\u03c0\u03bf\u03c4\u03b1\u03b3\u03ae\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Karategin"
     ],
     "name:eng_x_variant":[
         "Region of Republican Subordination",
         "Republican Subordination",
-        "Regions of Republican Subordination"
+        "Regions of Republican Subordination",
+        "districts of Republican Subordination"
+    ],
+    "name:est_x_preferred":[
+        "Tad\u017eikistani vabariikliku alluvusega rajoonid"
+    ],
+    "name:eus_x_preferred":[
+        "Errepublikarekiko mendekotasunpeko barrutiak"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u0647\u0627\u06cc \u062a\u0627\u0628\u0639 \u062c\u0645\u0647\u0648\u0631\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u062d\u06cc\u0647\u200c\u0647\u0627\u06cc \u062a\u0627\u0628\u0639 \u062c\u0645\u0647\u0648\u0631\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Hallinnon alaiset piirit"
+    ],
+    "name:fra_x_preferred":[
+        "Nohiyahoi tobei Jumhurii"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0abf\u0aaa\u0aac\u0acd\u0ab2\u0abf\u0a95\u0aa8 "
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e4\u05d5\u05ea \u05d1\u05db\u05e4\u05d9\u05e4\u05d5\u05ea \u05e8\u05e4\u05d5\u05d1\u05dc\u05d9\u05e7\u05e0\u05d9\u05ea"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u0923\u0924\u0902\u0924\u094d\u0930-\u0905\u0927\u0940\u0928 \u091c\u093c\u093f\u0932\u0947"
+    ],
+    "name:ind_x_preferred":[
+        "Region Republik Subordinasi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5171\u548c\u56fd\u76f4\u8f44\u5730"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0cbf\u0caa\u0cac\u0ccd\u0cb2\u0cbf\u0c95\u0ca8\u0ccd \u0c85\u0ca7\u0cc0\u0ca8\u0ca6 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6\u0c97\u0cb3\u0cc1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10ef\u10d8\u10d9\u10d4\u10d7\u10d8\u10e1 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10e3\u10e0\u10d8 \u10d3\u10d0\u10e5\u10d5\u10d4\u10db\u10d3\u10d4\u10d1\u10d0\u10e0\u10d4\u10d1\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d4\u10d1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uacf5\ud654\uad6d \uc9c1\ud560\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Tad\u017eikist\u0101nas republikas pak\u013caut\u012bbas rajoni"
+    ],
+    "name:lit_x_preferred":[
+        "Tiesioginio pavaldumo regionas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u093f\u092a\u092c\u094d\u0932\u093f\u0915\u0928 \u0924\u093e\u0932\u0941\u0915\u094d\u092f\u093e\u0902\u091a\u0947 \u091c\u093f\u0932\u094d\u0939\u0947"
+    ],
+    "name:msa_x_preferred":[
+        "Districts of Republican Subordination"
+    ],
+    "name:nob_x_preferred":[
+        "Rebublican Subordination distrikt"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0644\u0648\u06a9\u0631\u0627\u062c \u0645\u0627\u062a\u062d\u062a\u06cc \u0636\u0644\u0639\u06d2"
+    ],
+    "name:pol_x_preferred":[
+        "Rejony Administrowane Centralnie"
+    ],
+    "name:por_x_preferred":[
+        "Karotegin"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d\u044b \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u043f\u043e\u0434\u0447\u0438\u043d\u0435\u043d\u0438\u044f"
     ],
+    "name:sin_x_preferred":[
+        "\u0dba\u0da7\u0dad\u0dca\u0dc0\u0dd2\u0da2\u0dd2\u0dad \u0da2\u0db1\u0dbb\u0da2 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a"
+    ],
+    "name:spa_x_preferred":[
+        "Regi\u00f3n bajo subordinaci\u00f3n republicana"
+    ],
+    "name:swe_x_preferred":[
+        "Karotegin"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c30\u0c3f\u0c2a\u0c2c\u0c4d\u0c32\u0c3f\u0c15\u0c28\u0c4d \u0c38\u0c2c\u0c3e\u0c30\u0c4d\u0c21\u0c3f\u0c28\u0c47\u0c37\u0c28\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e\u0c32\u0c41"
+    ],
     "name:tgk_x_preferred":[
         "\u041d\u043e\u04b3\u0438\u044f\u04b3\u043e\u0438 \u0442\u043e\u0431\u0435\u0438 \u04b7\u0443\u043c\u04b3\u0443\u0440\u04e3"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e04 \u0e23\u0e35\u0e1e\u0e25\u0e31\u0e1a\u0e1a\u0e25\u0e34\u0e04 \u0e40\u0e0b\u0e2d\u0e1a\u0e2d\u0e14\u0e34\u0e40\u0e19\u0e0a\u0e31\u0e48\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Karategin"
+    ],
+    "name:uig_x_preferred":[
+        "\u062c\u06c7\u0645\u06be\u06c7\u0631\u0649\u064a\u06d5\u062a\u0643\u06d5 \u0628\u0649\u06cb\u0627\u0633\u0649\u062a\u06d5 \u0642\u0627\u0631\u0627\u0634\u0644\u0649\u0642 \u0631\u0627\u064a\u0648\u0646\u0644\u0627\u0631"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0440\u0430\u0439\u043e\u043d\u0438 \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u043f\u0456\u0434\u043f\u043e\u0440\u044f\u0434\u043a\u0443\u0432\u0430\u043d\u043d\u044f"
     ],
     "name:und_x_variant":[
         "Regions of Republican Subordination",
@@ -50,6 +162,15 @@
     ],
     "name:unk_x_variant":[
         "Garm"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u062a\u062d\u062a\u06cc \u0627\u0636\u0644\u0627\u0639"
+    ],
+    "name:uzb_x_preferred":[
+        "Tojikistonning respublikaga bo\u02bbysunuvchi tumanlari"
+    ],
+    "name:zho_x_preferred":[
+        "\u570b\u5bb6\u76f4\u8f44\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TJK",
@@ -173,7 +294,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1553550522,
+    "wof:lastmodified":1563314541,
     "wof:name":"Tadzhikistan Territories",
     "wof:parent_id":85632513,
     "wof:placetype":"region",

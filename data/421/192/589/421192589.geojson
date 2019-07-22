@@ -31,6 +31,9 @@
     "name:tgk_x_variant":[
         "Roshtqal\u2019a"
     ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0634\u062a \u0642\u0644\u0639\u06c1"
+    ],
     "qs:gn_country":"TJ",
     "qs:gn_fcode":"PPLA2",
     "qs:gn_id":1220694,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421192589,
-    "wof:lastmodified":1561759985,
+    "wof:lastmodified":1563314756,
     "wof:name":"Rosht-Kala",
     "wof:parent_id":1091917661,
     "wof:placetype":"locality",

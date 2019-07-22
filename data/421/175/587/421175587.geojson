@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062e\u062c\u0646\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u062e\u062c\u0646\u062f\u0629"
+    ],
     "name:aze_x_preferred":[
         "X\u00fcc\u0259nd"
     ],
@@ -38,11 +41,20 @@
     "name:cat_x_preferred":[
         "Khujand"
     ],
+    "name:cat_x_variant":[
+        "Khudjand"
+    ],
+    "name:ceb_x_preferred":[
+        "Kh\u016djand"
+    ],
     "name:ces_x_preferred":[
         "Chud\u017eand"
     ],
     "name:che_x_preferred":[
         "\u0425\u0443\u0434\u0436\u0430\u043d\u0434"
+    ],
+    "name:crh_x_preferred":[
+        "Hucand"
     ],
     "name:dan_x_preferred":[
         "Khujand"
@@ -86,6 +98,9 @@
     "name:hin_x_preferred":[
         "\u0916\u093c\u0941\u091c\u0928\u094d\u0926"
     ],
+    "name:hsb_x_preferred":[
+        "Chud\u017aand"
+    ],
     "name:hun_x_preferred":[
         "Hudzsand"
     ],
@@ -97,6 +112,9 @@
     ],
     "name:ita_x_preferred":[
         "Chujand"
+    ],
+    "name:ita_x_variant":[
+        "Xu\u00e7and"
     ],
     "name:jpn_x_preferred":[
         "\u30db\u30b8\u30a7\u30f3\u30c9"
@@ -118,6 +136,9 @@
     ],
     "name:lit_x_preferred":[
         "Chud\u017eandas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d16\u0d41\u0d1c\u0d3e\u0d28\u0d4d\u0d24\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u0916\u0941\u091c\u0902\u0926"
@@ -176,6 +197,9 @@
     "name:srp_x_preferred":[
         "\u0425\u0443\u0447\u0430\u043d\u0434"
     ],
+    "name:srp_x_variant":[
+        "\u041a\u0443\u0447\u0430\u043d\u0434"
+    ],
     "name:swe_x_preferred":[
         "Chudzjand"
     ],
@@ -185,6 +209,9 @@
     "name:tat_x_preferred":[
         "\u0425\u0443\u0497\u0430\u043d\u0434"
     ],
+    "name:tat_x_variant":[
+        "\u0425\u0443\u0497\u0430\u043d\u0442"
+    ],
     "name:tgk_x_preferred":[
         "\u0425\u0443\u04b7\u0430\u043d\u0434"
     ],
@@ -193,6 +220,9 @@
     ],
     "name:tur_x_preferred":[
         "Hucend"
+    ],
+    "name:tur_x_variant":[
+        "Kocand"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0443\u0434\u0436\u0430\u043d\u0434"
@@ -361,7 +391,7 @@
         }
     ],
     "wof:id":421175587,
-    "wof:lastmodified":1561759986,
+    "wof:lastmodified":1563314765,
     "wof:name":"Khujand",
     "wof:parent_id":1091916787,
     "wof:placetype":"locality",

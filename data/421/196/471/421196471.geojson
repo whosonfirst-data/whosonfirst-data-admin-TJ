@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432"
     ],
+    "name:ceb_x_preferred":[
+        "Nov"
+    ],
     "name:eng_x_preferred":[
         "Nau"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Nov"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0648"
     ],
     "qs:gn_country":"TJ",
     "qs:gn_fcode":"PPLA2",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421196471,
-    "wof:lastmodified":1561759986,
+    "wof:lastmodified":1563314766,
     "wof:name":"Nau",
     "wof:parent_id":1091917381,
     "wof:placetype":"locality",

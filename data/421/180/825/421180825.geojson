@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0434\u0440\u0430\u0441\u043c\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Adrasmon"
+    ],
     "name:eng_x_preferred":[
         "Adrasmon"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u0434\u0440\u0430\u0441\u043c\u0430\u043d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u0434\u0440\u0430\u0441\u043c\u043e\u043d"
     ],
     "name:unk_x_variant":[
         "Adrasmon"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421180825,
-    "wof:lastmodified":1561759986,
+    "wof:lastmodified":1563314759,
     "wof:name":"Adrasman",
     "wof:parent_id":1091916363,
     "wof:placetype":"locality",

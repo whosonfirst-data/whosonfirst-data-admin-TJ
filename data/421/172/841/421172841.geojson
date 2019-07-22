@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0631\u0632\u0627\u0628"
     ],
+    "name:ceb_x_preferred":[
+        "Varzob"
+    ],
     "name:eng_x_preferred":[
         "Varzob"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Obi-Dzhuk"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0631\u0632\u0627\u0628"
     ],
     "qs:gn_country":"TJ",
     "qs:gn_fcode":"PPL",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421172841,
-    "wof:lastmodified":1561759986,
+    "wof:lastmodified":1563314763,
     "wof:name":"Varzob",
     "wof:parent_id":1091918215,
     "wof:placetype":"locality",

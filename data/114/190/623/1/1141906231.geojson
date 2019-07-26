@@ -14,6 +14,18 @@
     "lbl:longitude":69.000004,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u06cc\u0646\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Leninobod"
+    ],
+    "name:tgk_x_preferred":[
+        "\u04b6\u0430\u043c\u043e\u0430\u0442\u0438 \u0427\u043e\u0440\u0431\u043e\u0493"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0646\u0646 \u0627\u0628\u0627\u062f"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Tajikistan",
     "ne:ADM0_A3":"TJK",
@@ -131,7 +143,7 @@
         }
     ],
     "wof:id":1141906231,
-    "wof:lastmodified":1508889523,
+    "wof:lastmodified":1564118438,
     "wof:name":"Leninobod",
     "wof:parent_id":1091916615,
     "wof:placetype":"locality",

@@ -25,11 +25,29 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Unj\u00ed"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0646\u062c\u06cc"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b4\uc9c0"
+    ],
+    "name:msa_x_preferred":[
+        "Undzhi"
+    ],
+    "name:tgk_x_preferred":[
+        "\u04b6\u0430\u043c\u043e\u0430\u0442\u0438 \u0423\u043d\u04b7\u04e3"
+    ],
     "name:und_x_variant":[
         "Unzhi",
         "Undzhi",
         "Unj\u00ed",
         "\u0423\u043d\u04b7\u04e3"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0646\u062c\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1226244565,
-    "wof:lastmodified":1537706399,
+    "wof:lastmodified":1564118425,
     "wof:name":"Unji",
     "wof:parent_id":1091916787,
     "wof:placetype":"locality",

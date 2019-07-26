@@ -31,11 +31,29 @@
     "mps:longitude":68.670661,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Aini"
+    ],
+    "name:deu_x_preferred":[
+        "Aini"
+    ],
     "name:eng_x_preferred":[
         "Aini"
     ],
     "name:eng_x_variant":[
         "Varzob"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u06cc\u0646\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Aini"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u0439\u043d\u04e3"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":1091916317,
-    "wof:lastmodified":1553717986,
+    "wof:lastmodified":1564118305,
     "wof:name":"Aini",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

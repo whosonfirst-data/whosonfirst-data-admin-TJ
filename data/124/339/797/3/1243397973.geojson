@@ -25,6 +25,72 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Askari"
+    ],
+    "name:cat_x_preferred":[
+        "\u00c0scari"
+    ],
+    "name:ces_x_preferred":[
+        "Askari"
+    ],
+    "name:dan_x_preferred":[
+        "Askari"
+    ],
+    "name:deu_x_preferred":[
+        "Askari"
+    ],
+    "name:eus_x_preferred":[
+        "Askari"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0633\u06a9\u0631\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Askari"
+    ],
+    "name:fra_x_preferred":[
+        "Askari"
+    ],
+    "name:glg_x_preferred":[
+        "Askari"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e1\u05e7\u05e8\u05d9"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057d\u056f\u0561\u0580\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Askari"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b9\u30ab\u30ea"
+    ],
+    "name:nor_x_preferred":[
+        "Askari"
+    ],
+    "name:pol_x_preferred":[
+        "Askarysi"
+    ],
+    "name:por_x_preferred":[
+        "Askari"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u043a\u0430\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Askari"
+    ],
+    "name:swe_x_preferred":[
+        "Askari"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e2a\u0e04\u0e32\u0e23\u0e35"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0441\u043a\u0430\u0440\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +114,7 @@
         }
     ],
     "wof:id":1243397973,
-    "wof:lastmodified":1536874556,
+    "wof:lastmodified":1564118332,
     "wof:name":"Askari",
     "wof:parent_id":1091916749,
     "wof:placetype":"locality",

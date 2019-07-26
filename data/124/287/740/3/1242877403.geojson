@@ -25,6 +25,12 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ckb_x_preferred":[
+        "\u0634\u06d5\u06be\u0631\u06d5\u06a9\u06cc \u0641\u06d5\u06cc\u0632\u0627\u0628\u0627\u062f"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u0641\u06cc\u0636\u200c\u0622\u0628\u0627\u062f"
+    ],
     "name:tgk_x_preferred":[
         "Fayzobod"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1242877403,
-    "wof:lastmodified":1537706369,
+    "wof:lastmodified":1564118334,
     "wof:name":"Fayzobod",
     "wof:parent_id":1091916813,
     "wof:placetype":"locality",

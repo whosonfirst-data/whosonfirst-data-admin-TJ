@@ -31,11 +31,26 @@
     "mps:longitude":69.513056,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ckb_x_preferred":[
+        "\u0628\u06d5\u0644\u062c\u0648\u0648\u0627\u0646"
+    ],
     "name:eng_x_preferred":[
         "Baljuvon"
     ],
     "name:eng_x_variant":[
         "Sovet"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u062c\u0648\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u044c\u0434\u0436\u0443\u0432\u043e\u043d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0430\u043b\u04b7\u0443\u0432\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u062c\u0648\u0627\u0646"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +87,7 @@
         }
     ],
     "wof:id":1091916409,
-    "wof:lastmodified":1553717986,
+    "wof:lastmodified":1564118300,
     "wof:name":"Baljuvon",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

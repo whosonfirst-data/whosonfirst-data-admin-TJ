@@ -31,11 +31,122 @@
     "mps:longitude":69.748266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0644\u0627\u0628"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0443\u043b\u044f\u0431"
+    ],
+    "name:bre_x_preferred":[
+        "Kulob"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u043b\u044f\u0431"
+    ],
+    "name:ceb_x_preferred":[
+        "K\u016dlob"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0443\u043b\u044f\u0431"
+    ],
+    "name:dan_x_preferred":[
+        "Kulob"
+    ],
+    "name:deu_x_preferred":[
+        "Kulob"
+    ],
     "name:eng_x_preferred":[
         "Kulob"
     ],
     "name:eng_x_variant":[
         "Kulob"
+    ],
+    "name:epo_x_preferred":[
+        "Kulob"
+    ],
+    "name:est_x_preferred":[
+        "Kulob"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0644\u0627\u0628"
+    ],
+    "name:fin_x_preferred":[
+        "Kulob"
+    ],
+    "name:fra_x_preferred":[
+        "Kulob"
+    ],
+    "name:hsb_x_preferred":[
+        "Kulob"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u056c\u0575\u0561\u0562"
+    ],
+    "name:ita_x_preferred":[
+        "K\u00fclob"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ea\u30e3\u30fc\u30d6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10da\u10dd\u10d1\u10d8"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0443\u043b\u044f\u0431"
+    ],
+    "name:lit_x_preferred":[
+        "Kulobas"
+    ],
+    "name:nld_x_preferred":[
+        "K\u00f6lob"
+    ],
+    "name:nor_x_preferred":[
+        "Kulob"
+    ],
+    "name:pol_x_preferred":[
+        "Kulab"
+    ],
+    "name:pus_x_preferred":[
+        "\u06a9\u0648\u0644\u0627\u0628"
+    ],
+    "name:ron_x_preferred":[
+        "Kulob"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u044f\u0431"
+    ],
+    "name:sco_x_preferred":[
+        "Kulob"
+    ],
+    "name:spa_x_preferred":[
+        "Kulob"
+    ],
+    "name:swe_x_preferred":[
+        "Kulob"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u04af\u043b\u0430\u0431"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041a\u04ef\u043b\u043e\u0431"
+    ],
+    "name:tur_x_preferred":[
+        "Kulob"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043b\u044f\u0431"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0644\u0627\u0628"
+    ],
+    "name:uzb_x_preferred":[
+        "Ko\u02bblob"
+    ],
+    "name:vep_x_preferred":[
+        "Kul\u00e4b"
+    ],
+    "name:zho_x_preferred":[
+        "\u5eab\u6d1b\u5e03"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +183,7 @@
         }
     ],
     "wof:id":1091917109,
-    "wof:lastmodified":1555092050,
+    "wof:lastmodified":1564118306,
     "wof:name":"Kulob",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

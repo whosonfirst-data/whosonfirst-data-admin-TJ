@@ -25,6 +25,30 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u043c\u043e\u043d\u0438\u0439\u043e\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Somoniyon"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u0627\u0645\u0627\u0646\u06cc\u0627\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0645\u0627\u0646\u06cc\u0627\u0646"
+    ],
+    "name:lit_x_preferred":[
+        "Somonijonas"
+    ],
+    "name:pus_x_preferred":[
+        "\u0633\u0627\u0645\u0627\u0646\u064a\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043c\u043e\u043d\u0438\u0451\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043c\u043e\u043d\u0456\u0439\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "Koktasch",
         "Leninskiy",
@@ -33,6 +57,9 @@
         "Lenin",
         "Somoniyon",
         "\u0421\u043e\u043c\u043e\u043d\u0438\u0451\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0645\u0627\u0646\u06cc\u0627\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +85,7 @@
         }
     ],
     "wof:id":1327369767,
-    "wof:lastmodified":1537706324,
+    "wof:lastmodified":1564117998,
     "wof:name":"Somoniyon",
     "wof:parent_id":1091918381,
     "wof:placetype":"locality",

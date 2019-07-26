@@ -25,6 +25,18 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kambar"
+    ],
+    "name:deu_x_preferred":[
+        "Kambar"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0c82\u0cac\u0cb0\u0ccd"
+    ],
+    "name:swe_x_preferred":[
+        "Kambar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1343296531,
-    "wof:lastmodified":1536982107,
+    "wof:lastmodified":1564118081,
     "wof:name":"Kambar",
     "wof:parent_id":1091918055,
     "wof:placetype":"locality",

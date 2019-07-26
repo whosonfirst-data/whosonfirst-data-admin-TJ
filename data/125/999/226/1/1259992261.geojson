@@ -25,6 +25,36 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Sarotherodon steinbachi"
+    ],
+    "name:ceb_x_preferred":[
+        "Sarotherodon steinbachi"
+    ],
+    "name:eus_x_preferred":[
+        "Sarotherodon steinbachi"
+    ],
+    "name:nld_x_preferred":[
+        "Sarotherodon steinbachi"
+    ],
+    "name:por_x_preferred":[
+        "Sarotherodon steinbachi"
+    ],
+    "name:spa_x_preferred":[
+        "Sarotherodon steinbachi"
+    ],
+    "name:swe_x_preferred":[
+        "Sarotherodon steinbachi"
+    ],
+    "name:vie_x_preferred":[
+        "Sarotherodon steinbachi"
+    ],
+    "name:war_x_preferred":[
+        "Sarotherodon steinbachi"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u6c0f\u5e1a\u9f52\u975e\u9bfd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1259992261,
-    "wof:lastmodified":1536620333,
+    "wof:lastmodified":1564118377,
     "wof:name":"Kululu",
     "wof:parent_id":1091917295,
     "wof:placetype":"locality",

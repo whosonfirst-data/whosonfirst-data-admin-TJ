@@ -25,6 +25,15 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ckb_x_preferred":[
+        "\u0686\u0644\u062f\u06d5\u0631\u06d5"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0647\u0644\u200c\u062f\u0631\u0647"
+    ],
+    "name:nld_x_preferred":[
+        "Tsjildara"
+    ],
     "name:und_x_variant":[
         "Chil\u2019dora",
         "Childara"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1276588469,
-    "wof:lastmodified":1537706353,
+    "wof:lastmodified":1564118152,
     "wof:name":"Childara",
     "wof:parent_id":1091917993,
     "wof:placetype":"locality",

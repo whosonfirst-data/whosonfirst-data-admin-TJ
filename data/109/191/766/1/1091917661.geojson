@@ -31,11 +31,23 @@
     "mps:longitude":71.946248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ckb_x_preferred":[
+        "\u0695\u0627\u0634\u062a\u0642\u06d5\u0644\u0639\u06d5"
+    ],
     "name:eng_x_preferred":[
         "Roshtqal'a"
     ],
     "name:eng_x_variant":[
         "Roshtqala"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0634\u062a\u200c\u0642\u0644\u0639\u0647"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0420\u043e\u0448\u0442\u049b\u0430\u043b\u044a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0634\u062a \u0642\u0644\u0639\u06c1"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":1091917661,
-    "wof:lastmodified":1553717989,
+    "wof:lastmodified":1564118299,
     "wof:name":"Roshtqal'a",
     "wof:parent_id":85678899,
     "wof:placetype":"county",

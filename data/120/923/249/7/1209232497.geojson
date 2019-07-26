@@ -25,11 +25,30 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Qalaikhumb"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0642\u06d5\u0644\u0639\u06d5\u06cc \u062e\u0648\u0645\u0628"
+    ],
+    "name:est_x_preferred":[
+        "Kalai Humb"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647 \u062e\u0645\u0628"
+    ],
+    "name:lit_x_preferred":[
+        "Kalai Chumbas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u0438\u0445\u0443\u043c"
+    ],
     "name:tgk_x_preferred":[
         "Qalaikhum"
     ],
     "name:tgk_x_variant":[
-        "\u049a\u0430\u043b\u0430\u0438\u0445\u0443\u043c"
+        "\u049a\u0430\u043b\u0430\u0438\u0445\u0443\u043c",
+        "\u049a\u0430\u043b\u044a\u0430\u0438 \u0425\u0443\u043c\u0431"
     ],
     "name:und_x_variant":[
         "Kala Khumb",
@@ -39,6 +58,9 @@
         "Kalai Khumb",
         "Qalaikhumb",
         "\u049a\u0430\u043b\u0430\u0438\u0445\u0443\u043c\u0431"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0644\u0639\u06c1 \u062e\u0645\u0628"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +80,7 @@
         }
     ],
     "wof:id":1209232497,
-    "wof:lastmodified":1537706337,
+    "wof:lastmodified":1564118190,
     "wof:name":"Qalaikhumb",
     "wof:parent_id":85632513,
     "wof:placetype":"locality",

@@ -31,11 +31,35 @@
     "mps:longitude":69.198623,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Danghara"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03bd\u03b3\u03ac\u03c1\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Danghara"
     ],
     "name:eng_x_variant":[
         "Danghara"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0646\u063a\u0631\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Dangara"
+    ],
+    "name:pus_x_preferred":[
+        "\u062f\u0646\u063a\u0631\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043d\u0433\u0430\u0440\u0430"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0414\u0430\u043d\u0493\u0430\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0646\u063a\u0631\u06c1"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +96,7 @@
         }
     ],
     "wof:id":1091916489,
-    "wof:lastmodified":1553717986,
+    "wof:lastmodified":1564118301,
     "wof:name":"Danghara",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

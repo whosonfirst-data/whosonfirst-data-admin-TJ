@@ -25,6 +25,33 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Nau"
+    ],
+    "name:cat_x_preferred":[
+        "Nau"
+    ],
+    "name:ceb_x_preferred":[
+        "Nau"
+    ],
+    "name:deu_x_preferred":[
+        "Nau"
+    ],
+    "name:fra_x_preferred":[
+        "Nau"
+    ],
+    "name:nld_x_preferred":[
+        "Middenschip"
+    ],
+    "name:pol_x_preferred":[
+        "Nau"
+    ],
+    "name:ron_x_preferred":[
+        "Nau"
+    ],
+    "name:swe_x_preferred":[
+        "Nau"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1276350071,
-    "wof:lastmodified":1536756026,
+    "wof:lastmodified":1564118154,
     "wof:name":"Nau",
     "wof:parent_id":1091917707,
     "wof:placetype":"locality",

@@ -31,11 +31,29 @@
     "mps:longitude":68.861381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Vakhsh"
+    ],
     "name:eng_x_preferred":[
         "Vakhsh"
     ],
     "name:eng_x_variant":[
         "Kolkhozobod"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u062e\u0634"
+    ],
+    "name:msa_x_preferred":[
+        "Vakhsh"
+    ],
+    "name:pol_x_preferred":[
+        "Wachsz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0445\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0445\u0448"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":1091918141,
-    "wof:lastmodified":1553717990,
+    "wof:lastmodified":1564118300,
     "wof:name":"Vakhsh",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

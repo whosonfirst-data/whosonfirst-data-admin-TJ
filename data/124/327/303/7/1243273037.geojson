@@ -25,6 +25,24 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Burka"
+    ],
+    "name:fra_x_preferred":[
+        "Burka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30eb\u30ab"
+    ],
+    "name:nld_x_preferred":[
+        "Boerka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0440\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "\u0411\u0443\u0440\u043a\u0430"
     ],
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1243273037,
-    "wof:lastmodified":1537706383,
+    "wof:lastmodified":1564118365,
     "wof:name":"Burka",
     "wof:parent_id":1091917547,
     "wof:placetype":"locality",

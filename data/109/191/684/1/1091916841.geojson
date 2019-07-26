@@ -31,8 +31,110 @@
     "mps:longitude":70.578805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Isfara"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0633\u0641\u0631\u0629"
+    ],
+    "name:aze_x_preferred":[
+        "\u0130sf\u0259r\u0259"
+    ],
+    "name:bel_x_preferred":[
+        "\u0406\u0441\u0444\u0430\u0440\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0418\u0441\u0444\u0430\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Isfara"
+    ],
+    "name:ceb_x_preferred":[
+        "Isfara"
+    ],
+    "name:deu_x_preferred":[
+        "Isfara"
+    ],
     "name:eng_x_preferred":[
         "Isfara"
+    ],
+    "name:est_x_preferred":[
+        "Isfara"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0641\u0631\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Isfara"
+    ],
+    "name:fra_x_preferred":[
+        "Isfara"
+    ],
+    "name:hsb_x_preferred":[
+        "Isfara"
+    ],
+    "name:ind_x_preferred":[
+        "Isfara"
+    ],
+    "name:ita_x_preferred":[
+        "Isfara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30b9\u30d5\u30a1\u30e9"
+    ],
+    "name:kir_x_preferred":[
+        "\u0418\u0441\u0444\u0430\u0440\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uc2a4\ud30c\ub77c"
+    ],
+    "name:lit_x_preferred":[
+        "Isfara"
+    ],
+    "name:oss_x_preferred":[
+        "\u0418\u0441\u0444\u0430\u0440\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Isfara"
+    ],
+    "name:por_x_preferred":[
+        "Isfara"
+    ],
+    "name:pus_x_preferred":[
+        "\u0627\u0633\u0641\u0631\u0647"
+    ],
+    "name:ron_x_preferred":[
+        "Isfara"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u0444\u0430\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Isfara"
+    ],
+    "name:szl_x_preferred":[
+        "Isfara"
+    ],
+    "name:tat_x_preferred":[
+        "\u0418\u0441\u0444\u04d9\u0440\u04d9"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0418\u0441\u0444\u0430\u0440\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0441\u0444\u0430\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0633\u0641\u0631\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "Isfara"
+    ],
+    "name:zha_x_preferred":[
+        "Isfara"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u65af\u6cd5\u62c9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +171,7 @@
         }
     ],
     "wof:id":1091916841,
-    "wof:lastmodified":1553717987,
+    "wof:lastmodified":1564118301,
     "wof:name":"Isfara",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

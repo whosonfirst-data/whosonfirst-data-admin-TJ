@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Leninabad"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u0565\u0576\u056b\u0576\u0561\u0562\u0561\u0564"
+    ],
+    "name:swe_x_preferred":[
+        "Leninabad"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":421196597,
-    "wof:lastmodified":1527716365,
+    "wof:lastmodified":1564118320,
     "wof:name":"Leninabad",
     "wof:parent_id":1091916787,
     "wof:placetype":"locality",

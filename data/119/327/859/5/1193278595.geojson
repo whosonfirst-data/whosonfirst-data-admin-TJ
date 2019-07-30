@@ -25,6 +25,30 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u062a"
+    ],
+    "name:aze_x_preferred":[
+        "Tut"
+    ],
+    "name:ceb_x_preferred":[
+        "Tut"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Tut"
+    ],
+    "name:fra_x_preferred":[
+        "Tut"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05d5\u05ea"
+    ],
+    "name:ltz_x_preferred":[
+        "Tut"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1193278595,
-    "wof:lastmodified":1536364203,
+    "wof:lastmodified":1564118229,
     "wof:name":"Tut",
     "wof:parent_id":1091918301,
     "wof:placetype":"locality",

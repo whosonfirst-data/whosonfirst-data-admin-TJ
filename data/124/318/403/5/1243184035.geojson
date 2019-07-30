@@ -32,6 +32,9 @@
         "Yangiq\u016drghon",
         "\u042f\u043d\u0433\u0438\u049b\u04ef\u0440\u0493\u043e\u043d"
     ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0646\u06af\u0642\u0631\u06af\u0648\u06ba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1243184035,
-    "wof:lastmodified":1537706290,
+    "wof:lastmodified":1564118364,
     "wof:name":"Yangiqurghon",
     "wof:parent_id":1091917837,
     "wof:placetype":"locality",

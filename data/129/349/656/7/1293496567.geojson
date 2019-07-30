@@ -25,6 +25,18 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ckb_x_preferred":[
+        "\u063a\u06d5\u0644\u06d5\u0628\u06d5"
+    ],
+    "name:fas_x_preferred":[
+        "\u063a\u0644\u0628\u0647"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0414\u0435\u04b3\u043e\u0442\u0438 \u0492\u0430\u043b\u0430\u0431\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043b\u0430\u0431\u0441\u044c\u043a\u0438\u0439 \u0434\u0436\u0430\u043c\u043e\u0430\u0442"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293496567,
-    "wof:lastmodified":1536774535,
+    "wof:lastmodified":1564118105,
     "wof:name":"Galaba",
     "wof:parent_id":1091917547,
     "wof:placetype":"locality",

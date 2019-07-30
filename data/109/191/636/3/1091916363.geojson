@@ -31,8 +31,44 @@
     "mps:longitude":70.347342,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0634\u062a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0430\u0439\u0434\u043e\u043d"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Asht"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u062a"
+    ],
+    "name:ind_x_preferred":[
+        "Asht"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e8\u10d7\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Asht"
+    ],
+    "name:pol_x_preferred":[
+        "Aszt"
+    ],
+    "name:pus_x_preferred":[
+        "\u0634\u0627\u064a\u062f\u0648\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0439\u0434\u043e\u043d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0428\u0430\u0439\u0434\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0634\u062a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +105,7 @@
         }
     ],
     "wof:id":1091916363,
-    "wof:lastmodified":1553717986,
+    "wof:lastmodified":1564118305,
     "wof:name":"Asht",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

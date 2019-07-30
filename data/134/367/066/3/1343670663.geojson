@@ -25,6 +25,18 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Z\u0259rg\u0259r"
+    ],
+    "name:ceb_x_preferred":[
+        "Zargar"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0632\u06d5\u0631\u06af\u06d5\u0631"
+    ],
+    "name:swe_x_preferred":[
+        "Zargar"
+    ],
     "name:und_x_variant":[
         "\u0417\u0430\u0440\u0433\u0430\u0440"
     ],
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1343670663,
-    "wof:lastmodified":1537706375,
+    "wof:lastmodified":1564118069,
     "wof:name":"Zargar",
     "wof:parent_id":1091916813,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u06a9\u0648\u062f\u0627\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Iskodar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u043a\u043e\u0434\u0430\u0440"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0418\u0441\u043a\u043e\u0434\u0430\u0440"
+    ],
     "name:und_x_variant":[
         "\u0418\u0441\u043a\u043e\u0434\u0430\u0440"
     ],
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1259987087,
-    "wof:lastmodified":1537706339,
+    "wof:lastmodified":1564118372,
     "wof:name":"Iskodar",
     "wof:parent_id":1091916317,
     "wof:placetype":"locality",

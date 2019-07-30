@@ -25,6 +25,33 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Dagana"
+    ],
+    "name:ceb_x_preferred":[
+        "Dagana"
+    ],
+    "name:deu_x_preferred":[
+        "Dagana"
+    ],
+    "name:fra_x_preferred":[
+        "Dagana"
+    ],
+    "name:ita_x_preferred":[
+        "Dagana"
+    ],
+    "name:nds_x_preferred":[
+        "Dagana"
+    ],
+    "name:nld_x_preferred":[
+        "Dagana"
+    ],
+    "name:pol_x_preferred":[
+        "Dagana"
+    ],
+    "name:swe_x_preferred":[
+        "Dagana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1226679783,
-    "wof:lastmodified":1536810064,
+    "wof:lastmodified":1564118411,
     "wof:name":"Dagana",
     "wof:parent_id":1091918215,
     "wof:placetype":"locality",

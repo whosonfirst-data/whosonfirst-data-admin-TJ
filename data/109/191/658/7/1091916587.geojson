@@ -31,11 +31,17 @@
     "mps:longitude":69.534467,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ckb_x_preferred":[
+        "\u0634\u06d5\u06be\u0631\u06d5\u06a9\u06cc \u0641\u06d5\u06cc\u0632\u0627\u0628\u0627\u062f"
+    ],
     "name:eng_x_preferred":[
         "Fayzobod"
     ],
     "name:eng_x_variant":[
         "Fayzobod"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u0641\u06cc\u0636\u200c\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091916587,
-    "wof:lastmodified":1553717986,
+    "wof:lastmodified":1564118294,
     "wof:name":"Fayzobod",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

@@ -31,11 +31,38 @@
     "mps:longitude":68.749504,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0648\u0631\u0632\u0627\u0628"
+    ],
+    "name:ceb_x_preferred":[
+        "Varzob"
+    ],
     "name:eng_x_preferred":[
         "Varzob"
     ],
     "name:eng_x_variant":[
         "Varzob"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0632\u0627\u0628"
+    ],
+    "name:lit_x_preferred":[
+        "Varzobas"
+    ],
+    "name:msa_x_preferred":[
+        "Varzob"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u0437\u043e\u0431"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0430\u0440\u0437\u043e\u0431"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0440\u0437\u043e\u0431"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0631\u0632\u0627\u0628"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +99,7 @@
         }
     ],
     "wof:id":1091918215,
-    "wof:lastmodified":1553717990,
+    "wof:lastmodified":1564118294,
     "wof:name":"Varzob",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

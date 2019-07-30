@@ -31,11 +31,29 @@
     "mps:longitude":68.766108,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Shahriston"
+    ],
+    "name:deu_x_preferred":[
+        "Schahriston"
+    ],
     "name:eng_x_preferred":[
         "Shahriston"
     ],
     "name:eng_x_variant":[
         "Shahriston"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0634\u06c1\u0631\u0633\u062a\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0445\u0440\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u06c1\u0631\u0633\u062a\u0627\u0646"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":1091917837,
-    "wof:lastmodified":1553717989,
+    "wof:lastmodified":1564118297,
     "wof:name":"Shahriston",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

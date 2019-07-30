@@ -25,15 +25,49 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043b\u0445\u043e\u0437\u0430\u0431\u0430\u0434"
+    ],
+    "name:ceb_x_preferred":[
+        "Kolkhozobod"
+    ],
+    "name:deu_x_preferred":[
+        "Kolchosobod"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0644\u062e\u0627\u0632\u0622\u0628\u0627\u062f"
+    ],
+    "name:ita_x_preferred":[
+        "Kolkhozobod"
+    ],
+    "name:nld_x_preferred":[
+        "Kolchozobod"
+    ],
+    "name:pol_x_preferred":[
+        "Balch"
+    ],
+    "name:pus_x_preferred":[
+        "\u062e\u0627\u0644\u062e\u0627\u0632 \u0627\u0628\u0627\u062f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0445"
+    ],
     "name:tgk_x_preferred":[
         "Kolkhozobod"
     ],
     "name:tgk_x_variant":[
-        "\u0425\u043e\u043b\u0445\u043e\u0437\u043e\u0431\u043e\u0434"
+        "\u0425\u043e\u043b\u0445\u043e\u0437\u043e\u0431\u043e\u0434",
+        "\u0411\u0430\u043b\u0445"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u0445"
     ],
     "name:und_x_variant":[
         "Shashvoz",
         "Kolkhozabad"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0627\u0644\u062e\u0627\u0632\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +92,7 @@
         }
     ],
     "wof:id":1276128049,
-    "wof:lastmodified":1537706329,
+    "wof:lastmodified":1564118160,
     "wof:name":"Kolkhozobod",
     "wof:parent_id":1091917883,
     "wof:placetype":"locality",

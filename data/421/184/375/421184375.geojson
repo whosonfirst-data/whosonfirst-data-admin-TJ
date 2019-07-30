@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Nurek"
+    ],
     "name:pol_x_preferred":[
         "Nurek"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421184375,
-    "wof:lastmodified":1527716456,
+    "wof:lastmodified":1564118321,
     "wof:name":"Nurek",
     "wof:parent_id":1091917421,
     "wof:placetype":"locality",

@@ -25,6 +25,48 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vion"
+    ],
+    "name:deu_x_preferred":[
+        "Vion"
+    ],
+    "name:fra_x_preferred":[
+        "Vion"
+    ],
+    "name:ita_x_preferred":[
+        "Vion"
+    ],
+    "name:nds_x_preferred":[
+        "Vion"
+    ],
+    "name:nld_x_preferred":[
+        "Vion"
+    ],
+    "name:pol_x_preferred":[
+        "Vion"
+    ],
+    "name:por_x_preferred":[
+        "Vion"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044c\u043e\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Vion"
+    ],
+    "name:slk_x_preferred":[
+        "Vion"
+    ],
+    "name:spa_x_preferred":[
+        "Vion"
+    ],
+    "name:swe_x_preferred":[
+        "Vion"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "Viyen",
         "Vion"
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1292916543,
-    "wof:lastmodified":1537706292,
+    "wof:lastmodified":1564118120,
     "wof:name":"Vion",
     "wof:parent_id":1091917635,
     "wof:placetype":"locality",

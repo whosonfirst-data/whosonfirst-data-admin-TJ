@@ -31,11 +31,29 @@
     "mps:longitude":72.282961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ckb_x_preferred":[
+        "\u0695\u06c6\u0634\u0627\u0646"
+    ],
     "name:eng_x_preferred":[
         "Rushon"
     ],
     "name:eng_x_variant":[
         "Rushon"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0634\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Rushan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0448\u0430\u043d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u04b6\u0430\u043c\u043e\u0430\u0442\u0438 \u0420\u04ef\u0448\u043e\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0634\u0627\u0646"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +90,7 @@
         }
     ],
     "wof:id":1091917707,
-    "wof:lastmodified":1553717990,
+    "wof:lastmodified":1564118297,
     "wof:name":"Rushon",
     "wof:parent_id":85678899,
     "wof:placetype":"county",

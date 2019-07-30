@@ -25,6 +25,36 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Arabo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0627\u0628\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Arabo"
+    ],
+    "name:fra_x_preferred":[
+        "Arabo"
+    ],
+    "name:hrv_x_preferred":[
+        "Arabo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0561\u0562\u0578"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0580\u0561\u0562\u0585"
+    ],
+    "name:ita_x_preferred":[
+        "Arabo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u0431\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0430\u0431\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1259786571,
-    "wof:lastmodified":1536919297,
+    "wof:lastmodified":1564118381,
     "wof:name":"Arabo",
     "wof:parent_id":1091917463,
     "wof:placetype":"locality",

@@ -25,8 +25,32 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tem"
+    ],
+    "name:fin_x_preferred":[
+        "Tem"
+    ],
+    "name:fra_x_preferred":[
+        "Tem"
+    ],
+    "name:pol_x_preferred":[
+        "Tem"
+    ],
+    "name:por_x_preferred":[
+        "Tem"
+    ],
+    "name:spa_x_preferred":[
+        "Tem"
+    ],
+    "name:swe_x_preferred":[
+        "Tem"
+    ],
     "name:und_x_variant":[
         "\u0422\u0435\u043c"
+    ],
+    "name:vie_x_preferred":[
+        "Tem"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1209923935,
-    "wof:lastmodified":1537706414,
+    "wof:lastmodified":1564118200,
     "wof:name":"Tem",
     "wof:parent_id":1091917883,
     "wof:placetype":"locality",

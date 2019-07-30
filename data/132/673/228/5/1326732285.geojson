@@ -25,8 +25,77 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Komsomolsk"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043c\u0441\u0430\u043c\u043e\u043b\u044c\u0441\u043a"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u0441\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Komsomolsk"
+    ],
+    "name:fin_x_preferred":[
+        "Komsomolsk"
+    ],
+    "name:fra_x_preferred":[
+        "Komsomolsk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05de\u05e1\u05d5\u05de\u05d5\u05dc\u05e1\u05e7"
+    ],
+    "name:hrv_x_preferred":[
+        "Komsomoljsk"
+    ],
+    "name:ita_x_preferred":[
+        "Komsomol'sk"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf64\uc18c\ubab0\uc2a4\ud06c"
+    ],
+    "name:lav_x_preferred":[
+        "Komsomo\u013cska"
+    ],
+    "name:lit_x_preferred":[
+        "Komsomolskas"
+    ],
+    "name:nor_x_preferred":[
+        "Komsomolsk"
+    ],
+    "name:pol_x_preferred":[
+        "Komsomolsk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Komsomolsk"
+    ],
+    "name:slk_x_preferred":[
+        "Komsomo\u013esk"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u0459\u0441\u043a"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043e\u0440\u0438\u0448\u043d\u0438 \u043f\u043b\u0430\u0432\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u044c\u043a"
+    ],
     "name:und_x_variant":[
         "\u041a\u043e\u043c\u043e\u0441\u043e\u043c\u043e\u043b\u0441\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Komsomolsk"
+    ],
+    "name:zho_x_preferred":[
+        "\u5171\u9752\u57ce"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +120,7 @@
         }
     ],
     "wof:id":1326732285,
-    "wof:lastmodified":1537706410,
+    "wof:lastmodified":1564118002,
     "wof:name":"Komsomolsk",
     "wof:parent_id":1091916787,
     "wof:placetype":"locality",

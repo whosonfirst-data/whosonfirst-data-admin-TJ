@@ -31,8 +31,17 @@
     "name:fas_x_preferred":[
         "\u0627\u0646\u0632\u0627\u0628"
     ],
+    "name:msa_x_preferred":[
+        "Anzob"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0414\u0435\u04b3\u043e\u0442\u0438 \u0410\u043d\u0437\u043e\u0431"
+    ],
     "name:und_x_variant":[
         "\u0410\u043d\u0437\u043e\u0431"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u0632\u0627\u0628"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1293688393,
-    "wof:lastmodified":1537706361,
+    "wof:lastmodified":1564118112,
     "wof:name":"Anzob",
     "wof:parent_id":1091916317,
     "wof:placetype":"locality",

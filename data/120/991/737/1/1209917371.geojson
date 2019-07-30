@@ -25,6 +25,33 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kazakh"
+    ],
+    "name:ita_x_preferred":[
+        "Kazako"
+    ],
+    "name:kaz_x_preferred":[
+        "\u049a\u0430\u0437\u0430\u049b"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\uc790\ud750"
+    ],
+    "name:mon_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0445"
+    ],
+    "name:por_x_preferred":[
+        "Cazaque"
+    ],
+    "name:swe_x_preferred":[
+        "Kazakisk"
+    ],
+    "name:vie_x_preferred":[
+        "Kazakh"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u8428\u514b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1209917371,
-    "wof:lastmodified":1536372258,
+    "wof:lastmodified":1564118179,
     "wof:name":"Kazakh",
     "wof:parent_id":1091917463,
     "wof:placetype":"locality",

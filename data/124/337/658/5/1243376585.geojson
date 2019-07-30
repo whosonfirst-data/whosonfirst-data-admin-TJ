@@ -25,8 +25,38 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bak_x_preferred":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u0446\u044f\u0431\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "Oktjabr"
+    ],
+    "name:hun_x_preferred":[
+        "Oktyabr"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u056f\u057f\u0575\u0561\u0562\u0580"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
+    "name:pol_x_preferred":[
+        "Akciabr"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
     "name:tgk_x_preferred":[
         "Oktyabrskiy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440"
     ],
     "name:und_x_variant":[
         "\u041e\u043a\u0442\u044f\u0431\u0440"
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1243376585,
-    "wof:lastmodified":1537706386,
+    "wof:lastmodified":1564118329,
     "wof:name":"Oktyabr",
     "wof:parent_id":1091917135,
     "wof:placetype":"locality",

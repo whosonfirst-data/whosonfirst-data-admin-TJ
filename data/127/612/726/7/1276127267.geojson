@@ -25,6 +25,15 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ckb_x_preferred":[
+        "\u0626\u0627\u0642\u0633\u0648"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0642\u200c\u0633\u0648"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0414\u0435\u04b3\u043e\u0442\u0438 \u041e\u049b\u0441\u0443"
+    ],
     "name:und_x_variant":[
         "Aksu",
         "Oksu",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1276127267,
-    "wof:lastmodified":1537706363,
+    "wof:lastmodified":1564118161,
     "wof:name":"Oqsu",
     "wof:parent_id":1091916489,
     "wof:placetype":"locality",

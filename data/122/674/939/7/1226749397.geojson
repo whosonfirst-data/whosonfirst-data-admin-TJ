@@ -25,8 +25,26 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Khonobod"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0646\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Khonabad"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u043d\u043e\u0431\u043e\u0434"
+    ],
+    "name:tgk_x_preferred":[
+        "\u04b6\u0430\u043c\u043e\u0430\u0442\u0438 \u0425\u043e\u043d\u043e\u0431\u043e\u0434"
+    ],
     "name:und_x_variant":[
         "\u0425\u043e\u043d\u043e\u0431\u043e\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0627\u0646 \u0622\u0628\u0627\u062f"
     ],
     "name:uzb_x_preferred":[
         "Xonobod"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1226749397,
-    "wof:lastmodified":1537706411,
+    "wof:lastmodified":1564118406,
     "wof:name":"Khonobod",
     "wof:parent_id":1091916841,
     "wof:placetype":"locality",

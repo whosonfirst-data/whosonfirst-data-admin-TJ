@@ -25,6 +25,18 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0633\u0645\u0627\u0646\u062f\u0627"
+    ],
+    "name:msa_x_preferred":[
+        "Basmanda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0441\u043c\u0430\u043d\u0434\u0430"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0430\u0441\u043c\u0430\u043d\u0434\u0430"
+    ],
     "name:und_x_variant":[
         "Basmandy",
         "Basmanda",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1326641615,
-    "wof:lastmodified":1537706358,
+    "wof:lastmodified":1564118026,
     "wof:name":"Basmanda",
     "wof:parent_id":1091916615,
     "wof:placetype":"locality",

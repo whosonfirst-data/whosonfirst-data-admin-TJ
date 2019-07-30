@@ -25,6 +25,15 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u062f\u0648"
+    ],
+    "name:deu_x_preferred":[
+        "Abdou"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d1\u05d3\u05d5"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632513
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209040867,
-    "wof:lastmodified":1536299550,
+    "wof:lastmodified":1564118203,
     "wof:name":"Abdu",
     "wof:parent_id":85632513,
     "wof:placetype":"locality",

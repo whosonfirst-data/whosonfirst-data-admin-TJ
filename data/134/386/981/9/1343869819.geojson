@@ -25,6 +25,21 @@
     "iso:country":"TJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u06a9\u200c\u0627\u0646\u062f\u0627\u0632"
+    ],
+    "name:msa_x_preferred":[
+        "Ghulakandoz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u043b\u0430\u043a\u0430\u043d\u0434\u043e\u0437"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0492\u04ef\u043b\u0430\u043a\u0430\u043d\u0434\u043e\u0437"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u043b\u0430\u043a\u0430\u043d\u0434\u043e\u0437"
+    ],
     "name:und_x_variant":[
         "Gulyakandoz",
         "Gulakandoz",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1343869819,
-    "wof:lastmodified":1537706402,
+    "wof:lastmodified":1564118086,
     "wof:name":"Ghulakandoz",
     "wof:parent_id":1091917591,
     "wof:placetype":"locality",

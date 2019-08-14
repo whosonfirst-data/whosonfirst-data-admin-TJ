@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "autonomous region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GB"
+    ],
     "lbl:latitude":38.302799,
     "lbl:longitude":72.892827,
     "meso:name_alt1":"",
@@ -328,16 +331,13 @@
         }
     ],
     "wof:id":85678899,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tgk"
     ],
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1563314536,
+    "wof:lastmodified":1565737285,
     "wof:name":"Gorno-Badakhshan",
     "wof:parent_id":85632513,
     "wof:placetype":"region",
@@ -346,6 +346,7 @@
     "wof:population":208500,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:shortcode":"GB",
     "wof:subdivision":"TJ-GB",
     "wof:superseded_by":[],
     "wof:supersedes":[],

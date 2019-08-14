@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LE"
+    ],
     "lbl:latitude":39.444206,
     "lbl:longitude":68.960701,
     "meso:name_alt1":"",
@@ -342,16 +345,13 @@
         }
     ],
     "wof:id":85678913,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tgk"
     ],
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1563314542,
+    "wof:lastmodified":1565737286,
     "wof:name":"Leninabad",
     "wof:parent_id":85632513,
     "wof:placetype":"region",

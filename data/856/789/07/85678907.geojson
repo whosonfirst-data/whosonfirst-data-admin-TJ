@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RR"
+    ],
     "lbl:latitude":38.949575,
     "lbl:longitude":70.350575,
     "meso:name_alt1":"Districts of Republican Subordination",
@@ -285,16 +288,13 @@
         }
     ],
     "wof:id":85678907,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tgk"
     ],
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1563314541,
+    "wof:lastmodified":1565737286,
     "wof:name":"Tadzhikistan Territories",
     "wof:parent_id":85632513,
     "wof:placetype":"region",

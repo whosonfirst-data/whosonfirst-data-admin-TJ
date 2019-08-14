@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "independent city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DU"
+    ],
     "lbl:latitude":38.552986,
     "lbl:longitude":68.769216,
     "meso:name_alt1":"",
@@ -537,7 +540,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1564118089,
+    "wof:lastmodified":1565737286,
     "wof:name":"Dushanbe",
     "wof:parent_id":85632513,
     "wof:placetype":"region",

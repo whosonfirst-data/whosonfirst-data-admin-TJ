@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KL"
+    ],
     "lbl:latitude":37.803273,
     "lbl:longitude":69.042622,
     "meso:name_alt1":"",
@@ -320,16 +323,13 @@
         }
     ],
     "wof:id":85678905,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "tgk"
     ],
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1563314537,
+    "wof:lastmodified":1565737286,
     "wof:name":"Khatlon",
     "wof:parent_id":85632513,
     "wof:placetype":"region",

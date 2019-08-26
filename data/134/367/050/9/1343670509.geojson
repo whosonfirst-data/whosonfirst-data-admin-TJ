@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.8223,38.51682,69.8623,38.55682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Afand\u00ed",
         "\u0410\u0444\u0430\u043d\u0434\u04e3",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343670509,
-    "wof:lastmodified":1537706379,
+    "wof:lastmodified":1566666280,
     "wof:name":"Afandi",
     "wof:parent_id":1091916813,
     "wof:placetype":"locality",

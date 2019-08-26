@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"72.23106,37.70254,72.27106,37.74254",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Razak",
         "Miyenshar",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193141201,
-    "wof:lastmodified":1537706321,
+    "wof:lastmodified":1566666409,
     "wof:name":"Miyonshahr",
     "wof:parent_id":1091917883,
     "wof:placetype":"locality",

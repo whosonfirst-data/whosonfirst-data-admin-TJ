@@ -10,8 +10,12 @@
     "geom:latitude":38.17023,
     "geom:longitude":73.96674,
     "iso:country":"TJ",
+    "lbl:bbox":"73.94674,38.15023,73.98674,38.19023",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Murghob"
@@ -73,7 +77,7 @@
     "name:tgk_x_preferred":[
         "\u041c\u0443\u0440\u0493\u043e\u0431"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pam\u012brski Post"
     ],
     "name:urd_x_preferred":[
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":1220962,
         "gp:id":2213358,
-        "qs:id":493383,
+        "qs_pg:id":493383,
         "wd:id":"Q1018209",
         "wk:page":"Murghab, Tajikistan"
     },
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421181499,
-    "wof:lastmodified":1563314764,
+    "wof:lastmodified":1566666490,
     "wof:name":"Murgab",
     "wof:parent_id":1091917339,
     "wof:placetype":"locality",

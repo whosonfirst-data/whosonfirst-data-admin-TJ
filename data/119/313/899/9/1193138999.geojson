@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.83007,40.31725,69.87007,40.35725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Yangikishlak"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193138999,
-    "wof:lastmodified":1564118224,
+    "wof:lastmodified":1566666408,
     "wof:name":"Yangikishlak",
     "wof:parent_id":1091916787,
     "wof:placetype":"locality",

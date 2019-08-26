@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.89063,40.66668,69.93063,40.70668",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0411\u043e\u0448\u043a\u0443\u0440\u0443\u049b"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310212553,
-    "wof:lastmodified":1537706410,
+    "wof:lastmodified":1566666443,
     "wof:name":"Boshkuruq",
     "wof:parent_id":1091916787,
     "wof:placetype":"locality",

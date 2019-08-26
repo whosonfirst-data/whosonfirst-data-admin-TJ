@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.85664,40.15855,69.89664,40.19855",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0410\u0440\u0438\u049b\u0438 \u0414\u0443\u044e\u043c"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1326541583,
-    "wof:lastmodified":1537706410,
+    "wof:lastmodified":1566666251,
     "wof:name":"Ariqi Duyum",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

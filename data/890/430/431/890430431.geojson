@@ -11,10 +11,14 @@
     "geom:longitude":68.83125,
     "gn:country":"TJ",
     "gn:fcode":"PPL",
-    "gn:pop":4068,
+    "gn:population":4068,
     "iso:country":"TJ",
+    "lbl:bbox":"68.81125,37.82783,68.85125,37.86783",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ckb_x_preferred":[
         "\u0628\u06c6\u0633\u062a\u0627\u0646\u0642\u06d5\u0644\u0639\u06d5"
     ],
@@ -33,7 +37,7 @@
     "name:tgk_x_preferred":[
         "\u0411\u04ef\u0441\u0442\u043e\u043d\u049b\u0430\u043b\u044a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bustonkala"
     ],
     "qs:name":"B\u016dstonqal\u2019a",
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":1222085,
         "gp:id":2212801,
-        "qs:id":131008,
+        "qs_pg:id":131008,
         "wd:id":"Q6416569"
     },
     "wof:country":"TJ",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890430431,
-    "wof:lastmodified":1563314778,
+    "wof:lastmodified":1566666494,
     "wof:name":"B\u016dstonqal\u2019a",
     "wof:parent_id":1091916455,
     "wof:placetype":"locality",

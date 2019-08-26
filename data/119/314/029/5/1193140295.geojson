@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.84599,37.88659,68.88599,37.92659",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0427\u0430\u043f\u0430\u0435\u0432",
         "Imeni Chapayeva"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193140295,
-    "wof:lastmodified":1537706340,
+    "wof:lastmodified":1566666410,
     "wof:name":"Chapaev",
     "wof:parent_id":1091916455,
     "wof:placetype":"locality",

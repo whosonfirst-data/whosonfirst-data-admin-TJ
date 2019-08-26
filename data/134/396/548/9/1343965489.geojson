@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.02088,39.34509,68.06088,39.38509",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u062d\u0633\u0646\u200c\u0622\u0628\u0627\u062f"
     ],
@@ -34,7 +38,6 @@
     "name:und_x_variant":[
         "Kuloli",
         "Khusanabad",
-        "Husanobod",
         "\u04b2\u0443\u0441\u0430\u043d\u043e\u0431\u043e\u0434"
     ],
     "src:geom":"geonames",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1343965489,
-    "wof:lastmodified":1564118041,
+    "wof:lastmodified":1566666259,
     "wof:name":"Husanobod",
     "wof:parent_id":1091917507,
     "wof:placetype":"locality",

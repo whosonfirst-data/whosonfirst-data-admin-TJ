@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.80742,37.98744,68.84742,38.02744",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Aral"
     ],
@@ -88,9 +92,6 @@
     "name:tur_x_preferred":[
         "Aral"
     ],
-    "name:und_x_variant":[
-        "\u0410\u0440\u0430\u043b"
-    ],
     "name:vie_x_preferred":[
         "Aral"
     ],
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1277077457,
-    "wof:lastmodified":1564118139,
+    "wof:lastmodified":1566666341,
     "wof:name":"Aral",
     "wof:parent_id":1091918301,
     "wof:placetype":"locality",

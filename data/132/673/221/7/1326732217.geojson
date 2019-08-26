@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.6417,39.8095,68.6817,39.8495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0422\u0430\u0432\u043e\u049b\u0431\u0443\u043b\u043e\u049b",
         "Tabokbulok"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326732217,
-    "wof:lastmodified":1537706380,
+    "wof:lastmodified":1566666227,
     "wof:name":"Tavoqbuloq",
     "wof:parent_id":1091917837,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":38.55632,
     "geom:longitude":69.01354,
     "iso:country":"TJ",
+    "lbl:bbox":"68.99354,38.53632,69.03354,38.57632",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0412\u0430\u0445\u0434\u0430\u0442"
@@ -94,7 +98,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0445\u0434\u0430\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Orjonikidzeobod"
     ],
     "name:urd_x_preferred":[
@@ -146,7 +150,7 @@
     "wof:concordances":{
         "gn:id":1220855,
         "gp:id":56122805,
-        "qs:id":542382,
+        "qs_pg:id":542382,
         "wd:id":"Q1018025",
         "wk:page":"Vahdat"
     },
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":421182033,
-    "wof:lastmodified":1563314775,
+    "wof:lastmodified":1566666493,
     "wof:name":"Vakhdat",
     "wof:parent_id":1091917077,
     "wof:placetype":"locality",

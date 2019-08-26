@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.80732,38.70194,69.84732,38.74194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Taykamar",
         "Tagikamar"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360016785,
-    "wof:lastmodified":1537706297,
+    "wof:lastmodified":1566666455,
     "wof:name":"Tagikamar",
     "wof:parent_id":1091917635,
     "wof:placetype":"locality",

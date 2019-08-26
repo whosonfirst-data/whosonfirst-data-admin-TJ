@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.2029,38.57791,68.2429,38.61791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Debuvok",
         "Devak"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326459719,
-    "wof:lastmodified":1537706349,
+    "wof:lastmodified":1566666225,
     "wof:name":"Devak",
     "wof:parent_id":1091918055,
     "wof:placetype":"locality",

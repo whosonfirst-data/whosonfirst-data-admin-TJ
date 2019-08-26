@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"72.63025,38.00202,72.67025,38.04202",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kulin People"
     ],
@@ -35,8 +39,7 @@
         "\u30af\u30ea\u30f3\u4eba"
     ],
     "name:und_x_variant":[
-        "Letnik Kulin",
-        "Kulin"
+        "Letnik Kulin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1360102759,
-    "wof:lastmodified":1564118286,
+    "wof:lastmodified":1566666460,
     "wof:name":"Kulin",
     "wof:parent_id":1091917339,
     "wof:placetype":"locality",

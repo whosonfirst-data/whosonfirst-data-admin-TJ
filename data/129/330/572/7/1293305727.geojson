@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.54686,37.40956,68.58686,37.44956",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u0648\u0641"
     ],
@@ -146,8 +150,7 @@
         "\u041a\u0456\u0440\u043e\u0432"
     ],
     "name:und_x_variant":[
-        "Uchastok Imeni Kirova",
-        "Kirov"
+        "Uchastok Imeni Kirova"
     ],
     "name:zho_x_preferred":[
         "\u57fa\u6d1b\u592b"
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":1293305727,
-    "wof:lastmodified":1564118094,
+    "wof:lastmodified":1566666304,
     "wof:name":"Kirov",
     "wof:parent_id":1091917079,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.46898,40.18109,69.50898,40.22109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u049a\u0430\u0437\u043d\u043e\u043a"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327345069,
-    "wof:lastmodified":1537706408,
+    "wof:lastmodified":1566666238,
     "wof:name":"Qaznok",
     "wof:parent_id":1091917591,
     "wof:placetype":"locality",

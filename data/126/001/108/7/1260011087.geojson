@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.52003,38.38051,68.56003,38.42051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lattaband",
         "Lattaban"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260011087,
-    "wof:lastmodified":1537706366,
+    "wof:lastmodified":1566666419,
     "wof:name":"Lattaban",
     "wof:parent_id":1091916749,
     "wof:placetype":"locality",

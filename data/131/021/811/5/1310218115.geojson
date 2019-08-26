@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.56325,37.72125,69.60325,37.76125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0443\u0441\u0442\u0438"
     ],
@@ -48,7 +52,6 @@
     ],
     "name:und_x_variant":[
         "Druzhba",
-        "D\u016dst\u00ed",
         "\u0414\u04ef\u0441\u0442\u04e3"
     ],
     "src:geom":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1310218115,
-    "wof:lastmodified":1564118265,
+    "wof:lastmodified":1566666442,
     "wof:name":"Dusti",
     "wof:parent_id":1091918261,
     "wof:placetype":"locality",

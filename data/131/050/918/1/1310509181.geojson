@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.28472,40.40778,69.32472,40.44778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Obburdon"
     ],
@@ -40,7 +44,6 @@
     "name:und_x_variant":[
         "Oburdon",
         "Obb\u016drdon",
-        "Obburdon",
         "\u041e\u0431\u0431\u0443\u0440\u0434\u043e\u043d"
     ],
     "name:urd_x_preferred":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1310509181,
-    "wof:lastmodified":1564118270,
+    "wof:lastmodified":1566666447,
     "wof:name":"Obburdon",
     "wof:parent_id":1091917221,
     "wof:placetype":"locality",

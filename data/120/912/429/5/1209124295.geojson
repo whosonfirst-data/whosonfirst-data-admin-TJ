@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.93,37.56333,69.97,37.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ang_x_preferred":[
         "M\u014dr"
     ],
@@ -217,7 +221,7 @@
         }
     ],
     "wof:id":1209124295,
-    "wof:lastmodified":1564118188,
+    "wof:lastmodified":1566666379,
     "wof:name":"Bog",
     "wof:parent_id":85632513,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":38.819099,
     "lbl:longitude":69.304277,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tadzhikistan Territories",
     "meso:gadm_admin":"Vahdat",
     "meso:hasc_id":"TJ.RR.KR",
@@ -31,6 +33,7 @@
     "mps:longitude":69.304277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0412\u0430\u0445\u0434\u0430\u0442"
     ],
@@ -119,9 +122,9 @@
         "\u74e6\u8d6b\u9054\u7279"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-01-01",
+    "src:population_date":"2014-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-01-01",
     "statoids:capital":"",
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":1091917077,
-    "wof:lastmodified":1564118292,
+    "wof:lastmodified":1566666465,
     "wof:name":"Vahdat",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

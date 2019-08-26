@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"71.71429,37.57675,71.75429,37.61675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tang"
     ],
@@ -68,7 +72,6 @@
         "\u0422\u0430\u043d\u0433"
     ],
     "name:und_x_variant":[
-        "\u0422\u0430\u043d\u0433",
         "Taig"
     ],
     "src:geom":"geonames",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1226554071,
-    "wof:lastmodified":1564118429,
+    "wof:lastmodified":1566666582,
     "wof:name":"Tang",
     "wof:parent_id":1091917883,
     "wof:placetype":"locality",

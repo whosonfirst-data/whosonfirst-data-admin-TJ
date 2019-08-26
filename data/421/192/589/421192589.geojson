@@ -10,8 +10,12 @@
     "geom:latitude":37.25827,
     "geom:longitude":71.82591,
     "iso:country":"TJ",
+    "lbl:bbox":"71.80591,37.23827,71.84591,37.27827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ckb_x_preferred":[
         "\u0695\u0627\u0634\u062a\u0642\u06d5\u0644\u0639\u06d5"
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":1220694,
         "gp:id":2212844,
-        "qs:id":1168488,
+        "qs_pg:id":1168488,
         "wd:id":"Q6411376"
     },
     "wof:country":"TJ",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421192589,
-    "wof:lastmodified":1563314756,
+    "wof:lastmodified":1566666488,
     "wof:name":"Rosht-Kala",
     "wof:parent_id":1091917661,
     "wof:placetype":"locality",

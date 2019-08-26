@@ -11,10 +11,14 @@
     "geom:longitude":70.58012,
     "gn:country":"TJ",
     "gn:fcode":"PPL",
-    "gn:pop":3836,
+    "gn:population":3836,
     "iso:country":"TJ",
+    "lbl:bbox":"70.56012,39.83125,70.60012,39.87125",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0631\u0648\u062e"
     ],
@@ -69,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0440\u0443\u0445"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Varukh"
     ],
     "name:urd_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1220164,
         "gp:id":1969757,
-        "qs:id":276129,
+        "qs_pg:id":276129,
         "wd:id":"Q2465110",
         "wk:page":"Vorukh"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":890420413,
-    "wof:lastmodified":1563314781,
+    "wof:lastmodified":1566666496,
     "wof:name":"Vorukh",
     "wof:parent_id":1091916841,
     "wof:placetype":"locality",

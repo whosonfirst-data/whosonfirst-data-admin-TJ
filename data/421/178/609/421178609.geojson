@@ -10,13 +10,17 @@
     "geom:latitude":37.80396,
     "geom:longitude":69.64416,
     "iso:country":"TJ",
+    "lbl:bbox":"69.62416,37.78396,69.66416,37.82396",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:tgk_x_preferred":[
         "Vose\u2019"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aral"
     ],
     "qs:gn_country":"TJ",
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":1220163,
         "gp:id":2213231,
-        "qs:id":130962
+        "qs_pg:id":130962
     },
     "wof:country":"TJ",
     "wof:created":1459009187,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421178609,
-    "wof:lastmodified":1527717728,
+    "wof:lastmodified":1566666493,
     "wof:name":"Vose",
     "wof:parent_id":1091917109,
     "wof:placetype":"locality",

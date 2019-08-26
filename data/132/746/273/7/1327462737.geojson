@@ -23,11 +23,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.54467,38.46567,68.58467,38.50567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "Ittifok",
-        "Ittifoq"
+        "Ittifok"
     ],
     "name:uzb_x_preferred":[
         "Ittifoq"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1327462737,
-    "wof:lastmodified":1564118013,
+    "wof:lastmodified":1566666236,
     "wof:name":"Ittifoq",
     "wof:parent_id":1091916749,
     "wof:placetype":"locality",

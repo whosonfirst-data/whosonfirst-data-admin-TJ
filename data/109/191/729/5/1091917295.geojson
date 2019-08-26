@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":38.091379,
     "lbl:longitude":70.099518,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Khatlon",
     "meso:gadm_admin":"Muminobod",
     "meso:hasc_id":"TJ.KL.MU",
@@ -31,6 +33,7 @@
     "mps:longitude":70.099518,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Mu'minobod"
     ],
@@ -38,9 +41,9 @@
         "Muminobod"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-01-01",
+    "src:population_date":"2014-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-01-01",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091917295,
-    "wof:lastmodified":1553717989,
+    "wof:lastmodified":1566666477,
     "wof:name":"Mu'minobod",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

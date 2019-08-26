@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.02922,40.02698,69.06922,40.06698",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "T\u016dqquzchalak",
         "\u0422\u04ef\u049b\u049b\u0443\u0437\u0447\u0430\u043b\u0430\u043a"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259887589,
-    "wof:lastmodified":1537706407,
+    "wof:lastmodified":1566666556,
     "wof:name":"Tuqquzchalak",
     "wof:parent_id":1091918093,
     "wof:placetype":"locality",

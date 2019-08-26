@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.20035,39.28212,69.24035,39.32212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0627\u0648\u0633\u062a\u0648\u0646\u06af"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1209717533,
-    "wof:lastmodified":1564118190,
+    "wof:lastmodified":1566666380,
     "wof:name":"Ustung",
     "wof:parent_id":1091917081,
     "wof:placetype":"locality",

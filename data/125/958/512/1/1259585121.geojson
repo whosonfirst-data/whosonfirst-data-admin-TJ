@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.69235,40.43614,69.73235,40.47614",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Q\u016drquduq",
         "\u049a\u04ef\u0440\u049b\u0443\u0434\u0443\u049b"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259585121,
-    "wof:lastmodified":1537706409,
+    "wof:lastmodified":1566666553,
     "wof:name":"Qurquduq",
     "wof:parent_id":1091916787,
     "wof:placetype":"locality",

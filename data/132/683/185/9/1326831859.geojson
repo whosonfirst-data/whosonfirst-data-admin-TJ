@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tashkent",
     "iso:country":"TJ",
+    "lbl:bbox":"70.55303,40.97745,70.59303,41.01745",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sarvaksoy"
     ],
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1326831859,
-    "wof:lastmodified":1537706404,
+    "wof:lastmodified":1566666246,
     "wof:name":"Sarvaksoy",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

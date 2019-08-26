@@ -10,8 +10,12 @@
     "geom:latitude":38.0467,
     "geom:longitude":69.58822,
     "iso:country":"TJ",
+    "lbl:bbox":"69.56822,38.0267,69.60822,38.0667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_variant":[
         "\u0421\u0430\u0432\u0435\u0446\u043a\u0456"
@@ -61,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0432\u0454\u0442\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kizyl-Mazar-Bolo"
     ],
     "qs:gn_country":"TJ",
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":1220446,
         "gp:id":2213027,
-        "qs:id":1307447
+        "qs_pg:id":1307447
     },
     "wof:country":"TJ",
     "wof:created":1459009882,
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421196457,
-    "wof:lastmodified":1527716368,
+    "wof:lastmodified":1566666491,
     "wof:name":"Sovetskiy",
     "wof:parent_id":1091917957,
     "wof:placetype":"locality",

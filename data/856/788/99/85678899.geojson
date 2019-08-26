@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":38.302799,
     "lbl:longitude":72.892827,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_alt2":"",
     "mps:latitude":38.299829,
@@ -180,7 +181,7 @@
         "Gorno-Badachsjan"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bcb\u0bb0\u0bcd\u0ba9\u0bcb -\u0baa\u0b9f\u0b95\u0bcd\u0bb9\u0bcd\u0bb7\u0ba9\u0bcd  \u0b86\u0b9f\u0bcb\u0ba9\u0bcb\u0bae\u0bcb\u0bb8\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bcb\u0bb0\u0bcd\u0ba9\u0bcb -\u0baa\u0b9f\u0b95\u0bcd\u0bb9\u0bcd\u0bb7\u0ba9\u0bcd \u0b86\u0b9f\u0bcb\u0ba9\u0bcb\u0bae\u0bcb\u0bb8\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c3e\u0c30\u0c4d\u0c28\u0c4b-\u0c2c\u0c21\u0c3e\u0c15\u0c4d\u0c37\u0c28\u0c4d \u0c05\u0c1f\u0c3e\u0c28\u0c2e\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -197,7 +198,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u0440\u0441\u044c\u043a\u0438\u0439 \u0411\u0430\u0434\u0430\u0445\u0448\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Viloyati Avtonomii Badakhshoni K\u016dhy"
     ],
     "name:urd_x_preferred":[
@@ -289,9 +290,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-01-01",
+    "src:population_date":"2012-01-01",
     "statoids:area_km":"64,100",
     "statoids:area_mi":"24,750",
     "statoids:as_of_date":"2012-01-01",
@@ -316,7 +317,7 @@
         "gp:id":20070296,
         "hasc:id":"TJ.BK",
         "iso:id":"TJ-GB",
-        "qs:id":1085813,
+        "qs_pg:id":1085813,
         "unlc:id":"TJ-GB",
         "wd:id":"Q207319",
         "wk:page":"Gorno-Badakhshan Autonomous Region"
@@ -337,11 +338,10 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1565737285,
+    "wof:lastmodified":1566666297,
     "wof:name":"Gorno-Badakhshan",
     "wof:parent_id":85632513,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"autonomous region",
     "wof:population":208500,
     "wof:population_rank":10,

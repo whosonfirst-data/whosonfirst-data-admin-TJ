@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"72.31857,37.68089,72.35857,37.72089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ab\u016dal\u00ed Sino",
         "\u0410\u0431\u04ef\u0430\u043b\u04e3 \u0421\u0438\u043d\u043e"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327152059,
-    "wof:lastmodified":1537706414,
+    "wof:lastmodified":1566666234,
     "wof:name":"Abuali Sino",
     "wof:parent_id":1091917883,
     "wof:placetype":"locality",

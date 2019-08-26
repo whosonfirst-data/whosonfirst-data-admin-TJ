@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"70.44087,40.27432,70.48087,40.31432",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:uzb_x_preferred":[
         "Po\u2018loton"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310407557,
-    "wof:lastmodified":1537706416,
+    "wof:lastmodified":1566666432,
     "wof:name":"Po`loton",
     "wof:parent_id":1091917067,
     "wof:placetype":"locality",

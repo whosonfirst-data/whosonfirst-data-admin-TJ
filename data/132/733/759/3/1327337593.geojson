@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"71.61683,37.72943,71.65683,37.76943",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tgk_x_preferred":[
         "Bajuv"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1327337593,
-    "wof:lastmodified":1537706360,
+    "wof:lastmodified":1566666239,
     "wof:name":"Barchuv",
     "wof:parent_id":1091917707,
     "wof:placetype":"locality",

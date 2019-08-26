@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"70.13549,39.44246,70.17549,39.48246",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0648\u0627\u062f\u06cc\u0641"
     ],
@@ -32,7 +36,6 @@
         "Vadif"
     ],
     "name:und_x_variant":[
-        "Vadif",
         "Vodif",
         "\u0412\u043e\u0434\u0438\u0444"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1243265753,
-    "wof:lastmodified":1564118371,
+    "wof:lastmodified":1566666537,
     "wof:name":"Vodif",
     "wof:parent_id":1091917081,
     "wof:placetype":"locality",

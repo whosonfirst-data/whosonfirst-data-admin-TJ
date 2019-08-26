@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.57453,38.4646,68.61453,38.5046",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0635\u0627\u0631"
     ],
@@ -92,8 +96,7 @@
         "\u0413\u0456\u0441\u0430\u0440"
     ],
     "name:und_x_variant":[
-        "Khisor",
-        "Hisor"
+        "Khisor"
     ],
     "name:urd_x_preferred":[
         "\u062d\u0635\u0627\u0631"
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1242808279,
-    "wof:lastmodified":1564118333,
+    "wof:lastmodified":1566666506,
     "wof:name":"Hisor",
     "wof:parent_id":1091918381,
     "wof:placetype":"locality",

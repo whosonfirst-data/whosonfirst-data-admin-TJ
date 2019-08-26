@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.25422,39.91406,69.29422,39.95406",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0425\u0430\u0431\u0443\u0442\u0430\u043a"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343663587,
-    "wof:lastmodified":1537706408,
+    "wof:lastmodified":1566666275,
     "wof:name":"Khabutak",
     "wof:parent_id":1091916615,
     "wof:placetype":"locality",

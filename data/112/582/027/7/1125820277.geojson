@@ -9,15 +9,18 @@
     "geom:bbox":"68.23327,38.51437,68.23327,38.51437",
     "geom:latitude":38.51437,
     "geom:longitude":68.23327,
-    "gn:gn_country":"TJ",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":37995,
+    "gn:country":"TJ",
+    "gn:fcode":"PPL",
     "gn:population":37995,
     "iso:country":"TJ",
+    "lbl:bbox":"68.21327,38.49437,68.25327,38.53437",
     "lbl:latitude":38.51437,
     "lbl:longitude":68.23327,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u0633\u0648\u0646\u0632\u0627\u062f\u0647"
@@ -103,7 +106,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u0441\u0443\u043d\u0437\u0430\u0434\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Regar"
     ],
     "name:urd_x_preferred":[
@@ -130,7 +133,7 @@
     "qs_pg:qs_id":130971,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":1125820277,
-    "wof:lastmodified":1563314787,
+    "wof:lastmodified":1566666498,
     "wof:name":"Tursunzoda",
     "wof:parent_id":1091918055,
     "wof:placetype":"locality",

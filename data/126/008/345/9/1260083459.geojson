@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.33983,37.60836,69.37983,37.64836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Novabad-Poyn",
         "Navobodi Poyon",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260083459,
-    "wof:lastmodified":1537706395,
+    "wof:lastmodified":1566666418,
     "wof:name":"Navobodi Poyon",
     "wof:parent_id":1091917463,
     "wof:placetype":"locality",

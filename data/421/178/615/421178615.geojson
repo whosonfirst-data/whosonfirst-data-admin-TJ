@@ -10,8 +10,12 @@
     "geom:latitude":37.49167,
     "geom:longitude":68.53106,
     "iso:country":"TJ",
+    "lbl:bbox":"68.51106,37.47167,68.55106,37.51167",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:rus_x_preferred":[
         "Dzhilikul\u2019"
@@ -19,7 +23,7 @@
     "name:tgk_x_preferred":[
         "Jilikul"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dzhil\u2019kul\u2019"
     ],
     "qs:gn_country":"TJ",
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":1221808,
         "gp:id":2212017,
-        "qs:id":130994
+        "qs_pg:id":130994
     },
     "wof:country":"TJ",
     "wof:created":1459009187,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":421178615,
-    "wof:lastmodified":1505340638,
+    "wof:lastmodified":1566666493,
     "wof:name":"Dzhilikul'",
     "wof:parent_id":1091916897,
     "wof:placetype":"locality",

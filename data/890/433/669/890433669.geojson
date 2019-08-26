@@ -11,10 +11,14 @@
     "geom:longitude":68.55124,
     "gn:country":"TJ",
     "gn:fcode":"PPL",
-    "gn:pop":23978,
+    "gn:population":23978,
     "iso:country":"TJ",
+    "lbl:bbox":"68.53124,38.50504,68.57124,38.54504",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062d\u0635\u0627\u0631"
     ],
@@ -93,7 +97,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u0441\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staryy Gissar"
     ],
     "name:urd_x_preferred":[
@@ -127,7 +131,7 @@
     "wof:concordances":{
         "gn:id":1221714,
         "gp:id":2212129,
-        "qs:id":130991,
+        "qs_pg:id":130991,
         "wd:id":"Q655771",
         "wk:page":"Hisor"
     },
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":890433669,
-    "wof:lastmodified":1563314782,
+    "wof:lastmodified":1566666496,
     "wof:name":"Hisor",
     "wof:parent_id":1091916749,
     "wof:placetype":"locality",

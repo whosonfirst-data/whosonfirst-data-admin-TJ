@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"71.95782,37.70339,71.99782,37.74339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0417\u0443\u0432\u043e\u0440"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225849079,
-    "wof:lastmodified":1537706414,
+    "wof:lastmodified":1566666590,
     "wof:name":"Zuvor",
     "wof:parent_id":1091917883,
     "wof:placetype":"locality",

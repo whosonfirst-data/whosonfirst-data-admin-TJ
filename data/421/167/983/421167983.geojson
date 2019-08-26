@@ -10,8 +10,12 @@
     "geom:latitude":40.52286,
     "geom:longitude":69.33308,
     "iso:country":"TJ",
+    "lbl:bbox":"69.31308,40.50286,69.35308,40.54286",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0411\u0443\u0441\u0442\u043e\u043d"
@@ -46,7 +50,7 @@
     "name:tgk_x_preferred":[
         "\u0411\u04ef\u0441\u0442\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yantak"
     ],
     "name:urd_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":1514913,
         "gp:id":2213332,
-        "qs:id":462135,
+        "qs_pg:id":462135,
         "wd:id":"Q4148725",
         "wk:page":"Buston, Tajikistan"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421167983,
-    "wof:lastmodified":1563314759,
+    "wof:lastmodified":1566666488,
     "wof:name":"Buston",
     "wof:parent_id":1091917221,
     "wof:placetype":"locality",

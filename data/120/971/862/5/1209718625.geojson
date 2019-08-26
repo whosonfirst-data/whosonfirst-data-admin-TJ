@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.7097,37.86176,68.7497,37.90176",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bokhtariyon"
     ],
@@ -41,9 +45,7 @@
         "Vakhsh",
         "Kuybyshevskiy",
         "Kuybyshevsk",
-        "Kuybishevskiy",
-        "Bokhtariyon",
-        "\u0411\u043e\u0445\u0442\u0430\u0440\u0438\u0451\u043d"
+        "Kuybishevskiy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +71,7 @@
         }
     ],
     "wof:id":1209718625,
-    "wof:lastmodified":1564118191,
+    "wof:lastmodified":1566666381,
     "wof:name":"Bokhtariyon",
     "wof:parent_id":1091916455,
     "wof:placetype":"locality",

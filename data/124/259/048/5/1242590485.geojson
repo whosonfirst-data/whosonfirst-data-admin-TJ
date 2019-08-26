@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.7006,37.69404,69.7406,37.73404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tgk_x_preferred":[
         "Buzakhona"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1242590485,
-    "wof:lastmodified":1537706355,
+    "wof:lastmodified":1566666513,
     "wof:name":"Buzakhona",
     "wof:parent_id":1091917249,
     "wof:placetype":"locality",

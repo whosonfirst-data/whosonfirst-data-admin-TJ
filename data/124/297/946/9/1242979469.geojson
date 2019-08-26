@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.81674,38.04651,68.85674,38.08651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0443\u0441\u0442\u0438"
     ],
@@ -44,7 +48,6 @@
         "\u0414\u0443\u0441\u0442\u0438"
     ],
     "name:und_x_variant":[
-        "D\u016dst\u00ed",
         "\u0414\u04ef\u0441\u0442\u04e3",
         "Oktyabr"
     ],
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1242979469,
-    "wof:lastmodified":1564118361,
+    "wof:lastmodified":1566666529,
     "wof:name":"Dusti",
     "wof:parent_id":1091918301,
     "wof:placetype":"locality",

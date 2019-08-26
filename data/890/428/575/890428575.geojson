@@ -11,10 +11,14 @@
     "geom:longitude":69.09947,
     "gn:country":"TJ",
     "gn:fcode":"PPL",
-    "gn:pop":55,
+    "gn:population":55,
     "iso:country":"TJ",
+    "lbl:bbox":"69.07947,39.13487,69.11947,39.17487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Qul"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":8133595,
         "gp:id":2213365,
-        "qs:id":758681,
+        "qs_pg:id":758681,
         "wd:id":"Q7272750"
     },
     "wof:country":"TJ",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890428575,
-    "wof:lastmodified":1561759988,
+    "wof:lastmodified":1566666496,
     "wof:name":"Q\u016fl",
     "wof:parent_id":1091916317,
     "wof:placetype":"locality",

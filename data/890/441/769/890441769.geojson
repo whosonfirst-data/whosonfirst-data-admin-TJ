@@ -11,10 +11,14 @@
     "geom:longitude":69.70885,
     "gn:country":"TJ",
     "gn:fcode":"PPL",
-    "gn:pop":10035,
+    "gn:population":10035,
     "iso:country":"TJ",
+    "lbl:bbox":"69.68885,38.69731,69.72885,38.73731",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0438\u0433\u0430\u0440\u043c"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":1220888,
         "gp:id":2212262,
-        "qs:id":130982,
+        "qs_pg:id":130982,
         "wd:id":"Q8214642",
         "wk:page":"Obigarm"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890441769,
-    "wof:lastmodified":1563314776,
+    "wof:lastmodified":1566666494,
     "wof:name":"Obigarm",
     "wof:parent_id":1091917635,
     "wof:placetype":"locality",

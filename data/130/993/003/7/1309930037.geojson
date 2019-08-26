@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.84017,38.51216,68.88017,38.55216",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0421\u0430\u0431\u0437\u0438\u043a\u043e\u0440"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309930037,
-    "wof:lastmodified":1537706365,
+    "wof:lastmodified":1566666483,
     "wof:name":"Sabzikor",
     "wof:parent_id":1091918381,
     "wof:placetype":"locality",

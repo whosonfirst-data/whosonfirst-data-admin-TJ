@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"67.49308,39.41972,67.53308,39.45972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u041f\u0435\u0433\u0438\u0440\u043c\u043e\u043d\u0442\u0435\u043f\u043f\u0430"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310306673,
-    "wof:lastmodified":1537706406,
+    "wof:lastmodified":1566666437,
     "wof:name":"Tegirmonteppa",
     "wof:parent_id":1091917507,
     "wof:placetype":"locality",

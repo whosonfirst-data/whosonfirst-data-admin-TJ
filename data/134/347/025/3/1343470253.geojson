@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"67.92854,39.41677,67.96854,39.45677",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ogolyak-Payen",
         "Ogilaki-Poy\u00ebn",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343470253,
-    "wof:lastmodified":1537706316,
+    "wof:lastmodified":1566666272,
     "wof:name":"Varzikanda",
     "wof:parent_id":1091917507,
     "wof:placetype":"locality",

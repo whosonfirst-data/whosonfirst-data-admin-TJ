@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.73547,37.94327,69.77547,37.98327",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mogol"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276670807,
-    "wof:lastmodified":1564118153,
+    "wof:lastmodified":1566666353,
     "wof:name":"Mogol",
     "wof:parent_id":1091917109,
     "wof:placetype":"locality",

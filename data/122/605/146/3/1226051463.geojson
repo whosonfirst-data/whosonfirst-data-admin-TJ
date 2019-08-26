@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"70.10835,38.23569,70.14835,38.27569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dzhavzodara",
         "Janzodara",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226051463,
-    "wof:lastmodified":1537706370,
+    "wof:lastmodified":1566666568,
     "wof:name":"Javzodara",
     "wof:parent_id":1091917295,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.43638,40.34457,69.47638,40.38457",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kichikayr\u00ed",
         "\u041a\u0438\u0447\u0438\u043a\u0430\u0439\u0440\u04e3"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209925893,
-    "wof:lastmodified":1537706409,
+    "wof:lastmodified":1566666388,
     "wof:name":"Kichikayri",
     "wof:parent_id":1091916787,
     "wof:placetype":"locality",

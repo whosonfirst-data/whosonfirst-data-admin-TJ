@@ -10,8 +10,12 @@
     "geom:latitude":39.39406,
     "geom:longitude":68.53766,
     "iso:country":"TJ",
+    "lbl:bbox":"68.51766,39.37406,68.55766,39.41406",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ayn\u00ed"
@@ -49,7 +53,7 @@
     "name:tgk_x_preferred":[
         "\u0410\u0439\u043d\u04e3"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Varzominor"
     ],
     "name:urd_x_preferred":[
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":1222222,
         "gp:id":2213330,
-        "qs:id":131010,
+        "qs_pg:id":131010,
         "wd:id":"Q3298847"
     },
     "wof:country":"TJ",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":421178621,
-    "wof:lastmodified":1563314771,
+    "wof:lastmodified":1566666492,
     "wof:name":"Ayn\u00ed",
     "wof:parent_id":1091916317,
     "wof:placetype":"locality",

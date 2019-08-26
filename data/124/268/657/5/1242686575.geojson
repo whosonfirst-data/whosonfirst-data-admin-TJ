@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.6363,37.35949,68.6763,37.39949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Pachtakor"
     ],
@@ -38,9 +42,6 @@
         "Pakhtakor"
     ],
     "name:ukr_x_preferred":[
-        "\u041f\u0430\u0445\u0442\u0430\u043a\u043e\u0440"
-    ],
-    "name:und_x_variant":[
         "\u041f\u0430\u0445\u0442\u0430\u043a\u043e\u0440"
     ],
     "name:uzb_x_preferred":[
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1242686575,
-    "wof:lastmodified":1564118339,
+    "wof:lastmodified":1566666511,
     "wof:name":"Pakhtakor",
     "wof:parent_id":1091917079,
     "wof:placetype":"locality",

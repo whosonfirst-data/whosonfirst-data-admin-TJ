@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.78,37.86333,69.82,37.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10d8\u10dc\u10d0\u10e0\u10d8"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1326540207,
-    "wof:lastmodified":1564118032,
+    "wof:lastmodified":1566666252,
     "wof:name":"Kaynar",
     "wof:parent_id":1091917109,
     "wof:placetype":"locality",

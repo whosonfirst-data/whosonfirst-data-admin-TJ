@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.33164,37.53692,69.37164,37.57692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dong"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1243567343,
-    "wof:lastmodified":1564118351,
+    "wof:lastmodified":1566666522,
     "wof:name":"Dong",
     "wof:parent_id":1091917463,
     "wof:placetype":"locality",

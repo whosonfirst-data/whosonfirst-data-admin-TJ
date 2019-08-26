@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.0565,37.27058,69.0965,37.31058",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yukari-Temez",
         "Yukoritemez",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243175267,
-    "wof:lastmodified":1537706289,
+    "wof:lastmodified":1566666536,
     "wof:name":"Yuqori Temez",
     "wof:parent_id":1091917547,
     "wof:placetype":"locality",

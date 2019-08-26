@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.55559,39.12301,68.59559,39.16301",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sh\u016drpast",
         "\u0428\u04ef\u0440\u043f\u0430\u0441\u0442",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226144767,
-    "wof:lastmodified":1537706380,
+    "wof:lastmodified":1566666574,
     "wof:name":"Shurpast",
     "wof:parent_id":1091916317,
     "wof:placetype":"locality",

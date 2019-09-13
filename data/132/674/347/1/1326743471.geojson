@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.08992,37.28864,69.12992,37.32864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kudukly",
         "Qudukl\u00ed",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326743471,
-    "wof:lastmodified":1537706328,
+    "wof:lastmodified":1566666226,
     "wof:name":"Qudukli",
     "wof:parent_id":1091917547,
     "wof:placetype":"locality",

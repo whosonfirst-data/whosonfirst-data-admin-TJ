@@ -11,10 +11,14 @@
     "geom:longitude":68.85922,
     "gn:country":"TJ",
     "gn:fcode":"PPL",
-    "gn:pop":7696,
+    "gn:population":7696,
     "iso:country":"TJ",
+    "lbl:bbox":"68.83922,37.79774,68.87922,37.83774",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439"
     ],
@@ -36,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0440\u043e\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sovkhoz Imeni Kirova"
     ],
     "qs:name":"Kirovskiy",
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1221297,
         "gp:id":12517828,
-        "qs:id":130987,
+        "qs_pg:id":130987,
         "wk:page":"Kirovsky"
     },
     "wof:country":"TJ",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890433667,
-    "wof:lastmodified":1564118323,
+    "wof:lastmodified":1566666497,
     "wof:name":"Kirovskiy",
     "wof:parent_id":1091916455,
     "wof:placetype":"locality",

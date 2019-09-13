@@ -10,8 +10,12 @@
     "geom:latitude":37.23634,
     "geom:longitude":69.09911,
     "iso:country":"TJ",
+    "lbl:bbox":"69.07911,37.21634,69.11911,37.25634",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Panj"
@@ -58,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u044f\u043d\u0434\u0436"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baumanabad"
     ],
     "name:urd_x_preferred":[
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":1220750,
         "gp:id":7224114,
-        "qs:id":16996,
+        "qs_pg:id":16996,
         "wd:id":"Q2567960",
         "wk:page":"Panj"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421188311,
-    "wof:lastmodified":1563314762,
+    "wof:lastmodified":1566666489,
     "wof:name":"Pianj",
     "wof:parent_id":1091917547,
     "wof:placetype":"locality",

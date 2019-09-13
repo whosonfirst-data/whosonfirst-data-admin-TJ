@@ -10,10 +10,14 @@
     "geom:latitude":40.65425,
     "geom:longitude":69.59811,
     "iso:country":"TJ",
+    "lbl:bbox":"69.57811,40.63425,69.61811,40.67425",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oltintopkan"
     ],
     "qs:gn_country":"TJ",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1514925,
         "gp:id":2213329,
-        "qs:id":1307440
+        "qs_pg:id":1307440
     },
     "wof:country":"TJ",
     "wof:created":1459008766,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421168477,
-    "wof:lastmodified":1505340591,
+    "wof:lastmodified":1566666487,
     "wof:name":"Altyn-Topkan",
     "wof:parent_id":1091917221,
     "wof:placetype":"locality",

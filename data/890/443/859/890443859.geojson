@@ -11,11 +11,15 @@
     "geom:longitude":70.57193,
     "gn:country":"TJ",
     "gn:fcode":"PPL",
-    "gn:pop":4603,
+    "gn:population":4603,
     "iso:country":"TJ",
+    "lbl:bbox":"70.55193,40.19524,70.59193,40.23524",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Nefteabad"
     ],
     "qs:name":"Neftobod",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1514852,
-        "qs:id":1031581
+        "qs_pg:id":1031581
     },
     "wof:country":"TJ",
     "wof:created":1469052441,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890443859,
-    "wof:lastmodified":1505343596,
+    "wof:lastmodified":1566666496,
     "wof:name":"Neftobod",
     "wof:parent_id":1091916841,
     "wof:placetype":"locality",

@@ -9,23 +9,25 @@
     "geom:bbox":"68.77807,38.61859,68.77807,38.61859",
     "geom:latitude":38.61859,
     "geom:longitude":68.77807,
-    "gn:gn_country":"TJ",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"TJ",
+    "gn:fcode":"PPLX",
     "gn:latitude":38.61859,
     "gn:longitude":68.77807,
+    "gn:population":0,
     "iso:country":"TJ",
+    "lbl:bbox":"68.77307,38.61359,68.78307,38.62359",
     "lbl:latitude":38.61859,
     "lbl:longitude":68.77807,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ragunskiy"
     ],
-    "name:unk_x_variant":[
-        "Mishkora",
-        "Ragunskiy"
+    "name:und_x_variant":[
+        "Mishkora"
     ],
     "qs_pg:aaroncc":"TJ",
     "qs_pg:gn_country":"TJ",
@@ -48,7 +50,7 @@
     "qs_pg:woe_adm0":23424961,
     "qs_pg:woe_id":2212807,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424961,
     "woe:name_adm0":"Tajikistan",
     "woe:name_adm1":"Karategin",
@@ -64,7 +66,6 @@
     "wof:concordances":{
         "gn:id":1334097,
         "gp:id":2212807,
-        "qs:id":984036,
         "qs_pg:id":984036
     },
     "wof:country":"TJ",
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1126069007,
-    "wof:lastmodified":1534379465,
+    "wof:lastmodified":1566666498,
     "wof:name":"Ragunskiy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

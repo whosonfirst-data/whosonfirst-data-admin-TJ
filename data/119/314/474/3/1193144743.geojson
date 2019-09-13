@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.91333,40.06333,68.95333,40.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1193144743,
-    "wof:lastmodified":1536384495,
+    "wof:lastmodified":1566666410,
     "wof:name":"Koshkent",
     "wof:parent_id":85680419,
     "wof:placetype":"locality",

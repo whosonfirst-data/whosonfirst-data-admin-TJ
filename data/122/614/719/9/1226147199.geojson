@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"71.50401,36.87205,71.54401,36.91205",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u041c\u0430\u0432\u043b\u043e\u0434\u0436",
         "Mul\u2019vodzh"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226147199,
-    "wof:lastmodified":1537706319,
+    "wof:lastmodified":1566666575,
     "wof:name":"Mavlodzh",
     "wof:parent_id":1091916859,
     "wof:placetype":"locality",

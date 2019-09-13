@@ -10,8 +10,12 @@
     "geom:latitude":40.16713,
     "geom:longitude":69.50163,
     "iso:country":"TJ",
+    "lbl:bbox":"69.48163,40.14713,69.52163,40.18713",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440\u0441\u043a"
@@ -40,7 +44,7 @@
     "name:tgk_x_preferred":[
         "\u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jabbor Rasulov"
     ],
     "name:urd_x_preferred":[
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":1514839,
         "gp:id":28752636,
-        "qs:id":66554,
+        "qs_pg:id":66554,
         "wd:id":"Q4122081",
         "wk:page":"Proletarsk, Tajikistan"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421203431,
-    "wof:lastmodified":1563314759,
+    "wof:lastmodified":1566666489,
     "wof:name":"Proletarsk",
     "wof:parent_id":1091917591,
     "wof:placetype":"locality",

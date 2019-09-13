@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"70.52233,40.82317,70.56233,40.86317",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Piskokat"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209107903,
-    "wof:lastmodified":1537706405,
+    "wof:lastmodified":1566666398,
     "wof:name":"Piskokat",
     "wof:parent_id":85632513,
     "wof:placetype":"locality",

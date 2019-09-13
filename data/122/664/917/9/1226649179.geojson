@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.81421,37.80499,69.85421,37.84499",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dzhida-Bulak",
         "Dzhidobulok"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226649179,
-    "wof:lastmodified":1537706345,
+    "wof:lastmodified":1566666583,
     "wof:name":"Dzhidobulok",
     "wof:parent_id":1091917913,
     "wof:placetype":"locality",

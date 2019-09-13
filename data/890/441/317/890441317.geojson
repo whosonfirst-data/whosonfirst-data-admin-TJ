@@ -11,11 +11,15 @@
     "geom:longitude":68.74659,
     "gn:country":"TJ",
     "gn:fcode":"PPL",
-    "gn:pop":8220,
+    "gn:population":8220,
     "iso:country":"TJ",
+    "lbl:bbox":"68.72659,40.13709,68.76659,40.17709",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "\u041f\u0430\u0445\u0442\u0430\u043a\u043e\u0440\u043e\u043d"
     ],
     "name:uzb_x_preferred":[
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1514844,
-        "qs:id":276597
+        "qs_pg:id":276597
     },
     "wof:country":"TJ",
     "wof:created":1469052318,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890441317,
-    "wof:lastmodified":1505343581,
+    "wof:lastmodified":1566666494,
     "wof:name":"Pakhtakoron",
     "wof:parent_id":1091918339,
     "wof:placetype":"locality",

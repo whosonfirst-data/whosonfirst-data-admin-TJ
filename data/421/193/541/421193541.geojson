@@ -10,8 +10,12 @@
     "geom:latitude":40.12648,
     "geom:longitude":70.62526,
     "iso:country":"TJ",
+    "lbl:bbox":"70.60526,40.10648,70.64526,40.14648",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Isfara"
@@ -112,9 +116,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0441\u0444\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u0418\u0441\u0444\u0430\u0440\u0430"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u0641\u0631\u06c1"
     ],
@@ -167,7 +168,7 @@
     "wof:concordances":{
         "gn:id":1514896,
         "gp:id":2213342,
-        "qs:id":912742,
+        "qs_pg:id":912742,
         "wd:id":"Q695330",
         "wk:page":"Isfara"
     },
@@ -184,7 +185,7 @@
         }
     ],
     "wof:id":421193541,
-    "wof:lastmodified":1563314758,
+    "wof:lastmodified":1566666488,
     "wof:name":"Isfara",
     "wof:parent_id":1091916841,
     "wof:placetype":"locality",

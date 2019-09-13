@@ -11,11 +11,15 @@
     "geom:longitude":70.42749,
     "gn:country":"TJ",
     "gn:fcode":"PPL",
-    "gn:pop":877,
+    "gn:population":877,
     "iso:country":"TJ",
+    "lbl:bbox":"70.40749,40.97827,70.44749,41.01827",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Naugarzan"
     ],
     "qs:name":"Navgarzan",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1514854,
-        "qs:id":556429
+        "qs_pg:id":556429
     },
     "wof:country":"TJ",
     "wof:created":1469052986,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890455931,
-    "wof:lastmodified":1505343666,
+    "wof:lastmodified":1566666495,
     "wof:name":"Navgarzan",
     "wof:parent_id":1091916363,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":68.44668,
     "gn:country":"TJ",
     "gn:fcode":"PPL",
-    "gn:pop":8474,
+    "gn:population":8474,
     "iso:country":"TJ",
+    "lbl:bbox":"68.42668,37.54702,68.46668,37.58702",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "\u0492\u0430\u0440\u0430\u0432\u04ef\u0442\u04e3"
     ],
     "qs:name":"Gharav\u016dt\u00ed",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1221748,
         "gp:id":2212017,
-        "qs:id":130993
+        "qs_pg:id":130993
     },
     "wof:country":"TJ",
     "wof:created":1469051852,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890430427,
-    "wof:lastmodified":1505343518,
+    "wof:lastmodified":1566666495,
     "wof:name":"Gharav\u016dt\u00ed",
     "wof:parent_id":1091916897,
     "wof:placetype":"locality",

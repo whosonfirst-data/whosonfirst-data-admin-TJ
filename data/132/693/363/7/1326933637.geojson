@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.88264,37.79876,69.92264,37.83876",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tgk_x_preferred":[
         "Dedorazak"
     ],
     "name:und_x_variant":[
         "Dibarazak",
-        "Dedorazak",
         "Dodrazak"
     ],
     "src:geom":"geonames",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1326933637,
-    "wof:lastmodified":1537706349,
+    "wof:lastmodified":1566666230,
     "wof:name":"Dedorazak",
     "wof:parent_id":1091917913,
     "wof:placetype":"locality",

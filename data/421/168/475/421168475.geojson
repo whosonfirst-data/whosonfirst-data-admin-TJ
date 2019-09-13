@@ -10,8 +10,12 @@
     "geom:latitude":40.66992,
     "geom:longitude":70.3502,
     "iso:country":"TJ",
+    "lbl:bbox":"70.3302,40.64992,70.3702,40.68992",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Asht"
@@ -238,7 +242,7 @@
     "name:tur_x_preferred":[
         "Asht"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shaydan"
     ],
     "name:urd_x_preferred":[
@@ -299,7 +303,7 @@
     "wof:concordances":{
         "gn:id":1514921,
         "gp:id":2211671,
-        "qs:id":1307439,
+        "qs_pg:id":1307439,
         "wd:id":"Q4115618"
     },
     "wof:country":"TJ",
@@ -315,7 +319,7 @@
         }
     ],
     "wof:id":421168475,
-    "wof:lastmodified":1563314755,
+    "wof:lastmodified":1566666488,
     "wof:name":"Asht",
     "wof:parent_id":1091916363,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.71003,38.44612,68.75003,38.48612",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chorteppa",
         "Chim-Tepe",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209042935,
-    "wof:lastmodified":1537706353,
+    "wof:lastmodified":1566666391,
     "wof:name":"Chimteppa",
     "wof:parent_id":85632513,
     "wof:placetype":"locality",

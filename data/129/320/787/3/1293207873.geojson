@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.35578,40.15482,69.39578,40.19482",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Saidq\u016drghon",
         "\u0421\u0430\u0438\u0434\u049b\u04ef\u0440\u0493\u043e\u043d"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293207873,
-    "wof:lastmodified":1537706408,
+    "wof:lastmodified":1566666329,
     "wof:name":"Saidqurghon",
     "wof:parent_id":1091917381,
     "wof:placetype":"locality",

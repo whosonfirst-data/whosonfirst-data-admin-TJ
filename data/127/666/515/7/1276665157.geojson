@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"70.23904,40.70156,70.27904,40.74156",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0628\u0648\u0628\u0648\u06cc\u062f\u0648\u0631\u062e\u0648\u0646"
     ],
@@ -33,7 +37,6 @@
     ],
     "name:und_x_variant":[
         "Baba-i-Darkhan",
-        "Boboidorkhon",
         "Bobodarkhon",
         "\u0411\u043e\u0431\u043e\u0434\u0430\u0440\u0445\u043e\u043d"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1276665157,
-    "wof:lastmodified":1564118155,
+    "wof:lastmodified":1566666355,
     "wof:name":"Bobodarkhon",
     "wof:parent_id":1091916363,
     "wof:placetype":"locality",

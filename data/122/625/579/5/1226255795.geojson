@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.92772,38.28489,68.96772,38.32489",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0631\u064a\u0646"
     ],
@@ -149,8 +153,7 @@
         "\u041d\u0430\u0440\u0438\u043d"
     ],
     "name:und_x_variant":[
-        "Noryn",
-        "Naryn"
+        "Noryn"
     ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0631\u06cc\u0646"
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":1226255795,
-    "wof:lastmodified":1564118422,
+    "wof:lastmodified":1566666577,
     "wof:name":"Naryn",
     "wof:parent_id":1091918301,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"71.83328,37.17524,71.87328,37.21524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0411\u0438\u0434\u0438\u0437\u0438 \u0411\u043e\u043b\u043e"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276777659,
-    "wof:lastmodified":1537706413,
+    "wof:lastmodified":1566666361,
     "wof:name":"Bidizi Bolo",
     "wof:parent_id":1091917661,
     "wof:placetype":"locality",

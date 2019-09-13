@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"70.60917,39.35861,70.64917,39.39861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nazar-Aylyau",
         "Nazaraylyav",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343398071,
-    "wof:lastmodified":1537706318,
+    "wof:lastmodified":1566666261,
     "wof:name":"Nazaraylok",
     "wof:parent_id":1091916659,
     "wof:placetype":"locality",

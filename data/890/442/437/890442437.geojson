@@ -11,17 +11,21 @@
     "geom:longitude":69.08333,
     "gn:country":"TJ",
     "gn:fcode":"PPL",
-    "gn:pop":21,
+    "gn:population":21,
     "iso:country":"TJ",
+    "lbl:bbox":"69.06333,39.18,69.10333,39.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Nomitkon"
     ],
     "name:nld_x_preferred":[
         "Nomitkon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Naumitkan"
     ],
     "qs:name":"Nomitkon",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1220904,
         "gp:id":2213365,
-        "qs:id":555428,
+        "qs_pg:id":555428,
         "wd:id":"Q7048634",
         "wk:page":"Nomitkon"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890442437,
-    "wof:lastmodified":1561759988,
+    "wof:lastmodified":1566666496,
     "wof:name":"Nomitkon",
     "wof:parent_id":1091917081,
     "wof:placetype":"locality",

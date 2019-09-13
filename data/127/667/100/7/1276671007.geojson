@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.66796,37.70652,68.70796,37.74652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u041a\u0430\u0440\u043e\u043b\u0430\u043d\u0433"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276671007,
-    "wof:lastmodified":1537706415,
+    "wof:lastmodified":1566666353,
     "wof:name":"Karolang",
     "wof:parent_id":1091917181,
     "wof:placetype":"locality",

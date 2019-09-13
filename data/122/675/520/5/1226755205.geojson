@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.71044,40.23238,69.75044,40.27238",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sirdaryo"
     ],
@@ -69,7 +73,6 @@
     ],
     "name:und_x_variant":[
         "Syrdar\u2019inskiy",
-        "Sirdaryo",
         "\u0421\u0438\u0440\u0434\u0430\u0440\u0451"
     ],
     "name:urd_x_preferred":[
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1226755205,
-    "wof:lastmodified":1564118401,
+    "wof:lastmodified":1566666559,
     "wof:name":"Sirdaryo",
     "wof:parent_id":1091916787,
     "wof:placetype":"locality",

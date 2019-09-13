@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.52651,39.22953,68.56651,39.26953",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pete"
     ],
@@ -48,7 +52,6 @@
     ],
     "name:und_x_variant":[
         "Peti",
-        "Pete",
         "\u041f\u0435\u0442\u0435"
     ],
     "src:geom":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1259785279,
-    "wof:lastmodified":1564118381,
+    "wof:lastmodified":1566666546,
     "wof:name":"Pete",
     "wof:parent_id":1091916317,
     "wof:placetype":"locality",

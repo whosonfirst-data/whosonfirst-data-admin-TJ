@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":38.17983,
     "lbl:longitude":68.912328,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Khatlon",
     "meso:gadm_admin":"Yovon",
     "meso:hasc_id":"TJ.KL.JA",
@@ -31,6 +33,7 @@
     "mps:longitude":68.912328,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u042f\u0432\u0430\u043d"
     ],
@@ -77,9 +80,9 @@
         "\u06cc\u0627\u0648\u0627\u0646"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-01-01",
+    "src:population_date":"2014-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-01-01",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1091918301,
-    "wof:lastmodified":1564118303,
+    "wof:lastmodified":1566666475,
     "wof:name":"Yovon",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

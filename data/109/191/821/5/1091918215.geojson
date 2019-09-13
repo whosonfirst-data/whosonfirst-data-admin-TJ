@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":38.827075,
     "lbl:longitude":68.749504,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tadzhikistan Territories",
     "meso:gadm_admin":"Varzob",
     "meso:hasc_id":"TJ.RR.VA",
@@ -31,6 +33,7 @@
     "mps:longitude":68.749504,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0648\u0631\u0632\u0627\u0628"
     ],
@@ -65,9 +68,9 @@
         "\u0648\u0631\u0632\u0627\u0628"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-01-01",
+    "src:population_date":"2014-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-01-01",
     "statoids:capital":"",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1091918215,
-    "wof:lastmodified":1564118294,
+    "wof:lastmodified":1566666467,
     "wof:name":"Varzob",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

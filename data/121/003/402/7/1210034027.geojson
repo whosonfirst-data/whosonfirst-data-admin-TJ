@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"71.52901,37.72412,71.56901,37.76412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0427\u043e\u0448\u0442\u0433\u0430\u043d\u0434\u0435\u0437"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1210034027,
-    "wof:lastmodified":1537706414,
+    "wof:lastmodified":1566666404,
     "wof:name":"Choshtgandez",
     "wof:parent_id":1091917707,
     "wof:placetype":"locality",

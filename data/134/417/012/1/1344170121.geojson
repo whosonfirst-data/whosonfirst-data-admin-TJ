@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.74782,37.90141,69.78782,37.94141",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344170121,
-    "wof:lastmodified":1536717614,
+    "wof:lastmodified":1566666283,
     "wof:name":"Chorbog",
     "wof:parent_id":1091917109,
     "wof:placetype":"locality",

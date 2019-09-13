@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.89453,38.25823,69.93453,38.29823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0421\u0430\u0424\u0435\u0434\u0448\u0430\u04b3\u0440\u0430\u043a",
         "Safedshakhrak"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344060179,
-    "wof:lastmodified":1537706373,
+    "wof:lastmodified":1566666265,
     "wof:name":"Safedshahrak",
     "wof:parent_id":1091916813,
     "wof:placetype":"locality",

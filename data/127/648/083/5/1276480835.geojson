@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.44515,38.59864,68.48515,38.63864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khochil\u2019diy\u00ebri-Bolo",
         "Khochil\u2019yar",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276480835,
-    "wof:lastmodified":1537706332,
+    "wof:lastmodified":1566666363,
     "wof:name":"Khochil'diyori Bolo",
     "wof:parent_id":1091917789,
     "wof:placetype":"locality",

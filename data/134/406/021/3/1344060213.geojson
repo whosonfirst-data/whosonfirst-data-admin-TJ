@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.17974,38.4292,69.21974,38.4692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khujalon\u00ed",
         "\u0425\u0443\u04b7\u0430\u043b\u043e\u043d\u04e3"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344060213,
-    "wof:lastmodified":1537706416,
+    "wof:lastmodified":1566666265,
     "wof:name":"Khujaloni",
     "wof:parent_id":1091916587,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":39.49524,
     "geom:longitude":67.60931,
     "iso:country":"TJ",
+    "lbl:bbox":"67.58931,39.47524,67.62931,39.51524",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Panjikent"
@@ -121,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u043d\u0434\u0436\u0438\u043a\u0435\u043d\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pendshikent"
     ],
     "name:urd_x_preferred":[
@@ -163,7 +167,7 @@
     "wof:concordances":{
         "gn:id":1220798,
         "gp:id":2213366,
-        "qs:id":130978,
+        "qs_pg:id":130978,
         "wd:id":"Q630805",
         "wk:page":"Panjakent"
     },
@@ -180,7 +184,7 @@
         }
     ],
     "wof:id":421178611,
-    "wof:lastmodified":1563314773,
+    "wof:lastmodified":1566666493,
     "wof:name":"Pendzhikent",
     "wof:parent_id":1091917507,
     "wof:placetype":"locality",

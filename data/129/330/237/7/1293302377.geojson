@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"71.60853,37.51188,71.64853,37.55188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Suchan"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293302377,
-    "wof:lastmodified":1564118095,
+    "wof:lastmodified":1566666305,
     "wof:name":"Suchan",
     "wof:parent_id":1091917883,
     "wof:placetype":"locality",

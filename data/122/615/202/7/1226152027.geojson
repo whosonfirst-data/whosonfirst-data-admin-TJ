@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"70.18237,37.63341,70.22237,37.67341",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tgk_x_preferred":[
         "Sarig\u016dr"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226152027,
-    "wof:lastmodified":1537706307,
+    "wof:lastmodified":1566666580,
     "wof:name":"Sarkokul",
     "wof:parent_id":1091917913,
     "wof:placetype":"locality",

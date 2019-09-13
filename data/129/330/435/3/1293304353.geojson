@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.77552,39.86229,68.81552,39.90229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kik_x_preferred":[
         "Balandchaqir"
     ],
@@ -35,7 +39,6 @@
         "Baland\u00e7a\u011f\u0131r"
     ],
     "name:und_x_variant":[
-        "\u0411\u0430\u043b\u0430\u043d\u0434\u0447\u0430\u043a\u0438\u0440",
         "Parkent"
     ],
     "name:urd_x_preferred":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1293304353,
-    "wof:lastmodified":1564118096,
+    "wof:lastmodified":1566666305,
     "wof:name":"Balandchakir",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.00476,39.82169,69.04476,39.86169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0427\u0430\u0432\u043a\u0430\u043d\u0434\u0430\u043a"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193139235,
-    "wof:lastmodified":1537706407,
+    "wof:lastmodified":1566666408,
     "wof:name":"Chavkandak",
     "wof:parent_id":1091918093,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.11599,37.53113,68.15599,37.57113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chinort\u016dgay",
         "\u0427\u0438\u043d\u043e\u043f\u0442\u04ef\u0433\u0430\u0439"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276241087,
-    "wof:lastmodified":1537706413,
+    "wof:lastmodified":1566666358,
     "wof:name":"Chinortugay",
     "wof:parent_id":1091916975,
     "wof:placetype":"locality",

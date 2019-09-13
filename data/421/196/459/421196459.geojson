@@ -10,6 +10,9 @@
     "geom:latitude":37.94636,
     "geom:longitude":68.80878,
     "iso:country":"TJ",
+    "lbl:bbox":"68.78878,37.92636,68.82878,37.96636",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -38,7 +41,7 @@
     "name:tgk_x_preferred":[
         "\u04b6\u043e\u043c\u04e3"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aral"
     ],
     "ne:ADM0CAP":0.0,
@@ -167,7 +170,7 @@
     "wof:concordances":{
         "gn:id":1221136,
         "gp:id":2212485,
-        "qs:id":1307448,
+        "qs_pg:id":1307448,
         "wd:id":"Q6449099",
         "wk:page":"Kuybyshevsk"
     },
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":421196459,
-    "wof:lastmodified":1563314768,
+    "wof:lastmodified":1566666491,
     "wof:name":"Kuybyshevskiy",
     "wof:parent_id":1091916455,
     "wof:placetype":"locality",

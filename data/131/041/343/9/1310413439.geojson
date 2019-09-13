@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.55869,39.13575,68.59869,39.17575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Purmen",
         "Pormin",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310413439,
-    "wof:lastmodified":1537706312,
+    "wof:lastmodified":1566666428,
     "wof:name":"Pormin",
     "wof:parent_id":1091916317,
     "wof:placetype":"locality",

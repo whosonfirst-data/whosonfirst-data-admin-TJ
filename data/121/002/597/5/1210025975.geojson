@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"71.69865,37.5474,71.73865,37.5874",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Barsen\u2019",
         "Bersen",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1210025975,
-    "wof:lastmodified":1537706287,
+    "wof:lastmodified":1566666406,
     "wof:name":"Barsem",
     "wof:parent_id":1091917883,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.85283,38.64094,68.89283,38.68094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260113897,
-    "wof:lastmodified":1536944782,
+    "wof:lastmodified":1566666421,
     "wof:name":"Agurty",
     "wof:parent_id":1091918215,
     "wof:placetype":"locality",

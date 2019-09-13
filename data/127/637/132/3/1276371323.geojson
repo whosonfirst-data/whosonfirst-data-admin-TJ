@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.59914,38.51878,68.63914,38.55878",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shurobi-Poy\u00ebn",
         "Shurobi",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276371323,
-    "wof:lastmodified":1537706365,
+    "wof:lastmodified":1566666366,
     "wof:name":"Shuroby",
     "wof:parent_id":1091918381,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.8668,39.41603,69.9068,39.45603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u062f\u0645\u0646\u0648\u0631\u0627"
     ],
@@ -33,7 +37,6 @@
     ],
     "name:und_x_variant":[
         "Matcha",
-        "Demnora",
         "Dimnora",
         "\u0414\u0438\u043c\u043d\u043e\u0440\u0430"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1259991137,
-    "wof:lastmodified":1564118377,
+    "wof:lastmodified":1566666543,
     "wof:name":"Dimnora",
     "wof:parent_id":1091917081,
     "wof:placetype":"locality",

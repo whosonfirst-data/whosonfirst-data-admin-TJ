@@ -10,6 +10,9 @@
     "geom:latitude":40.28256,
     "geom:longitude":69.62216,
     "iso:country":"TJ",
+    "lbl:bbox":"69.60216,40.26256,69.64216,40.30256",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -227,7 +230,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0443\u0434\u0436\u0430\u043d\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khodyent"
     ],
     "name:urd_x_preferred":[
@@ -374,7 +377,7 @@
     "wof:concordances":{
         "gn:id":1514879,
         "gp:id":2212369,
-        "qs:id":1002863,
+        "qs_pg:id":1002863,
         "wd:id":"Q373808",
         "wk:page":"Khujand"
     },
@@ -391,7 +394,7 @@
         }
     ],
     "wof:id":421175587,
-    "wof:lastmodified":1563314765,
+    "wof:lastmodified":1566666490,
     "wof:name":"Khujand",
     "wof:parent_id":1091916787,
     "wof:placetype":"locality",

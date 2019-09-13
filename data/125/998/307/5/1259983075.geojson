@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.00818,38.1892,69.04818,38.2292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Obim\u016dk\u00ed",
         "\u041e\u0431\u0438\u043c\u04ef\u043a\u04e3",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259983075,
-    "wof:lastmodified":1537706316,
+    "wof:lastmodified":1566666539,
     "wof:name":"Obimuki",
     "wof:parent_id":1091918301,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"70.13688,40.71034,70.17688,40.75034",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0645\u0644\u0627\u0645\u06cc\u0631"
     ],
@@ -35,7 +39,6 @@
         "\u041c\u0443\u043b\u043b\u043e\u043c\u0438\u0440"
     ],
     "name:und_x_variant":[
-        "\u041c\u0443\u043b\u043b\u043e\u043c\u0438\u0440",
         "Mullamir"
     ],
     "name:uzb_x_preferred":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1242689611,
-    "wof:lastmodified":1564118339,
+    "wof:lastmodified":1566666512,
     "wof:name":"Mullomir",
     "wof:parent_id":1091916363,
     "wof:placetype":"locality",

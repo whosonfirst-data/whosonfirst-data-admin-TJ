@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":38.552986,
     "lbl:longitude":68.769216,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_alt2":"",
     "mps:latitude":38.549802,
@@ -497,9 +498,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-01-01",
+    "src:population_date":"2012-01-01",
     "statoids:area_km":"100",
     "statoids:area_mi":"40",
     "statoids:as_of_date":"2012-01-01",
@@ -540,11 +541,10 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1565737286,
+    "wof:lastmodified":1566666299,
     "wof:name":"Dushanbe",
     "wof:parent_id":85632513,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"independent city",
     "wof:population":748000,
     "wof:population_rank":11,

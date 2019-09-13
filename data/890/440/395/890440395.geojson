@@ -11,11 +11,15 @@
     "geom:longitude":71.52412,
     "gn:country":"TJ",
     "gn:fcode":"PPL",
-    "gn:pop":2899,
+    "gn:population":2899,
     "iso:country":"TJ",
+    "lbl:bbox":"71.50412,39.21585,71.54412,39.25585",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Karakendzha"
     ],
     "qs:name":"Karakenja",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1221494,
         "gp:id":2213345,
-        "qs:id":130990
+        "qs_pg:id":130990
     },
     "wof:country":"TJ",
     "wof:created":1469052273,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890440395,
-    "wof:lastmodified":1505343576,
+    "wof:lastmodified":1566666494,
     "wof:name":"Karakenja",
     "wof:parent_id":1091916939,
     "wof:placetype":"locality",

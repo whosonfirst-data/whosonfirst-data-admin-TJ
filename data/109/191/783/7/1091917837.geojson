@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":39.626454,
     "lbl:longitude":68.766108,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Sogd",
     "meso:gadm_admin":"Shahriston",
     "meso:hasc_id":"TJ.LE.SH",
@@ -31,6 +33,7 @@
     "mps:longitude":68.766108,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Shahriston"
     ],
@@ -56,9 +59,9 @@
         "\u0634\u06c1\u0631\u0633\u062a\u0627\u0646"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-01-01",
+    "src:population_date":"2014-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2014-01-01",
     "statoids:capital":"",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1091917837,
-    "wof:lastmodified":1564118297,
+    "wof:lastmodified":1566666469,
     "wof:name":"Shahriston",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

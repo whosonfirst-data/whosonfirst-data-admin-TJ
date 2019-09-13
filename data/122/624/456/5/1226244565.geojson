@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.68022,40.26305,69.72022,40.30305",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Unj\u00ed"
     ],
@@ -42,8 +46,6 @@
     ],
     "name:und_x_variant":[
         "Unzhi",
-        "Undzhi",
-        "Unj\u00ed",
         "\u0423\u043d\u04b7\u04e3"
     ],
     "name:urd_x_preferred":[
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":1226244565,
-    "wof:lastmodified":1564118425,
+    "wof:lastmodified":1566666579,
     "wof:name":"Unji",
     "wof:parent_id":1091916787,
     "wof:placetype":"locality",

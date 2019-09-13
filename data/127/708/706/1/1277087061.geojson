@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.46967,37.60706,69.50967,37.64706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tgk_x_preferred":[
         "Shurk\u016dl"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277087061,
-    "wof:lastmodified":1537706396,
+    "wof:lastmodified":1566666339,
     "wof:name":"Shurkul",
     "wof:parent_id":1091917249,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.62236,37.59471,68.66236,37.63471",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lenin Qit\u2019a",
         "\u041b\u0435\u043d\u0438\u043d \u049a\u0438\u0442\u044a\u0430",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259687159,
-    "wof:lastmodified":1537706290,
+    "wof:lastmodified":1566666549,
     "wof:name":"Lenin Qit'a",
     "wof:parent_id":1091918141,
     "wof:placetype":"locality",

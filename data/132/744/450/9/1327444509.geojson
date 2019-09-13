@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"68.54559,37.37801,68.58559,37.41801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0424\u0440\u0443\u043d\u0437\u0435"
     ],
@@ -110,8 +114,7 @@
         "\u0424\u0440\u0443\u043d\u0437\u0435"
     ],
     "name:und_x_variant":[
-        "Uchastok Imeni Frunze",
-        "\u0424\u0440\u0443\u043d\u0437\u0435"
+        "Uchastok Imeni Frunze"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1327444509,
-    "wof:lastmodified":1564118035,
+    "wof:lastmodified":1566666254,
     "wof:name":"Frunze",
     "wof:parent_id":1091917079,
     "wof:placetype":"locality",

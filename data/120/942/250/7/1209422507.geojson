@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Dushanbe",
     "iso:country":"TJ",
+    "lbl:bbox":"69.58831,40.13936,69.62831,40.17936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u041d\u0430\u0432\u043e\u0431\u043e\u0434"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209422507,
-    "wof:lastmodified":1537706410,
+    "wof:lastmodified":1566666396,
     "wof:name":"Navobod",
     "wof:parent_id":85632513,
     "wof:placetype":"locality",

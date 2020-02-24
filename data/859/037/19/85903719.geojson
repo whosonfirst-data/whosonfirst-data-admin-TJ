@@ -77,6 +77,9 @@
         "qs:id":479420
     },
     "wof:country":"TJ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4f32ee7490b50eff319d45f9ca61e921",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379465,
+    "wof:lastmodified":1582314954,
     "wof:name":"Kalinino",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

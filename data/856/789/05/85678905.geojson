@@ -312,6 +312,9 @@
         "wk:page":"Khatlon Region"
     },
     "wof:country":"TJ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"45bfe4ac826ed05cef4c9310c118f06e",
     "wof:hierarchy":[
         {
@@ -327,7 +330,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1566666299,
+    "wof:lastmodified":1582314956,
     "wof:name":"Khatlon",
     "wof:parent_id":85632513,
     "wof:placetype":"region",

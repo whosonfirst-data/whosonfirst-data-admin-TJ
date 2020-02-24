@@ -104,6 +104,9 @@
         "qs:id":22717
     },
     "wof:country":"TJ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fad469b0608d8c3e641cee621e6461a5",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379465,
+    "wof:lastmodified":1582314954,
     "wof:name":"Yuzhnyy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

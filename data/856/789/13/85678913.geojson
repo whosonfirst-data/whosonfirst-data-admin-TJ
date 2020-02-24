@@ -334,6 +334,9 @@
         "wk:page":"Sughd Region"
     },
     "wof:country":"TJ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7aed37e493bba68c0a02bd709b095825",
     "wof:hierarchy":[
         {
@@ -349,7 +352,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1566666300,
+    "wof:lastmodified":1582314957,
     "wof:name":"Leninabad",
     "wof:parent_id":85632513,
     "wof:placetype":"region",

@@ -323,6 +323,9 @@
         "wk:page":"Gorno-Badakhshan Autonomous Region"
     },
     "wof:country":"TJ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"86f74bfb829627a6406d78ce951acc5d",
     "wof:hierarchy":[
         {
@@ -338,7 +341,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1566666297,
+    "wof:lastmodified":1582314956,
     "wof:name":"Gorno-Badakhshan",
     "wof:parent_id":85632513,
     "wof:placetype":"region",

@@ -1019,7 +1019,6 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "meso",
-        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -1092,7 +1091,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1582314955,
+    "wof:lastmodified":1583201638,
     "wof:name":"Tajikistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

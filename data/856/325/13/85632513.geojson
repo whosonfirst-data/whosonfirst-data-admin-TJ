@@ -1018,8 +1018,8 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth",
-        "meso"
+        "meso",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -1072,6 +1072,11 @@
     },
     "wof:country":"TJ",
     "wof:country_alpha3":"TJK",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"ee68bede8be7a302b7286b9d9f2bae31",
     "wof:hierarchy":[
         {
@@ -1086,7 +1091,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1566666296,
+    "wof:lastmodified":1583201638,
     "wof:name":"Tajikistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

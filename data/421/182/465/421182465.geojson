@@ -305,6 +305,9 @@
     },
     "wof:country":"TJ",
     "wof:created":1459009331,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"55a0a564d43c22ce906a50b9517f1191",
     "wof:hierarchy":[
         {
@@ -316,7 +319,7 @@
         }
     ],
     "wof:id":421182465,
-    "wof:lastmodified":1566666493,
+    "wof:lastmodified":1582314960,
     "wof:name":"Khorugh",
     "wof:parent_id":1091917883,
     "wof:placetype":"locality",

@@ -276,6 +276,9 @@
         "wk:page":"Districts of Republican Subordination"
     },
     "wof:country":"TJ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d43cb18da9f37e74d012f43e75a52d34",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1566666299,
+    "wof:lastmodified":1582314957,
     "wof:name":"Tadzhikistan Territories",
     "wof:parent_id":85632513,
     "wof:placetype":"region",

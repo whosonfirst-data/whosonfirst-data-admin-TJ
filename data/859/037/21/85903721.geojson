@@ -74,6 +74,9 @@
         "qs:id":984036
     },
     "wof:country":"TJ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"35a55c9def1fe19300d069fda773c83b",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379465,
+    "wof:lastmodified":1582314954,
     "wof:name":"Ragunskiy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -76,6 +76,9 @@
     },
     "wof:country":"TJ",
     "wof:created":1469051861,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7b1309e7f59126499e8e9dce96f513b1",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":890430645,
-    "wof:lastmodified":1537304041,
+    "wof:lastmodified":1582314960,
     "wof:name":"Dushanbe",
     "wof:parent_id":-1,
     "wof:placetype":"county",

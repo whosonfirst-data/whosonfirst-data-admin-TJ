@@ -176,6 +176,9 @@
     },
     "wof:country":"TJ",
     "wof:created":1459009882,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"44f6b52c5628e3204d49de34a225bd4f",
     "wof:hierarchy":[
         {
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":421196459,
-    "wof:lastmodified":1566666491,
+    "wof:lastmodified":1582314960,
     "wof:name":"Kuybyshevskiy",
     "wof:parent_id":1091916455,
     "wof:placetype":"locality",

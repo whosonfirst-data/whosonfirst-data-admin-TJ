@@ -1049,9 +1049,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Tajikistan",
-        "digitalenvoy:country_code":[
-            762
-        ],
+        "digitalenvoy:country_code":762,
         "fb:id":"en.tajikistan",
         "fifa:id":"TJK",
         "fips:code":"TI",
@@ -1094,7 +1092,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1583529232,
+    "wof:lastmodified":1583797440,
     "wof:name":"Tajikistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

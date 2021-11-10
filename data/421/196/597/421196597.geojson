@@ -17,11 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b2\u09c7\u09a8\u09bf\u09a8\u09be\u09ac\u09be\u09a6"
+    ],
     "name:ceb_x_preferred":[
         "Leninabad"
     ],
     "name:hye_x_preferred":[
         "\u053c\u0565\u0576\u056b\u0576\u0561\u0562\u0561\u0564"
+    ],
+    "name:ind_x_preferred":[
+        "Leninabad"
     ],
     "name:swe_x_preferred":[
         "Leninabad"
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":421196597,
-    "wof:lastmodified":1566666491,
+    "wof:lastmodified":1636494891,
     "wof:name":"Leninabad",
     "wof:parent_id":1091916787,
     "wof:placetype":"locality",

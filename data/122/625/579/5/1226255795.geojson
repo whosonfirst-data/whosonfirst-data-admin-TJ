@@ -156,6 +156,9 @@
         "Noryn"
     ],
     "name:urd_x_preferred":[
+        "\u0646\u0627\u0631\u0627\u0626\u0646"
+    ],
+    "name:urd_x_variant":[
         "\u0646\u0627\u0631\u06cc\u0646"
     ],
     "name:uzb_x_preferred":[
@@ -176,7 +179,7 @@
         "gn:id":1282597
     },
     "wof:country":"TJ",
-    "wof:geomhash":"4f997ef80ada9c4172a8c187bceb8039",
+    "wof:geomhash":"035ec8228f5ac956803244094db676ee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":1226255795,
-    "wof:lastmodified":1566666577,
+    "wof:lastmodified":1636494893,
     "wof:name":"Naryn",
     "wof:parent_id":1091918301,
     "wof:placetype":"locality",
@@ -197,10 +200,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    68.94771999999999,
+    68.94772,
     38.30489,
-    68.94771999999999,
+    68.94772,
     38.30489
 ],
-  "geometry": {"coordinates":[68.94771999999999,38.30489],"type":"Point"}
+  "geometry": {"coordinates":[68.94772,38.30489],"type":"Point"}
 }

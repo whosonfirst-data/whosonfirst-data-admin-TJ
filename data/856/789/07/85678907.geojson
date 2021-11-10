@@ -91,6 +91,9 @@
     "name:hin_x_preferred":[
         "\u0917\u0923\u0924\u0902\u0924\u094d\u0930-\u0905\u0927\u0940\u0928 \u091c\u093c\u093f\u0932\u0947"
     ],
+    "name:hun_x_preferred":[
+        "Tadzsikiszt\u00e1ni ter\u00fcletek"
+    ],
     "name:ind_x_preferred":[
         "Region Republik Subordinasi"
     ],
@@ -294,7 +297,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1587163138,
+    "wof:lastmodified":1636494887,
     "wof:name":"Tadzhikistan Territories",
     "wof:parent_id":85632513,
     "wof:placetype":"region",

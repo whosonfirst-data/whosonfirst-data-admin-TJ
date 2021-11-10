@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u09be\u09b2"
+    ],
     "name:cat_x_preferred":[
         "Aral"
     ],
@@ -48,6 +51,15 @@
         "Aral"
     ],
     "name:glg_x_preferred":[
+        "Aral"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d0\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0930\u093e\u0932"
+    ],
+    "name:ind_x_preferred":[
         "Aral"
     ],
     "name:ita_x_preferred":[
@@ -107,7 +119,7 @@
         "gn:id":1346197
     },
     "wof:country":"TJ",
-    "wof:geomhash":"bb736ca99858a897973fd629e24dec0e",
+    "wof:geomhash":"d2118c0a451bf53693e8b248e54ccaf9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -118,7 +130,7 @@
         }
     ],
     "wof:id":1277077457,
-    "wof:lastmodified":1566666341,
+    "wof:lastmodified":1636494888,
     "wof:name":"Aral",
     "wof:parent_id":1091918301,
     "wof:placetype":"locality",
@@ -128,10 +140,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    68.82741999999999,
+    68.82742,
     38.00744,
-    68.82741999999999,
+    68.82742,
     38.00744
 ],
-  "geometry": {"coordinates":[68.82741999999999,38.00744],"type":"Point"}
+  "geometry": {"coordinates":[68.82742,38.00744],"type":"Point"}
 }

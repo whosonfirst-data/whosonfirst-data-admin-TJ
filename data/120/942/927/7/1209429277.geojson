@@ -74,6 +74,9 @@
     "name:hin_x_preferred":[
         "\u0916\u093c\u094b\u0938\u094d\u0924"
     ],
+    "name:hun_x_preferred":[
+        "Khost"
+    ],
     "name:ita_x_preferred":[
         "Khowst"
     ],
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":1209429277,
-    "wof:lastmodified":1566666397,
+    "wof:lastmodified":1636494889,
     "wof:name":"Khost",
     "wof:parent_id":85632513,
     "wof:placetype":"locality",

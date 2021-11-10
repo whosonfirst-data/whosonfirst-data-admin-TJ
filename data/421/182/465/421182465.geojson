@@ -23,6 +23,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0430\u0440\u043e\u0433"
     ],
+    "name:ben_x_preferred":[
+        "\u0996\u09cb\u09b0\u09c1\u0998"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u043e\u0440\u043e\u0433"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:deu_x_preferred":[
         "Chorugh"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03c1\u03bf\u03c5\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Khorugh"
@@ -76,6 +82,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053d\u0578\u0580\u0578\u0563"
+    ],
+    "name:ind_x_preferred":[
+        "Khorugh"
     ],
     "name:ita_x_preferred":[
         "Choru\u01e7"
@@ -119,6 +128,9 @@
     "name:pol_x_preferred":[
         "Chorog"
     ],
+    "name:por_x_preferred":[
+        "Khorugh"
+    ],
     "name:pus_x_preferred":[
         "\u062e\u0627\u0631\u0648\u063a"
     ],
@@ -160,6 +172,9 @@
     ],
     "name:uzb_x_preferred":[
         "Xorug\u02bb"
+    ],
+    "name:vie_x_preferred":[
+        "Khorugh"
     ],
     "name:xmf_x_preferred":[
         "\u10ee\u10dd\u10e0\u10dd\u10e6\u10d8"
@@ -319,7 +334,7 @@
         }
     ],
     "wof:id":421182465,
-    "wof:lastmodified":1582314960,
+    "wof:lastmodified":1636494892,
     "wof:name":"Khorugh",
     "wof:parent_id":1091917883,
     "wof:placetype":"locality",

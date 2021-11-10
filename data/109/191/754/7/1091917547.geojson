@@ -52,6 +52,12 @@
     "name:fra_x_preferred":[
         "Panj"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05e0\u05d2'"
+    ],
+    "name:hun_x_preferred":[
+        "Panj"
+    ],
     "name:lit_x_preferred":[
         "Piand\u017eas"
     ],
@@ -69,6 +75,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u041f\u0430\u043d\u04b7"
+    ],
+    "name:tur_x_preferred":[
+        "Panj"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0646\u062c"
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":1091917547,
-    "wof:lastmodified":1627522821,
+    "wof:lastmodified":1636494891,
     "wof:name":"Panj",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

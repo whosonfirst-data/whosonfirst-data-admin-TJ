@@ -52,6 +52,9 @@
     "name:und_x_variant":[
         "Molotovabad"
     ],
+    "name:uzb_x_preferred":[
+        "Do\u02bbstiy"
+    ],
     "qs:name":"D\u016dst\u00ed",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890430429,
-    "wof:lastmodified":1566666495,
+    "wof:lastmodified":1690869271,
     "wof:name":"D\u016dst\u00ed",
     "wof:parent_id":1091917135,
     "wof:placetype":"locality",

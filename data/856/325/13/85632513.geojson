@@ -31,6 +31,9 @@
     "name:abk_x_preferred":[
         "\u0422\u0430\u045f\u044c\u044b\u049b\u044c\u0438\u0441\u0442\u0430\u043d"
     ],
+    "name:abk_x_variant":[
+        "\u04ac\u0430\u045f\u044c\u044b\u043a\u0438\u0441\u04ad\u0430\u043d"
+    ],
     "name:ace_x_preferred":[
         "Tajikistan"
     ],
@@ -52,8 +55,14 @@
     "name:amh_x_variant":[
         "\u1273\u1303\u12aa\u1235\u1273\u1295"
     ],
+    "name:ami_x_preferred":[
+        "Tajikistan"
+    ],
     "name:ang_x_preferred":[
         "Tacgicastan"
+    ],
+    "name:anp_x_preferred":[
+        "\u0924\u093e\u091c\u093f\u0915\u093f\u0938\u094d\u0924\u093e\u0928"
     ],
     "name:ara_x_preferred":[
         "\u0637\u0627\u062c\u064a\u0643\u0633\u062a\u0627\u0646"
@@ -83,6 +92,12 @@
     "name:ast_x_variant":[
         "Taxiquist\u00e1n"
     ],
+    "name:ava_x_preferred":[
+        "\u0422\u0430\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:awa_x_preferred":[
+        "\u0924\u093e\u091c\u093f\u0915\u093f\u0938\u094d\u0924\u093e\u0928"
+    ],
     "name:aym_x_preferred":[
         "Tayiksuyu"
     ],
@@ -97,6 +112,9 @@
     ],
     "name:bam_x_preferred":[
         "Tajikisitani"
+    ],
+    "name:ban_x_preferred":[
+        "Tajikistan"
     ],
     "name:bar_x_preferred":[
         "Tadschikistan"
@@ -118,6 +136,9 @@
     ],
     "name:bho_x_preferred":[
         "\u0924\u093e\u091c\u093f\u0915\u093f\u0938\u094d\u0924\u093e\u0928"
+    ],
+    "name:bis_x_preferred":[
+        "Tajikistan"
     ],
     "name:bod_x_preferred":[
         "\u0f50\u0f0b\u0f47\u0f72\u0f0b\u0f41\u0f7a\u0f0b\u0f66\u0f72\u0f0b\u0f4f\u0f53\u0f0d"
@@ -198,6 +219,9 @@
         "Tajicistan"
     ],
     "name:cym_x_variant":[
+        "Tajikistan"
+    ],
+    "name:dag_x_preferred":[
         "Tajikistan"
     ],
     "name:dan_x_preferred":[
@@ -314,6 +338,9 @@
     "name:ful_x_preferred":[
         "Tajikistaan"
     ],
+    "name:ful_x_variant":[
+        "Tajikistan"
+    ],
     "name:gag_x_preferred":[
         "Tacikistan"
     ],
@@ -337,6 +364,9 @@
     ],
     "name:gom_x_preferred":[
         "\u0924\u093e\u091c\u093f\u0915\u093f\u0938\u094d\u0924\u093e\u0928"
+    ],
+    "name:gpe_x_preferred":[
+        "Tajikistan"
     ],
     "name:grn_x_preferred":[
         "Tajikit\u00e3"
@@ -446,6 +476,9 @@
     "name:kab_x_preferred":[
         "\u1e6cajikstan"
     ],
+    "name:kab_x_variant":[
+        "\u1e6ca\u01e7ikstan"
+    ],
     "name:kal_x_preferred":[
         "Tajikistan"
     ],
@@ -454,6 +487,9 @@
     ],
     "name:kan_x_variant":[
         "\u0ca4\u0c9c\u0cbe\u0c95\u0cbf\u0cb8\u0ccd\u0ca5\u0cbe\u0ca8\u0ccd"
+    ],
+    "name:kas_x_preferred":[
+        "\u062a\u064e\u062c\u0627\u06a9\u0650\u0633\u062a\u0627\u0646"
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10d0\u10ef\u10d8\u10d9\u10d4\u10d7\u10d8"
@@ -546,6 +582,9 @@
         "Tad\u017eikistas",
         "Tad\u017eikistanas"
     ],
+    "name:lld_x_preferred":[
+        "Tagichistan"
+    ],
     "name:lmo_x_preferred":[
         "Tagikistan"
     ],
@@ -567,6 +606,9 @@
     "name:lzh_x_preferred":[
         "\u5854\u5409\u514b\u65af\u5766"
     ],
+    "name:mad_x_preferred":[
+        "Tajikistan"
+    ],
     "name:mai_x_preferred":[
         "\u0924\u093e\u091c\u093f\u0915\u093f\u0938\u094d\u0924\u093e\u0928"
     ],
@@ -578,6 +620,9 @@
     ],
     "name:mdf_x_preferred":[
         "\u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:mdf_x_variant":[
+        "\u0422\u0430\u0434\u0436\u044b\u043a\u0438\u0441\u0442\u0430\u043d"
     ],
     "name:mhr_x_preferred":[
         "\u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d"
@@ -591,8 +636,14 @@
     "name:mlg_x_preferred":[
         "Tajikistan"
     ],
+    "name:mlg_x_variant":[
+        "Tajikistana"
+    ],
     "name:mlt_x_preferred":[
         "Ta\u0121ikistan"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc7\uabe5\uabd6\uabe4\uabc0\uabe4\uabc1\uabed\uabc7\uabe5\uabdf"
     ],
     "name:mon_x_preferred":[
         "\u0422\u0430\u0436\u0438\u043a \u0443\u043b\u0441"
@@ -600,11 +651,17 @@
     "name:mon_x_variant":[
         "\u0422\u0430\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d"
     ],
+    "name:mri_x_preferred":[
+        "Tahikit\u0101na"
+    ],
     "name:msa_x_preferred":[
         "Tajikistan"
     ],
     "name:msa_x_variant":[
         "Tadjikistan"
+    ],
+    "name:mwl_x_preferred":[
+        "Tadjiquiston"
     ],
     "name:mya_x_preferred":[
         "\u1010\u102c\u1002\u103b\u1005\u103a\u1000\u1005\u1039\u1005\u1010\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
@@ -617,6 +674,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0627\u062c\u06cc\u06a9\u0626\u0648\u0646"
+    ],
+    "name:mzn_x_variant":[
+        "\u062a\u0627\u062c\u06cc\u06a9\u0633\u062a\u0627\u0646"
     ],
     "name:nah_x_preferred":[
         "Tayictl\u0101lpan"
@@ -767,8 +827,14 @@
     "name:sgs_x_preferred":[
         "Tad\u017eikistans"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1010\u1083\u1087\u1075\u103b\u102e\u1087\u1075\u102e\u1087\u101e\u1010\u107c\u103a\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0da7\u0da2\u0dd2\u0d9a\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dca"
+    ],
+    "name:skr_x_preferred":[
+        "\u062a\u0627\u062c\u06a9\u0633\u062a\u0627\u0646"
     ],
     "name:slk_x_preferred":[
         "Tad\u017eikistan"
@@ -779,8 +845,14 @@
     "name:sme_x_preferred":[
         "Ta\u017eikistan"
     ],
+    "name:smn_x_preferred":[
+        "Tad\u017eikistan"
+    ],
     "name:smo_x_preferred":[
         "Tajikistan"
+    ],
+    "name:sms_x_preferred":[
+        "Tad\u017eikistaan"
     ],
     "name:sna_x_preferred":[
         "Tajikistan"
@@ -878,8 +950,14 @@
     "name:tir_x_preferred":[
         "\u1273\u1303\u12aa\u1235\u1273\u1295"
     ],
+    "name:tok_x_preferred":[
+        "ma Tosiki"
+    ],
     "name:ton_x_preferred":[
         "Tasikitani"
+    ],
+    "name:trv_x_preferred":[
+        "Tajikistan"
     ],
     "name:tuk_x_preferred":[
         "T\u00e4jigistan"
@@ -912,6 +990,9 @@
     ],
     "name:uzb_x_preferred":[
         "Tojikiston"
+    ],
+    "name:vec_x_preferred":[
+        "Taj\u00eckistan"
     ],
     "name:vep_x_preferred":[
         "Tad\u017eikistan"
@@ -1208,7 +1289,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1617827385,
+    "wof:lastmodified":1690869258,
     "wof:name":"Tajikistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

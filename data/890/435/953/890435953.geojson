@@ -43,6 +43,9 @@
     "name:und_x_variant":[
         "Kurusay"
     ],
+    "name:uzb_x_preferred":[
+        "Obshoron"
+    ],
     "qs:name":"Quruqsoy",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890435953,
-    "wof:lastmodified":1566666497,
+    "wof:lastmodified":1690869273,
     "wof:name":"Quruqsoy",
     "wof:parent_id":1091917221,
     "wof:placetype":"locality",

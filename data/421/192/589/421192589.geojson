@@ -29,6 +29,9 @@
     "name:nld_x_preferred":[
         "Roshtqal'a"
     ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0448\u0442\u043a\u0430\u043b\u0430"
+    ],
     "name:tgk_x_preferred":[
         "\u0420\u043e\u0448\u0442\u049b\u0430\u043b\u044a\u0430"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421192589,
-    "wof:lastmodified":1566666488,
+    "wof:lastmodified":1690869262,
     "wof:name":"Rosht-Kala",
     "wof:parent_id":1091917661,
     "wof:placetype":"locality",

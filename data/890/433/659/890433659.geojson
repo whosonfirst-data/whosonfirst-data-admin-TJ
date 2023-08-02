@@ -31,8 +31,14 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u0433\u043e\u0431"
     ],
+    "name:tgk_x_preferred":[
+        "\u0422\u0430\u0433\u043e\u0431"
+    ],
     "name:und_x_variant":[
         "Tabok"
+    ],
+    "name:uzb_x_preferred":[
+        "Tagob"
     ],
     "qs:name":"Tagob",
     "qs:photos_9r":0,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":890433659,
-    "wof:lastmodified":1566666497,
+    "wof:lastmodified":1690869272,
     "wof:name":"Tagob",
     "wof:parent_id":1091918215,
     "wof:placetype":"locality",

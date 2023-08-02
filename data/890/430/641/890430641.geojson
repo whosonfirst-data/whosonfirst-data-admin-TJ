@@ -28,6 +28,9 @@
     "name:nld_x_preferred":[
         "Piskon"
     ],
+    "name:tgk_x_preferred":[
+        "\u041f\u0438\u0441\u043a\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "\u041f\u0441\u043a\u0430\u043d"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890430641,
-    "wof:lastmodified":1566666495,
+    "wof:lastmodified":1690869271,
     "wof:name":"Pskan",
     "wof:parent_id":1091916317,
     "wof:placetype":"locality",

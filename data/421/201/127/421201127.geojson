@@ -20,14 +20,26 @@
     "name:eng_x_preferred":[
         "Kevron"
     ],
+    "name:eng_x_variant":[
+        "Kevran"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u06cc\u0641\u0631\u0648\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u06cc\u0648\u0631\u0627\u0646"
     ],
     "name:msa_x_preferred":[
         "Kevron"
     ],
     "name:nld_x_preferred":[
         "Kevron"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0432\u0440\u0430\u043d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041a\u0435\u0432\u0440\u043e\u043d"
     ],
     "name:und_x_variant":[
         "Kevrun"
@@ -79,7 +91,7 @@
         }
     ],
     "wof:id":421201127,
-    "wof:lastmodified":1566666491,
+    "wof:lastmodified":1690869267,
     "wof:name":"Kevron",
     "wof:parent_id":1091917021,
     "wof:placetype":"locality",

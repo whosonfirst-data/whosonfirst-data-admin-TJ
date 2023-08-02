@@ -25,6 +25,12 @@
     "name:eng_x_preferred":[
         "Kim"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631\u0627\u0641\u0634\u0627\u0646"
+    ],
+    "name:kir_x_preferred":[
+        "\u041d\u0443\u0440\u0430\u0444\u0448\u0430\u043d"
+    ],
     "name:msa_x_preferred":[
         "Kim"
     ],
@@ -34,8 +40,20 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u043c"
     ],
+    "name:rus_x_variant":[
+        "\u041d\u0443\u0440\u0430\u0444\u0448\u043e\u043d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041d\u0443\u0440\u0430\u0444\u0448\u043e\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0443\u0440\u0430\u0444\u0448\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "Nefteprom Kim"
+    ],
+    "name:uzb_x_preferred":[
+        "Nurafshon"
     ],
     "qs:name":"Kim",
     "qs:photos_9r":0,
@@ -70,7 +88,7 @@
         }
     ],
     "wof:id":890435955,
-    "wof:lastmodified":1566666497,
+    "wof:lastmodified":1690869273,
     "wof:name":"Kim",
     "wof:parent_id":1091916841,
     "wof:placetype":"locality",

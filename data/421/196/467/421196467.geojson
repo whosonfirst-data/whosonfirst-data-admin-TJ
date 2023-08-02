@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Leningrad"
     ],
+    "name:eng_x_variant":[
+        "Mu'minobod"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0624\u0645\u0646\u200c\u0622\u0628\u0627\u062f"
     ],
@@ -50,6 +53,9 @@
     "name:tgk_x_variant":[
         "M\u016dminobod",
         "\u041c\u0443\u044a\u043c\u0438\u043d\u043e\u0431\u043e\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043c\u0456\u043d\u043e\u0431\u043e\u0434"
     ],
     "name:und_x_variant":[
         "Mumynabad"
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421196467,
-    "wof:lastmodified":1566666491,
+    "wof:lastmodified":1690869266,
     "wof:name":"Muminabad",
     "wof:parent_id":1091917295,
     "wof:placetype":"locality",

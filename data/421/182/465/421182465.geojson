@@ -20,8 +20,20 @@
     "name:ara_x_preferred":[
         "\u062c\u0627\u0631\u0648\u063a"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0627\u0631\u0648\u062c"
+    ],
+    "name:ast_x_preferred":[
+        "Khorugh"
+    ],
+    "name:aze_x_preferred":[
+        "Xoroq"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0430\u0440\u043e\u0433"
+    ],
+    "name:bel_x_variant":[
+        "\u0425\u0430\u0440\u043e\u0433"
     ],
     "name:ben_x_preferred":[
         "\u0996\u09cb\u09b0\u09c1\u0998"
@@ -49,6 +61,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03cc\u03c1\u03bf\u03c5\u03b3\u03ba"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03bf\u03c1\u03bf\u03cd\u03b3"
     ],
     "name:eng_x_preferred":[
         "Khorugh"
@@ -80,6 +95,9 @@
     "name:hsb_x_preferred":[
         "Chorug"
     ],
+    "name:hun_x_preferred":[
+        "Horug"
+    ],
     "name:hye_x_preferred":[
         "\u053d\u0578\u0580\u0578\u0563"
     ],
@@ -94,6 +112,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10ee\u10dd\u10e0\u10dd\u10d2\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u043e\u0440\u043e\u0433"
     ],
     "name:kir_x_preferred":[
         "\u0425\u043e\u0440\u043e\u0433"
@@ -142,6 +163,9 @@
     ],
     "name:spa_x_preferred":[
         "Khorugh"
+    ],
+    "name:spa_x_variant":[
+        "Jorog"
     ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u0440\u043e\u0433"
@@ -334,7 +358,7 @@
         }
     ],
     "wof:id":421182465,
-    "wof:lastmodified":1636494892,
+    "wof:lastmodified":1690869269,
     "wof:name":"Khorugh",
     "wof:parent_id":1091917883,
     "wof:placetype":"locality",

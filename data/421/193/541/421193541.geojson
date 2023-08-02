@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0633\u0641\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0633\u0641\u0631\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Isfara"
+    ],
     "name:aze_x_preferred":[
         "\u0130sf\u0259rah"
     ],
@@ -41,6 +47,9 @@
     "name:deu_x_preferred":[
         "Isfara"
     ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c3\u03c6\u03b1\u03c1\u03ac"
+    ],
     "name:eng_x_preferred":[
         "Isfara"
     ],
@@ -58,6 +67,9 @@
     ],
     "name:hsb_x_preferred":[
         "Isfara"
+    ],
+    "name:hun_x_preferred":[
+        "Iszfara"
     ],
     "name:ind_x_preferred":[
         "Isfara"
@@ -112,6 +124,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0418\u0441\u0444\u0430\u0440\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "\u0130sfara"
     ],
     "name:ukr_x_preferred":[
         "\u0406\u0441\u0444\u0430\u0440\u0430"
@@ -185,7 +200,7 @@
         }
     ],
     "wof:id":421193541,
-    "wof:lastmodified":1566666488,
+    "wof:lastmodified":1690869263,
     "wof:name":"Isfara",
     "wof:parent_id":1091916841,
     "wof:placetype":"locality",

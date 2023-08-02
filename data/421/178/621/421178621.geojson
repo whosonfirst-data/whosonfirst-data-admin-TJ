@@ -41,6 +41,9 @@
     "name:nld_x_preferred":[
         "Ayni"
     ],
+    "name:oss_x_preferred":[
+        "\u0410\u0439\u043d\u0438"
+    ],
     "name:por_x_preferred":[
         "Ayni"
     ],
@@ -53,11 +56,17 @@
     "name:tgk_x_preferred":[
         "\u0410\u0439\u043d\u04e3"
     ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e22\u0e19\u0e35"
+    ],
     "name:und_x_variant":[
         "Varzominor"
     ],
     "name:urd_x_preferred":[
         "\u0639\u06cc\u0646\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Ayniy"
     ],
     "name:zho_x_preferred":[
         "\u827e\u5c3c"
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":421178621,
-    "wof:lastmodified":1566666492,
+    "wof:lastmodified":1690869268,
     "wof:name":"Ayn\u00ed",
     "wof:parent_id":1091916317,
     "wof:placetype":"locality",

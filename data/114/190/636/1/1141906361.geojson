@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"68.7713472075,37.8373144725,68.7713472075,37.8373144725",
+    "geom:bbox":"68.771347,37.837314,68.771347,37.837314",
     "geom:latitude":37.837314,
     "geom:longitude":68.771347,
     "iso:country":"TJ",
@@ -21,11 +21,20 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u063a\u0627\u0646 \u062a\u0628\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0631\u062c\u0627\u0646 \u062a\u0628\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Bokhtar"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0648\u0631\u063a\u0627\u0646 \u062a\u067e\u0647"
     ],
     "name:bel_x_preferred":[
         "\u041a\u0443\u0440\u0433\u0430\u043d-\u0426\u044e\u0431\u044d"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u043e\u0445\u0442\u0430\u0440"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09b0\u09be\u0993\u09a8\u09cd\u09a4\u09c7\u09aa\u09be"
@@ -33,29 +42,51 @@
     "name:bre_x_preferred":[
         "Qurghonteppa"
     ],
+    "name:bre_x_variant":[
+        "Bokhtat"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0443\u0440\u0433\u0430\u043d\u0442\u044e\u0431\u0435"
+    ],
+    "name:bul_x_variant":[
+        "\u0411\u043e\u0445\u0442\u0430\u0440"
     ],
     "name:ceb_x_preferred":[
         "Q\u016drghonteppa"
     ],
+    "name:ceb_x_variant":[
+        "Bokhtar"
+    ],
     "name:ces_x_preferred":[
         "Qurghonteppa"
+    ],
+    "name:ces_x_variant":[
+        "Bochtar"
     ],
     "name:che_x_preferred":[
         "\u041a\u0443\u0440\u0433\u0430\u043d-\u0422\u044e\u0431\u0435"
     ],
+    "name:che_x_variant":[
+        "\u0411\u043e\u0445\u0442\u0430\u0440"
+    ],
     "name:dan_x_preferred":[
         "Qurghonteppa"
     ],
+    "name:dan_x_variant":[
+        "Bokhtar"
+    ],
     "name:deu_x_preferred":[
         "Qurghonteppa"
+    ],
+    "name:deu_x_variant":[
+        "Bokhtar"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c5\u03c1\u03b3\u03ba\u03bf\u03bd\u03c4\u03ad\u03c0\u03c0\u03b1"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03bf\u03c5\u03c1\u03b3\u03bf\u03bd\u03c4\u03ad\u03c0\u03c0\u03b1"
+        "\u039a\u03bf\u03c5\u03c1\u03b3\u03bf\u03bd\u03c4\u03ad\u03c0\u03c0\u03b1",
+        "\u039c\u03c0\u03bf\u03c7\u03c4\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Qurghonteppa"
@@ -66,11 +97,20 @@
     "name:epo_x_preferred":[
         "Kurgontepa"
     ],
+    "name:epo_x_variant":[
+        "Bo\u0125tar"
+    ],
     "name:est_x_preferred":[
         "Kurgonteppa"
     ],
+    "name:est_x_variant":[
+        "Bokhtar"
+    ],
     "name:eus_x_preferred":[
         "Kurghonteppa"
+    ],
+    "name:eus_x_variant":[
+        "Bokhtar"
     ],
     "name:fas_x_preferred":[
         "\u0642\u0631\u063a\u0627\u0646\u200c\u062a\u067e\u0647"
@@ -78,14 +118,23 @@
     "name:fin_x_preferred":[
         "Qurgonteppa"
     ],
+    "name:fin_x_variant":[
+        "Bokhtar"
+    ],
     "name:fra_x_preferred":[
         "Qurghonteppa"
+    ],
+    "name:fra_x_variant":[
+        "Bokhtr"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0ab0\u0a98\u0acb\u0a82\u0a9f\u0ac7\u0aaa\u0abe"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e8\u05d2\u05d5\u05e0\u05d8\u05e4\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d5\u05d7'\u05ea\u05e8"
     ],
     "name:hin_x_preferred":[
         "\u0915\u093c\u0941\u0930\u0917\u093c\u094b\u0928\u0924\u0947\u092a\u094d\u092a\u093e"
@@ -102,11 +151,20 @@
     "name:ind_x_preferred":[
         "Qurghonteppa"
     ],
+    "name:ind_x_variant":[
+        "Bokhtar"
+    ],
     "name:ita_x_preferred":[
         "Qur\u01e7onteppa"
     ],
+    "name:ita_x_variant":[
+        "Bokhtar"
+    ],
     "name:jpn_x_preferred":[
         "\u30af\u30eb\u30ac\u30f3\u30fb\u30c6\u30c3\u30d1"
+    ],
+    "name:jpn_x_variant":[
+        "\u30dc\u30af\u30bf\u30fc\u30eb"
     ],
     "name:kan_x_preferred":[
         "\u0c96\u0cc1\u0cb0\u0ccd\u0c97\u0ccb\u0c82\u0c9f\u0cc6\u0caa\u0ccd\u0caa"
@@ -114,14 +172,29 @@
     "name:kat_x_preferred":[
         "\u10d9\u10e3\u10e0\u10d2\u10dd\u10dc\u10e2\u10d4\u10de\u10d0"
     ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0445\u0442\u0430\u0440"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u043e\u0445\u0442\u0430\u0440"
+    ],
     "name:kor_x_preferred":[
         "\ucfe0\ub974\uace4\ud15d\ud30c"
+    ],
+    "name:kor_x_variant":[
+        "\ubcf4\ud750\ud0c0\ub974"
     ],
     "name:lav_x_preferred":[
         "Kurgontepa"
     ],
+    "name:lav_x_variant":[
+        "Bokhtar"
+    ],
     "name:lit_x_preferred":[
         "Kurgontepa"
+    ],
+    "name:lit_x_variant":[
+        "Bochtaras"
     ],
     "name:mar_x_preferred":[
         "\u0915\u0941\u0930\u0918\u094b\u0928\u094d\u0924\u0947\u092a\u0947\u092a\u093e"
@@ -129,11 +202,20 @@
     "name:msa_x_preferred":[
         "Qurghonteppa"
     ],
+    "name:msa_x_variant":[
+        "Bokhtar"
+    ],
     "name:nld_x_preferred":[
         "Qurghonteppa"
     ],
+    "name:nld_x_variant":[
+        "Bochtar"
+    ],
     "name:nob_x_preferred":[
         "Qurghonteppa"
+    ],
+    "name:nob_x_variant":[
+        "Bokhtar"
     ],
     "name:oss_x_preferred":[
         "\u0411\u043e\u0445\u0442\u0430\u0440"
@@ -141,14 +223,23 @@
     "name:pol_x_preferred":[
         "Kurgonteppa"
     ],
+    "name:pol_x_variant":[
+        "Bochtar"
+    ],
     "name:por_x_preferred":[
         "Qurghonteppa"
+    ],
+    "name:por_x_variant":[
+        "Bokhtar"
     ],
     "name:pus_x_preferred":[
         "\u0642\u0631\u063a\u0627\u0646\u062a\u067e\u0647"
     ],
     "name:ron_x_preferred":[
         "Qurghonteppa"
+    ],
+    "name:ron_x_variant":[
+        "Bokhtar"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0440\u0433\u0430\u043d-\u0422\u044e\u0431\u0435"
@@ -162,8 +253,17 @@
     "name:spa_x_preferred":[
         "Qurghonteppa"
     ],
+    "name:spa_x_variant":[
+        "Bokhtar"
+    ],
     "name:swe_x_preferred":[
         "Qurghonteppa"
+    ],
+    "name:swe_x_variant":[
+        "Bokhtar"
+    ],
+    "name:szl_x_preferred":[
+        "Bochtar"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bc1\u0bb0\u0bc1\u0b95\u0bc1\u0bb9\u0ba9\u0bcd\u0b9f\u0bcd\u0baa\u0bcd\u0baa\u0bbe"
@@ -171,11 +271,17 @@
     "name:tat_x_preferred":[
         "\u041a\u0443\u0440\u0433\u0430\u043d\u0442\u04af\u0431\u04d9"
     ],
+    "name:tat_x_variant":[
+        "\u0411\u043e\u0445\u0442\u0430\u0440"
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4d\u0c2f\u0c41\u0c30\u0c4d\u0c18\u0c4b\u0c02\u0c1f\u0c46\u0c2a\u0c4d\u0c2a"
     ],
     "name:tgk_x_preferred":[
         "\u049a\u0443\u0440\u0493\u043e\u043d\u0442\u0435\u043f\u043f\u0430"
+    ],
+    "name:tgk_x_variant":[
+        "\u0411\u043e\u0445\u0442\u0430\u0440"
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e27\u0e2d\u0e01\u0e2e\u0e2d\u0e19\u0e40\u0e17\u0e47\u0e1b\u0e1b\u0e32"
@@ -183,8 +289,14 @@
     "name:tur_x_preferred":[
         "Kurgantepe"
     ],
+    "name:tur_x_variant":[
+        "Bohtar"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u0433\u0430\u043d-\u0422\u044e\u0431\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u043e\u0445\u0442\u0430\u0440"
     ],
     "name:urd_x_preferred":[
         "\u0642\u0631\u063a\u0627\u0646\u062a\u067e\u06c1"
@@ -198,8 +310,14 @@
     "name:vep_x_preferred":[
         "Kurgan T\u00fcbe"
     ],
+    "name:vep_x_variant":[
+        "Bohtar"
+    ],
     "name:vie_x_preferred":[
         "Qurghonteppa"
+    ],
+    "name:vie_x_variant":[
+        "Bokhtar"
     ],
     "name:xmf_x_preferred":[
         "\u10e7\u10e3\u10e0\u10e6\u10d0\u10dc-\u10e2\u10e3\u10d1\u10d4"
@@ -315,7 +433,7 @@
     },
     "wof:country":"TJ",
     "wof:created":1499130577,
-    "wof:geomhash":"642e9ad2e3d27a6e2a7eb0af7c4347fb",
+    "wof:geomhash":"16ee397dc09fdaf86cb11d3a7c28681b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -326,7 +444,7 @@
         }
     ],
     "wof:id":1141906361,
-    "wof:lastmodified":1566666591,
+    "wof:lastmodified":1690869275,
     "wof:name":"Qurghonteppa",
     "wof:parent_id":1091916455,
     "wof:placetype":"locality",
@@ -336,10 +454,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    68.77134720751928,
-    37.83731447249846,
-    68.77134720751928,
-    37.83731447249846
+    68.771347,
+    37.837314,
+    68.771347,
+    37.837314
 ],
-  "geometry": {"coordinates":[68.77134720751928,37.83731447249846],"type":"Point"}
+  "geometry": {"coordinates":[68.77134700000001,37.837314],"type":"Point"}
 }

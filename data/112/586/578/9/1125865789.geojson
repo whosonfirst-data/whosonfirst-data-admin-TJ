@@ -34,6 +34,9 @@
     "name:hsb_x_preferred":[
         "Rogun"
     ],
+    "name:kir_x_preferred":[
+        "\u0420\u043e\u0433\u0443\u043d"
+    ],
     "name:msa_x_preferred":[
         "Roghun"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u0627\u063a\u0648\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Rog\u02bbun"
     ],
     "name:vep_x_preferred":[
         "Rogun"
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1125865789,
-    "wof:lastmodified":1566666497,
+    "wof:lastmodified":1690869273,
     "wof:name":"Roghun",
     "wof:parent_id":1091916539,
     "wof:placetype":"locality",

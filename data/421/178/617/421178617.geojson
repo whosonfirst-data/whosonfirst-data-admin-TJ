@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Danghara"
     ],
+    "name:est_x_preferred":[
+        "Dangara"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0646\u063a\u0631\u0647"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:hun_x_preferred":[
         "Dangara"
+    ],
+    "name:ita_x_preferred":[
+        "Danghara"
     ],
     "name:kik_x_preferred":[
         "Dang\u02bbara"
@@ -62,11 +68,17 @@
     "name:spa_x_preferred":[
         "Danghara"
     ],
+    "name:swe_x_preferred":[
+        "Danghara"
+    ],
     "name:tgk_x_preferred":[
         "\u0414\u0430\u043d\u0493\u0430\u0440\u0430"
     ],
     "name:tur_x_preferred":[
         "Dangara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u043d\u0433\u0430\u0440\u0430"
     ],
     "name:und_x_variant":[
         "Dangar"
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":421178617,
-    "wof:lastmodified":1566666492,
+    "wof:lastmodified":1690869268,
     "wof:name":"Dangara",
     "wof:parent_id":1091916489,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:und_x_variant":[
         "Navabad"
     ],
+    "name:zho_x_preferred":[
+        "\u62c9\u4ec0\u7279\u5340\u7d0d\u6c83\u535a\u5fb7"
+    ],
     "qs:name":"Novobod",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890421859,
-    "wof:lastmodified":1566666496,
+    "wof:lastmodified":1690869271,
     "wof:name":"Novobod",
     "wof:parent_id":1091916659,
     "wof:placetype":"locality",

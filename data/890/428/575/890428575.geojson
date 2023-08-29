@@ -22,10 +22,19 @@
     "name:eng_x_preferred":[
         "Qul"
     ],
+    "name:fas_x_preferred":[
+        "\u0642\u0648\u0644"
+    ],
     "name:jpn_x_preferred":[
         "\u30af\u30fc\u30eb"
     ],
     "name:nld_x_preferred":[
+        "Qul"
+    ],
+    "name:tgk_x_preferred":[
+        "\u049a\u0443\u043b"
+    ],
+    "name:uzb_x_preferred":[
         "Qul"
     ],
     "qs:name":"Q\u016fl",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":890428575,
-    "wof:lastmodified":1566666496,
+    "wof:lastmodified":1690869272,
     "wof:name":"Q\u016fl",
     "wof:parent_id":1091916317,
     "wof:placetype":"locality",

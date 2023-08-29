@@ -23,8 +23,14 @@
     "name:ceb_x_preferred":[
         "Vahdat"
     ],
+    "name:ces_x_preferred":[
+        "Vachdat"
+    ],
     "name:deu_x_preferred":[
         "Wahdat"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c7\u03bd\u03c4\u03ac\u03c4"
     ],
     "name:eng_x_preferred":[
         "Vahdat"
@@ -107,6 +113,9 @@
     "name:urd_x_variant":[
         "\u0648\u062d\u062f\u062a"
     ],
+    "name:uzb_x_preferred":[
+        "Vahdat"
+    ],
     "name:vep_x_preferred":[
         "Vahdat"
     ],
@@ -167,7 +176,7 @@
         }
     ],
     "wof:id":421182033,
-    "wof:lastmodified":1566666493,
+    "wof:lastmodified":1690869269,
     "wof:name":"Vakhdat",
     "wof:parent_id":1091917077,
     "wof:placetype":"locality",

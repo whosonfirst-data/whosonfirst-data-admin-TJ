@@ -40,6 +40,9 @@
     "name:und_x_variant":[
         "Bustonkala"
     ],
+    "name:uzb_x_preferred":[
+        "Bustonqal'a"
+    ],
     "qs:name":"B\u016dstonqal\u2019a",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":890430431,
-    "wof:lastmodified":1566666494,
+    "wof:lastmodified":1690869270,
     "wof:name":"B\u016dstonqal\u2019a",
     "wof:parent_id":1091916455,
     "wof:placetype":"locality",

@@ -17,11 +17,17 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0406\u0441\u0446\u0456\u043a\u043b\u043e\u043b"
+    ],
     "name:bul_x_preferred":[
         "\u0418\u0441\u0442\u0438\u043a\u043b\u043e\u043b"
     ],
     "name:ceb_x_preferred":[
         "Taboshar"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06cc\u0633\u062a\u06cc\u0642\u0644\u06c6\u0644"
     ],
     "name:deu_x_preferred":[
         "Istiqlol"
@@ -56,14 +62,23 @@
     "name:tgk_x_preferred":[
         "\u0422\u0430\u0431\u043e\u0448\u0430\u0440"
     ],
+    "name:tgk_x_variant":[
+        "\u0418\u0441\u0442\u0438\u049b\u043b\u043e\u043b"
+    ],
     "name:ukr_x_preferred":[
         "\u0406\u0441\u0442\u0456\u043a\u043b\u043e\u043b"
     ],
     "name:und_x_variant":[
         "Taboshary"
     ],
+    "name:uzb_x_preferred":[
+        "Istiqlol"
+    ],
     "name:xmf_x_preferred":[
         "\u10d8\u10e1\u10e2\u10d8\u10d9\u10da\u10dd\u10da\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u65af\u8482\u514b\u6d1b\u5c14"
     ],
     "qs:gn_country":"TJ",
     "qs:gn_fcode":"PPL",
@@ -113,7 +128,7 @@
         }
     ],
     "wof:id":421196461,
-    "wof:lastmodified":1566666491,
+    "wof:lastmodified":1690869267,
     "wof:name":"Taboshar",
     "wof:parent_id":1091916787,
     "wof:placetype":"locality",

@@ -47,6 +47,9 @@
     "name:fra_x_preferred":[
         "Murghab"
     ],
+    "name:hun_x_preferred":[
+        "Murgob"
+    ],
     "name:ita_x_preferred":[
         "Murghab"
     ],
@@ -65,6 +68,9 @@
     "name:nno_x_preferred":[
         "Murgab"
     ],
+    "name:oss_x_preferred":[
+        "\u041c\u0443\u0440\u0433\u044a\u0430\u0431"
+    ],
     "name:pol_x_preferred":[
         "Murgob"
     ],
@@ -74,8 +80,17 @@
     "name:rus_x_preferred":[
         "\u041c\u0443\u0440\u0433\u0430\u0431"
     ],
+    "name:spa_x_preferred":[
+        "Murghob"
+    ],
     "name:tgk_x_preferred":[
         "\u041c\u0443\u0440\u0493\u043e\u0431"
+    ],
+    "name:tur_x_preferred":[
+        "Murghob"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0440\u0433\u0430\u0431"
     ],
     "name:und_x_variant":[
         "Pam\u012brski Post"
@@ -134,7 +149,7 @@
         }
     ],
     "wof:id":421181499,
-    "wof:lastmodified":1566666490,
+    "wof:lastmodified":1690869265,
     "wof:name":"Murgab",
     "wof:parent_id":1091917339,
     "wof:placetype":"locality",

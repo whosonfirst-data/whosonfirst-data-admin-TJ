@@ -59,6 +59,9 @@
     "name:urd_x_variant":[
         "\u0628\u0648\u0633\u062a\u0627\u0646"
     ],
+    "name:zho_x_preferred":[
+        "\u5df4\u58eb\u987f"
+    ],
     "qs:gn_country":"TJ",
     "qs:gn_fcode":"PPLA2",
     "qs:gn_id":1514913,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421167983,
-    "wof:lastmodified":1566666488,
+    "wof:lastmodified":1690869263,
     "wof:name":"Buston",
     "wof:parent_id":1091917221,
     "wof:placetype":"locality",

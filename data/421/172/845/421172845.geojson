@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ishqoshim"
+    ],
     "name:ces_x_preferred":[
         "I\u0161ka\u0161im"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:est_x_preferred":[
         "I\u0161ko\u0161im"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u06a9\u0627\u0634\u06cc\u0645"
     ],
     "name:fra_x_preferred":[
         "Ishkashim"
@@ -50,6 +56,9 @@
     "name:tgk_x_preferred":[
         "\u04b6\u0430\u043c\u043e\u0430\u0442\u0438 \u0418\u0448\u043a\u043e\u0448\u0438\u043c"
     ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e34\u0e0a\u0e42\u0e01\u0e0a\u0e34\u0e21"
+    ],
     "name:ukr_x_preferred":[
         "\u0406\u0448\u043a\u0430\u0448\u0438\u043c"
     ],
@@ -64,6 +73,9 @@
     ],
     "name:uzb_x_preferred":[
         "Ishkashim"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u4ec0\u79d1\u5e0c\u59c6"
     ],
     "qs:gn_country":"TJ",
     "qs:gn_fcode":"PPLA2",
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":421172845,
-    "wof:lastmodified":1566666489,
+    "wof:lastmodified":1690869265,
     "wof:name":"Ishkashim",
     "wof:parent_id":1091916859,
     "wof:placetype":"locality",

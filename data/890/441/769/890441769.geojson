@@ -46,6 +46,9 @@
     "name:tgk_x_preferred":[
         "\u041e\u0431\u0438\u0433\u0430\u0440\u043c"
     ],
+    "name:uzb_x_preferred":[
+        "Obigarm"
+    ],
     "qs:name":"Obigarm",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890441769,
-    "wof:lastmodified":1566666494,
+    "wof:lastmodified":1690869270,
     "wof:name":"Obigarm",
     "wof:parent_id":1091917635,
     "wof:placetype":"locality",

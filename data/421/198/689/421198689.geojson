@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Buston"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0443\u0441\u0442\u043e\u043d"
     ],
@@ -26,8 +29,14 @@
     "name:ceb_x_preferred":[
         "Chkalov"
     ],
+    "name:deu_x_preferred":[
+        "Buston"
+    ],
     "name:eng_x_preferred":[
         "Chkalovsk"
+    ],
+    "name:eng_x_variant":[
+        "Buston"
     ],
     "name:fas_x_preferred":[
         "\u0686\u06a9\u0644\u0627\u0648"
@@ -37,6 +46,9 @@
     ],
     "name:fra_x_preferred":[
         "Chkalovsk"
+    ],
+    "name:fra_x_variant":[
+        "Buston"
     ],
     "name:hsb_x_preferred":[
         "Buston"
@@ -77,11 +89,17 @@
     "name:urd_x_variant":[
         "\u0628\u0648\u0633\u062a\u0627\u0646"
     ],
+    "name:uzb_x_preferred":[
+        "Bo\u02bbston"
+    ],
     "name:xmf_x_preferred":[
         "\u10d1\u10e3\u10e1\u10e2\u10dd\u10dc\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u5951\u5361\u6d1b\u592b\u65af\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u5e03\u65af\u901a"
     ],
     "qs:gn_country":"TJ",
     "qs:gn_fcode":"PPL",
@@ -133,7 +151,7 @@
         }
     ],
     "wof:id":421198689,
-    "wof:lastmodified":1566666490,
+    "wof:lastmodified":1690869266,
     "wof:name":"Chkalov",
     "wof:parent_id":1091916787,
     "wof:placetype":"locality",

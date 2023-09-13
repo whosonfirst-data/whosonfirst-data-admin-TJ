@@ -1222,7 +1222,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"992",
     "statoids:ds":"TJ",
     "statoids:fifa":"TJK",
@@ -1293,7 +1293,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1694492048,
+    "wof:lastmodified":1694639503,
     "wof:name":"Tajikistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

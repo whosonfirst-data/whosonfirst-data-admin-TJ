@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":14.604044,
-    "geom:area_square_m":141254626720.510742,
+    "geom:area_square_m":141254626720.49411,
     "geom:bbox":"67.342012,36.672037,75.153826,41.044367",
     "geom:latitude":38.527586,
     "geom:longitude":71.00741,
@@ -14,6 +14,9 @@
     "iso:country":"TJ",
     "itu:country_code":[
         "992"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "TJ"
@@ -1218,7 +1221,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"992",
     "statoids:ds":"TJ",
     "statoids:fifa":"TJK",
@@ -1275,7 +1279,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"35d3e9ff85d758ee34532afb977d8a02",
+    "wof:geomhash":"ea3d4c8e1c75716dbf47b4ead20de6d9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1289,12 +1293,12 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1690869258,
+    "wof:lastmodified":1694639503,
     "wof:name":"Tajikistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":7487489,
-    "wof:population_rank":13,
+    "wof:population":9321018,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tj",
     "wof:shortcode":"TJ",
     "wof:superseded_by":[],

@@ -1259,6 +1259,7 @@
         "hasc:id":"TJ",
         "icao:code":"EY",
         "ioc:id":"TJK",
+        "iso:code":"TJ",
         "itu:id":"TJK",
         "loc:id":"n91129915",
         "m49:code":"762",
@@ -1272,6 +1273,7 @@
         "wk:page":"Tajikistan",
         "wmo:id":"TA"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TJ",
     "wof:country_alpha3":"TJK",
     "wof:geom_alt":[
@@ -1293,7 +1295,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1694639503,
+    "wof:lastmodified":1695881157,
     "wof:name":"Tajikistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

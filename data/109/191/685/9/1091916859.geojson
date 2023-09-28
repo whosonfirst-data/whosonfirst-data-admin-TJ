@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185374,
-    "geom:area_square_m":1832297472.836549,
+    "geom:area_square_m":1832297442.692581,
     "geom:bbox":"71.428848,36.672037,72.822137,37.260563",
     "geom:latitude":36.930112,
     "geom:longitude":71.94121,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.BK.IS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892866,
-    "wof:geomhash":"5da5a99c6627439f0ceb03a4d6fd599f",
+    "wof:geomhash":"1d73c887662afd998606b6069e8e72f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091916859,
-    "wof:lastmodified":1627522820,
+    "wof:lastmodified":1695886523,
     "wof:name":"Ishkoshim",
     "wof:parent_id":85678899,
     "wof:placetype":"county",

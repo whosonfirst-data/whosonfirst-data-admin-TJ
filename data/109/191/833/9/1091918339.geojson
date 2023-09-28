@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050522,
-    "geom:area_square_m":477445958.693928,
+    "geom:area_square_m":477446077.527922,
     "geom:bbox":"68.534118,40.086061,69.181679,40.229414",
     "geom:latitude":40.158209,
     "geom:longitude":68.882499,
@@ -102,9 +102,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.LE.ZA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892928,
-    "wof:geomhash":"be44de756d321146433518601b11774d",
+    "wof:geomhash":"7b9682553ce3ad611f1514b7cb36a1f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1091918339,
-    "wof:lastmodified":1627522823,
+    "wof:lastmodified":1695886529,
     "wof:name":"Zafarobod",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

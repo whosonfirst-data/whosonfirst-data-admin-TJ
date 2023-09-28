@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129303,
-    "geom:area_square_m":1231187303.709652,
+    "geom:area_square_m":1231187355.01965,
     "geom:bbox":"68.434281,39.440643,68.948635,39.981127",
     "geom:latitude":39.642011,
     "geom:longitude":68.748532,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.LE.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892908,
-    "wof:geomhash":"eee4f21ec21f8a40f59a2ac3c513589a",
+    "wof:geomhash":"cb21ee0368c79d72945a21d7b95bb901",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091917837,
-    "wof:lastmodified":1627522822,
+    "wof:lastmodified":1695886527,
     "wof:name":"Shahriston",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

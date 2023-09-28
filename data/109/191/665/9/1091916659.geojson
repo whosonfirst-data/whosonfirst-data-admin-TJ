@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.39482,
-    "geom:area_square_m":3787790760.27662,
+    "geom:area_square_m":3787790760.276509,
     "geom:bbox":"69.6213301387,38.8202772338,70.6885577316,39.585345806",
     "geom:latitude":39.116218,
     "geom:longitude":70.229632,
@@ -234,9 +234,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.RR.GA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892857,
-    "wof:geomhash":"10942a605c0dae45648214f787a9da05",
+    "wof:geomhash":"95a0c3ac27e1373686ae7215ab8e4ac3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -246,7 +247,7 @@
         }
     ],
     "wof:id":1091916659,
-    "wof:lastmodified":1566666475,
+    "wof:lastmodified":1695886576,
     "wof:name":"Rasht",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

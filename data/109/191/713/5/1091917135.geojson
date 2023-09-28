@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081542,
-    "geom:area_square_m":802542658.125364,
+    "geom:area_square_m":802542790.874437,
     "geom:bbox":"68.222581,37.028337,69.029273,37.37935",
     "geom:latitude":37.25524,
     "geom:longitude":68.592577,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.KL.KM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892882,
-    "wof:geomhash":"f48c5db5aaf2f785e11fa8f8cbb1dc27",
+    "wof:geomhash":"eed69cbfee1b510ab483e33073fd3e1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091917135,
-    "wof:lastmodified":1627522822,
+    "wof:lastmodified":1695886526,
     "wof:name":"Qumsangir",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

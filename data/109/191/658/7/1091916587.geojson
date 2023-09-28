@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108845,
-    "geom:area_square_m":1052576554.570599,
+    "geom:area_square_m":1052576462.255453,
     "geom:bbox":"69.142764,38.378312,69.747726,38.782606",
     "geom:latitude":38.549903,
     "geom:longitude":69.484086,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.RR.FA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892854,
-    "wof:geomhash":"e637a66c06108dbe8b6639f62057c846",
+    "wof:geomhash":"3b7ef17bc6a03c9e0a5dd686ecf4568a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1091916587,
-    "wof:lastmodified":1627522820,
+    "wof:lastmodified":1695886522,
     "wof:name":"Fayzobod",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

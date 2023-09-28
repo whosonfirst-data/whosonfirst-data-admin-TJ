@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.597756,
-    "geom:area_square_m":5823229519.439335,
+    "geom:area_square_m":5823229519.439577,
     "geom:bbox":"71.251881,37.5411276237,72.7588671479,38.4671645106",
     "geom:latitude":38.015327,
     "geom:longitude":72.146212,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.BK.RU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892904,
-    "wof:geomhash":"d4e8eed11e1d061035842fd717002e2d",
+    "wof:geomhash":"60e799a5c8403164d528ea82fa9f78b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091917707,
-    "wof:lastmodified":1566666470,
+    "wof:lastmodified":1695886575,
     "wof:name":"Rushon",
     "wof:parent_id":85678899,
     "wof:placetype":"county",

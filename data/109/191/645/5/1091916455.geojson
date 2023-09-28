@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091972,
-    "geom:area_square_m":897375959.143578,
+    "geom:area_square_m":897375990.661113,
     "geom:bbox":"68.617112,37.715693,69.096102,38.179056",
     "geom:latitude":37.901213,
     "geom:longitude":68.820432,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.KL.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892850,
-    "wof:geomhash":"12e9bb7eb3e948e3cbbe0fc4606801bf",
+    "wof:geomhash":"5c7e0ec8ef8fd6dcbfecf38dc0ea1803",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091916455,
-    "wof:lastmodified":1627522822,
+    "wof:lastmodified":1695886526,
     "wof:name":"Bokhtar",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

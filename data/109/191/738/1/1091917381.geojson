@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049461,
-    "geom:area_square_m":467754288.635539,
+    "geom:area_square_m":467754339.305941,
     "geom:bbox":"69.168713,39.911366,69.459518,40.245666",
     "geom:latitude":40.11022,
     "geom:longitude":69.319322,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.LE.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892891,
-    "wof:geomhash":"ddb39ac32390232706870bf028fe03c6",
+    "wof:geomhash":"ffa4c4016c41c8e6ad3f080fc6384933",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091917381,
-    "wof:lastmodified":1627522822,
+    "wof:lastmodified":1695886526,
     "wof:name":"Spitamen",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

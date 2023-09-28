@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.557434,
-    "geom:area_square_m":5341015335.019833,
+    "geom:area_square_m":5341015156.167687,
     "geom:bbox":"70.909036,38.85031,72.244434,39.625094",
     "geom:latitude":39.20638,
     "geom:longitude":71.594325,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.RR.DZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892869,
-    "wof:geomhash":"7ec8f8f319ab4cb24f6a492ac2411317",
+    "wof:geomhash":"5bb389117f3a7714357ea286ec45156d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091916939,
-    "wof:lastmodified":1627522820,
+    "wof:lastmodified":1695886523,
     "wof:name":"Jirgatol",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

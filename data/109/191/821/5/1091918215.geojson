@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170066,
-    "geom:area_square_m":1638131496.140706,
+    "geom:area_square_m":1638131523.355689,
     "geom:bbox":"68.449129,38.600007,69.007572,39.033501",
     "geom:latitude":38.832046,
     "geom:longitude":68.74421,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.RR.VA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892923,
-    "wof:geomhash":"f37d14da4bcde65dcbbdb4deda883c5b",
+    "wof:geomhash":"4a1e02c508e48421a831ecc9f2d78e1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1091918215,
-    "wof:lastmodified":1627522823,
+    "wof:lastmodified":1695886529,
     "wof:name":"Varzob",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

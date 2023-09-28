@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.308088,
-    "geom:area_square_m":2889045975.664731,
+    "geom:area_square_m":2889046016.125185,
     "geom:bbox":"69.911379,40.349781,70.795297,41.044367",
     "geom:latitude":40.679407,
     "geom:longitude":70.341739,
@@ -99,9 +99,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.LE.AS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892847,
-    "wof:geomhash":"ead36e0265147fcc32331f68d4399bc4",
+    "wof:geomhash":"1df2ac142c99bfff3373649e2e1215d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1091916363,
-    "wof:lastmodified":1627522819,
+    "wof:lastmodified":1695886521,
     "wof:name":"Asht",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

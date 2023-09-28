@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098119,
-    "geom:area_square_m":953781868.2143,
+    "geom:area_square_m":953781661.111845,
     "geom:bbox":"68.712628,37.962492,69.130307,38.374226",
     "geom:latitude":38.174833,
     "geom:longitude":68.915483,
@@ -105,9 +105,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.KL.JA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892926,
-    "wof:geomhash":"642ab0a834bc0b1be350d34e3777c144",
+    "wof:geomhash":"8bcefffb94c80f9ffcd798192419b22d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1091918301,
-    "wof:lastmodified":1627522823,
+    "wof:lastmodified":1695886529,
     "wof:name":"Yovon",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

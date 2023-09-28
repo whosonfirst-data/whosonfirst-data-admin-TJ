@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.229039,
-    "geom:area_square_m":2232087574.945243,
+    "geom:area_square_m":2232087895.637708,
     "geom:bbox":"68.953079,37.593614,69.468859,38.344434",
     "geom:latitude":37.987949,
     "geom:longitude":69.203574,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.KL.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892852,
-    "wof:geomhash":"ecb8e92c8b65072443f6baeb7c5b1545",
+    "wof:geomhash":"e78727471f7eab85b91a822f70759c49",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1091916489,
-    "wof:lastmodified":1627522819,
+    "wof:lastmodified":1695886522,
     "wof:name":"Danghara",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

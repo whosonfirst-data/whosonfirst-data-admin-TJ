@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.453986,
-    "geom:area_square_m":4337787463.819501,
+    "geom:area_square_m":4337787777.190161,
     "geom:bbox":"68.987871,39.167808,70.642987,39.62316",
     "geom:latitude":39.400693,
     "geom:longitude":69.764281,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.LE.KM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892879,
-    "wof:geomhash":"26f95048d567910ea725a362a800029d",
+    "wof:geomhash":"01a77ed88ae1ffb9ae79eb0c660d6fd3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091917081,
-    "wof:lastmodified":1627522821,
+    "wof:lastmodified":1695886524,
     "wof:name":"Kuhistoni Mastchoh",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

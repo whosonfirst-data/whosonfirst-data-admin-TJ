@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134668,
-    "geom:area_square_m":1310621313.995721,
+    "geom:area_square_m":1310621148.814022,
     "geom:bbox":"69.812475,37.869492,70.321529,38.334514",
     "geom:latitude":38.087792,
     "geom:longitude":70.103367,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.KL.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892888,
-    "wof:geomhash":"f6c8e3cc547a03c00dc293f767519188",
+    "wof:geomhash":"008efcdcffe7f3c53d016d52604bcddf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091917295,
-    "wof:lastmodified":1627522821,
+    "wof:lastmodified":1695886525,
     "wof:name":"Mu'minobod",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

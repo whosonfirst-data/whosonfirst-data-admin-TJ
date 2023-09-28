@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078077,
-    "geom:area_square_m":762870133.584538,
+    "geom:area_square_m":762869969.456916,
     "geom:bbox":"69.329887,37.616962,69.786832,38.081164",
     "geom:latitude":37.797566,
     "geom:longitude":69.560289,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.KL.VO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892925,
-    "wof:geomhash":"2800950686a31d8d0d355cb9fa8b6b68",
+    "wof:geomhash":"0f9be10c60c91bacd42ad74a1c829381",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091918261,
-    "wof:lastmodified":1627522823,
+    "wof:lastmodified":1695886529,
     "wof:name":"Vose",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

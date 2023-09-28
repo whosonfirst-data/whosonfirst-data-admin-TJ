@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.461459,
-    "geom:area_square_m":4474906792.689508,
+    "geom:area_square_m":4474906823.109959,
     "geom:bbox":"71.175663,37.947022,72.292242,38.759216",
     "geom:latitude":38.349008,
     "geom:longitude":71.789865,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.BK.VA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892922,
-    "wof:geomhash":"31136567fefdbe32f3b89430fd406fe7",
+    "wof:geomhash":"5efdbb969d6013bb9b3d72ca824aba96",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091918175,
-    "wof:lastmodified":1627522823,
+    "wof:lastmodified":1695886528,
     "wof:name":"Vanj",
     "wof:parent_id":85678899,
     "wof:placetype":"county",

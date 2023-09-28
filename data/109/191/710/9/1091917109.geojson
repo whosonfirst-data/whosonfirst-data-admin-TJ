@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034264,
-    "geom:area_square_m":334318233.955673,
+    "geom:area_square_m":334318233.955658,
     "geom:bbox":"69.6260990988,37.7429771561,69.8652298249,38.0792405384",
     "geom:latitude":37.901068,
     "geom:longitude":69.748263,
@@ -174,9 +174,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.KL.KC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892880,
-    "wof:geomhash":"8a588cca982bc2315789ee78ca50d4b9",
+    "wof:geomhash":"4fd8fa8f858631397a622de198678a0e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -186,7 +187,7 @@
         }
     ],
     "wof:id":1091917109,
-    "wof:lastmodified":1566666476,
+    "wof:lastmodified":1695886576,
     "wof:name":"Kulob",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

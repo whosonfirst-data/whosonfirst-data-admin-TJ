@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109913,
-    "geom:area_square_m":1032171777.815911,
+    "geom:area_square_m":1032171380.335845,
     "geom:bbox":"69.21195,40.273501,69.868494,40.794525",
     "geom:latitude":40.58399,
     "geom:longitude":69.461772,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.LE.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892885,
-    "wof:geomhash":"0407b5f30ae5e5593e5816cf6da60560",
+    "wof:geomhash":"34ff84fc717bd703a48d719eb2a6c23c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091917221,
-    "wof:lastmodified":1627522821,
+    "wof:lastmodified":1695886525,
     "wof:name":"Mastchoh",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

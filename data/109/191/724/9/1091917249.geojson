@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076617,
-    "geom:area_square_m":750240237.109235,
+    "geom:area_square_m":750240140.730444,
     "geom:bbox":"69.348934,37.491652,70.132601,37.793716",
     "geom:latitude":37.636083,
     "geom:longitude":69.724709,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.KL.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892887,
-    "wof:geomhash":"bfec352c4e3a0cd3795b5d05dd7d2f6b",
+    "wof:geomhash":"1288c8d4d4c0d0ee9f65838a856ae5c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091917249,
-    "wof:lastmodified":1627522821,
+    "wof:lastmodified":1695886525,
     "wof:name":"Mir Said Ali Hamadoni",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

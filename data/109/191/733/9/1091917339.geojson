@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.884008,
-    "geom:area_square_m":37701512398.115082,
+    "geom:area_square_m":37701512336.053116,
     "geom:bbox":"72.006661,37.221767,75.153826,39.473738",
     "geom:latitude":38.274414,
     "geom:longitude":73.508772,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.BK.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892890,
-    "wof:geomhash":"c84714dd4e203f6b5443a09cf74274ba",
+    "wof:geomhash":"5704700dbdea56756c8bbe6644f872d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091917339,
-    "wof:lastmodified":1627522821,
+    "wof:lastmodified":1695886525,
     "wof:name":"Murghob",
     "wof:parent_id":85678899,
     "wof:placetype":"county",

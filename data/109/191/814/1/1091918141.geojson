@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11893,
-    "geom:area_square_m":1164815516.004003,
+    "geom:area_square_m":1164815847.854654,
     "geom:bbox":"68.571801,37.456685,69.082429,37.827581",
     "geom:latitude":37.620312,
     "geom:longitude":68.861394,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.KL.VA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892920,
-    "wof:geomhash":"898827bc98ce5b4a546c69c923399437",
+    "wof:geomhash":"dd6c06874182e7fe989c92d21810a386",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091918141,
-    "wof:lastmodified":1627522823,
+    "wof:lastmodified":1695886528,
     "wof:name":"Vakhsh",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044632,
-    "geom:area_square_m":432674230.828524,
+    "geom:area_square_m":432674075.036062,
     "geom:bbox":"69.126909,38.266943,69.542323,38.450941",
     "geom:latitude":38.371911,
     "geom:longitude":69.32349,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.KL.NC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892893,
-    "wof:geomhash":"59529c764d9e29d958859245e6018830",
+    "wof:geomhash":"24093465d11fdf68dc54189929538406",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091917421,
-    "wof:lastmodified":1627522821,
+    "wof:lastmodified":1695886526,
     "wof:name":"Norak",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

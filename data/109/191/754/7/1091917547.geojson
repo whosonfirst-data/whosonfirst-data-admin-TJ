@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030775,
-    "geom:area_square_m":302866889.591222,
+    "geom:area_square_m":302867033.388781,
     "geom:bbox":"68.997331,37.093064,69.273971,37.419839",
     "geom:latitude":37.261606,
     "geom:longitude":69.136043,
@@ -105,9 +105,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.KL.PJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892898,
-    "wof:geomhash":"826ee1172c7c6514c479779f763075c8",
+    "wof:geomhash":"3deb26b683e23897eb4f4c2de36a06b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1091917547,
-    "wof:lastmodified":1636494891,
+    "wof:lastmodified":1695886622,
     "wof:name":"Panj",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

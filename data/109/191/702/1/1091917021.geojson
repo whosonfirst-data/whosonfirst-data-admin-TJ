@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.250823,
-    "geom:area_square_m":2429288777.476397,
+    "geom:area_square_m":2429288351.50779,
     "geom:bbox":"70.244612,37.937125,71.270313,38.742099",
     "geom:latitude":38.438987,
     "geom:longitude":70.675314,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.BK.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892873,
-    "wof:geomhash":"afc3ac441cbc1c160e10e84076bb4ea3",
+    "wof:geomhash":"71ebab06a3244791c5669bc0672de566",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091917021,
-    "wof:lastmodified":1627522820,
+    "wof:lastmodified":1695886523,
     "wof:name":"Darvoz",
     "wof:parent_id":85678899,
     "wof:placetype":"county",

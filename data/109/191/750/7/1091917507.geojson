@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.376412,
-    "geom:area_square_m":3599809532.095223,
+    "geom:area_square_m":3599809532.095337,
     "geom:bbox":"67.342012,39.000517,68.2222928227,39.659689",
     "geom:latitude":39.337708,
     "geom:longitude":67.80875,
@@ -168,9 +168,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.LE.PR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892896,
-    "wof:geomhash":"81c635d7b983efd7af569fbe6417e200",
+    "wof:geomhash":"f6daea8b007d192447944912a93df0a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":1091917507,
-    "wof:lastmodified":1566666472,
+    "wof:lastmodified":1695886575,
     "wof:name":"Panjakent",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

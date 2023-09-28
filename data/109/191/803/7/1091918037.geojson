@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.216959,
-    "geom:area_square_m":2079864284.242291,
+    "geom:area_square_m":2079864377.232198,
     "geom:bbox":"70.598213,38.896184,71.220304,39.52667",
     "geom:latitude":39.169866,
     "geom:longitude":70.83617,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.RR.TJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892915,
-    "wof:geomhash":"aeaa615db04b46de5e66631888e59fc2",
+    "wof:geomhash":"b099030c752e8926e06a9cbf8ab782c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091918037,
-    "wof:lastmodified":1627522823,
+    "wof:lastmodified":1695886528,
     "wof:name":"Tojikobod",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

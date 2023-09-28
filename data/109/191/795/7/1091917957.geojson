@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056959,
-    "geom:area_square_m":555573127.719672,
+    "geom:area_square_m":555573393.77221,
     "geom:bbox":"69.316687,37.753357,69.667486,38.077565",
     "geom:latitude":37.92468,
     "geom:longitude":69.492401,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.KL.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892913,
-    "wof:geomhash":"14aa23d5aa83d8cc17c3eefaf3b30719",
+    "wof:geomhash":"a0bc5c213830b94178419acddea879bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091917957,
-    "wof:lastmodified":1627522823,
+    "wof:lastmodified":1695886528,
     "wof:name":"Temurmalik",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

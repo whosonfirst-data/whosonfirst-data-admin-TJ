@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.150092,
-    "geom:area_square_m":30332811177.482124,
+    "geom:area_square_m":30332811177.480797,
     "geom:bbox":"68.056901,37.76589,72.244434,39.625094",
     "geom:latitude":38.854198,
     "geom:longitude":70.176177,
@@ -298,15 +298,17 @@
         "gn:id":6452615,
         "gp:id":20070297,
         "hasc:id":"TJ.RR",
+        "iso:code":"TJ-RA",
         "qs_pg:id":1085814,
         "wd:id":"Q633490",
         "wk:page":"Districts of Republican Subordination"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TJ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7d2404ffad1a83879dd650f4acfe9420",
+    "wof:geomhash":"2093b992abf1d9cb1b43fe431e2d3a70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -321,7 +323,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1690869260,
+    "wof:lastmodified":1695884782,
     "wof:name":"Tadzhikistan Territories",
     "wof:parent_id":85632513,
     "wof:placetype":"region",

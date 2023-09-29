@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.181877,
-    "geom:area_square_m":1786797649.742381,
+    "geom:area_square_m":1786797295.621361,
     "geom:bbox":"68.001081,36.922609,68.396599,37.828202",
     "geom:latitude":37.3907,
     "geom:longitude":68.173047,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.KL.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892871,
-    "wof:geomhash":"57775cef07f04b5cec7d2921e73f2a92",
+    "wof:geomhash":"cf2fca24d0444c5b00650546bac1c06b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091916975,
-    "wof:lastmodified":1627522821,
+    "wof:lastmodified":1695886524,
     "wof:name":"Qubodiyon",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

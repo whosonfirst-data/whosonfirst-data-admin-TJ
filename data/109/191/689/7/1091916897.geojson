@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106361,
-    "geom:area_square_m":1043928493.221983,
+    "geom:area_square_m":1043928519.533033,
     "geom:bbox":"68.192787,37.006864,68.531281,37.806959",
     "geom:latitude":37.461423,
     "geom:longitude":68.372925,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.KL.DZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892868,
-    "wof:geomhash":"b09948061be90c786692f40ea67f406d",
+    "wof:geomhash":"a6bc2ed1cc3b0d9cd62070e2fd87e7a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1091916897,
-    "wof:lastmodified":1627522820,
+    "wof:lastmodified":1695886523,
     "wof:name":"Jilikul",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

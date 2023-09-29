@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069475,
-    "geom:area_square_m":672689743.9831,
+    "geom:area_square_m":672689538.407864,
     "geom:bbox":"68.295818,38.234297,68.612156,38.648626",
     "geom:latitude":38.459838,
     "geom:longitude":68.456436,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.RR.GI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892860,
-    "wof:geomhash":"498fdaec01d5566f73482b2cc956928a",
+    "wof:geomhash":"59b2425d29eb3055734a5cb61f60ccef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091916749,
-    "wof:lastmodified":1627522820,
+    "wof:lastmodified":1695886523,
     "wof:name":"Hissor",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

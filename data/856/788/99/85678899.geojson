@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.326192,
-    "geom:area_square_m":61565014485.533791,
+    "geom:area_square_m":61565014434.149406,
     "geom:bbox":"70.244612,36.672037,75.153826,39.473738",
     "geom:latitude":38.08726,
     "geom:longitude":72.893065,
@@ -334,17 +334,19 @@
         "gn:id":1221692,
         "gp:id":20070296,
         "hasc:id":"TJ.BK",
+        "iso:code":"TJ-GB",
         "iso:id":"TJ-GB",
         "qs_pg:id":1085813,
         "unlc:id":"TJ-GB",
         "wd:id":"Q207319",
         "wk:page":"Gorno-Badakhshan Autonomous Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TJ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ee801d2d08ffb29911253c91ff6e5748",
+    "wof:geomhash":"6b7b624ab497dc788fa2865225234746",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -359,7 +361,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1690869259,
+    "wof:lastmodified":1695884782,
     "wof:name":"Gorno-Badakhshan",
     "wof:parent_id":85632513,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134056,
-    "geom:area_square_m":1310486603.402887,
+    "geom:area_square_m":1310486816.811375,
     "geom:bbox":"69.761042,37.522754,70.303519,37.973673",
     "geom:latitude":37.760267,
     "geom:longitude":70.046777,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.KL.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892911,
-    "wof:geomhash":"e40a6b9fae9573e31ac0e2f431947f26",
+    "wof:geomhash":"361cbf7bb4a7f207d0c8d3c35d492879",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091917913,
-    "wof:lastmodified":1627522822,
+    "wof:lastmodified":1695886528,
     "wof:name":"Shuroobod",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

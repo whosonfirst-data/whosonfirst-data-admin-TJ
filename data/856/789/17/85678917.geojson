@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008549,
-    "geom:area_square_m":82662487.303495,
+    "geom:area_square_m":82662487.303488,
     "geom:bbox":"68.7193461334,38.4912045922,68.8247945223,38.630105438",
     "geom:latitude":38.554299,
     "geom:longitude":68.770015,
@@ -523,13 +523,15 @@
         "gn:id":7280679,
         "gp:id":-20070297,
         "hasc:id":"TJ.DU",
+        "iso:code":"TJ-DU",
         "iso:id":"TJ-DU"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TJ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7b1309e7f59126499e8e9dce96f513b1",
+    "wof:geomhash":"63f00d8c687d018f1d7df36607144702",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -544,7 +546,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1582314956,
+    "wof:lastmodified":1695884332,
     "wof:name":"Dushanbe",
     "wof:parent_id":85632513,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.469999,
-    "geom:area_square_m":4629876361.060793,
+    "geom:area_square_m":4629876265.85849,
     "geom:bbox":"71.453891,36.821721,72.865775,37.542213",
     "geom:latitude":37.187697,
     "geom:longitude":72.170936,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.BK.RO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892902,
-    "wof:geomhash":"e0becb075d5b2adef2de5a35f7b8002b",
+    "wof:geomhash":"77970bfc52147030f618fe409e84d6c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091917661,
-    "wof:lastmodified":1627522822,
+    "wof:lastmodified":1695886527,
     "wof:name":"Roshtqal'a",
     "wof:parent_id":85678899,
     "wof:placetype":"county",

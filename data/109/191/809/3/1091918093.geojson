@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06157,
-    "geom:area_square_m":583886695.799145,
+    "geom:area_square_m":583886695.799243,
     "geom:bbox":"68.845852,39.6475059193,69.1534386175,40.1379850723",
     "geom:latitude":39.92079,
     "geom:longitude":68.987039,
@@ -171,9 +171,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.LE.UR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892919,
-    "wof:geomhash":"69f6fc096dccffb876506734d8807b6f",
+    "wof:geomhash":"ead0c194da3acf6a35bf0cc36c073dc4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":1091918093,
-    "wof:lastmodified":1566666474,
+    "wof:lastmodified":1695886576,
     "wof:name":"Istaravshan",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

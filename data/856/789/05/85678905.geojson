@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.346684,
-    "geom:area_square_m":22927948663.725529,
+    "geom:area_square_m":22927949395.92347,
     "geom:bbox":"67.784204,36.922609,70.4533,38.699032",
     "geom:latitude":37.798815,
     "geom:longitude":69.133467,
@@ -341,17 +341,19 @@
         "gn:id":1347488,
         "gp:id":20070295,
         "hasc:id":"TJ.KL",
+        "iso:code":"TJ-KT",
         "iso:id":"TJ-KT",
         "qs_pg:id":219916,
         "unlc:id":"TJ-KT",
         "wd:id":"Q633511",
         "wk:page":"Khatlon Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TJ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a8e577e6ec53c5f874808b347abcb9e3",
+    "wof:geomhash":"9e6db7f0368266e1b832182ac367ceae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -366,7 +368,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1690869260,
+    "wof:lastmodified":1695884331,
     "wof:name":"Khatlon",
     "wof:parent_id":85632513,
     "wof:placetype":"region",

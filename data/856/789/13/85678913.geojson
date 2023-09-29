@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.781076,
-    "geom:area_square_m":26428851490.000008,
+    "geom:area_square_m":26428851738.143646,
     "geom:bbox":"67.342012,38.878695,70.992426,41.044367",
     "geom:latitude":39.774197,
     "geom:longitude":69.240827,
@@ -364,16 +364,18 @@
         "gn:id":1221092,
         "gp:id":20070294,
         "hasc:id":"TJ.LE",
+        "iso:code":"TJ-SU",
         "iso:id":"TJ-SU",
         "qs_pg:id":219915,
         "wd:id":"Q241582",
         "wk:page":"Sughd Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TJ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"21be179bfa7ae7fc6760bb727b53d0eb",
+    "wof:geomhash":"1912a735062fb57404697848fe5c9558",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -388,7 +390,7 @@
     "wof:lang_x_spoken":[
         "tgk"
     ],
-    "wof:lastmodified":1690869260,
+    "wof:lastmodified":1695884783,
     "wof:name":"Leninabad",
     "wof:parent_id":85632513,
     "wof:placetype":"region",

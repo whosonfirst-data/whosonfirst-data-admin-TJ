@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.164948,
-    "geom:area_square_m":1620571380.061541,
+    "geom:area_square_m":1620571381.804731,
     "geom:bbox":"67.784204,36.928813,68.201149,37.935425",
     "geom:latitude":37.386758,
     "geom:longitude":67.970086,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.KL.ST"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892905,
-    "wof:geomhash":"cf25d8ba17389a4ff2673d7b7db33f06",
+    "wof:geomhash":"4d03bca4454a8edc46be02b0b497a3f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1091917765,
-    "wof:lastmodified":1627522822,
+    "wof:lastmodified":1695886527,
     "wof:name":"Shahritus",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

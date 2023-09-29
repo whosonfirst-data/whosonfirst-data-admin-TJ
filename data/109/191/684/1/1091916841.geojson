@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09142,
-    "geom:area_square_m":864685339.504172,
+    "geom:area_square_m":864685339.503934,
     "geom:bbox":"70.3227214159,39.778113,70.992426,40.2833711246",
     "geom:latitude":40.100091,
     "geom:longitude":70.605083,
@@ -162,9 +162,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.LE.IR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892865,
-    "wof:geomhash":"c3902cac1f51a849a3dfda76d4fa1ffd",
+    "wof:geomhash":"994e96e8e9fa6c9d1327d1d85e5a3eec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":1091916841,
-    "wof:lastmodified":1566666473,
+    "wof:lastmodified":1695886576,
     "wof:name":"Isfara",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

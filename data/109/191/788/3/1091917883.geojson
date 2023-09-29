@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.47677,
-    "geom:area_square_m":4673882165.599213,
+    "geom:area_square_m":4673882303.698977,
     "geom:bbox":"71.475043,37.238502,72.753009,37.887282",
     "geom:latitude":37.551119,
     "geom:longitude":72.130064,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.BK.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892910,
-    "wof:geomhash":"2ad748e63e9b45319e007d00d160468e",
+    "wof:geomhash":"b5bda53638087e69347be67a57b47251",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091917883,
-    "wof:lastmodified":1627522822,
+    "wof:lastmodified":1695886527,
     "wof:name":"Shughnon",
     "wof:parent_id":85678899,
     "wof:placetype":"county",

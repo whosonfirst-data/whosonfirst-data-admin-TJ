@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085443,
-    "geom:area_square_m":838755467.850137,
+    "geom:area_square_m":838755674.070041,
     "geom:bbox":"68.455508,37.348805,69.065939,37.651743",
     "geom:latitude":37.450035,
     "geom:longitude":68.725685,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.KL.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892877,
-    "wof:geomhash":"21d2b32e4461562a6e910780f25a3a61",
+    "wof:geomhash":"4560512b1c1654fe7cff850918ee9319",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091917079,
-    "wof:lastmodified":1627522820,
+    "wof:lastmodified":1695886524,
     "wof:name":"Jaloliddini Rumi",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

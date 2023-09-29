@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071851,
-    "geom:area_square_m":698192653.49947,
+    "geom:area_square_m":698192629.018025,
     "geom:bbox":"69.363127,38.034185,69.65728,38.402092",
     "geom:latitude":38.200667,
     "geom:longitude":69.515867,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.KL.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892849,
-    "wof:geomhash":"38cf7cb9c5e467e17083f81076aeac8b",
+    "wof:geomhash":"12cfe25b40e3a83820dcbad5c13e410c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091916409,
-    "wof:lastmodified":1627522819,
+    "wof:lastmodified":1695886521,
     "wof:name":"Baljuvon",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

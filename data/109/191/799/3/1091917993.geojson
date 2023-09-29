@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.666136,
-    "geom:area_square_m":6424962653.863017,
+    "geom:area_square_m":6424963094.695189,
     "geom:bbox":"70.011149,38.388004,72.063473,39.067095",
     "geom:latitude":38.737192,
     "geom:longitude":71.100132,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.RR.TV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892914,
-    "wof:geomhash":"6f04923dcd1258b290d3454dca425f89",
+    "wof:geomhash":"61da43afb57bcea05cf6be3500ebbdcd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091917993,
-    "wof:lastmodified":1627522823,
+    "wof:lastmodified":1695886528,
     "wof:name":"Tavildara",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

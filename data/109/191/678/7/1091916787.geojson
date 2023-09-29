@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.28524,
-    "geom:area_square_m":2686715655.256231,
+    "geom:area_square_m":2686716280.025453,
     "geom:bbox":"69.247551,40.083874,70.274163,40.723792",
     "geom:latitude":40.381434,
     "geom:longitude":69.752571,
@@ -102,9 +102,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.LE.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892862,
-    "wof:geomhash":"0574f78a031518071dd5d10a2a59edd2",
+    "wof:geomhash":"366ea9adbdfdb4362a692a7c1e58063d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1091916787,
-    "wof:lastmodified":1627522819,
+    "wof:lastmodified":1695886522,
     "wof:name":"Bobojon Ghafurov",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

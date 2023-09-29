@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.20548,
-    "geom:area_square_m":1995611169.334704,
+    "geom:area_square_m":1995611169.33457,
     "geom:bbox":"68.1809390713,37.7658900068,68.9435963806,38.6413666816",
     "geom:latitude":38.239155,
     "geom:longitude":68.572437,
@@ -198,9 +198,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.RR.LE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892929,
-    "wof:geomhash":"4e849acab1e26414884d8bfb11731382",
+    "wof:geomhash":"1505637dd29b533a80c36b5bffafbc45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -210,7 +211,7 @@
         }
     ],
     "wof:id":1091918381,
-    "wof:lastmodified":1566666474,
+    "wof:lastmodified":1695886576,
     "wof:name":"Rudaki",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

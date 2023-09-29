@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115907,
-    "geom:area_square_m":1120360424.852947,
+    "geom:area_square_m":1120360424.853136,
     "geom:bbox":"68.056901,38.239560353,68.3727810309,38.8860416085",
     "geom:latitude":38.582279,
     "geom:longitude":68.21372,
@@ -150,9 +150,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.RR.TC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892917,
-    "wof:geomhash":"bb08194265c4d954a1511f4ad3500997",
+    "wof:geomhash":"c21da44be1e9fc00a0495c60eb0993a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":1091918055,
-    "wof:lastmodified":1566666469,
+    "wof:lastmodified":1695886575,
     "wof:name":"Tursunzoda",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

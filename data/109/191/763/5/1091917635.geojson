@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05242,
-    "geom:area_square_m":505870767.396587,
+    "geom:area_square_m":505870908.400891,
     "geom:bbox":"69.609264,38.517201,69.917975,38.870076",
     "geom:latitude":38.699147,
     "geom:longitude":69.772468,
@@ -96,9 +96,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.RR.RC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892901,
-    "wof:geomhash":"9293d18b1e7eb8b1c0514ff620d7db09",
+    "wof:geomhash":"1e501bb59589979c3d733b98e7560a28",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1091917635,
-    "wof:lastmodified":1627522822,
+    "wof:lastmodified":1695886527,
     "wof:name":"Roghun",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

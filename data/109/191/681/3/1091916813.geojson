@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.299932,
-    "geom:area_square_m":2907199401.313197,
+    "geom:area_square_m":2907199917.30552,
     "geom:bbox":"69.592574,38.055003,70.4533,38.699032",
     "geom:latitude":38.38236,
     "geom:longitude":69.956563,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.KL.HV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892863,
-    "wof:geomhash":"8098f723cc5ebd7b62e8d163953741c0",
+    "wof:geomhash":"7e5cf3ede2fb1c135c3d961ff832cb1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1091916813,
-    "wof:lastmodified":1627522820,
+    "wof:lastmodified":1695886523,
     "wof:name":"Khovaling",
     "wof:parent_id":85678905,
     "wof:placetype":"county",

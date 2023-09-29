@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.192556,
-    "geom:area_square_m":1831202784.198061,
+    "geom:area_square_m":1831202597.418163,
     "geom:bbox":"68.911599,39.425448,69.359833,40.120262",
     "geom:latitude":39.72708,
     "geom:longitude":69.137361,
@@ -96,9 +96,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.LE.GA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892856,
-    "wof:geomhash":"4733c87dde07bdf0c78a8bbc89dafbf6",
+    "wof:geomhash":"c1de2df1388cc0a3378efeaa51f82d68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1091916615,
-    "wof:lastmodified":1627522820,
+    "wof:lastmodified":1695886522,
     "wof:name":"Ghonchi",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

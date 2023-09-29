@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.402536,
-    "geom:area_square_m":3879468369.46218,
+    "geom:area_square_m":3879468369.46271,
     "geom:bbox":"68.8122742246,38.3260416343,69.8952821806,39.1440208773",
     "geom:latitude":38.792942,
     "geom:longitude":69.30433,
@@ -144,9 +144,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.RR.KR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892876,
-    "wof:geomhash":"ef00937d836fa65a9da7d13cc791c5c8",
+    "wof:geomhash":"fe676b4e4e3c5fcfd15075b4742dbf9e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":1091917077,
-    "wof:lastmodified":1566666465,
+    "wof:lastmodified":1695886575,
     "wof:name":"Vahdat",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079445,
-    "geom:area_square_m":766227136.516857,
+    "geom:area_square_m":766226914.546305,
     "geom:bbox":"68.178878,38.512691,68.580258,38.922101",
     "geom:latitude":38.739754,
     "geom:longitude":68.409218,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.RR.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892907,
-    "wof:geomhash":"4fab1234b5a2b8d00217811dc62012c3",
+    "wof:geomhash":"c6f7f75df4302d25476eb014542459e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1091917789,
-    "wof:lastmodified":1627522822,
+    "wof:lastmodified":1695886527,
     "wof:name":"Shahrinav",
     "wof:parent_id":85678907,
     "wof:placetype":"county",

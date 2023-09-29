@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.549155,
-    "geom:area_square_m":5261367421.176814,
+    "geom:area_square_m":5261367259.172508,
     "geom:bbox":"67.997965,38.878695,69.659946,39.560859",
     "geom:latitude":39.210673,
     "geom:longitude":68.658284,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"TJ.LE.AJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TJ",
     "wof:created":1473892845,
-    "wof:geomhash":"d8987f2c12d53c3dc95879c5f07e9415",
+    "wof:geomhash":"9da6368670199681aab0b9b87c664ea3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091916317,
-    "wof:lastmodified":1627522819,
+    "wof:lastmodified":1695886521,
     "wof:name":"Aini",
     "wof:parent_id":85678913,
     "wof:placetype":"county",

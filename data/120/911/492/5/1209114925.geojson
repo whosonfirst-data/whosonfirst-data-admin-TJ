@@ -11,6 +11,7 @@
     "geom:longitude":69.60547,
     "gn:admin1_code":"02",
     "gn:asciiname":"Komsomolobod",
+    "gn:cc2":"TJ",
     "gn:country_code":"TJ",
     "gn:dem":472,
     "gn:feature_class":"P",
@@ -54,6 +55,11 @@
     "wof:concordances":{
         "gn:id":1475579
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1475970
+        ]
+    },
     "wof:country":"TJ",
     "wof:geomhash":"ca741aaa1f3d15a228e4599d609aa880",
     "wof:hierarchy":[
@@ -63,13 +69,15 @@
         }
     ],
     "wof:id":1209114925,
-    "wof:lastmodified":1566666395,
+    "wof:lastmodified":1706240688,
     "wof:name":"Komsomolobod",
     "wof:parent_id":85632513,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tj",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242979681
+    ],
     "wof:tags":[]
 },
   "bbox": [

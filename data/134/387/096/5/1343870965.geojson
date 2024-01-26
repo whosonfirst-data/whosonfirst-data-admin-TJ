@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:tgk_x_preferred":[
+        "Parvar"
+    ],
     "name:und_x_variant":[
         "\u041f\u0430\u0440\u0432\u0430\u0440"
     ],
@@ -43,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1220822
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1475716
+        ]
+    },
     "wof:country":"TJ",
     "wof:geomhash":"57b6e2346b9abe2673de2c781c9e4d69",
     "wof:hierarchy":[
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1343870965,
-    "wof:lastmodified":1566666291,
+    "wof:lastmodified":1706240688,
     "wof:name":"Parvar",
     "wof:parent_id":1091917913,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tj",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360288767
+    ],
     "wof:tags":[]
 },
   "bbox": [

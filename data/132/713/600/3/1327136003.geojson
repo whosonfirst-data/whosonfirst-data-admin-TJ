@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"70.73149,40.15555,70.73149,40.15555",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chilgaz\u00ed"
@@ -60,7 +62,7 @@
         "wk:page":"Chilgazi"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"fa925eb9cff2ea8cde352d14d411768f",
+    "wof:geomhash":"a25c56b5c0f3d051ac99ebfcdc4a0822",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +73,22 @@
         }
     ],
     "wof:id":1327136003,
-    "wof:lastmodified":1566666233,
+    "wof:lastmodified":1706240688,
     "wof:name":"Chilgazi",
     "wof:parent_id":1091916841,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tj",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1327031907
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    70.73149000000002,
+    70.73149,
     40.15555,
-    70.73149000000002,
+    70.73149,
     40.15555
 ],
-  "geometry": {"coordinates":[70.73149000000002,40.15555],"type":"Point"}
+  "geometry": {"coordinates":[70.73148999999999,40.15555],"type":"Point"}
 }
